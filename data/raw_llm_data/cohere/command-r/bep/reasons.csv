@@ -1,0 +1,8 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c87fe2f4-7cca-4e99-93ed-a63bd94a74c1,2025-03-24 22:15:32.450387+00:00,cohere,command-r,0,4685.0,306.0,"Sustainable regulation, incentives for locals, and adaptation planning are prioritised. Radical regulation and policy inaction are least favoured."
+7908fa45-167e-4006-a1b5-b45f2c74f62b,2025-03-24 22:15:41.592716+00:00,cohere,command-r,0,4685.0,298.0,"Sustainable food incentives ranked highly, while deregulation and status quo were low."
+58113898-4fb9-4461-b672-c13a6c8db59a,2025-03-24 22:15:50.329595+00:00,cohere,command-r,0,4685.0,298.0,Sustainable regulations and local incentives ranked highest; radical regulation and status quo worst.
+4c310bfd-debf-4367-b982-2b7d2a3bac65,2025-03-24 22:15:55.136792+00:00,cohere,command-r,0,4685.0,302.0,"Moderate regulation and incentives for sustainable local food production are most effective, with radical policies least so."
+a4a31a40-87de-4df3-b8f0-3c6d455c5bca,2025-03-24 22:15:59.976325+00:00,cohere,command-r,0,4685.0,303.0,Moderate regulation and adaptation policies are most effective; radical regulation and laissez-faire approaches least so.
+50d3e7f3-3980-4879-ba8e-bd9a9e7ea4b1,2025-03-24 22:16:04.936406+00:00,cohere,command-r,0,4685.0,300.0,"Sustainable food production and local incentives are prioritised, followed by adaptive planning and regulation."
+bd1980f8-f714-4ed3-bb90-bc8bcc1ec93e,2025-03-24 22:16:14.074989+00:00,cohere,command-r,0,4685.0,298.0,Sustainable local food incentives ranked highest; radical regulation lowest; balanced approach overall.

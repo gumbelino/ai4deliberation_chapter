@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+74c1fe72-321f-489a-a7b8-275947317817,2025-04-08 10:30:36.429937+00:00,xai,grok-2-1212,0,4550,298,Prioritized environmental protection and minimal impact on Daintree rainforest.
+29f38c47-a68d-46d9-984b-5cdf68ebbfc9,2025-04-08 10:30:43.580321+00:00,xai,grok-2-1212,0,4540,293,Prioritized environmental protection and long-term sustainability over development and convenience.
+c1b5b3e5-7f5b-456b-b97b-57155b370963,2025-04-08 10:30:51.030714+00:00,xai,grok-2-1212,0,4548,302,"Prioritized environmental protection and minimal impact on Daintree, hence ranked road closure highest."
+8b7e5753-3bc2-4ae9-8815-8ae44bda8aa7,2025-04-08 10:30:57.524700+00:00,xai,grok-2-1212,0,4530,290,Prioritized environmental protection and long-term sustainability over short-term convenience and development.
+092d2b7f-7bdb-44d4-b58b-05634a1796e8,2025-04-08 10:31:05.703116+00:00,xai,grok-2-1212,0,4530,287,Prioritized environmental protection and long-term sustainability over road upgrades.
+46d4a916-c5e6-4e58-b9c1-8e754f2edde1,2025-04-08 10:31:16.350830+00:00,xai,grok-2-1212,0,4544,297,Prioritized environmental protection and long-term sustainability over development and short-term gains.
+e722bca7-1382-44ff-983b-b9f10bd62145,2025-04-08 10:31:23.723129+00:00,xai,grok-2-1212,0,4528,287,Prioritized environmental protection and minimal impact on Daintree rainforest.
+c167c000-8c73-48a2-a7af-fe4e817df324,2025-04-08 10:31:30.952671+00:00,xai,grok-2-1212,0,4538,290,Prioritizing environmental protection and sustainability over road development.
+2838dc10-c378-40dd-a715-8bcf0bb089a2,2025-04-08 10:31:37.632788+00:00,xai,grok-2-1212,0,4544,295,Prioritizing environmental protection and long-term sustainability over road upgrades.
+d9c06eef-6970-4b32-8cea-9e3ae71234d3,2025-04-08 10:31:45.018197+00:00,xai,grok-2-1212,0,4540,295,Prioritized environmental protection and long-term sustainability over development and short-term gains.
+068acf57-253a-418e-b5cf-956a5f7a4e40,2025-04-08 10:31:52.232426+00:00,xai,grok-2-1212,0,4544,297,Closure best protects environment; bitumen worst due to increased development and damage.
+ee4c86f9-835c-41ed-b5eb-b36c78a483b8,2025-04-08 10:31:59.144706+00:00,xai,grok-2-1212,0,4538,294,Prioritized environmental protection and long-term sustainability over development and short-term gains.
+f57d97c6-c259-4908-8bd0-1dcc75eeacdb,2025-04-08 10:32:05.891528+00:00,xai,grok-2-1212,0,4542,294,Prioritized environmental protection and long-term sustainability over development and convenience.
+acf406fe-4ac6-421a-ae2a-44a3d4c59ee4,2025-04-08 10:32:13.605119+00:00,xai,grok-2-1212,0,4532,290,Prioritizing environmental protection and minimizing development impact on Daintree.
+e54787fd-bfa0-4307-87ba-edfd0a812a9f,2025-04-08 10:32:20.390623+00:00,xai,grok-2-1212,0,4532,294,"Prioritized environmental protection and minimal impact on Daintree, hence supported closing the road."
+53ac1175-c8ee-4ee4-8e4c-3690ef103ee5,2025-04-08 10:32:27.894794+00:00,xai,grok-2-1212,0,4532,287,Stabilizing trouble spots balances environmental concerns with access needs.
+aa4314ac-2e49-43d2-a57a-5e46adfc810d,2025-04-08 10:32:34.525288+00:00,xai,grok-2-1212,0,4528,289,Prioritized environmental protection and long-term sustainability over development and short-term gains.
+9c582d55-429e-4fb8-bc88-0b3e8471d9d3,2025-04-08 10:32:41.336777+00:00,xai,grok-2-1212,0,4534,292,Prioritized environmental protection and long-term sustainability over development and short-term gains.
+1737287e-71d0-4463-9335-7e7138cb5d9f,2025-04-08 10:32:48.501870+00:00,xai,grok-2-1212,0,4550,299,Prioritizing environmental protection and minimizing development impact on Daintree.
+7dcde90e-2749-479b-8a96-432c47071067,2025-04-08 10:32:55.316286+00:00,xai,grok-2-1212,0,4546,299,Prioritizing environmental protection and minimizing impact on the Daintree Rainforest.
+c973ef65-8f67-43a5-995e-523f3340a0f4,2025-04-08 10:33:02.503908+00:00,xai,grok-2-1212,0,4536,293,Prioritizing environmental protection and minimizing development impact on the Daintree.
+011e8fce-62f6-4872-9b80-60eaf4000840,2025-04-08 10:33:08.975382+00:00,xai,grok-2-1212,0,4536,290,Prioritized environmental protection and long-term sustainability over road development.
+3d1cabbb-6c19-426c-bd61-b662e81dd39a,2025-04-08 10:33:14.958938+00:00,xai,grok-2-1212,0,4532,291,Prioritized environmental protection and long-term sustainability over development and short-term gains.
+059fbb5a-88a3-4ecc-ac71-e3303d6eff17,2025-04-08 10:33:21.490271+00:00,xai,grok-2-1212,0,4534,289,Prioritized environmental protection and long-term sustainability over road upgrades.
+d0d32310-7a07-486c-9a30-4f0d050cd655,2025-04-08 10:33:27.984616+00:00,xai,grok-2-1212,0,4532,288,Prioritized environmental protection and minimal impact on Daintree.
+0569e2fa-9458-43f3-8779-b1729953d72b,2025-04-08 10:33:35.068574+00:00,xai,grok-2-1212,0,4550,299,"Ranked based on environmental impact, with closure being most beneficial for conservation."
+ef61418d-114a-4985-97cf-0a39fccf167d,2025-04-08 10:33:42.340738+00:00,xai,grok-2-1212,0,4528,291,"Prioritized environmental protection and minimal impact on Daintree, hence ranked closure highest."
+76324354-9b16-464d-b576-e6e596ae70dc,2025-04-08 10:33:49.336887+00:00,xai,grok-2-1212,0,4548,298,Prioritizing environmental protection and minimizing development impact on Daintree.
+860bb4ba-5181-4126-b5c3-67f2a38a4e40,2025-04-08 10:33:56.465798+00:00,xai,grok-2-1212,0,4552,304,"Prioritized environmental protection and minimal impact on Daintree, hence closing road ranked highest."
+3b267380-b17e-4084-aa72-d78d3b2cbc00,2025-04-08 10:34:04.203721+00:00,xai,grok-2-1212,0,4536,291,Prioritized environmental protection and minimal impact on Daintree ecosystem.

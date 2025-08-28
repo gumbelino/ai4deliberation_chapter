@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d10e2001-c5a0-4954-a668-2f1a92379fdc,2025-05-22 16:52:00.566266+00:00,xai,grok-3-mini-fast-beta,0,3264,207,"Prioritize adaptation, emergency responses, and resilience over emissions cuts and economic growth."
+48ca273a-0812-4f44-9a43-7dfe4adb2b8d,2025-05-22 16:52:24.474460+00:00,xai,grok-3-mini-fast-beta,0,3264,206,Prioritize dramatic emission cuts and adaptation for urgent climate action over status quo.
+e549bbec-9b06-448e-846d-893b8747ebcb,2025-05-22 16:52:42.880666+00:00,xai,grok-3-mini-fast-beta,0,3264,207,Prioritized adaptation and resilience policies based on strong support for community and emergency measures.
+83b1bb6a-f4f8-44b8-978b-edd571189ea0,2025-05-22 16:53:06.648396+00:00,xai,grok-3-mini-fast-beta,0,3264,205,"Prioritized adaptation, resilience, and moderate cuts over growth or inaction."
+8ba61605-5838-49b8-bcb9-22429d943d61,2025-05-22 16:53:27.540232+00:00,xai,grok-3-mini-fast-beta,0,3264,210,"I support emission cuts most due to climate urgency, then adaptation, and least policies ignoring it."

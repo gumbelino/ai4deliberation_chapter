@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+f5a4a5ba-a493-4985-b893-fac96e339a28,2025-05-20 12:55:40.330869+00:00,xai,grok-3-mini-fast-beta-r=low,0,10584,205,I prioritized adaptation and strong emission cuts over inaction and growth-focused policies.
+438316f7-8fc1-45b0-b383-664a068a01c5,2025-05-20 12:56:03.709046+00:00,xai,grok-3-mini-fast-beta-r=low,0,11138,202,I prioritized policies with strong emission cuts and adaptations highest.
+8effd845-19c9-4788-b7ad-f5cbe1429645,2025-05-20 12:56:27.079652+00:00,xai,grok-3-mini-fast-beta-r=low,0,9450,203,I prioritized adaptation and community actions over emission cuts and inaction.
+12e7189a-1a13-4b85-be49-7235765491a9,2025-05-20 12:56:46.229422+00:00,xai,grok-3-mini-fast-beta-r=low,0,8957,202,Prioritized emission cuts and adaptation for urgent climate action.
+413caefe-b17e-4c02-9d08-3b4b171a28b5,2025-05-20 12:57:04.029386+00:00,xai,grok-3-mini-fast-beta-r=low,0,10193,204,Prioritized dramatic emission cuts and adaptation over economic growth and inaction.

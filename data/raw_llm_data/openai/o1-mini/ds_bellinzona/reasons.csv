@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c0fd8b12-38ff-4454-b0a8-5029b0379b0f,2025-04-01 12:58:28.108315+00:00,openai,o1-mini,0,3807,3834,"I prioritize community-based adaptation and resilience, support moderate CO₂ reductions, and oppose inaction."
+33f16e37-6f52-411d-813e-344b9601b0e1,2025-04-01 12:58:56.882791+00:00,openai,o1-mini,0,3807,3839,"I prioritize adaptation and emergency measures, support moderate CO₂ reductions and resilience, least favor economic growth focus or status quo"
+a46eff31-b236-4baa-9b92-b56afbcb36d7,2025-04-03 14:22:30.455348+00:00,openai,o1-mini,0,3807,4288,"Preferred adaptation and resilience policies, moderate emissions cuts, community support; least favored leaving policies unchanged or prioritizing economic growth."
+b67124f3-96f4-4c90-93c4-b0ce4878911e,2025-04-03 14:22:59.129015+00:00,openai,o1-mini,0,3807,3649,"Strong support for adaptation and resilience, then individual actions, moderate cuts, radical reductions, leaving policies, and least for economic growth."
+7b59e2e3-0157-4158-9c9a-9efe321495be,2025-04-03 14:23:24.257547+00:00,openai,o1-mini,0,3807,3514,"Prioritized adaptation and resilience, followed by moderate emission cuts, less for radical or status quo."

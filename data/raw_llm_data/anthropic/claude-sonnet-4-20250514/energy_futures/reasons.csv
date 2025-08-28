@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+2cf222a2-9411-4c4c-a3ff-39a36fe37bde,2025-05-29 15:40:47.943841+00:00,anthropic,claude-sonnet-4-20250514,0,4974,295,Prioritized clean renewables over fossil fuels based on climate concerns and sustainability
+de1549f9-d841-4d0e-ae87-f1e7e6a89b5e,2025-05-29 15:41:00.560061+00:00,anthropic,claude-sonnet-4-20250514,0,4974,295,I prioritized renewable energy sources over fossil fuels based on environmental impact and sustainability
+8c535787-8400-4e50-8310-99dbef9568cc,2025-05-29 15:41:12.430262+00:00,anthropic,claude-sonnet-4-20250514,0,4974,297,Prioritized renewables for sustainability then gas as bridge fuel over risky coal and nuclear
+e4439bc9-45b0-4b1d-aec4-99a0a43c17e9,2025-05-30 11:35:53.993457+00:00,anthropic,claude-sonnet-4-20250514,0,4974,297,"Prioritized renewables for sustainability, nuclear as backup, avoided high-emission coal options"
+a02c0a08-4eab-4418-9fa2-ffd018caa69a,2025-05-30 11:36:07.945753+00:00,anthropic,claude-sonnet-4-20250514,0,4974,298,Prioritized clean renewables and hydro over fossil fuels due to climate concerns and sustainability

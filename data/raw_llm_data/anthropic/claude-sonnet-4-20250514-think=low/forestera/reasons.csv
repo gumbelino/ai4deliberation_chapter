@@ -1,0 +1,5 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+95cfe6be-112b-446d-91ac-4803e443742b,2025-05-29 14:25:27.870430+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6731,1765,Prioritized balanced ecological and social approaches over purely economic or hands-off policies
+e83a5d37-eda8-48d7-a79d-c6adf9159e9b,2025-05-29 14:26:53.778556+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,7371,2545,I prioritized balanced ecological restoration with natural fire over purely economic or hands-off approaches
+ffb0cbcb-2e51-4346-b9ec-412125b5ae0c,2025-05-29 14:27:57.050311+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6931,1787,Prefer balanced ecological-social management with fire over economic-only or no management
+d361a14b-650a-41e9-bf2a-602cc339ce90,2025-05-29 14:28:40.637346+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,7227,1930,Prioritized balanced ecological and social approaches over pure economic or hands-off management

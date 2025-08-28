@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Leave the policy settings as they are.,P2. Policies that emphasise economic growth over climate change adaptation or mitigation.,P3. Policies that involve a moderate cut in CO2 emissions (at least 25% in over the next 10 years).,P4. Policies that involve a dramatic cut back in CO2 emissions (at least 50% in the next 10 years).,P5. Adaptation policies and expenditure. Planning controls and emergency response programs.,"P6. Adaptation policies that target individual, small business or community-based actions (e.g., support the installation of alternative energy generators, insulation, water use efficiency)",P7. Preparing for climate risk through the development of new approaches and technologies that enhance resilience to the impacts of climate variability or change.
+1e060153-e39f-49d9-bfb7-a875914b1e27,2025-03-21 07:33:12.340695+00:00,google,gemma2,0,0,0,2,5,4,7,1,3,6
+fefbf333-8a35-47fd-a474-48168cdcf8d5,2025-03-21 07:33:31.566113+00:00,google,gemma2,0,0,0,7,5,4,6,3,1,2
+c5b17ef0-0c57-4aa3-91f2-1b3393e9aa22,2025-03-21 07:33:50.310896+00:00,google,gemma2,0,0,0,7,1,4,3,5,2,6
+f444f1b9-c6fe-4b78-b92a-b7d2e308d8c6,2025-03-21 07:34:08.917219+00:00,google,gemma2,0,0,0,6,2,4,7,3,5,1
+aa3aaaa7-738b-4edf-836d-468b6cecb160,2025-03-21 07:34:27.452776+00:00,google,gemma2,0,0,0,2,1,6,7,5,3,4
+35d415f2-87b4-4d17-b9d4-91f357117318,2025-03-21 07:34:45.982610+00:00,google,gemma2,0,0,0,3,7,4,2,1,6,5
+11cee3f6-d032-4115-8322-0222358731ec,2025-03-21 07:35:04.596009+00:00,google,gemma2,0,0,0,4,7,3,2,1,6,5
+56fcce22-9fc7-4795-8a1e-5e0060cfafe4,2025-03-21 07:35:40.190019+00:00,google,gemma2,0,0,0,5,7,4,3,1,6,2
+de5a278d-cb38-4d0e-9521-521268a4d69b,2025-03-21 07:35:58.930059+00:00,google,gemma2,0,0,0,7,1,5,6,4,2,3

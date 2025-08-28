@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,"P1. The kind of government that we have, with no major changes","P2. Government with guaranteed involvement by all social groups, especially those representing disadvantaged minorities, in policy making","P3. A government with constitutional rules specifying its main task is to ensure that economic markets work well, and that government intervenes as little in society beyond that",P4. Government with strong leaders and legislation that ensures that proper moral principles are observed in society.,"P5. Government that abolishes all policies that give special benefits to minority groups, and instead ensures equal influence for all Australians"
+ee5d1d93-b944-4d47-963d-2b56393511a9,2025-04-28 11:41:12.898370+00:00,xai,grok-3-mini-beta-r=high,0,14212,286,2,1,3,4,5
+43c35ad3-6f3a-4b9d-9b08-3bee5db3202c,2025-04-28 11:41:38.840274+00:00,xai,grok-3-mini-beta-r=high,0,14823,284,2,1,3,4,5
+6cfe03a4-9c5e-4656-8e10-e8b3a30a7415,2025-04-28 11:42:08.777106+00:00,xai,grok-3-mini-beta-r=high,0,14944,284,2,1,4,5,3
+9b270ee1-7af4-48ad-b34a-1d4ae25f1f10,2025-04-28 11:42:44.188136+00:00,xai,grok-3-mini-beta-r=high,0,15565,284,2,1,4,5,3
+9c015bd9-1b40-4ae0-80a5-68ea52fde5f4,2025-04-28 11:43:16.951609+00:00,xai,grok-3-mini-beta-r=high,0,14658,282,3,1,2,5,4

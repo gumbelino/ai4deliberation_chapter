@@ -1,0 +1,39 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+ba8e499c-4ad4-487f-b524-b69ec5fc8c1d,2025-03-20 10:10:07.326827+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+8a96c45f-534b-4164-8182-42ebc3830af3,2025-03-20 10:10:14.641089+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+8b06040c-ef91-4f02-af2f-242914eba6dd,2025-03-20 10:10:22.386695+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+a42c2738-fd15-4400-b7a9-a334109a24fa,2025-03-20 10:10:29.779738+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+19c3d168-36cb-4ab7-980f-421a622b10ea,2025-03-20 10:10:37.093230+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+51d3ade4-a3a6-4657-843c-fa8440535436,2025-03-20 10:10:44.683070+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+18e78adb-431b-4452-a518-fabd85a893ff,2025-03-20 10:10:51.918267+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+f3c7dc09-e835-4af3-979b-817218953074,2025-03-20 10:10:59.632901+00:00,google,gemini-1.5-pro,0,3713,293,"Prioritize addressing root causes and enforcing existing laws, not enabling begging."
+e59d195b-2d8e-4556-954b-97a0af507c4a,2025-03-20 10:11:07.312526+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+f13c3c2d-4d67-4175-842e-b1eb609b72e6,2025-03-20 10:11:14.481253+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes and discourage begging while enforcing existing laws.
+d6d3f32d-375d-488e-91d5-c670a365aee1,2025-03-25 13:18:12.285475+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+b9f737b2-8f35-4e51-87e7-80229b8f6e7c,2025-03-25 13:18:18.446749+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+0e957dd9-0ace-4c12-a3c1-6f01b2f1a22e,2025-03-25 13:18:24.876572+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+0cca7968-1019-4f1a-ab75-4bb0b156adef,2025-03-25 13:18:31.126882+00:00,google,gemini-1.5-pro,0,3713,293,Prioritize addressing root causes in source countries and discourage begging enabling dependency.
+9e30a49e-b333-479c-a818-d98322a590eb,2025-03-25 13:18:37.216973+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+2297f60c-432b-4426-8299-0a5af00a710e,2025-03-25 13:18:43.311661+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+20709133-2d1c-4797-b66c-418a4b9b5002,2025-03-25 13:18:49.274690+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+eb3bd415-2750-44a7-9f46-2681b8efb0db,2025-03-25 13:18:55.788905+00:00,google,gemini-1.5-pro,0,3713,293,Prioritize addressing root causes and enforcing existing laws over enabling street begging.
+c5224749-99d0-418b-b0e3-a71fa7a332ae,2025-03-25 13:19:01.944301+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+eda57ae5-79ca-40df-8764-bd9d6f64e35f,2025-03-25 13:19:08.083497+00:00,google,gemini-1.5-pro,0,3713,293,Prioritize addressing root causes and enforcing existing laws over enabling street begging.
+33d698b5-2f40-4260-8fb0-0b94dbd8f34c,2025-03-27 09:42:12.000692+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+d23b694c-c797-4412-bdeb-b2c807b794a0,2025-03-27 09:42:18.075333+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+aab3e2ce-dc74-4100-85f7-aacef0fcd47e,2025-03-27 09:42:24.088844+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+a3d9b07f-e5a1-45d0-9476-08f0a4b3dd4e,2025-03-27 09:42:31.439444+00:00,google,gemini-1.5-pro,0,3713,293,Prioritize addressing root causes in source countries and discourage begging enabling dependency.
+eb91f91d-ea9b-498a-8bfd-11835ff34765,2025-03-27 09:42:38.557108+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+a73c44ca-40d6-4b67-962f-e2096fa1c6e6,2025-03-27 09:42:45.821989+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+4363b15d-19c2-44bd-9fbc-6e3a7d868956,2025-03-27 09:42:53.209305+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+0df15086-66e8-4b0c-9058-88928fb9d1a5,2025-03-27 09:42:59.319672+00:00,google,gemini-1.5-pro,0,3713,293,Prioritize addressing root causes and enforcing existing laws over enabling street begging.
+09d464f5-41bb-4bf0-9952-0a83dd856ae8,2025-03-27 09:43:05.392537+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+65df8108-f6b8-474d-a16a-32f917651c48,2025-03-27 09:43:11.334745+00:00,google,gemini-1.5-pro,0,3713,293,Prioritize addressing root causes and enforcing existing laws over enabling street begging.
+903cc46f-b08a-49a2-a9d6-7762bd69e468,2025-03-27 09:43:17.269282+00:00,google,gemini-1.5-pro,0,3713,290,Prioritize addressing root causes and supporting those most vulnerable.
+67e7ac64-dbaf-41ca-ab83-24a039e355e2,2025-03-27 09:43:23.458374+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+04bd035b-9556-4a42-acf8-340c1b3c4bc5,2025-03-27 10:07:09.339183+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+267f15aa-c3ca-4be5-89fd-62d1eaebb341,2025-03-27 10:07:15.351445+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+ca1d3f01-fbbd-4f58-9db6-b623a837a61b,2025-03-27 10:07:21.530276+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.
+7b247bcd-6378-448c-a0cf-092cbe4aad20,2025-03-27 10:07:27.741145+00:00,google,gemini-1.5-pro,0,3713,293,Prioritize addressing root causes in source countries and discourage begging enabling dependency.
+ad4830ce-74e6-44b7-ab0f-91c3425d75be,2025-03-28 10:13:49.339714+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and discourage enabling behaviors.
+45ce107e-dd11-4ba9-9639-c3ceeda6b2b2,2025-03-28 10:13:55.474502+00:00,google,gemini-1.5-pro,0,3713,292,Prioritize addressing root causes in source countries and enforcing existing laws.

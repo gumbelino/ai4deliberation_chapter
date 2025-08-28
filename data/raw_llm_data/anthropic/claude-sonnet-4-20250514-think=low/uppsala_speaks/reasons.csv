@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+00355ecb-b01d-4436-9b88-ebe9ef755a44,2025-05-29 14:09:19.065710+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5900,2381,Favored addressing root causes abroad and providing aid over punitive bans that ignore poverty
+4c4489f6-7479-4d96-b44d-bf8296ff5e30,2025-05-29 14:10:09.152614+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5783,2117,I prioritized addressing root causes and providing humanitarian support over punitive measures like deportation
+9962252e-e0fe-4d8b-b53e-7ac2c63da937,2025-05-29 14:10:53.144828+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5912,1921,Prioritized addressing root causes over punitive measures with deportation being least supported
+1a9b38ae-dc87-43be-b575-3ea973894aa4,2025-05-29 14:11:39.633086+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6269,2467,Prioritized helping victims and addressing root causes over punitive measures like deportation
+3bdd987f-80d7-48bd-a773-45c7303735ad,2025-05-29 14:12:31.777968+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5465,1806,Prioritize addressing root causes in source countries while enforcing laws fairly and avoiding punitive bans

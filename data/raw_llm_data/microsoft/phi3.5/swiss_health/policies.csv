@@ -1,0 +1,20 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,"P1. A universal, public, and unified healthcare system, where people pay according to their income, would ensure healthcare access for everyone.",P2. Encouraging more personal responsibility by abolishing mandatory health insurance and increasing out-of-pocket payments.,"P3. No changes are needed to the current healthcare system, as it functions well as it is.","P4. More government control over pricing and greater financial support (e.g., individual premium subsidies) would help those in need.",P5. Fixing financial inefficiencies in the healthcare system could save a lot of money without major changes to the system.,P6. Less government regulation and more private competition would make healthcare more efficient and cost-effective.
+488ca7b1-722e-4c1f-b5a9-78a2f831f290,2025-03-26 03:14:22.956604+00:00,microsoft,phi3.5,0,0,0,3,1,2,4,6,5
+4461f4ae-e891-474f-9ee6-58d8440701a5,2025-03-26 03:15:27.211208+00:00,microsoft,phi3.5,0,0,0,4,6,2,5,1,3
+841a3383-1150-41e2-a849-59a81c397ee9,2025-03-26 03:15:37.465586+00:00,microsoft,phi3.5,0,0,0,1,4,5,2,3,6
+720fb919-34d8-4829-b9d5-2649464ce6b0,2025-03-26 03:16:04.342678+00:00,microsoft,phi3.5,0,0,0,6,1,2,3,4,5
+4ca5aed0-70ee-4a7b-b7bb-6ffcdfb0f930,2025-03-26 03:17:01.337021+00:00,microsoft,phi3.5,0,0,0,3,6,2,1,5,4
+f9646146-af97-45d5-9bb1-deb1f1813dab,2025-03-26 03:17:21.125638+00:00,microsoft,phi3.5,0,0,0,1,3,4,2,6,5
+bb9daf00-3e33-4939-9ccb-ffc04755ca53,2025-03-26 03:17:32.309275+00:00,microsoft,phi3.5,0,0,0,2,6,1,3,5,4
+496a2c18-9c04-43a1-b660-8d7a586299a4,2025-03-26 03:20:03.086364+00:00,microsoft,phi3.5,0,0,0,5,2,6,4,3,1
+f28b928f-58b9-41c2-9f7d-b1f4f160be01,2025-03-26 03:20:13.101918+00:00,microsoft,phi3.5,0,0,0,4,1,3,2,5,6
+14a8fbd3-1597-45a5-9fa2-66c0728e90b8,2025-03-26 03:20:22.413852+00:00,microsoft,phi3.5,0,0,0,4,6,2,3,5,1
+b7352747-ffe3-4081-8e91-e3b29938aa72,2025-04-04 15:59:04.080500+00:00,microsoft,phi3.5,0,0,0,5,3,1,2,6,4
+5cd8e594-6299-457b-926f-d8a7a931101a,2025-04-04 15:59:13.978478+00:00,microsoft,phi3.5,0,0,0,6,5,3,4,1,2
+c29b616f-6622-469b-9985-84f2d0cf178f,2025-04-04 16:06:25.978108+00:00,microsoft,phi3.5,0,0,0,5,6,3,4,1,2
+b7f7b3de-9b86-4bd0-bb1b-ed83970fb12e,2025-04-04 16:06:51.437203+00:00,microsoft,phi3.5,0,0,0,6,2,4,5,1,3
+72ea6995-de59-49d3-b3c4-24c2f4bc3648,2025-04-04 16:07:03.474223+00:00,microsoft,phi3.5,0,0,0,4,5,1,6,3,2
+9b4cf620-0130-4a53-9850-e0a7a2d27212,2025-04-04 16:07:12.536044+00:00,microsoft,phi3.5,0,0,0,2,1,3,6,4,5
+d2861389-56fd-4048-8507-78814932c89a,2025-04-04 16:07:37.454466+00:00,microsoft,phi3.5,0,0,0,4,3,5,1,2,6
+379579db-5533-4cfb-a828-9e044a6c01cf,2025-04-04 16:08:02.982902+00:00,microsoft,phi3.5,0,0,0,2,6,3,5,4,1
+81e82986-cec8-4bc3-b485-aa35c8c92e91,2025-04-04 16:08:27.510072+00:00,microsoft,phi3.5,0,0,0,2,6,3,1,5,4

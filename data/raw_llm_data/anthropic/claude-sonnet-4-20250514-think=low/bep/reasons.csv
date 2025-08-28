@@ -1,0 +1,5 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+5ddcad91-7c8c-4eaf-940d-f7d4186b46b0,2025-05-29 15:01:22.838187+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5602,1208,I favor local sustainable incentives and moderate regulations over radical changes or inaction
+08fee028-f5b0-4b33-812c-5e63f2968ecf,2025-05-29 15:02:54.226687+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5961,1431,I prioritize local sustainable incentives and moderate regulation while opposing deregulation
+8e88e143-0d0a-48fc-91e5-8f3d253aacb5,2025-05-29 15:03:29.608302+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6881,2682,Prefer local sustainable incentives and moderate regulations over radical changes or status quo
+33e6b882-fa85-41ad-86ae-cd7d1a3bd7de,2025-06-02 04:10:03.297305+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,8059,2302,I favor balanced sustainable policies with incentives over radical changes or deregulation

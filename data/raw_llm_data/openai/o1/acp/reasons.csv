@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c6be66fa-8961-4f2c-9337-78bc080da4bb,2025-04-02 08:42:19.700161+00:00,openai,o1,0,4853,3639,Prioritized inclusive governance and moral leadership over minimal government interference.
+0450974c-6cc8-46b0-848e-c94223a2829a,2025-04-02 08:43:13.043784+00:00,openai,o1,0,4854,2498,"Favors broad inclusion, moral leadership, equal influence, minimal government, least status quo"
+ca3825f5-cd2c-4202-bb93-92aeea36a4ef,2025-04-02 08:44:15.382033+00:00,openai,o1,0,4855,4664,Emphasizing fairness and limited interference ranks higher than moral impositions or status quo
+899326eb-c79e-4731-bda9-c287a6f74d26,2025-04-02 08:47:27.948198+00:00,openai,o1,0,4853,5751,"Focusing on inclusivity, moral leadership, balanced markets, and stability"
+b78ea7c0-f46c-44d4-afe8-baca43c252ba,2025-04-02 08:48:33.424243+00:00,openai,o1,0,4853,4089,"Focus on minimal intervention, moral leadership, and equality over current system or minority focus."

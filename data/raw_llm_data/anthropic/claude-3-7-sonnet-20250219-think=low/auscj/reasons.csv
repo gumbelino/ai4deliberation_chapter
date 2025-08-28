@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c2c19979-17e0-491b-8625-45e6359986d5,2025-05-22 14:16:14.874946+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,5872,1293,Support regulated medical editing; oppose unrestricted or commercial applications.
+8fa90e5e-50d6-428b-af62-1bfbaaf16dc1,2025-05-22 14:16:40.466760+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,6060,1506,"I support medical gene editing with strong oversight, prioritizing both safety and potential benefits."
+99fbf148-39ff-48b2-b427-0a950fc0a813,2025-05-22 14:17:08.329150+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,7811,2349,Support regulated medical applications while limiting heritable changes and profit motives
+1be54077-cdf7-4ec4-95cb-41f380918e0e,2025-05-22 14:17:51.114526+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,5262,975,I prioritize clinical uses with strong oversight while limiting enhancement applications.
+1037d02e-b783-4f65-b815-d38f74982463,2025-05-22 14:25:05.920435+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,6715,1811,Support regulated medical uses with equitable access; oppose unrestricted editing and total bans.

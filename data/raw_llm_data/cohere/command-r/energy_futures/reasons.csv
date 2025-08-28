@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+a63584ab-0465-4d4a-ac38-6259f9704d6c,2025-03-24 22:16:23.439750+00:00,cohere,command-r,0,5161.0,337.0,I support renewable energy sources and those that reduce CO2 emissions.
+8d4858aa-fc98-4ce8-8ae0-7e5c68bf4bc8,2025-03-24 22:16:28.822246+00:00,cohere,command-r,0,5155.0,361.0,"Lower ranks indicate support for each policy, so the order goes as follows: Coal, Biomass, Wind, Gas, Nuclear, Geothermal, Hydro, Solar, and Coal with CO2 burial."
+8e6709ae-d7aa-4a2a-8940-9972a8e20bb0,2025-03-24 22:16:34.460058+00:00,cohere,command-r,0,5151.0,331.0,Renewables and nuclear are most effective; coal least so.
+079be8fb-fa44-4a03-9b7d-be48d50289ec,2025-03-24 22:16:39.784622+00:00,cohere,command-r,0,5173.0,343.0,Renewables and conservation best; nuclear next; all others worse.
+8fdbada1-3b1f-472b-8d27-1731cfcb9f75,2025-03-24 22:16:45.098248+00:00,cohere,command-r,0,5141.0,329.0,Renewables and CO2 reduction favoured over fossil fuels and risky energy solutions.
+8098f5cc-6330-4c81-8573-84b917a040d9,2025-03-24 22:16:50.326053+00:00,cohere,command-r,0,5143.0,333.0,"My ratings reflect a preference for diverse, low-emissions energy sources and technology combinations."
+1709427f-fae6-4d6d-a9a7-1734df43a5fb,2025-03-24 22:16:55.757628+00:00,cohere,command-r,0,5163.0,344.0,"Lower ranks for fossil fuels and emphasis on renewable energy sources, with moderate support for nuclear power."
+e0160d80-0bf6-426f-8337-709de6a2b663,2025-03-24 22:17:01.287764+00:00,cohere,command-r,0,5165.0,338.0,I support renewable energy sources and CO2 emissions reduction strategies.
+e8c119fe-fa2b-436a-89cb-884f206c2290,2025-03-24 22:17:06.706248+00:00,cohere,command-r,0,5158.0,340.0,"My ratings reflect a balanced approach to energy policy, favouring low-emission tech and conservation."

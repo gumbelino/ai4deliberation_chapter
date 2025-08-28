@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+07ede110-d31c-4098-ba1f-1f1d72b9d9c9,2025-04-28 12:38:01.208071+00:00,xai,grok-3-mini-beta-r=high,0,14836,300,"Prioritized public funding, strong regulation, and privacy due to ethical concerns and trust in oversight."
+6a1c6a8e-20df-44e8-9bf0-73ade1b13510,2025-04-28 12:38:44.892944+00:00,xai,grok-3-mini-beta-r=high,0,14851,300,"Ranked policies favoring strong regulation, privacy, and public funding for ethical biobanking control."
+cc9feb2d-3c00-4a36-9423-75e97c9ad1fc,2025-04-28 12:39:34.397130+00:00,xai,grok-3-mini-beta-r=high,0,17743,296,"Based on prior ratings, prioritized strong privacy, regulation, and public funding."
+ecb3ccb7-b405-4872-b606-71564d9f5ab7,2025-04-28 12:40:23.583453+00:00,xai,grok-3-mini-beta-r=high,0,17441,301,"Prioritized policies with strong privacy, regulation, and public funding highest due to ethical and oversight concerns."
+d223ed9e-3adb-41e1-8ed1-33cd5333a124,2025-04-28 12:41:34.552801+00:00,xai,grok-3-mini-beta-r=high,0,14435,298,"Prioritized privacy, strong regulation, and public involvement over minimal oversight and private funding."

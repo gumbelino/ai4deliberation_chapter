@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c2cfe88b-8acf-42f6-b7af-39d90854a2a3,2025-05-20 12:59:11.703260+00:00,xai,grok-3-mini-fast-beta-r=low,0,9679,211,"Prioritized emission reductions most, then adaptations, least economic growth over climate."
+21a6a4a4-4fcc-4af6-9e06-7e5202976f46,2025-05-20 12:59:30.210606+00:00,xai,grok-3-mini-fast-beta-r=low,0,9367,214,"Prioritized radical emissions cuts and adaptations most, de-emphasizing inaction and economic growth."
+ae9db022-3b46-4a5e-8b41-5aa9889d3533,2025-05-20 12:59:49.318693+00:00,xai,grok-3-mini-fast-beta-r=low,0,9851,208,Prioritized aggressive reductions and adaptations over economic growth or inaction.
+079cf97a-072c-42fa-b39b-5776ef026f05,2025-05-20 13:00:10.296281+00:00,xai,grok-3-mini-fast-beta-r=low,0,10469,210,"Prioritized emission reductions most, adaptation next, and economic growth least."
+715044d3-77f3-45b5-bc50-480078941bc5,2025-05-20 13:00:35.284017+00:00,xai,grok-3-mini-fast-beta-r=low,0,9561,213,"Prioritized radical emission cuts for urgency, then innovation and adaptation, least for inaction."

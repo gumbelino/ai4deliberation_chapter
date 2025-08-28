@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+52745c77-88f5-445d-a253-bc3c1393a7f3,2025-04-02 08:42:17.224916+00:00,qwen,qwq-plus,0,4576,5311,"Prioritize environmental protection over road upgrades, favor minimal intervention."
+b1bf21e2-7a14-4048-9a5e-0a130ff0b0f2,2025-04-02 08:44:08.101537+00:00,qwen,qwq-plus,0,4585,3348,"Prioritize environmental protection over road upgrades, favoring closure and rehabilitation."
+022c22b6-90d5-424b-bb69-c0e5c4994482,2025-04-02 08:45:18.669935+00:00,qwen,qwq-plus,0,4583,4818,"Prioritize balanced access and environmental protection, favoring upgrades avoiding bitumen while addressing key issues."
+6e1292c0-1813-4173-a7a6-7ec9b3593b30,2025-04-02 08:46:58.915106+00:00,qwen,qwq-plus,0,4576,3257,Prioritize environmental protection over road development to preserve Daintree ecosystems.
+a10719ca-6e47-465b-a41c-52223099be4c,2025-04-02 08:48:07.635031+00:00,qwen,qwq-plus,0,4583,3745,Prioritize environmental protection over road upgrades and expansion.
+bc01fa5d-1bc9-475e-95a7-71d27a3f4fbd,2025-04-02 14:50:53.563664+00:00,qwen,qwq-plus,0,4575,5120,Prioritize environmental protection by closing the road over upgrades.
+0e6da176-6c9c-4590-9ed3-4fbbca67f762,2025-04-02 14:52:40.400509+00:00,qwen,qwq-plus,0,4579,4484,Balances access and environment: supports dirt road upgrades over full bitumen or closure.
+c9b944fb-d706-43a4-bb21-c51a786f96ba,2025-04-02 14:54:13.213921+00:00,qwen,qwq-plus,0,4579,4773,Prioritizes bitumen upgrade and environmental protection via targeted stabilization while balancing access.
+e532f64c-7238-4e1a-a70a-7f6eb87032a6,2025-04-02 14:55:52.152985+00:00,qwen,qwq-plus,0,4579,4305,Prioritizes environmental protection over road upgrades to minimize development impact.
+b56d8251-d2e3-4591-9678-447bd6935a93,2025-04-02 14:57:22.354506+00:00,qwen,qwq-plus,0,4585,3956,"Prioritize environmental protection over road upgrades, favor closing to protect Daintree."
+8a22ca5e-4bac-4e61-97da-04d1852f0d5a,2025-04-02 14:58:45.268817+00:00,qwen,qwq-plus,0,4576,3913,"Prioritize environmental protection by closing and rehabilitating the road, avoiding upgrades that increase development."
+652326a2-afed-4173-b272-d4faee26ada9,2025-04-02 15:00:09.283455+00:00,qwen,qwq-plus,0,4577,5151,"Prioritize minimal environmental impact by avoiding bitumen and closures, favoring stabilization and maintenance."
+b4875200-41d7-4e8c-adbc-0ea4549cfac0,2025-04-02 15:01:55.654065+00:00,qwen,qwq-plus,0,4579,4514,Prioritize environmental protection over road upgrades.
+471c04fc-3fdb-4eb4-92ed-4421126e94c0,2025-04-02 15:03:30.824883+00:00,qwen,qwq-plus,0,4581,5314,"Prioritize environmental protection over road upgrades, favoring minimal changes or closure."
+167609c5-0a98-4d7e-aa54-b0b8c8aa27dc,2025-04-02 15:05:21.532705+00:00,qwen,qwq-plus,0,4581,3690,Prioritize environmental protection over road development and expansion.
+e49af54f-add3-457e-9934-d641c03af077,2025-04-03 07:09:07.076480+00:00,qwen,qwq-plus,0,4583,3447,"Prioritize environmental protection via controlled upgrades, rejecting extremes."
+3fad1a11-58b6-4c37-80bc-5351037e189e,2025-04-03 07:10:19.459927+00:00,qwen,qwq-plus,0,4569,4431,"Prioritizes environmental protection over road development, favoring minimal impact solutions."
+a721c768-6ddd-49a5-b85d-8454a7e27df4,2025-04-03 07:11:51.165191+00:00,qwen,qwq-plus,0,4581,3176,"Prioritizes environmental protection over road development, opposing upgrades that harm ecosystems."
+f41eee8d-439e-4a05-9044-1ba716aaa180,2025-04-03 07:12:57.815155+00:00,qwen,qwq-plus,0,4584,5039,Prioritize environmental protection by closing the road and opposing upgrades to prevent damage.
+c7dc1403-809f-4a92-ba13-1b129fe3b257,2025-04-03 07:14:42.349208+00:00,qwen,qwq-plus,0,4569,4024,"Prioritizes environmental protection, favoring dirt upgrade over bitumen while balancing access needs."
+5af79551-a7da-4c92-af3d-0712e1513d22,2025-04-03 07:16:06.094733+00:00,qwen,qwq-plus,0,4575,4630,Prioritize environmental protection while balancing current access needs.
+a0376281-092c-4607-b7a5-9adba1dae8dd,2025-04-03 07:17:42.507351+00:00,qwen,qwq-plus,0,4583,3620,"Prioritize environmental protection by closing/maintaining road, avoiding upgrades harming ecosystem."
+5a919aa2-608c-4c7d-a784-b365709cc58e,2025-04-03 07:18:58.160628+00:00,qwen,qwq-plus,0,4581,3938,"Prioritize environmental protection over development, favoring road closure and rehabilitation most."
+d316d4b3-42df-4be1-a557-65995baa32fe,2025-04-03 07:20:20.736350+00:00,qwen,qwq-plus,0,4583,2530,Prioritize environmental protection over road upgrades to preserve Daintree.
+b431a2df-0f89-47cf-9db5-733f5b2353ed,2025-04-03 07:21:14.796559+00:00,qwen,qwq-plus,0,4579,5143,"Prioritize environmental protection: close road, oppose bitumen upgrade."
+7ba5576c-9052-427d-b9ce-d80e4d20469b,2025-04-03 07:23:01.704985+00:00,qwen,qwq-plus,0,4581,4038,Prioritize environmental protection with controlled access upgrades.
+f6ee701b-d888-4498-8b90-f06e1e3a069f,2025-04-03 07:24:25.600161+00:00,qwen,qwq-plus,0,4576,5677,Prioritize environmental protection over road upgrades to minimize ecological harm.
+9b6b0856-e382-413d-b9d0-2a53427d7744,2025-04-03 14:41:30.606266+00:00,qwen,qwq-plus,0,4579,4588,"Prioritizing environmental protection over road upgrading, opposing bitumen due to ecological harm."
+185ae175-de29-4378-a2c1-08f3d7ebf49a,2025-04-03 14:43:06.059815+00:00,qwen,qwq-plus,0,4580,3810,Prioritize environmental protection over road upgrades to minimize ecological harm.
+8b6fa796-9397-4a90-8fee-3ed1552ab02b,2025-04-03 14:44:25.506025+00:00,qwen,qwq-plus,0,4573,4126,"Prioritize environmental protection: close road first, then incremental steps over full upgrades."
+ae3f3d66-fd07-4346-ac24-8e697a11f52f,2025-04-03 14:45:51.328329+00:00,qwen,qwq-plus,0,4575,5150,"Support moderate upgrades balancing access and environment, avoiding full bitumen or closure."

@@ -1,0 +1,8 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+3c00f0c7-a326-4bd5-a447-1c91c2ee9006,2025-05-29 15:29:53.164926+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,5298,3505,Supported accommodation opposed begging bans and deportation favored humanitarian over punitive
+34389e08-2a33-4335-84bf-84012873cdbb,2025-05-29 15:30:50.081892+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,5255,4394,Preferred addressing source country issues and providing aid over punitive enforcement
+0a4fc66e-0e3f-47cc-91ce-2296f59a065c,2025-05-29 15:34:13.009908+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,5267,3286,Prioritize addressing root causes and providing help while maintaining law enforcement over punitive measures
+e11cf9a0-5110-454d-8acf-cda14b20f51f,2025-05-30 11:35:33.402527+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,7518,3710,Prioritized accommodation and addressing root causes over punitive measures like deportation or bans
+0ccb4cda-1b8c-4e38-97d2-a26fd2eef9e7,2025-05-30 11:36:43.586778+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,6617,5032,Support addressing root causes and accommodation over bans and deportation
+f1c93b10-fc21-45a7-a2b6-42d7268da244,2025-05-30 11:38:04.645779+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,6450,4126,Support addressing root causes abroad and providing housing over deportation and begging bans
+39abfcee-507d-4f1a-9889-4459c92ce8d3,2025-05-30 11:39:13.168141+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,7357,4504,Focus on source country solutions then rule of law before harsh deportation or bans

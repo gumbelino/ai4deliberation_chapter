@@ -1,0 +1,41 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+a922a453-6044-47bd-9272-57de4e9fbd6f,2025-03-25 21:38:43.244191+00:00,cohere,command-r-08-2024,0,5187.0,317.0,"Support non-heritable, non-profit, clinical editing; oppose heritable editing."
+680ced72-be6d-4c49-acb1-e9ac839f233f,2025-03-25 21:38:51.603850+00:00,cohere,command-r-08-2024,0,5187.0,324.0,"Support.for.non-heritable.editing.with.oversight,.safety,.and.clinical.purposes."
+1e93b52d-7ec4-40b5-a408-657d0cf35eca,2025-03-25 21:38:59.890693+00:00,cohere,command-r-08-2024,0,5187.0,315.0,"I'm cautious, but open to non-heritable editing for medical purposes."
+30dfaf19-24dc-4c1d-a555-3aad24e5883f,2025-03-25 21:39:06.753689+00:00,cohere,command-r-08-2024,0,5187.0,324.0,Support.heritable.editing.for.clinical.purposes.with.oversight.and.community.input.
+99bfe18f-f210-4ac2-a23a-cf2028dfa8f4,2025-03-25 21:39:13.519129+00:00,cohere,command-r-08-2024,0,5187.0,326.0,"Support.for.non-heritable.editing,.research,.safety,.oversight,.and.prohibition.of.profit."
+0e02c900-4fc3-4f31-a182-f8e59c020442,2025-03-25 21:39:20.687596+00:00,cohere,command-r-08-2024,0,5187.0,326.0,Support.non-heritable.editing.for.clinical.purposes.with.oversight.and.community.input.
+e9537829-caf8-4559-8dac-3aa6659b66d3,2025-03-25 21:39:28.370160+00:00,cohere,command-r-08-2024,0,5187.0,324.0,Support.for.non-heritable.editing.and.mitochondrial.donation.with.oversight.
+e873cb0f-5b2f-4c0c-b0a9-d6dac125dad5,2025-03-25 21:39:36.855808+00:00,cohere,command-r-08-2024,0,5187.0,324.0,Support.for.non-heritable.editing.and.mitochondrial.donation.with.oversight.
+19cda6f9-1100-4d11-be08-6a3dec3af617,2025-03-25 21:39:44.957652+00:00,cohere,command-r-08-2024,0,5187.0,324.0,Support.non-heritable.editing.for.clinical.purposes.and.mitochondrial.donation.
+cc3a880b-5a1f-49a9-bf2f-ce5f112d0dcf,2025-03-25 21:39:52.420976+00:00,cohere,command-r-08-2024,0,5187.0,320.0,Support.non-heritable.editing.for.clinical.treatments.with.oversight.
+f16b1ef5-73a8-48a4-afc4-53b22b6c40b1,2025-03-25 21:40:00.767318+00:00,cohere,command-r-08-2024,0,5187.0,324.0,Support.for.non-heritable.editing.and.mitochondrial.donation.with.oversight.
+1710af6c-fb65-4f64-bfae-a952d1e5b8a2,2025-03-25 21:40:08.716261+00:00,cohere,command-r-08-2024,0,5187.0,326.0,"Support.for.clinical.editing.and.research,.oppose.heritable.editing.and.for-profit.uses."
+3e05d602-d13d-4f2f-836c-4221ee81f831,2025-03-25 21:40:16.907800+00:00,cohere,command-r-08-2024,0,5187.0,311.0,"I'm cautious, but open-minded, wanting oversight."
+39f74da4-7b6f-445f-a722-953e21d44bcb,2025-03-25 21:40:23.664523+00:00,cohere,command-r-08-2024,0,5190.0,321.0,Support.for.non-heritable.editing.and.clinical.use.with.oversight.
+13c3c5d9-8e23-47b0-914f-3b4225a91897,2025-03-25 21:40:31.244180+00:00,cohere,command-r-08-2024,0,5187.0,326.0,Support.non-heritable.editing.for.clinical.purposes.with.oversight.and.community.input.
+dcb491b8-cd23-4f38-a5d3-24a606b46d7e,2025-03-25 21:40:39.846337+00:00,cohere,command-r-08-2024,0,5187.0,327.0,Support.for.clinical.editing.and.mitochondrial.donation.with.oversight.and.community.input.
+5cc786c2-cf58-4638-ab8e-db50eeb08e45,2025-03-25 21:40:47.629793+00:00,cohere,command-r-08-2024,0,5187.0,324.0,Support.for.non-heritable.editing.and.mitochondrial.donation.with.oversight.
+1836b78f-8291-4243-b976-80ccd5cee6e6,2025-03-25 21:40:55.818057+00:00,cohere,command-r-08-2024,0,5187.0,318.0,Support.heritable.editing.for.clinical.purposes.with.oversight.
+64d7df3b-aef3-49d2-9921-cd97e7f55154,2025-03-25 21:41:04.255570+00:00,cohere,command-r-08-2024,0,5190.0,324.0,"Support.for.non-heritable.editing,.oversight,.and.research,.oppose.heritable.editing."
+64595674-193d-49c0-9615-6b2859b9f65a,2025-03-25 21:41:12.829991+00:00,cohere,command-r-08-2024,0,5187.0,324.0,Support.non-heritable.editing.for.research.and.clinical.treatments.with.oversight.
+12e8f391-39c6-4457-b9f1-17b42e7e9e22,2025-03-27 10:46:28.761354+00:00,cohere,command-r-08-2024,0,5187.0,324.0,Support.heritable.editing.for.clinical.purposes.with.oversight.and.community.input.
+aaba8c56-a373-4d33-b53e-cf22e277c267,2025-03-27 10:46:37.127411+00:00,cohere,command-r-08-2024,0,5190.0,320.0,Support.non-heritable.editing.for.clinical.purposes.with.oversight.
+3b2b4bcd-e448-4648-9318-74ef5a53efd7,2025-03-27 10:46:45.120501+00:00,cohere,command-r-08-2024,0,5187.0,320.0,Support.non-heritable.editing.for.clinical.purposes.with.oversight.
+5e66e5d2-7970-4b69-81c6-3d7bef4e2895,2025-03-27 10:46:54.541692+00:00,cohere,command-r-08-2024,0,5190.0,323.0,Support.for.non-heritable.editing.and.mitochondrial.donation.with.restrictions.
+ba716e55-f846-41c2-a646-d1e772f6f104,2025-03-27 10:47:05.193136+00:00,cohere,command-r-08-2024,0,5187.0,317.0,"Supportive,butcautious,prioritizingmedicaladvanceswithsafeguards."
+92288649-fb54-43bb-a75e-c913d7d9caac,2025-03-27 10:47:13.613088+00:00,cohere,command-r-08-2024,0,5187.0,323.0,Supportive.of.non-heritable.editing.for.medical.purposes.with.oversight.
+e142277c-e165-4060-8486-74f0ca9d2490,2025-03-27 10:47:21.983102+00:00,cohere,command-r-08-2024,0,5187.0,324.0,Support.heritable.editing.with.oversight.and.non-heritable.editing.for.research.
+23bc3ecb-dbed-4400-8410-7fd962481189,2025-03-27 10:47:30.481319+00:00,cohere,command-r-08-2024,0,5187.0,316.0,"Supportiveofnon-heritableediting,safety,ethics,andcommunityinput."
+3b457c1c-dcd8-472e-82f0-7016f1d44880,2025-03-27 10:47:38.590301+00:00,cohere,command-r-08-2024,0,5187.0,314.0,"Support clinical, non-heritable, non-profit, with oversight."
+82a9b54d-547c-4043-9efe-8a698ce6cc74,2025-03-27 10:47:51.782590+00:00,cohere,command-r-08-2024,0,5190.0,315.0,"I'm cautious, but open to non-heritable editing for medical purposes."
+60a43a8d-9079-4ff4-aaf4-15dd1996b65f,2025-03-27 11:12:15.402572+00:00,cohere,command-r-08-2024,0,5187.0,315.0,"I'm cautious, but open to non-heritable editing for clinical purposes."
+bf9ff95c-f039-4e63-9194-d41b12aaa221,2025-03-27 11:12:25.706399+00:00,cohere,command-r-08-2024,0,5190.0,317.0,Support.heritable.editing.with.oversight.and.community.input.
+a3ede21a-9b4a-4b10-ba9c-d90677dc247f,2025-03-27 11:12:34.308916+00:00,cohere,command-r-08-2024,0,5187.0,320.0,Support.non-heritable.editing.for.clinical.purposes.with.oversight.
+dc1879e4-857e-4fdd-ba60-5843083e4a78,2025-03-27 11:12:41.851292+00:00,cohere,command-r-08-2024,0,5190.0,324.0,Support.for.non-heritable.editing.and.mitochondrial.donation.with.oversight.
+d80a3ecc-48ef-407b-8cbe-3c8e4a2b9af6,2025-03-27 11:12:49.509423+00:00,cohere,command-r-08-2024,0,5187.0,321.0,Support.for.clinical.editing.and.mitochondrial.donation.with.oversight.
+a03e6770-2be6-40b2-8d79-a4be6d5501cc,2025-03-27 11:12:56.629910+00:00,cohere,command-r-08-2024,0,5187.0,327.0,Support.for.non-heritable.editing.and.clinical.use.with.oversight.and.community.input.
+b48bd08c-c12d-4852-a77d-5cb7df5cbe23,2025-03-27 11:13:03.801526+00:00,cohere,command-r-08-2024,0,5187.0,324.0,Support.heritable.editing.for.clinical.purposes.with.oversight.and.community.input.
+56687e20-6a8b-4739-b5d6-691a35583b93,2025-03-27 11:13:12.984520+00:00,cohere,command-r-08-2024,0,5187.0,321.0,Supportive.of.non-heritable.editing.for.clinical.use.and.research.
+51336fe7-8034-4075-bc82-0dafd6ab8697,2025-03-27 11:13:21.208361+00:00,cohere,command-r-08-2024,0,5187.0,327.0,"Support.for.non-heritable.editing,.oversight,.and.clinical.purposes,.oppose.heritable.editing."
+87015658-4136-4c09-a05b-5ac84fe03df1,2025-03-27 11:13:29.394198+00:00,cohere,command-r-08-2024,0,5190.0,315.0,"I'm cautious, but open to non-heritable editing for medical purposes."

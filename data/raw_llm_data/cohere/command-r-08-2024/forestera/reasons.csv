@@ -1,0 +1,41 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+232c0120-ef97-4492-8c6b-4f3f940ef41b,2025-03-25 21:08:18.151115+00:00,cohere,command-r-08-2024,0,5556.0,350.0,Prioritize.wildlife.and.social.values.over.economic.gain.
+bed5f09b-5c17-4a0a-962a-fcaa5c615388,2025-03-25 21:08:39.731536+00:00,cohere,command-r-08-2024,0,5552.0,349.0,"Prioritizingwildlife,localharvesting,andpresettlementconditionsovereconomicgain."
+c4fed96a-bbf9-4f18-b3a8-aa7d5a8456fa,2025-03-25 21:08:57.141491+00:00,cohere,command-r-08-2024,0,5552.0,350.0,Prioritizing.natural.processes.and.community.values.over.economic.gain.
+29bb0b21-591d-4dda-b1e4-c9cc6cf069c8,2025-03-25 21:09:06.768538+00:00,cohere,command-r-08-2024,0,5551.0,346.0,Prioritize.Wildlife.And.Restoration.Over.Economic.Gains.
+e9acda32-7773-4e6c-bd2b-838758ac0b94,2025-03-25 21:09:15.294042+00:00,cohere,command-r-08-2024,0,5552.0,350.0,"Wildlife,sustainability&presettlement.Thinning&fuel.No.management."
+50968e7e-f4f6-4013-8903-ebd3d9957c60,2025-03-25 21:09:22.659331+00:00,cohere,command-r-08-2024,0,5532.0,340.0,Wildlife.Local.Economy.Fire.Prioritise.Presettlement.Aggressive.
+df6da5be-a7b7-428e-8950-d4b22782a666,2025-03-25 21:09:30.323261+00:00,cohere,command-r-08-2024,0,5558.0,348.0,"Prioritizingecological,social,andlocalvaluesovereconomicgain."
+3aa3e9e9-faba-4c5b-88b8-86f2416e0c42,2025-03-25 21:09:39.294546+00:00,cohere,command-r-08-2024,0,5547.0,344.0,Prioritize.Ecological.Values.Over.Economic.And.Social.Values.
+64d69d42-ad72-4407-8618-d853afb7bdaa,2025-03-25 21:09:48.649766+00:00,cohere,command-r-08-2024,0,5547.0,372.0,"I.e.,wildlife,watersheds,community,culture.No.management.Economy.Wildlife.Presettlement.Introduction.of.fire.Local.harvesting.Aggressive.fuel.reduction."
+2592abdd-dc14-4a6b-991c-b6afb4c632fb,2025-03-25 21:10:00.823085+00:00,cohere,command-r-08-2024,0,5552.0,350.0,Prioritizing.wildlife.and.ecological.values.over.economic.gain.
+07f0dfe2-0dc4-41c1-95de-f705159af3ab,2025-03-25 21:10:08.304271+00:00,cohere,command-r-08-2024,0,5548.0,349.0,Prioritize.Ecosystem.Health.Over.Economic.Gains.And.Social.Values
+35c3fb6f-85ff-4183-b70c-1158e3a6bce7,2025-03-25 21:10:15.890286+00:00,cohere,command-r-08-2024,0,5522.0,332.0,Prioritize.Restore.Harvest.Protect.Thinning.NoAction.Suppress.
+ebaaa614-79cf-4bb4-924b-8ca23a78fb6d,2025-03-25 21:10:24.447642+00:00,cohere,command-r-08-2024,0,5561.0,354.0,Prioritize.Wildlife.Restore.Ecosystems.Thinning.For.Economic.Gain.
+1d81993f-61d8-4ab2-be4a-19a05209c7c6,2025-03-25 21:10:33.303314+00:00,cohere,command-r-08-2024,0,5556.0,342.0,"I prioritize ecological, social, and wildlife values."
+88d8a23a-40ce-4941-8536-430edc18c09a,2025-03-25 21:10:40.542281+00:00,cohere,command-r-08-2024,0,5555.0,343.0,"Wildlife, ecology, and presettlement restoration are prioritized."
+8e081b5d-82d8-4d46-a3cc-26a0a1ee7e8f,2025-03-25 21:10:49.068565+00:00,cohere,command-r-08-2024,0,5556.0,348.0,Prioritize.Protect.Restore.Harvest.Thinning.No.Management.
+ebdb8389-de50-4372-adc3-80274ee59973,2025-03-25 21:10:56.033522+00:00,cohere,command-r-08-2024,0,5550.0,356.0,Prioritizing.wildlife.and.local.harvesting.over.economic.gains.and.fuel.reduction.
+b912f8a0-0783-44fa-ad31-5091d90498dc,2025-03-25 21:11:03.404931+00:00,cohere,command-r-08-2024,0,5549.0,347.0,Prioritize.wildlife.and.ecological.values.over.economic.gains.
+ab0265a3-32c2-494a-acff-bdab531a003d,2025-03-25 21:11:10.887605+00:00,cohere,command-r-08-2024,0,5498.0,324.0,Prioritizing.wildlife.and.ecological.values.over.economic.gains.
+97a72b22-3e15-4fce-90e5-eee6fc4eb012,2025-03-25 21:11:20.288803+00:00,cohere,command-r-08-2024,0,5501.0,319.0,Prioritize.Ecosystem.Health.Over.Economic.Gains.
+abe3fd4a-1dad-4865-a89c-8a94beda7488,2025-03-27 10:19:54.630593+00:00,cohere,command-r-08-2024,0,5567.0,362.0,Prioritize.Wildlife.Then.Local.Harvesting.Restore.Presettlement.Thinning.No.Management.
+0e75778a-420f-4ebb-9adb-79165fb2dc45,2025-03-27 10:20:03.447408+00:00,cohere,command-r-08-2024,0,5560.0,353.0,Prioritize.Local.Harvest.Wildlife.Presettlement.Reduce.DoNothing.
+36205b89-e822-42b8-9f30-bdb250ba6c5a,2025-03-27 10:20:16.983242+00:00,cohere,command-r-08-2024,0,5553.0,350.0,"Prioritize.wildlife,thinning.for.ecology,restore.presettlement.forests."
+59c7096c-c697-45eb-a6cd-5943948a00a8,2025-03-27 10:20:25.273298+00:00,cohere,command-r-08-2024,0,5559.0,349.0,Prioritize.Restoration.Local.Harvesting.Thinning.No.Management
+dd847514-4aa2-4f0f-9471-2e2323e5e55a,2025-03-27 10:20:35.198035+00:00,cohere,command-r-08-2024,0,5552.0,349.0,Prioritize.wildlife.and.local.harvesting.over.economic.gain.
+40a8b9db-5aa2-454e-baf0-94fcc1478f39,2025-03-27 10:20:43.079902+00:00,cohere,command-r-08-2024,0,5556.0,350.0,Prioritize.ecosystem.health.and.wildlife.over.economic.gain.
+b51909b9-be14-4e85-933c-b7d8ef2b87ba,2025-03-27 10:20:51.043446+00:00,cohere,command-r-08-2024,0,5562.0,349.0,Prioritize.Natural.Processes.Over.Economic.Gains.
+60454e3e-515e-4530-bb6e-e026ed755a8c,2025-03-27 10:20:59.177164+00:00,cohere,command-r-08-2024,0,5541.0,336.0,"I prioritize ecological, social, and cultural values over economic gain."
+31644741-734d-4e98-aa42-742c88a185e6,2025-03-27 10:21:07.860167+00:00,cohere,command-r-08-2024,0,5553.0,347.0,Prioritize.Restoration.Over.Economic.Gains.And.No.Management
+3bb349b1-4563-4d2d-b03f-86828631ca78,2025-03-27 10:21:18.097571+00:00,cohere,command-r-08-2024,0,5548.0,348.0,Prioritizing.wildlife.and.local.harvesting.over.fuels.reduction.
+8869e6d6-9394-4745-a414-c8856f4a6e29,2025-03-27 10:39:27.578715+00:00,cohere,command-r-08-2024,0,5545.0,348.0,Prioritize.wildlife.and.restoration.over.economic.gain.and.no.management.
+a71da45d-0b57-4af2-b7ae-9ee3554e736f,2025-03-27 10:39:35.955790+00:00,cohere,command-r-08-2024,0,5558.0,359.0,"Prioritizing.wildlife,local.harvesting,thinning.for.gain,presettlement.restoration."
+40d09902-7c86-40ab-9e98-df2bc5301bd2,2025-03-27 10:39:45.377668+00:00,cohere,command-r-08-2024,0,5553.0,348.0,Prioritize.wildlife.and.ecological.values.over.economic.gain.
+7d6f4d52-55b3-4297-87d5-545ebd4c8ff9,2025-03-27 10:39:53.267917+00:00,cohere,command-r-08-2024,0,5559.0,349.0,Prioritize.Restoration.Local.Harvesting.Thinning.No.Management
+f3eeaf22-c181-46c1-b078-e9a98e414f6d,2025-03-27 10:40:03.285103+00:00,cohere,command-r-08-2024,0,5558.0,352.0,Prioritize.Wildlife.And.Sustainable.Management.Over.Economic.Gain.
+d671d340-8459-4737-813a-a63a79899eff,2025-03-27 10:40:12.693536+00:00,cohere,command-r-08-2024,0,5558.0,349.0,Prioritize.Ecosystem.Health.Over.Economic.Gains.
+e8f8b66d-4af1-468f-a579-601f72da3e22,2025-03-27 10:40:21.977445+00:00,cohere,command-r-08-2024,0,5562.0,356.0,Prioritize.Ecosystem.Health.And.Community.Protection.Over.Economic.Gain.
+e17881e8-0c86-4d8e-8423-b9a6b6c8fb5e,2025-03-27 10:40:29.768896+00:00,cohere,command-r-08-2024,0,5537.0,341.0,Prioritizing.ecological.and.social.values.over.economic.gains.
+cae0bcdc-6a59-4e8f-9053-fe09429bc1a7,2025-03-27 10:40:38.484327+00:00,cohere,command-r-08-2024,0,5553.0,346.0,Prioritize.Restoration.Over.Economic.Gain.And.No.Management
+ad273a19-90b7-486b-9ce0-e63cf8d15a90,2025-03-27 10:40:48.353444+00:00,cohere,command-r-08-2024,0,5548.0,353.0,"Prioritizing.wildlife,presettlement.restoration,local.harvesting.over.fuels.reduction."

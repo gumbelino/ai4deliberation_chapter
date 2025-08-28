@@ -1,0 +1,41 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+b18a1265-634c-4ab0-bc24-b27bb29b7a8b,2025-03-25 20:56:47.905345+00:00,cohere,command-r-08-2024,0,4378.0,288.0,"Support for accommodation, addressing root causes, and enforcing laws."
+32fdf758-2891-4c7c-990d-54be5326255c,2025-03-25 20:56:54.741557+00:00,cohere,command-r-08-2024,0,4378.0,289.0,"Support for beggars, their rights, and addressing root causes."
+19b97646-0921-4ac9-8d41-375b9247e0fc,2025-03-25 20:57:03.855958+00:00,cohere,command-r-08-2024,0,4378.0,287.0,Strongest support for addressing the problem in source countries.
+833d1969-a0ea-4c3e-a62d-09089df41627,2025-03-25 20:57:16.050505+00:00,cohere,command-r-08-2024,0,4378.0,288.0,"Support for integration,not deportation;focus on source countries."
+27e06dda-c3d8-47bf-83f7-7e0bea9b1403,2025-03-25 20:57:24.755165+00:00,cohere,command-r-08-2024,0,4378.0,289.0,"Support for integration,action on source countries,and law enforcement."
+182f147a-e7fa-48e7-b867-36ba1c503ec4,2025-03-25 20:57:32.642210+00:00,cohere,command-r-08-2024,0,4378.0,302.0,Support.for.beggars.should.be.addressed.in.Sweden.and.their.home.countries.
+91148392-6dd9-4ae7-a0a7-ec77b96a7e71,2025-03-25 20:57:40.440578+00:00,cohere,command-r-08-2024,0,4378.0,288.0,"Support for integration,not deportation,and addressing root causes."
+9d4d175b-573a-4abb-9ca4-3a8fa1d728a9,2025-03-25 20:57:46.666516+00:00,cohere,command-r-08-2024,0,4378.0,290.0,"Support for integration, opposition to deportation, and focus on source countries."
+a209106e-d411-49cf-a485-9cf6c68cf9f5,2025-03-25 20:57:53.982111+00:00,cohere,command-r-08-2024,0,4378.0,291.0,"Support for integration,focusing on root causes,and enforcement of laws."
+447baa6a-7bf6-4a87-a523-6df1e8cf49f3,2025-03-25 20:58:00.132654+00:00,cohere,command-r-08-2024,0,4378.0,306.0,Support.for.beggars.should.be.balanced.with.responsibility.and.focus.on.long.term.solutions.
+27618abc-80aa-4f07-9aeb-b2d1d31daf96,2025-03-25 20:58:09.762018+00:00,cohere,command-r-08-2024,0,4381.0,288.0,"Support for integration, focus on source countries, enforce laws."
+3e652919-172e-44bf-8ece-be1d08ac1486,2025-03-25 20:58:18.004343+00:00,cohere,command-r-08-2024,0,4378.0,314.0,Support.for.beggars.and.addressing.root.causes.in.home.countries.with.deportation.as.a.last.resort.
+229f7c29-1060-485f-ab4c-51959fd25107,2025-03-25 20:58:27.034310+00:00,cohere,command-r-08-2024,0,4378.0,290.0,"Support for integration, opposition to deportation, and focus on source countries."
+92c374d8-eb2d-41d2-ac74-6b16e09821dd,2025-03-25 20:58:35.915286+00:00,cohere,command-r-08-2024,0,4378.0,290.0,"Support for integration, opposition to deportation, and focus on source countries."
+2a8452fb-e5e4-447d-a9f2-93b7e831668d,2025-03-25 20:58:43.500996+00:00,cohere,command-r-08-2024,0,4378.0,287.0,"Strongly support accommodation, deportation, and law enforcement."
+4280fcb1-f37d-4120-9253-df4f0b610abe,2025-03-25 20:58:53.056195+00:00,cohere,command-r-08-2024,0,4378.0,288.0,"Support for integration, focus on source countries, enforce laws."
+8e92b635-ec1e-46b3-89de-7dee209ef55c,2025-03-25 20:59:04.123126+00:00,cohere,command-r-08-2024,0,4378.0,288.0,"Support for integration, focus on source countries, enforce laws."
+df5713fd-3f31-47a2-b491-76965970c8a1,2025-03-25 20:59:10.844432+00:00,cohere,command-r-08-2024,0,4378.0,305.0,Supportive.But.Concerned.About.Impact.On.Swedish.Society.And.Responsibility.Of.Source.Countries.
+02ab5bc5-85be-4089-b549-0955579b3f92,2025-03-25 20:59:18.616789+00:00,cohere,command-r-08-2024,0,4378.0,287.0,"Support for accommodation, enforcement, and addressing root causes."
+b8ba372f-f7f0-42ed-9e80-06010625700b,2025-03-25 20:59:25.107323+00:00,cohere,command-r-08-2024,0,4378.0,290.0,"Support for integration,focusing on source countries,and enforcing laws."
+eb169372-e967-48e1-b210-4a430edffc4c,2025-03-27 10:14:05.394375+00:00,cohere,command-r-08-2024,0,4378.0,288.0,"Support for integration, focus on source countries, enforce laws."
+26ad8aa0-5c9d-426f-941e-bde9689738fc,2025-03-27 10:14:12.420741+00:00,cohere,command-r-08-2024,0,4378.0,288.0,"Support for integration, focus on source countries, enforce laws."
+3316b377-b872-4416-8989-60efe887ac09,2025-03-27 10:14:19.416610+00:00,cohere,command-r-08-2024,0,4378.0,289.0,"Focus on addressing root causes, enforce laws, and provide support."
+903bb32d-be1a-42f2-93c4-83dc16fa3d78,2025-03-27 10:14:27.914342+00:00,cohere,command-r-08-2024,0,4378.0,290.0,"Support for stricter laws, focus on source countries, and less accommodation."
+4bd7f4e6-131c-4532-8468-c3216738b615,2025-03-27 10:14:36.458250+00:00,cohere,command-r-08-2024,0,4378.0,294.0,"Support for integration,deportation as a last resort,ban settlements/begging."
+3819faf3-9d7a-4d1b-9931-6804ca619ac2,2025-03-27 10:14:43.322296+00:00,cohere,command-r-08-2024,0,4378.0,287.0,"Stronger enforcement, less support, address root causes."
+d0787250-08b7-443d-b413-04356f898022,2025-03-27 10:14:50.951444+00:00,cohere,command-r-08-2024,0,4378.0,288.0,"Support for integration, focus on source countries, enforce laws."
+f7f5944f-9d45-4618-a8bc-dc1f43329c32,2025-03-27 10:14:57.683382+00:00,cohere,command-r-08-2024,0,4378.0,297.0,"Supportiveofbeggars'wellbeing,butnotatcostofSwedishwelfareorbreakinglaws."
+73cd1cab-228a-4485-95af-7ee06bb3f021,2025-03-27 10:15:04.344922+00:00,cohere,command-r-08-2024,0,4378.0,288.0,"Support for integration, focus on source countries, enforce laws."
+e786d38a-c295-457c-9241-b4574e4ddd39,2025-03-27 10:15:10.896431+00:00,cohere,command-r-08-2024,0,4378.0,289.0,"I'm against deportation, support enforcing laws, and providing accommodation."
+eba153ea-976f-4023-b6b5-41b162eb6870,2025-03-27 10:21:26.220952+00:00,cohere,command-r-08-2024,0,4378.0,288.0,"Support for accommodation, addressing root causes, and enforcing laws."
+d0629fba-30c5-4d23-a81d-1338515f9f5a,2025-03-27 10:21:32.945558+00:00,cohere,command-r-08-2024,0,4378.0,288.0,"Support for integration, focus on source countries, enforce laws."
+8f58d149-b662-4751-a60a-3aaa5dea2cc2,2025-03-27 10:21:40.014272+00:00,cohere,command-r-08-2024,0,4378.0,304.0,Focusing.on.source.countries.and.accommodation.over.deportation.and.banning.begging.
+9a683368-0eb3-4dd8-bba4-716680e4841c,2025-03-27 10:21:47.489531+00:00,cohere,command-r-08-2024,0,4378.0,296.0,"Support for integration,focusing.on.homeland.issues.and.existing.laws."
+5f6f4724-21f8-440b-b06d-8598070d452e,2025-03-27 10:21:55.424539+00:00,cohere,command-r-08-2024,0,4378.0,290.0,"Support for addressing poverty abroad, but also enforcement of laws and deportation."
+6098c37e-0b61-43da-aa4e-72c0bd29af9e,2025-03-27 10:22:03.054971+00:00,cohere,command-r-08-2024,0,4378.0,288.0,"Support for integration, focus on source countries, enforce laws."
+a8d35142-a204-4745-9af1-28d5becd7057,2025-03-27 10:22:10.526964+00:00,cohere,command-r-08-2024,0,4378.0,302.0,Focus.on.source.countries.and.existing.laws.rather.than.banning.or.deporting.
+84174f27-0be5-4d8a-a9ca-d3afd61aa85d,2025-03-27 10:22:18.218097+00:00,cohere,command-r-08-2024,0,4378.0,290.0,"Support for integration, opposition to deportation, and focus on source countries."
+bc99a3ae-9a1c-4fe6-b650-8cf2002b514a,2025-03-27 10:22:25.614988+00:00,cohere,command-r-08-2024,0,4378.0,307.0,"Support.for.banning.begging.and.illegal.settlements,.deportation,.and.forbidding.money.giving."
+c31f9aa4-33cd-4809-bd32-f33029bc6970,2025-03-27 10:22:32.666017+00:00,cohere,command-r-08-2024,0,4378.0,307.0,Focus.on.helping.beggars.in.their.homelands.rather.than.enabling.begging.in.Sweden.

@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+85adb2c8-9df1-4ac4-8e72-56f0d74e0fc3,2025-04-01 15:07:30.638980+00:00,openai,o3-mini,0,4196,5304,I ranked policies favoring cautious non-heritable editing with strong ethical oversight highest.
+0f0a1686-71cb-4a07-a81d-2aea0037925f,2025-04-01 15:08:35.877616+00:00,openai,o3-mini,0,4196,7226,I ranked nonheritable clinical editing highest for fairness and safety and heritable editing lowest.
+f7df33b5-5dd0-484d-bbee-4cd0357e08b6,2025-04-01 15:09:35.870864+00:00,openai,o3-mini,0,4196,6392,I ranked policies favoring clinical safety and strict oversight with minimal profit incentives.
+c66fac00-1e8b-4464-972f-3589234c9df5,2025-04-01 15:10:23.697547+00:00,openai,o3-mini,0,4196,7287,We favor policies emphasizing oversight and nonheritable editing for safety and equity.
+934b01d3-7061-48be-8c61-8f93e4a89d9c,2025-04-01 15:11:23.709727+00:00,openai,o3-mini,0,4196,6395,I prioritized safe nonheritable editing with oversight and ethics over unregulated or profit-driven options.

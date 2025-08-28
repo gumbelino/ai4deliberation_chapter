@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+82799e62-242c-4a96-98f1-671be26c3854,2025-03-21 20:50:00.802370+00:00,openai,gpt-4o-mini,0,4148,265,I prioritize local sustainable incentives and climate resilience over radical or minimal regulations.
+a28e2b0b-d491-437a-8833-26b85502d8eb,2025-03-21 20:50:07.736258+00:00,openai,gpt-4o-mini,0,4145,267,"I prioritize local sustainable incentives and adaptation, while opposing radical regulations and free trade."
+f2499f30-61f0-4e47-81e0-217e6fe5efcf,2025-03-21 20:50:13.774636+00:00,openai,gpt-4o-mini,0,4148,266,I prioritize local sustainable incentives and moderate regulations over radical or free trade policies.
+08c80fb7-a84f-487d-8177-fb0a1380ce81,2025-03-21 20:50:20.131232+00:00,openai,gpt-4o-mini,0,4145,265,I prioritize local sustainability and adaptation over deregulation and maintaining current policies.
+6f208ce1-43fb-4140-8545-8ea60c7d6b7c,2025-03-21 20:50:27.909540+00:00,openai,gpt-4o-mini,0,4148,265,I prioritize local sustainable food policies and adaptation over radical or minimal regulations.
+de9c8bd5-d7f9-4bb1-a8fa-e0db3afaf386,2025-03-21 20:50:34.479352+00:00,openai,gpt-4o-mini,0,4148,267,"I support moderate regulations and local incentives, while opposing radical changes and fewer regulations."
+c41e46d2-c0a1-4c39-b3f2-4b20d48afe84,2025-03-21 20:50:41.325621+00:00,openai,gpt-4o-mini,0,4145,265,I prioritize local sustainability and resilience while opposing deregulation and inaction.
+b262f56b-3c11-4712-b1dd-0bcb50a8e39b,2025-03-21 20:50:47.672657+00:00,openai,gpt-4o-mini,0,4148,267,I prioritize sustainable local production and adaptation over deregulation and maintaining the status quo.
+e06a3150-923f-4b48-92eb-e0983adee14f,2025-03-21 20:50:54.430880+00:00,openai,gpt-4o-mini,0,4148,266,I prioritize strong sustainable regulations and local incentives over free trade and minimal changes.
+74171fce-9526-4829-a0e9-3b25680a25a8,2025-03-21 20:51:00.779459+00:00,openai,gpt-4o-mini,0,4148,265,I prioritize local sustainable incentives and adaptation over radical or deregulated policies.
+1341292a-b98f-46c6-82a0-48dc05eccb20,2025-03-21 20:51:07.943614+00:00,openai,gpt-4o-mini,0,4148,266,I prioritize local sustainable practices and moderate regulations over radical or free trade policies.
+7889044b-da5a-41da-90bc-e5a37d1b900b,2025-03-21 20:51:15.033424+00:00,openai,gpt-4o-mini,0,4148,264,I prioritize local sustainable incentives and adaptation over radical or minimal regulations.
+1b040de7-7a8e-4995-8e65-bd4e1ed3e199,2025-03-21 20:51:22.065686+00:00,openai,gpt-4o-mini,0,4148,266,I prioritize radical sustainable policies and local incentives over moderate regulations and free trade.
+d716a584-9138-407e-b83f-d5ddad8eb295,2025-03-21 20:51:33.038157+00:00,openai,gpt-4o-mini,0,4148,264,I prioritize local sustainable incentives and adaptation over radical or minimal regulations.
+3360154b-fc24-4eb6-9ef4-a8dd1425cd14,2025-03-21 20:51:39.168418+00:00,openai,gpt-4o-mini,0,4148,267,"I prioritize local sustainable incentives and adaptation, while opposing deregulation and radical bans."
+84e3fa6d-fe10-46a7-b4a7-1c8b0029d969,2025-03-21 20:51:46.957815+00:00,openai,gpt-4o-mini,0,4148,264,I prioritize local sustainable incentives and adaptation over radical or fewer regulations.
+fae1ac35-3405-4093-a6df-194f583897e3,2025-03-21 20:51:53.920135+00:00,openai,gpt-4o-mini,0,4145,267,"I prioritize local sustainable incentives and adaptation, while opposing radical regulations and inaction."
+9e722579-3a93-4e75-b19e-c635df96221e,2025-03-21 20:52:01.084302+00:00,openai,gpt-4o-mini,0,4145,264,"I prioritize local sustainable incentives and adaptation, while opposing minimal regulations."
+72b018ac-83db-4df4-8d0f-519304051e46,2025-03-21 20:52:07.661531+00:00,openai,gpt-4o-mini,0,4145,264,I prioritize local sustainable incentives and adaptation over radical or minimal regulations.
+630941b8-f2b6-45ad-b491-39c4b6131821,2025-03-21 20:52:14.487245+00:00,openai,gpt-4o-mini,0,4148,264,I prioritize local sustainable production and adaptation over radical or minimal regulations.
+23eeeae2-eb63-4f9f-bfe5-be88b73eae02,2025-03-28 06:55:16.449838+00:00,openai,gpt-4o-mini,0,4148,265,I prioritize local sustainable incentives and adaptation over strict regulations and status quo.
+7454e304-2d13-48c2-83ae-b88b6708fa59,2025-03-28 06:55:22.103147+00:00,openai,gpt-4o-mini,0,4148,266,I prioritize moderate regulations and local incentives for sustainability over radical or minimal policies.
+cc6167b3-0fe7-4d70-9903-bc0bc96a1506,2025-03-28 06:55:28.807507+00:00,openai,gpt-4o-mini,0,4145,267,I prioritize moderate regulations and local incentives over radical changes or maintaining the status quo.
+0d2d18af-e916-45d4-8a93-7e3f457a6ad1,2025-03-28 06:55:38.165012+00:00,openai,gpt-4o-mini,0,4148,265,I prioritize adaptation and local incentives over strict regulations and maintaining current policies.
+74c7fe93-19fa-4dce-892d-50570c4d282b,2025-03-28 06:55:43.956696+00:00,openai,gpt-4o-mini,0,4148,265,I prioritize strong sustainable policies and adaptation over minimal regulation and status quo.
+a492cd18-b73f-468d-b576-eeccc5c2c9fc,2025-03-28 06:55:53.438274+00:00,openai,gpt-4o-mini,0,4148,267,I prioritize local sustainable food incentives and moderate regulations over radical or free trade policies.
+b273e406-444b-47b3-9795-ac2c2c9ab171,2025-03-28 06:55:59.790992+00:00,openai,gpt-4o-mini,0,4148,266,I support moderate regulations and local incentives while opposing radical and free trade policies.
+e841d017-726a-48d3-b68b-926adcf803fe,2025-03-28 06:56:07.589194+00:00,openai,gpt-4o-mini,0,4148,266,I prioritize sustainable local production and moderate regulations over radical changes or inaction.
+8814a114-1321-4a57-a10a-8639526e59ac,2025-03-28 06:56:14.491789+00:00,openai,gpt-4o-mini,0,4148,264,I prioritize local sustainable production and adaptation over radical or minimal regulations.
+e0662675-a270-4d47-a18f-bac63ed312fa,2025-03-28 06:56:23.701863+00:00,openai,gpt-4o-mini,0,4148,266,I prioritize local sustainable incentives and moderate regulations over radical or free trade policies.
+b1ad7d4b-2ea0-4cad-8bf3-d57fc0d0e187,2025-03-28 06:56:32.257096+00:00,openai,gpt-4o-mini,0,4148,266,I prioritize local sustainable incentives and moderate regulations over radical or free trade policies.
+f7c6c482-83aa-4fde-9135-3bfd7ae0a15f,2025-03-28 06:56:38.500973+00:00,openai,gpt-4o-mini,0,4145,264,I prioritize local sustainable food incentives and adaptation policies over radical regulations.

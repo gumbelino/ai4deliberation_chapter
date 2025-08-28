@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+9f81c27d-c5ee-414d-a1cb-558abc68a7f3,2025-05-29 14:13:17.552915+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6396,1456,Prioritized environmental protection over access needs based on previous ratings
+cd07fd29-12d9-481d-b9dc-6654f0036e34,2025-05-29 14:13:56.261731+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6114,1288,Balance environmental protection with erosion control while limiting development access pressure
+87783f40-1b3a-487e-a310-85b9cff36481,2025-05-29 14:14:34.558310+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6296,1558,"Prioritized environmental protection while allowing limited access, avoiding development pressure"
+80c404cf-b11e-4316-b8b3-7c74e514d283,2025-05-29 14:15:14.604472+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6754,2161,Prioritized maintaining limited 4WD access while avoiding major development and bitumen sealing
+c35a84eb-f554-4c4a-962a-6309d72c885e,2025-05-29 14:16:06.409968+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6684,1977,"Environmental protection priority - close road best, maintain status quo second, upgrades worst"

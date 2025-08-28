@@ -1,0 +1,12 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Permit all uses of human genome editing and mitochondrial donation only if not for profit,"P2. Prohibit all forms of human genome editing for now, except for research purposes.",P3.  Permit only non-heritable human genome editing in both research and in clinics.,"P4. Permit only non-heritable human genome editing for clinical treatments, and mitochondrial donation.",P5.  Permit both heritable and non-heritable uses of genome editing for any purpose with minimal restrictions to ensure safety and compliance with ethical standards.,"P6. Permit non-heritable and heritable human genome editing (including mitochondrial donation), but only for clinical purposes, and if there is strong oversight, regular community input and (re)approval.",P7. Prohibit all uses of human genome editing and mitochondrial donation.,P8. Permit only non-heritable human genome editing in both research and in clinics and mitochondrial donation only if not for profit.
+983ddd92-5e2f-4019-8bd5-77b115850030,2025-03-27 15:51:21.725212+00:00,meta,llama3.2,0,0,0,2,5,3,7,4,1,6,8
+6373e10c-f059-4d09-879d-067dc9a4aec6,2025-03-27 16:02:18.908890+00:00,meta,llama3.2,0,0,0,4,5,2,1,8,6,3,7
+678fe159-072a-4a89-85a6-06cf28152e08,2025-03-27 16:04:03.976628+00:00,meta,llama3.2,0,0,0,4,5,3,8,1,6,7,2
+134f0c7a-cceb-423b-8275-abcb59b0d729,2025-03-27 16:05:35.114252+00:00,meta,llama3.2,0,0,0,4,6,1,5,3,7,8,2
+8f1c3e90-8f9e-4271-b336-ef94c7c388f6,2025-03-27 16:07:20.715853+00:00,meta,llama3.2,0,0,0,1,2,6,7,8,4,3,5
+d3155d7d-b0bf-433e-97ae-5337ad1660e1,2025-03-27 16:10:48.602753+00:00,meta,llama3.2,0,0,0,3,8,4,2,7,6,1,5
+ad3dcf83-2da0-4db2-bdf8-295d049075c1,2025-03-27 16:12:59.479136+00:00,meta,llama3.2,0,0,0,2,6,1,4,5,3,7,8
+531ece40-fca1-410a-a800-ea0f5625ec53,2025-03-27 16:14:19.090556+00:00,meta,llama3.2,0,0,0,6,5,2,4,8,7,1,3
+d8479fbc-6620-4c88-a28f-d0a9a5490179,2025-03-27 16:19:32.164522+00:00,meta,llama3.2,0,0,0,7,8,1,4,6,5,2,3
+35387e26-22a9-464d-8ff5-c033b0268f1f,2025-03-27 16:21:41.994198+00:00,meta,llama3.2,0,0,0,8,5,2,6,1,3,4,7
+2e07f2ff-7505-4619-9df1-53b1743b69b6,2025-03-28 10:37:36.662271+00:00,meta,llama3.2,0,0,0,4,6,2,5,3,7,1,8

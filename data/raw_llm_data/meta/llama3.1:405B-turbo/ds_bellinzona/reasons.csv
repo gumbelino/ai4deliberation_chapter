@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+4b2bac5c-87b6-4521-9432-3153d9d2e1b3,2025-04-01 13:18:43.610330+00:00,meta,llama3.1:405B-turbo,0,3446,217,Prioritizing proactive climate resilience and moderate to radical emissions reduction over inaction or prioritizing economic growth.
+840a87c3-9ca2-4a0c-8cf2-508b3baf0e62,2025-04-01 13:18:50.574407+00:00,meta,llama3.1:405B-turbo,0,3446,209,Prioritizing resilience and adaptation while reducing emissions moderately to radically.
+ab4c317d-9088-496a-acec-7c41889aa310,2025-04-02 12:16:44.030879+00:00,meta,llama3.1:405B-turbo,0,3446,210,Prioritizing adaptation policies and resilience over economic growth and inaction.
+8e5f2e6d-a9ef-4c49-a94f-79b5c64d1e45,2025-04-02 12:16:48.479398+00:00,meta,llama3.1:405B-turbo,0,3446,212,Prioritized policies that reduce CO2 emissions and enhance resilience to climate change impacts.
+3dab48e0-deb6-41ab-b384-79c6f87cfab4,2025-04-02 12:16:53.114971+00:00,meta,llama3.1:405B-turbo,0,3444,211,Prioritized policies that reduce CO₂ emissions and promote climate resilience and adaptation.
+3c3acfeb-e429-4fbb-ac67-6d82becbe603,2025-04-02 12:16:58.105299+00:00,meta,llama3.1:405B-turbo,0,3446,211,Prioritizing policies that balance climate action with realistic goals and adaptation strategies.
+ea5fcb90-7d2a-4ff5-9ea7-ff46a33d3fa8,2025-04-02 12:17:03.148989+00:00,meta,llama3.1:405B-turbo,0,3446,214,Prioritizing radical CO2 reduction and community-based adaptation policies for effective climate change mitigation.
+8783cd15-2c06-4580-8b0c-b4f06ca8311c,2025-04-02 12:17:07.455611+00:00,meta,llama3.1:405B-turbo,0,3444,210,Prioritized policies that reduce CO₂ emissions and promote adaptation and resilience.
+e29b391b-2377-42b3-a3fe-6c25088956a3,2025-04-02 12:17:11.742335+00:00,meta,llama3.1:405B-turbo,0,3444,210,Prioritized policies that reduce CO2 emissions and promote adaptation and resilience.
+ddf5317c-cafd-4e11-a524-71e09e7e19c9,2025-04-02 12:17:16.391157+00:00,meta,llama3.1:405B-turbo,0,3444,212,Prioritized policies that reduce CO₂ emissions and enhance resilience to climate change impacts.
+86f743a5-18dd-429a-9612-f3cd3ed05984,2025-04-02 12:17:20.815702+00:00,meta,llama3.1:405B-turbo,0,3444,214,Prioritized proactive and adaptive policies addressing climate change over inaction or prioritizing economic growth.
+1fccf0c8-5685-4ce8-a1c9-41060c2e09e0,2025-04-02 12:17:25.409107+00:00,meta,llama3.1:405B-turbo,0,3446,212,Prioritizing radical emissions reduction and adaptation policies to address urgent climate change impacts.
+f8dfe8b2-6b7e-42cd-a0bd-6964d3cc1f7f,2025-04-02 12:17:29.890032+00:00,meta,llama3.1:405B-turbo,0,3446,212,Prioritized policies that reduce CO2 emissions and enhance resilience to climate change impacts.
+0d298f77-01a9-4d10-b134-4cffbcb1e29b,2025-04-02 12:17:34.260193+00:00,meta,llama3.1:405B-turbo,0,3446,211,Prioritized policies that address climate change through significant emissions reduction and resilience enhancement.
+be299fd0-b260-4058-bd14-43be78d642f8,2025-04-02 12:17:38.853053+00:00,meta,llama3.1:405B-turbo,0,3446,211,Prioritizing moderate CO2 reduction and adaptation policies for a balanced approach.
+550880c2-2e04-4657-82d2-4caf40855481,2025-04-02 12:17:43.539399+00:00,meta,llama3.1:405B-turbo,0,3446,212,Prioritizing radical emission reduction and community-based adaptation to address climate change effectively.
+bcb308d4-9486-49db-8092-6b3318e5660c,2025-04-02 12:17:48.114359+00:00,meta,llama3.1:405B-turbo,0,3446,217,Prioritizing moderate to radical CO2 reduction and adaptation policies over inaction or prioritizing economic growth.
+cc3538dc-e8c5-48e7-8911-2c819f210518,2025-04-02 12:17:53.227843+00:00,meta,llama3.1:405B-turbo,0,3446,213,Prioritizing radical CO2 reduction and climate resilience over economic growth and inaction.
+6c8dc21d-c7b2-491f-805b-369a8a46ac0f,2025-04-02 12:17:57.825309+00:00,meta,llama3.1:405B-turbo,0,3446,212,Prioritizing radical CO2 reduction and resilience through new technologies and adaptation policies.
+186d9828-a31c-4c57-b183-018bab98b4aa,2025-04-02 12:18:02.313258+00:00,meta,llama3.1:405B-turbo,0,3446,211,Prioritized policies that reduce CO₂ emissions and support climate adaptation and resilience.
+470f1241-6a84-401d-a8b1-42ab2fcaa3be,2025-04-02 12:18:07.101360+00:00,meta,llama3.1:405B-turbo,0,3446,213,Prioritized radical CO2 reduction and community-based adaptation over economic growth and inaction.
+1496afd4-4fae-4401-9584-543a915adb49,2025-04-02 12:18:11.726301+00:00,meta,llama3.1:405B-turbo,0,3446,211,Prioritized policies that reduce CO₂ emissions and support climate adaptation and resilience.
+be20ec09-e91d-480b-a0ed-eb87eddfb33c,2025-04-02 12:18:16.200194+00:00,meta,llama3.1:405B-turbo,0,3444,211,Prioritized policies that reduce CO2 emissions and promote climate resilience and adaptation.
+d17caf5b-cec5-43c2-b1fd-3b19451388a4,2025-04-02 12:18:20.325910+00:00,meta,llama3.1:405B-turbo,0,3446,212,Prioritizing radical CO2 reduction and climate resilience through technology and adaptation policies.
+857d2bd2-e809-4242-9560-72b112ea991f,2025-04-02 12:18:24.704529+00:00,meta,llama3.1:405B-turbo,0,3446,214,Prioritized proactive adaptation and moderate to radical emission reduction policies over economic growth or inaction.
+49b580d0-65f1-43c1-b603-a59c668a86c3,2025-04-02 12:18:29.407161+00:00,meta,llama3.1:405B-turbo,0,3446,212,Prioritizing radical emission reduction and resilience development over economic growth and inaction.
+d4fd7f5c-1b99-4b8a-bc0c-b1d75d52a81f,2025-04-02 12:18:34.912053+00:00,meta,llama3.1:405B-turbo,0,3446,213,Prioritizing proactive adaptation and moderate emissions reduction over inaction or solely economic growth.
+0547a09b-9af3-4c79-99d4-e5b267dc8ea7,2025-04-02 12:18:39.395229+00:00,meta,llama3.1:405B-turbo,0,3446,213,Prioritizing radical CO2 reduction and adaptation policies to address urgent climate change needs.
+d1f6ba8a-9d36-4c7d-8375-fb3e26cc8d94,2025-04-02 12:18:43.810642+00:00,meta,llama3.1:405B-turbo,0,3444,208,Prioritized policies addressing climate change directly and effectively reducing emissions.
+d900bc0b-e7e0-4090-9210-a3dec673db47,2025-04-02 12:18:48.508657+00:00,meta,llama3.1:405B-turbo,0,3444,209,Prioritized proactive and adaptive policies addressing climate change mitigation and resilience.
+919cf6e3-2ab3-46e3-ac0e-3110a0c24790,2025-04-02 12:18:53.024971+00:00,meta,llama3.1:405B-turbo,0,3446,214,Prioritizing moderate CO2 reduction and community-based adaptation over economic growth and inaction.

@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+34b4b22d-d5c5-457f-a47b-5879c8d2c5b7,2025-05-22 17:41:01.832546+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,8843,3727,Favored bold climate action and adaptation; rejected inaction and economic-only focus.
+4452d063-5b0d-4b72-a40e-be2846c4a210,2025-05-22 17:42:16.384096+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,8681,3843,Prioritized ambitious climate action and adaptation over economic focus or inaction.
+57788da3-b2fc-4f09-9e44-79210003a12d,2025-05-22 17:43:25.098186+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,7938,3223,Prioritized tech-enabled resilience and major emissions cuts; status quo and economic focus inadequate.
+4440b429-64b7-4938-b3a5-352853746082,2025-05-22 17:44:24.666736+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,8622,3888,Prioritized ambitious emissions cuts with adaptation; status quo or economics-first approach insufficient.
+e04fb187-3b20-4b62-af0b-fd4a90f0d3a4,2025-05-22 17:45:33.352634+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,10016,4606,Strong climate action and community-based solutions first; status quo and economic priority last.

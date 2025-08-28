@@ -1,0 +1,41 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+60c69386-f35f-4457-8f25-3d4bb9daba47,2025-03-25 21:16:18.932273+00:00,cohere,command-r-08-2024,0,4118.0,235.0,Support.for.adaptation.and.resilience.over.economic.growth.and.CO2.emissions.
+cd21943e-ba24-4bee-818e-1b7d3d5af474,2025-03-25 21:16:24.929259+00:00,cohere,command-r-08-2024,0,4118.0,229.0,"StrongerCO2emissioncuts&adaptationpolicies,prioritisingresilience&communitysupport."
+fa7e7cb7-b42c-4526-bd3c-3399f81130bd,2025-03-25 21:16:31.102198+00:00,cohere,command-r-08-2024,0,4118.0,220.0,"Strongest support for ambitious, holistic adaptation policies."
+69bfbf2f-30d9-46d8-825f-4032faaa7116,2025-03-25 21:16:37.265767+00:00,cohere,command-r-08-2024,0,4118.0,223.0,ModerateCO2cuts&adaptationpoliciesforthegreatergood.
+39c02ed4-006e-4e6e-966a-0246d1ea2a69,2025-03-25 21:16:43.127134+00:00,cohere,command-r-08-2024,0,4118.0,236.0,"Support.for.adaptation.and.mitigation.policies,.prioritising.community.and.environmental.wellbeing."
+85ee2e96-2230-4838-a440-0719a694c4c0,2025-03-25 21:16:49.510691+00:00,cohere,command-r-08-2024,0,4118.0,221.0,"Strongly support resilience, adaptation, and emission cuts."
+a130e71b-018d-45ba-9c9e-b3ef5a47f446,2025-03-25 21:16:55.260836+00:00,cohere,command-r-08-2024,0,4118.0,237.0,Emphasise.adaptation.and.moderate.CO2.cuts.over.economic.growth.and.status.quo.
+53332507-e15f-43f1-9235-e61c3ccda232,2025-03-25 21:17:02.423966+00:00,cohere,command-r-08-2024,0,4118.0,226.0,ModerateCO2cuts&adaptationpoliciesovereconomicgrowth&dramaticcuts.
+b90e9075-a6bc-4f51-8a73-dd3fba6d5a5c,2025-03-25 21:17:08.888497+00:00,cohere,command-r-08-2024,0,4118.0,232.0,Prioritise.Action.Moderate.Emissions.Reductions.Over.Economic.Growth.
+35741fb9-54d0-4692-9e62-453326a155dd,2025-03-25 21:17:15.661643+00:00,cohere,command-r-08-2024,0,4118.0,236.0,"Support.for.adaptation.and.mitigation.policies,.prioritising.community.and.environmental.wellbeing."
+284ffc4f-101f-47fc-b5df-25b646aa7946,2025-03-25 21:17:22.697853+00:00,cohere,command-r-08-2024,0,4118.0,224.0,ModerateCO2cuts&adaptationpoliciesarekeytoresilience.
+4fdd5ee7-7726-42f0-9919-40626b115eb3,2025-03-25 21:17:28.848499+00:00,cohere,command-r-08-2024,0,4118.0,228.0,Support.adaptation.measures.and.emission.cuts.over.economic.growth.
+48956ae9-11ba-4360-9d1d-4336df8d58e7,2025-03-25 21:17:34.239838+00:00,cohere,command-r-08-2024,0,4118.0,237.0,Emphasise.adaptation.and.preparation.over.economic.growth.and.gradual.CO2.reduction.
+68a63bd1-7706-4287-ba55-0c2f14e95b62,2025-03-25 21:17:40.342084+00:00,cohere,command-r-08-2024,0,4118.0,235.0,"Supportive.of.adaptation.and.moderate.CO2.cuts,.prioritising.vulnerable.groups."
+654f0498-e93f-4404-82c8-e444f642ff87,2025-03-25 21:17:46.253266+00:00,cohere,command-r-08-2024,0,4118.0,233.0,"Supportive.of.adaptation.policies,.moderate.CO2.cuts,.and.community.involvement."
+9d3979de-f337-4d41-8ef8-3ab8dd032d84,2025-03-25 21:17:53.221155+00:00,cohere,command-r-08-2024,0,4118.0,239.0,Supportive.of.adaptation.and.resilience.policies.over.economic.growth.and.CO2.emission.cuts.
+3c80f751-27b5-4cd8-8330-5a5426c2577d,2025-03-25 21:17:59.645295+00:00,cohere,command-r-08-2024,0,4118.0,225.0,ModerateCO2cuts&adaptationpoliciesovereconomicgrowth&techdevelopment.
+1d2e5977-7a38-4ac6-ad73-abc36c5dce9f,2025-03-25 21:18:05.740532+00:00,cohere,command-r-08-2024,0,4118.0,220.0,Strongest support for deep emissions cuts and resilience.
+5ea63e66-4b7c-413d-95ca-764eaf099210,2025-03-25 21:18:11.175590+00:00,cohere,command-r-08-2024,0,4118.0,230.0,Prioritise.Moderate.Emphasise.Avoid.Leave.Adapt.Dramatic.
+97cd6bdd-7eab-4efe-9191-eb674a33eae2,2025-03-25 21:18:17.322866+00:00,cohere,command-r-08-2024,0,4118.0,226.0,ModerateCO2cuts&adaptationpoliciesoveremphasisinggrowth&individualactions.
+65d19e26-fff4-454f-b1c2-1dc79cd1881e,2025-03-27 10:23:50.682207+00:00,cohere,command-r-08-2024,0,4118.0,223.0,"I support policies that prioritise adaptation, resilience, and emissions cuts."
+ea3c3eb6-72b3-4fa5-af9b-a4faf414b715,2025-03-27 10:23:56.944546+00:00,cohere,command-r-08-2024,0,4118.0,223.0,"I support policies that prioritise adaptation, resilience, and emissions cuts."
+abee1b09-aa5d-4ec6-b144-a8d4990b109f,2025-03-27 10:24:04.000517+00:00,cohere,command-r-08-2024,0,4118.0,220.0,"Strongest support for ambitious, holistic adaptation policies."
+b888f5db-1872-4f05-8236-654e6f89dc92,2025-03-27 10:24:09.929802+00:00,cohere,command-r-08-2024,0,4118.0,226.0,"Supportiveofadaptation,resilience,CO2cuts,communityinvolvement."
+f86c1077-ce37-4904-9f06-698a86934284,2025-03-27 10:24:15.567586+00:00,cohere,command-r-08-2024,0,4118.0,231.0,Emphasise.adaptation.and.moderate.CO2.cuts.over.economic.growth.
+f062b782-ca1e-422b-bb92-afd7e1914ffc,2025-03-27 10:24:26.131456+00:00,cohere,command-r-08-2024,0,4118.0,229.0,Support.for.strong.action.on.emissions.and.adaptation.policies.
+47e11248-6de4-4ca9-b935-ae7e06e179a6,2025-03-27 10:24:34.551411+00:00,cohere,command-r-08-2024,0,4118.0,227.0,Emphasise.adaptation.and.mitigation.over.economic.growth.
+b82e2b7e-57a4-42f1-9bdd-52e5df3e2b17,2025-03-27 10:24:41.793030+00:00,cohere,command-r-08-2024,0,4118.0,226.0,Strongest.support.for.resilience.and.emission.cuts.
+cdbcc8a2-64f6-4628-b2f6-35416d554344,2025-03-27 10:24:49.050019+00:00,cohere,command-r-08-2024,0,4118.0,223.0,StronglySupportEmissionCuts&CommunityActionsOverEconomicGrowth
+91865bf2-e236-4926-a625-9dc957792588,2025-03-27 10:24:55.905450+00:00,cohere,command-r-08-2024,0,4118.0,230.0,Strongest.support.for.adaptation.policies.and.CO2.emission.cuts.
+ae5f5392-89f9-48b8-8b78-fa9fdd42d71a,2025-03-27 10:43:24.130943+00:00,cohere,command-r-08-2024,0,4118.0,231.0,Support.for.strong.adaptation.policies.and.moderate.CO2.emission.cuts.
+b2564b10-fba9-4ca4-971c-4da62f674489,2025-03-27 10:43:30.121022+00:00,cohere,command-r-08-2024,0,4118.0,233.0,Emphasise.adaptation.mitigation.over.economic.growth.and.CO2.emissions.
+86c5f817-f79d-4e5c-9ff0-0afe7fcb4509,2025-03-27 10:43:36.586246+00:00,cohere,command-r-08-2024,0,4118.0,220.0,"Strongest support for ambitious, holistic adaptation policies."
+4b588b34-0202-4eaa-8f29-2aae199efbde,2025-03-27 10:43:42.949335+00:00,cohere,command-r-08-2024,0,4118.0,226.0,"Supportiveofadaptation,resilience,CO2cuts,communityinvolvement."
+317c6322-4c9b-4181-8f0a-11d62b00c201,2025-03-27 10:43:48.886789+00:00,cohere,command-r-08-2024,0,4118.0,237.0,Emphasise.adaptation.and.moderate.CO2.cuts.over.economic.growth.and.no.action.
+5efd9f36-9519-4014-8238-6a49acfe3319,2025-03-27 10:43:55.543477+00:00,cohere,command-r-08-2024,0,4118.0,221.0,Strongest support for dramatic emissions cuts and adaptation policies.
+4db7e009-3011-416d-bb5b-baae3cb0cd4e,2025-03-27 10:44:23.087696+00:00,cohere,command-r-08-2024,0,4118.0,231.0,Emphasize.adaptation.and.moderate.CO2.cuts.over.economic.growth.
+a7635992-ccc4-4aec-b1b4-1cbd629df413,2025-03-27 10:44:29.149161+00:00,cohere,command-r-08-2024,0,4118.0,221.0,"Strongly support resilience, adaptation, and emission cuts."
+edc03039-606f-42ee-83be-f04669cad0c7,2025-03-27 10:44:38.962908+00:00,cohere,command-r-08-2024,0,4118.0,221.0,Strongest support for deep emissions cuts and adaptation policies.
+82babb54-cdc7-48f9-94d1-f548f7f6da81,2025-03-27 10:44:44.919751+00:00,cohere,command-r-08-2024,0,4118.0,228.0,Stronger.Moderate.Planning.Drastic.Resilience.Status.Economic.

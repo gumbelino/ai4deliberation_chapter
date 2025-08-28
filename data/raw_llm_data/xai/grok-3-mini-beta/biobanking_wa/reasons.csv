@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d0ca75af-7af0-4c4a-a7bc-9041f4e49422,2025-04-11 16:04:21.579656+00:00,xai,grok-3-mini-beta,0,4832,297,"I prioritize strong regulation, public funding, and privacy for ethical biobanking."
+fcbebf82-eaf2-48ec-be9e-243e8397b737,2025-04-11 16:04:43.290157+00:00,xai,grok-3-mini-beta,0,4832,294,I support policies with strong regulation to ensure ethical oversight and privacy.
+d8e56430-133f-48ba-bb7f-def4cfc26c75,2025-04-11 16:05:03.790743+00:00,xai,grok-3-mini-beta,0,4832,295,I prioritize public funding with strong regulation for better ethical oversight and privacy.
+2d11e3d1-d737-4ec3-8b59-73d9d4b902f8,2025-04-11 16:05:26.877192+00:00,xai,grok-3-mini-beta,0,4832,295,"I prioritize strong regulation, public funding, and privacy for ethical oversight."
+f0dafff6-26f1-4400-9bfb-9320b4b6eff7,2025-04-11 16:05:47.874042+00:00,xai,grok-3-mini-beta,0,4832,303,"I support policies with strong regulation, public funding, and high privacy to ensure ethical and equitable biobanking."
+3d08820b-ee01-42ac-b976-727f7c18aeb3,2025-04-11 16:06:08.354125+00:00,xai,grok-3-mini-beta,0,4832,299,"I prioritize privacy, strong oversight, and public funding over minimal regulation in biobanks."
+98efef39-85ad-4146-8aa1-368bc9b41bf8,2025-04-11 16:06:31.288908+00:00,xai,grok-3-mini-beta,0,4832,303,"I support policies with strong regulation, public funding, and high privacy due to emphasis on ethical oversight and protection."
+98f8851a-4fa8-43ee-a826-6a938d8537f6,2025-04-11 16:06:54.534949+00:00,xai,grok-3-mini-beta,0,4832,293,I prioritize privacy and strong oversight for ethical biobanking.
+963489ee-43fd-4ba2-bee8-76a2cad65833,2025-04-11 16:07:15.132602+00:00,xai,grok-3-mini-beta,0,4829,296,"I prioritize privacy, regulation, and public funding for ethical biobanking."
+9596f00e-d473-48eb-9490-19c9a3cf02db,2025-04-11 16:07:37.160221+00:00,xai,grok-3-mini-beta,0,4832,296,I support policies with strong regulation and public funding for better oversight and privacy.
+a849f4ee-885c-4822-a305-c9f52b192f7b,2025-04-11 16:07:59.560601+00:00,xai,grok-3-mini-beta,0,4832,297,I support policies with strong regulation and public funding for better privacy and ethical oversight.
+9ebf19f0-50ca-4ceb-b86d-9528d6bf91ce,2025-04-11 16:08:22.509191+00:00,xai,grok-3-mini-beta,0,4832,300,"I prioritize government oversight, privacy, and public funding due to trust in regulation and ethical concerns."
+fdc4de85-a86a-4394-91eb-a0a6314394b6,2025-04-11 16:08:43.812037+00:00,xai,grok-3-mini-beta,0,4832,295,"I prioritize public funding, strong regulations, and privacy for ethical oversight."
+b1290eb3-6b31-4e52-ad74-ae895ad484c7,2025-04-11 16:09:05.979591+00:00,xai,grok-3-mini-beta,0,4829,298,"I support policies with strong regulation, public funding, and high privacy for ethical reasons."
+545232ca-734c-454d-9b46-456b5924d997,2025-04-11 16:09:28.967758+00:00,xai,grok-3-mini-beta,0,4832,296,"I prioritize strong regulation, privacy, and public funding over minimal oversight options."
+b7485b58-e633-4c88-80e7-c2a24fdf227a,2025-04-11 16:09:56.165002+00:00,xai,grok-3-mini-beta,0,4832,299,"Prioritized privacy, ethics, and regulation based on strong support for confidentiality and community oversight."
+ebad2a6b-7597-4610-9abc-3612d9fdcc63,2025-04-11 16:10:21.293623+00:00,xai,grok-3-mini-beta,0,4832,297,I support policies with strong regulation and public funding to ensure privacy and ethical oversight.
+3a93e775-1987-4ef5-88d1-decdcaf69fdc,2025-04-11 16:10:46.398931+00:00,xai,grok-3-mini-beta,0,4832,298,"I support policies with strong regulation, public funding, and high privacy for ethical protection."
+08459810-5292-4b71-8e5f-92bebabfbde8,2025-04-11 16:11:09.727539+00:00,xai,grok-3-mini-beta,0,4832,301,"I support policies with strong regulation, public funding, and high privacy to ensure ethical oversight and protection."
+061d6c2a-e0c6-4286-99bd-e3c0209e6b05,2025-04-11 16:11:31.708929+00:00,xai,grok-3-mini-beta,0,4829,298,"I prioritize public funding and strong regulation for better privacy, oversight, and ethical management."
+7d1062f4-4369-4d3e-88fe-0a8eac8ad338,2025-04-11 16:11:55.423115+00:00,xai,grok-3-mini-beta,0,4832,294,I prioritize public funding and strong regulation for privacy and ethical oversight.
+3200683f-9ac8-472f-b0b9-21a33f285688,2025-04-11 16:12:25.042277+00:00,xai,grok-3-mini-beta,0,4832,302,"I support policies with strong regulation, public funding, and high privacy for ethical and safe biobanking."
+3fcb81e1-4bc3-4166-a777-92de1ea485f7,2025-04-11 16:12:47.208144+00:00,xai,grok-3-mini-beta,0,4832,295,Prioritized strong privacy and government oversight for ethical research and public benefit.
+ab6a95b6-715a-416d-80a7-2f8c544b299a,2025-04-11 16:13:09.398811+00:00,xai,grok-3-mini-beta,0,4832,297,"I prioritize privacy, strong regulation, and public oversight for ethical biobanking."
+9a2f5bd1-a24d-43fe-92e1-ed27c18e1168,2025-04-11 16:13:33.170678+00:00,xai,grok-3-mini-beta,0,4832,296,I support policies with strong regulation and public funding for better privacy and oversight.
+eb0d52a6-32e8-4c84-949e-400cf6d1e60d,2025-04-11 16:13:53.758452+00:00,xai,grok-3-mini-beta,0,4832,295,"Prioritized privacy, regulation, and public funding due to ethical concerns."
+2464b8cd-7102-42cb-942f-1f17b4b8a0fa,2025-04-11 16:14:19.803918+00:00,xai,grok-3-mini-beta,0,4832,295,I prioritize public funding with strong regulation for enhanced privacy and ethical oversight.
+4cfb5f3b-6778-4769-a180-546a630488d1,2025-04-11 16:14:44.381255+00:00,xai,grok-3-mini-beta,0,4832,298,"I ranked policies emphasizing strong regulation, public funding, and high privacy for ethical oversight."
+80c21f16-e5c5-48a5-9c2a-41c69c6043ca,2025-04-11 16:15:06.872143+00:00,xai,grok-3-mini-beta,0,4832,294,I prioritize public funding and strong regulations for ethical oversight and privacy.
+22123afd-23f7-4cb8-a0c4-c140c697f9c5,2025-04-11 16:15:32.362345+00:00,xai,grok-3-mini-beta,0,4832,300,"I support policies with strong regulation, public funding, and high privacy for ethical oversight and protection."

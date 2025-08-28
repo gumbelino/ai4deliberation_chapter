@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+175d387e-31cb-44e8-8aa7-100f6babf93a,2025-05-29 15:43:24.485799+00:00,anthropic,claude-sonnet-4-20250514,0,4607,294,I prioritize clinical oversight and community input while supporting therapeutic uses over enhancement or profit-driven applications.
+b3aa7336-1c17-4271-bfc7-029392598b66,2025-05-29 15:43:36.672704+00:00,anthropic,claude-sonnet-4-20250514,0,4607,288,I prioritize medical treatments with oversight while opposing profit-driven enhancement uses
+e7fbedef-fce3-4aa4-ac5c-3dec075b0405,2025-05-29 15:43:48.761607+00:00,anthropic,claude-sonnet-4-20250514,0,4607,290,I support clinical treatments with oversight but oppose heritable editing and profit-driven applications
+f13b259c-aed2-4c26-a139-ebbb3fa9c6b6,2025-05-29 15:44:00.779313+00:00,anthropic,claude-sonnet-4-20250514,0,4607,289,I support clinical genome editing with oversight while opposing profit-driven and enhancement uses
+e371c654-92be-40df-b614-86476775984a,2025-05-29 15:44:14.546995+00:00,anthropic,claude-sonnet-4-20250514,0,4607,291,I support regulated clinical genome editing with oversight while opposing unrestricted use and prohibition.

@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d4c5fc0b-8739-4628-80c7-d60274457016,2025-04-02 11:11:01.447772+00:00,qwen,qwq-plus,0,3756,4374,"Prioritize environmental protection, phase out coal, support sustainable industries, and strengthen regulations."
+8274ae61-70cb-4d68-8389-a806eb673f89,2025-04-02 11:12:32.951106+00:00,qwen,qwq-plus,0,3756,3811,"Prioritize reef protection over coal, support sustainable industries."
+e62b0895-567b-4be6-a0e2-17e8d4769665,2025-04-02 11:13:52.929053+00:00,qwen,qwq-plus,0,3756,2832,"Prioritize strong environmental regulations, phase out coal, and invest in sustainable industries over maintaining current practices."
+375e267b-4337-4240-80fe-cf775a3c46db,2025-04-02 11:14:53.841709+00:00,qwen,qwq-plus,0,3756,4860,Prioritize environmental protection and sustainable industries over mining and reduced regulations.
+eb6fbbdb-7ea0-470b-8c6e-a8c1781dee4c,2025-04-02 11:16:34.818081+00:00,qwen,qwq-plus,0,3756,5888,"Balancing economic needs with environmental protection, prioritizing current industries while advancing sustainable practices."
+cbae5a04-36b5-4299-9943-c95ddfb6c917,2025-04-02 21:06:42.895361+00:00,qwen,qwq-plus,0,3756,3999,"Prioritizes eco-innovation and coal phaseout, regulates industries, opposes deregulation."
+5b8b5345-c8e2-4781-9e28-17ad8a6cdbe0,2025-04-02 21:08:05.897593+00:00,qwen,qwq-plus,0,3756,6144,"supports environmental protection, phasing out coal, and eco-innovation while balancing economic concerns."
+f601e2d3-019b-41c3-a2a9-4549df3c1a6b,2025-04-02 21:10:13.322322+00:00,qwen,qwq-plus,0,3756,2768,Prioritize environmental protection and sustainable industries over extractive sectors and coal expansion.
+7ca26145-12b0-4675-9f65-deb4eaad0c88,2025-04-02 21:11:11.684973+00:00,qwen,qwq-plus,0,3756,3816,Prioritize environmental protection and green innovation over lax regulations and coal expansion.
+0027a0f5-990e-4dd2-9780-5b225029858e,2025-04-02 21:12:31.623773+00:00,qwen,qwq-plus,0,3756,4359,Prioritizes environmental protection via regulation and innovation while balancing economic needs.
+d05909d7-7195-4002-8319-33619db59204,2025-04-02 21:14:02.627673+00:00,qwen,qwq-plus,0,3756,4791,Prioritize coal phaseout and reef protection; cautiously reduce regulations.
+283cbf80-3b1a-4a33-b45e-770b5493bcd4,2025-04-02 21:15:41.504088+00:00,qwen,qwq-plus,0,3756,7093,"Prioritizes climate action, reef protection, and phasing out coal over lax regulations and mining expansion."
+6b26daf5-c8d4-4c15-9f6a-ac347b9f610c,2025-04-02 21:18:08.573707+00:00,qwen,qwq-plus,0,3756,2825,Prioritizes climate action and environmental protection over coal and lax regulations.
+7b1743aa-0c44-4f0c-9357-eb6e8a710b81,2025-04-02 21:19:07.951946+00:00,qwen,qwq-plus,0,3756,3908,"Prioritize environmental protection over economic growth, favoring sustainable practices."
+ae1bbccc-77c3-4696-bddf-d5c6fd79c52b,2025-04-02 21:20:29.594550+00:00,qwen,qwq-plus,0,3756,2505,Prioritize environmental protection and sustainable industries; oppose regulatory cuts and fossil fuels.
+74f1266a-a261-4817-8d94-47ebb3b86ed5,2025-04-03 13:05:23.888976+00:00,qwen,qwq-plus,0,3756,3740,Prioritize environmental protection and climate action over coal and lax regulations.
+32dacbc9-3ea2-40a7-9ce3-30adf79588e4,2025-04-03 13:06:42.645165+00:00,qwen,qwq-plus,0,3756,3430,Prioritize environmental protection and sustainable industries over mining expansion.
+e9fc7f71-0da0-4202-abeb-25b8077c2a99,2025-04-03 13:07:54.817371+00:00,qwen,qwq-plus,0,3756,4822,Prioritize climate action and green industries over coal and relaxed regulations.
+683495e7-4828-4eae-8539-cedc8002cc7e,2025-04-03 13:09:38.367933+00:00,qwen,qwq-plus,0,3756,3171,"Prioritize environmental protection over economy; support green initiatives, oppose relaxed regulations."
+dd446a73-bb5f-41a3-b8e0-a6461dd6cbc6,2025-04-03 13:10:45.083399+00:00,qwen,qwq-plus,0,3756,4930,"Prioritize reef/climate protection, oppose coal, support sustainable industries over deregulation."
+2492bb02-07d3-44b4-9d06-ab223f1ad62c,2025-04-03 13:12:27.309432+00:00,qwen,qwq-plus,0,3756,4276,Prioritize climate action and reef protection over industry deregulation.
+182ea946-6df9-435a-9108-c528cc67add8,2025-04-03 13:13:56.591364+00:00,qwen,qwq-plus,0,3756,3521,"Prioritize eco-innovation, strict regulations, phase out coal, oppose reduced protections."
+d9667199-e1be-4d14-beba-2b7720f33019,2025-04-03 13:15:10.730833+00:00,qwen,qwq-plus,0,3756,4849,"Prioritize climate action, reef protection over coal and reduced regulations."
+a60da70e-4d25-4222-952b-f2727cc44a31,2025-04-03 13:16:51.732153+00:00,qwen,qwq-plus,0,3756,5074,Supports current industries but strengthens environmental protections and phases out coal.
+286d3ec5-f293-4966-a642-00b7cd6e9791,2025-04-03 13:18:36.509815+00:00,qwen,qwq-plus,0,3756,2892,"Prioritize environmental protection, phase out coal, invest in sustainable industries."
+ecf6c0e5-919c-4728-896c-0359419efc68,2025-04-03 13:19:37.783831+00:00,qwen,qwq-plus,0,3756,8186,Prioritizes environmental protection over coal expansion and business deregulation.
+363dcd87-5b28-4b44-80d4-a329bafb09d5,2025-04-03 13:22:27.638564+00:00,qwen,qwq-plus,0,3756,4606,"Prioritize environmental protection, phase out coal, invest in sustainability."
+43e87622-4e00-4218-9726-096362c23064,2025-04-03 16:47:57.536156+00:00,qwen,qwq-plus,0,3756,4565,Prioritize environmental protection and sustainable industries over coal expansion and reduced regulations.
+cb8eb241-a045-49c5-afc2-06596e2dc181,2025-04-03 16:49:32.984010+00:00,qwen,qwq-plus,0,3756,3405,Prioritize environmental protection and sustainable innovation over reduced regulations or coal expansion.
+aeaf3df1-3756-4555-bf30-4187cd267b0b,2025-04-03 16:50:44.743088+00:00,qwen,qwq-plus,0,3756,3707,"Prioritize reef protection via stronger regulations, balance current industries."
+00d675d8-04e1-429b-b8b7-8e5dbc77e5c3,2025-04-03 16:52:02.655763+00:00,qwen,qwq-plus,0,3756,4667,"Prioritize reef protection over coal; support strong regulations, oppose reduced environmental rules."

@@ -1,0 +1,3 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+2e55add9-0b2a-44d5-b6c5-3c7e70172554,2025-03-24 22:17:59.876983+00:00,cohere,command-r,0,4044.0,249.0,Environmental protection and regulation strengthening are prioritised over economic development in my rankings.
+58adc747-d20d-4b15-8d56-7c080e5d8cc4,2025-03-24 22:18:13.848447+00:00,cohere,command-r,0,4042.0,252.0,"Environmental protection and regulation enhancements top my agenda, followed by a balanced approach supporting sustainable development."

@@ -1,0 +1,20 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Management that favors aggressive reduction of hazardous fuels,P2. Management that favors thinning treatments to realize economic gain.,"P3. Management that favors treatments to restore structure, function and composition of the forest to presettlement conditions, and allowing the introduction of fire as a natural disturbance.",P4. No fire or fuels management. Leaving the forests as they stand without active management.,P5. Management that favors local-based harvesting for fuel and timber needs.,P6. Management that favors the protection of wildlife and wildlife habitat.,"P7. Management that prioritizes the location and level of treatments favoring both ecological and social values (i.e. wildlife, watersheds, community protection, special cultural places)."
+abee2002-2067-4f88-b53b-4f1c1c3088b9,2025-03-25 15:15:14.310107+00:00,mistralai,open-mistral-7b,0,5285,374,2,3,7,1,4,5,6
+b60026a4-78c5-480c-9017-831c093d16e1,2025-03-27 12:58:27.019843+00:00,mistralai,open-mistral-7b,0,5283,378,1,7,4,3,2,5,6
+70207c13-41c0-4beb-bec6-9cb32f73717f,2025-03-27 12:58:38.322891+00:00,mistralai,open-mistral-7b,0,5235,340,3,5,2,6,4,7,1
+9ae326df-9acd-4590-a8cb-353addb74f9f,2025-03-27 12:58:42.696613+00:00,mistralai,open-mistral-7b,0,5260,352,2,6,3,7,5,4,1
+8ca582fa-78b5-4859-a7be-b6f22f16fd0d,2025-03-27 12:58:47.305170+00:00,mistralai,open-mistral-7b,0,5252,364,2,5,1,7,4,3,6
+3aed2ed4-de54-4adb-9803-2206da4b0900,2025-03-27 12:59:00.802570+00:00,mistralai,open-mistral-7b,0,5262,356,1,6,4,7,5,3,2
+d9629f59-06f4-4c6e-baff-ab013e15839e,2025-03-27 12:59:16.439224+00:00,mistralai,open-mistral-7b,0,5256,360,5,4,6,7,2,3,1
+f44323b0-ff17-483f-8c49-7882db6c5385,2025-03-27 12:59:22.905372+00:00,mistralai,open-mistral-7b,0,5258,332,1,3,2,7,6,4,5
+8bc1995c-e080-4552-a8fe-6a9a57ceceae,2025-03-27 12:59:51.179900+00:00,mistralai,open-mistral-7b,0,5248,339,5,6,4,7,1,3,2
+5a98f902-f0f2-4a36-841d-a4dbcb6224ce,2025-04-03 08:18:33.377224+00:00,mistralai,open-mistral-7b,0,5271,354,4,5,2,7,3,6,1
+008ffde7-fc63-4640-8992-5b5de9f72884,2025-04-03 08:18:59.613315+00:00,mistralai,open-mistral-7b,0,5274,365,1,6,5,7,2,4,3
+20358335-a202-454b-8cd9-70fe60d9662d,2025-04-03 08:19:11.168944+00:00,mistralai,open-mistral-7b,0,5283,381,1,7,4,3,2,5,6
+c440da1e-d30f-47ac-b593-0e2a79e515e7,2025-04-03 08:19:22.674576+00:00,mistralai,open-mistral-7b,0,5235,343,3,5,2,6,4,7,1
+11e8123d-20f1-4a88-aad5-19de166fe6d8,2025-04-03 08:19:27.139748+00:00,mistralai,open-mistral-7b,0,5260,355,2,6,3,7,5,4,1
+418eb95e-bb11-4dfa-a840-d11918a0bb11,2025-04-03 08:19:31.364380+00:00,mistralai,open-mistral-7b,0,5252,366,2,5,1,7,4,3,6
+d3a84433-0b66-4229-8bcd-e92ffe296ead,2025-04-04 12:59:20.253822+00:00,mistralai,open-mistral-7b,0,5273,397,2,3,4,7,6,5,1
+399d2789-7ae0-4b2f-bcaa-6894fe32bad9,2025-04-04 12:59:40.857245+00:00,mistralai,open-mistral-7b,0,5276,383,3,7,5,4,6,2,1
+f7ad9d28-f3c4-4e75-8153-3c3840cc7712,2025-04-04 12:59:45.601722+00:00,mistralai,open-mistral-7b,0,5246,343,3,5,1,7,2,6,4
+987fbd8c-c820-44ea-8ff2-4220fa506460,2025-04-04 12:59:52.124752+00:00,mistralai,open-mistral-7b,0,5282,356,4,7,1,3,6,2,5

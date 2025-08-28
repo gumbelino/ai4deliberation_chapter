@@ -1,0 +1,2 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+ef2b770e-3d75-468c-9075-aa77a51fb11e,2025-03-27 17:57:58.628559+00:00,qwen,qwen1.5-110b-chat,0,4814,343,"Ranked based on support for holistic, ecologically sound practices that integrate community safety, economic benefits, and conservation, while acknowledging the importance of natural disturbance regimes like fire."

@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+675724b7-fafd-4f80-9529-e61d3ce17b68,2025-04-01 14:23:53.520970+00:00,openai,o3-mini,0,3314,5109,I prioritized adaptive resilience policies over strict emissions cuts and pro-growth bias.
+5bdd191b-55de-48b4-83ad-c696da031706,2025-04-01 14:24:28.831421+00:00,openai,o3-mini,0,3314,4533,I supported proactive adaptation and resilience measures over economic growth and inaction.
+b258638e-a802-4abc-ad8b-08d2ac2aa3d3,2025-04-01 14:25:05.540903+00:00,openai,o3-mini,0,3314,5492,I prioritized adaptation and community measures with modest emission cuts over growth.
+cfb27267-cf3a-4ebe-9e8a-01f45f61520b,2025-04-01 14:25:56.209428+00:00,openai,o3-mini,0,3314,5685,Ratings emphasize adaptation and resilience over aggressive emissions cuts or no change.
+ae6dadf4-a1ab-4474-a194-dfc934c236d5,2025-04-01 14:26:40.284136+00:00,openai,o3-mini,0,3314,5749,I prioritized policies boosting adaptation and resilience while supporting moderate CO2 cuts.

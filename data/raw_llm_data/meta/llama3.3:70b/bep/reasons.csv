@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+80b8aa54-e00f-4e51-8452-dd6daa10283a,2025-04-02 10:37:36.833383+00:00,meta,llama3.3:70b,0,4282,257,Prioritizing sustainability and regulation
+4165ed37-062e-4404-b22e-6d2d9455a991,2025-04-02 10:37:49.138066+00:00,meta,llama3.3:70b,0,4282,257,Prioritizing sustainability and regulation
+3bbbaa15-005c-405b-ac66-adab07b4d28e,2025-04-02 16:09:20.124826+00:00,meta,llama3.3:70b,0,4282,257,Prioritizing sustainability and regulation
+0c1ff9b9-a333-429e-aece-aa588b2bb789,2025-04-02 16:09:32.067436+00:00,meta,llama3.3:70b,0,4282,258,Prioritizing sustainability and local production
+b03c8700-75be-4827-9dca-2ef217f792b4,2025-04-02 16:09:54.434963+00:00,meta,llama3.3:70b,0,4279,257,Prioritizing sustainability and regulation
+1e0641d0-349b-45a2-86c9-841720b77c25,2025-04-02 16:10:08.059063+00:00,meta,llama3.3:70b,0,4282,257,Supported sustainable regulations and incentives.
+7e5a88ea-144b-4944-aed0-a9732a345d77,2025-04-02 16:10:33.626030+00:00,meta,llama3.3:70b,0,4279,254,Supported sustainable policies
+4dd74701-aa80-4047-9e9f-18ef492ede3b,2025-04-02 16:10:44.165863+00:00,meta,llama3.3:70b,0,4279,258,Supported sustainable regulations and local production incentives
+bf7407ed-9c50-4c85-bf71-51994b16ca04,2025-04-02 16:10:54.670469+00:00,meta,llama3.3:70b,0,4282,258,Prioritizing sustainability and local production
+0ccf01d1-0443-4263-a887-3aa1543e20e8,2025-04-02 16:11:10.448643+00:00,meta,llama3.3:70b,0,4282,258,Prioritizing sustainability and local production
+133ea964-64f6-49fc-b430-6897f6166386,2025-04-02 16:11:21.133630+00:00,meta,llama3.3:70b,0,4282,257,Prioritizing sustainability and regulation
+8eae590b-44bb-44c7-a959-9f425783d2b1,2025-04-02 16:11:41.763663+00:00,meta,llama3.3:70b,0,4282,254,Supported sustainable policies
+312a16c6-fe78-40fb-a8ee-c7b518fc54d0,2025-04-02 16:12:04.896247+00:00,meta,llama3.3:70b,0,4282,257,Prioritizing sustainability and regulation
+129c115d-0f94-4365-b124-8d2d04c216dd,2025-04-02 16:12:21.013135+00:00,meta,llama3.3:70b,0,4282,254,Support sustainable regulations
+2b8d8095-97e2-480b-bc73-1a1efe00eb6b,2025-04-02 16:12:38.616450+00:00,meta,llama3.3:70b,0,4282,257,Prioritizing sustainability and regulation
+a5194ded-d991-44ab-9ee4-32652d9e32bd,2025-04-02 16:12:56.851658+00:00,meta,llama3.3:70b,0,4282,255,Supported sustainable food policies
+d7e65844-34f3-4773-86ed-4cd2f285bf1c,2025-04-02 16:13:14.353665+00:00,meta,llama3.3:70b,0,4279,257,Supported sustainable policies over lax regulations
+406187c1-0cba-4e2a-9c69-79084ca4e4e1,2025-04-02 16:13:25.857331+00:00,meta,llama3.3:70b,0,4282,257,Prioritizing sustainability and regulation
+eba18ab2-d64c-4107-b82a-aa2b3b3189e2,2025-04-02 16:13:41.061006+00:00,meta,llama3.3:70b,0,4279,257,Prioritizing sustainability and regulation
+0b0d0b0f-112e-4bb7-be85-a9d76afc2a74,2025-04-02 16:14:06.620411+00:00,meta,llama3.3:70b,0,4282,257,Prioritizing sustainability and regulation
+9ff59763-a055-4b7c-bcef-d11d85960d09,2025-04-02 16:14:21.469859+00:00,meta,llama3.3:70b,0,4282,255,Supported sustainable food policies
+f0aa86f9-ddfd-49be-9a4d-7632a588c459,2025-04-02 16:14:34.179154+00:00,meta,llama3.3:70b,0,4282,255,Prioritizing sustainability
+f1f43c7f-f8e3-4f99-858e-6264ddb7435c,2025-04-02 16:14:48.628506+00:00,meta,llama3.3:70b,0,4282,257,Prioritizing sustainability and regulation
+2f9a9772-1b03-435c-ac69-30a69917241c,2025-04-02 16:14:58.673087+00:00,meta,llama3.3:70b,0,4282,258,Prioritizing sustainability and local production
+cfed2673-8d66-4141-abb4-79a81812dff2,2025-04-02 16:15:12.714896+00:00,meta,llama3.3:70b,0,4282,257,Prioritizing sustainability and regulation
+5c02b504-2101-4bee-8820-bbc722b9337e,2025-04-02 16:15:24.974862+00:00,meta,llama3.3:70b,0,4282,257,Prioritizing sustainability and regulation
+433558db-c886-43dc-adbb-fe34de75297d,2025-04-02 16:15:39.762730+00:00,meta,llama3.3:70b,0,4279,257,Prioritizing sustainability and regulation
+4d5a1e39-2800-4837-93fd-0a3dbf068c15,2025-04-02 16:16:08.551841+00:00,meta,llama3.3:70b,0,4282,257,Prioritizing sustainability and regulation
+8106aeb1-919a-42b8-9e44-627fb5daed80,2025-04-02 16:52:02.470430+00:00,meta,llama3.3:70b,0,4282,257,Prioritizing sustainability and regulation
+bc69eb7e-841c-4e1d-b2cc-6a9cb54c372d,2025-04-02 16:52:12.401787+00:00,meta,llama3.3:70b,0,4282,258,Prioritizing sustainability and local production

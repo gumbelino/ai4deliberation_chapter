@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+1b720d90-8d62-48b6-88f0-ef9a0a156937,2025-05-21 11:46:11.108586+00:00,xai,grok-3-mini-fast-beta-r=high,0,14542,248,"Prioritized environmental protection, ranking closure highest and upgrades lowest."
+27b1d02d-da95-49c9-911d-6d3006d18e3d,2025-05-21 11:46:45.749231+00:00,xai,grok-3-mini-fast-beta-r=high,0,13039,249,"Prioritized environmental protection, ranking road closure highest and upgrades lowest."
+7b783c13-de0f-44fc-8a6f-84c6b4e9b145,2025-05-21 11:47:20.502293+00:00,xai,grok-3-mini-fast-beta-r=high,0,14250,252,"Ranked policies prioritizing environmental conservation, with road closure most supported and upgrades least."
+e725856f-f8bb-423f-b505-b30165a4470d,2025-05-21 11:47:52.969799+00:00,xai,grok-3-mini-fast-beta-r=high,0,14056,248,"Prioritized environmental protection: closure ranked highest, bitumen lowest."
+5f9379da-d17d-4fcf-91c0-f2d42a649422,2025-05-21 11:48:28.468665+00:00,xai,grok-3-mini-fast-beta-r=high,0,11378,249,"Prioritized environmental conservation, supporting closure most and road upgrades least."

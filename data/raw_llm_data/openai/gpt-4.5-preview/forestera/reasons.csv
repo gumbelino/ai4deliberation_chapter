@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+eef72ff0-45e9-47f6-bfd8-1555c969bb0d,2025-04-08 14:31:58.485227+00:00,openai,gpt-4.5-preview,0,4544,276,"Balanced ecological, local use, wildlife protection prioritized; oppose no-management approach."
+5f34c7f9-5d4e-416e-8b17-1e5905bd980a,2025-04-08 14:32:30.511208+00:00,openai,gpt-4.5-preview,0,4544,274,Balanced ecological-social values and wildlife protection prioritized over economic-only goals.
+48decf96-7b46-43ca-a678-fe0e92972069,2025-04-08 14:33:06.459514+00:00,openai,gpt-4.5-preview,0,4544,276,"Balanced ecological, wildlife, and community values prioritized; no action least supported."
+e9f34506-0abd-448f-aec7-73b65b216d9c,2025-04-08 14:33:47.310186+00:00,openai,gpt-4.5-preview,0,4544,276,"Balanced ecological, wildlife, and community values prioritized over economic or no management."
+c38c07a0-76a0-4b6f-937b-12e8e7a631ca,2025-04-08 14:34:26.498959+00:00,openai,gpt-4.5-preview,0,4542,274,Balanced ecological-social values and restoration prioritized; no-action least supported.
+98f19016-628e-46ef-a66b-8143827962b8,2025-04-10 08:02:07.108176+00:00,openai,gpt-4.5-preview,0,4544,275,"Balanced local use, ecological restoration, wildlife protection prioritized over economic gain."
+65ed8b47-2def-4b65-9fa2-6ad88d83cddf,2025-04-10 08:02:26.730103+00:00,openai,gpt-4.5-preview,0,4544,274,Balanced ecological-social values and wildlife protection prioritized; no passive management.
+20d29918-2eb7-468c-9510-52de1a01489c,2025-04-10 08:02:49.883353+00:00,openai,gpt-4.5-preview,0,4544,276,"Balanced ecological, wildlife, and community values prioritized over economic or no management."
+6e91aa20-7891-42f5-af57-b38cc7578f30,2025-04-10 08:03:07.598250+00:00,openai,gpt-4.5-preview,0,4544,276,"Balanced ecological, social values prioritized; wildlife protection and local use also important."
+9159d617-05af-4fcb-9a35-c810fdbf732e,2025-04-10 08:03:28.564123+00:00,openai,gpt-4.5-preview,0,4542,274,Balanced ecological-social values and restoration preferred; no management least supported.

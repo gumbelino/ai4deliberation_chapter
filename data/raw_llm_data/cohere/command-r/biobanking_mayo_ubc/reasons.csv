@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+54f43073-2f7a-4f8b-97fd-6286c9d8b3bf,2025-03-24 22:10:24.972807+00:00,cohere,command-r,0,4108.0,291.0,"Privacy and community benefits are my top priorities, so 1st and 2nd ranks go to individual and community-focused policies."
+21dd06d9-f56e-4342-af66-8e8b30d4298e,2025-03-24 22:10:29.709744+00:00,cohere,command-r,0,4104.0,281.0,"Privacy and community benefits are my top priorities, so 2 and 3 are ranked highly."
+2a278790-c4ee-4822-ae46-6b0eae6bb264,2025-03-24 22:10:34.388936+00:00,cohere,command-r,0,4129.0,295.0,"My ratings prioritize societal benefit, ethical research, and community engagement over strict privacy and individual consent."
+17dd5220-578f-4e53-9143-6e5e84f1491c,2025-03-24 22:10:42.175098+00:00,cohere,command-r,0,4122.0,295.0,"Privacy and community benefits are most important, so 2 is best. Authorization should be prioritized with oversight by ethics boards."
+14c5fa37-66fa-4229-9d97-3ff193eb573e,2025-03-24 22:10:46.924325+00:00,cohere,command-r,0,4112.0,283.0,"Privacy and individual consent are important, but so are societal benefits and ethical research oversight."
+f45485c0-6e59-4af2-802c-343ed933ad09,2025-03-24 22:10:51.548671+00:00,cohere,command-r,0,4112.0,284.0,"Privacy and individual consent are important, but so are societal benefits and oversight to prevent discrimination."
+def8384e-4dd2-4527-af17-e9b4318b97ff,2025-03-24 22:10:56.211719+00:00,cohere,command-r,0,4117.0,287.0,"Privacy and individual consent are important, but so are societal benefits and ethical research oversight."
+875c4dd4-7116-4499-baac-9e2306567f60,2025-03-24 22:11:00.980958+00:00,cohere,command-r,0,4119.0,294.0,"Privacy and community benefits are most important, so 1st and 2nd ranks go to policies emphasizing these."
+1dbb2a4f-e027-4173-9147-c1f194ac162b,2025-03-24 22:11:05.760312+00:00,cohere,command-r,0,4120.0,286.0,"Privacy and individual consent are important, but so are societal benefits and discrimination prevention."
+b1d626ee-a8ad-4a27-84fb-4e6724e631a4,2025-03-24 22:11:10.479056+00:00,cohere,command-r,0,4124.0,292.0,Ensuring community benefits & ethical research oversight while prioritizing societal gains & minimizing discrimination are my top ratings.

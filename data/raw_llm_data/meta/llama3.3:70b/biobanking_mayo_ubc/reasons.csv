@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+8bf6aa57-8797-4701-95a3-eb27b2b6fd54,2025-04-02 10:33:27.183618+00:00,meta,llama3.3:70b,0,3748,232,Prioritizing ethics and oversight
+14598b7d-d6e9-44e5-8601-ad6599bb1fbf,2025-04-02 10:33:48.234753+00:00,meta,llama3.3:70b,0,3748,232,Prioritizing ethics and oversight
+4643199c-9754-4a87-a72c-d268d59f2334,2025-04-02 11:41:33.655015+00:00,meta,llama3.3:70b,0,3745,233,Prioritizing oversight and individual privacy
+914aa452-7b79-45d0-88a3-688a1d7a48d3,2025-04-02 11:41:47.605370+00:00,meta,llama3.3:70b,0,3745,232,Prioritizing ethics and oversight
+77f62460-1b05-42ad-ba87-f180220885f4,2025-04-02 11:42:02.140751+00:00,meta,llama3.3:70b,0,3745,232,Prioritizing ethics and oversight
+6e00d318-bfc4-4321-9495-e46adb377f96,2025-04-02 11:42:13.319241+00:00,meta,llama3.3:70b,0,3745,232,Prioritizing ethics and oversight
+7f131745-cd03-44ce-835e-78f99bfd9d15,2025-04-02 11:42:25.850279+00:00,meta,llama3.3:70b,0,3745,232,Prioritizing ethics and oversight
+0391307f-5bea-448b-b111-35b810a8b6f3,2025-04-02 11:42:40.701673+00:00,meta,llama3.3:70b,0,3745,233,Prioritizing individual consent and oversight
+d91a908f-a37b-45ea-b694-23336fa5d66b,2025-04-02 11:42:50.258757+00:00,meta,llama3.3:70b,0,3748,232,Prioritizing ethics and oversight
+30d690fb-2cc4-4e10-a0dd-8709f421b0a1,2025-04-02 11:43:07.533920+00:00,meta,llama3.3:70b,0,3748,233,Prioritizing oversight and individual authorization
+39e2619a-0216-4e14-b5b8-b65fe884d8fd,2025-04-02 11:43:21.687751+00:00,meta,llama3.3:70b,0,3745,232,Prioritizing ethics and oversight
+d4911b1b-1afb-4dc9-aca5-426e435ff3c2,2025-04-02 11:43:32.999493+00:00,meta,llama3.3:70b,0,3748,233,Prioritizing individual consent and oversight
+89d9da36-0718-4bd4-964b-41d06fd3914a,2025-04-02 11:43:49.760653+00:00,meta,llama3.3:70b,0,3748,233,Prioritizing individual privacy and oversight
+75a2a294-122e-4575-8460-f2b328e16148,2025-04-02 11:44:06.537252+00:00,meta,llama3.3:70b,0,3748,233,Prioritizing individual consent and oversight
+6e40e35e-dbba-4013-adc4-6b32c72a2189,2025-04-02 11:44:18.349696+00:00,meta,llama3.3:70b,0,3748,233,Prioritizing oversight and individual privacy
+c1a94ca7-ef19-40dc-9f2c-88a6364b2f97,2025-04-02 11:44:34.450998+00:00,meta,llama3.3:70b,0,3748,232,Prioritizing ethics and oversight
+f5e0c7ab-edd0-4ad7-acfa-47c149529dd3,2025-04-02 11:44:47.603408+00:00,meta,llama3.3:70b,0,3748,233,Prioritizing individual consent and oversight
+8117413f-8dff-4198-9c2e-3f918326fd85,2025-04-02 11:45:03.756581+00:00,meta,llama3.3:70b,0,3748,232,Prioritizing ethics and oversight
+d9679ffc-0165-4198-bfc0-ccc4f23e3f93,2025-04-02 11:45:15.059295+00:00,meta,llama3.3:70b,0,3745,232,Prioritizing ethics and oversight
+9d56e825-b837-41b2-ac23-61bd875f4e16,2025-04-02 11:45:29.121752+00:00,meta,llama3.3:70b,0,3748,232,Prioritizing ethics and oversight
+a3069fa2-d46e-4870-b83b-0876fd2f3863,2025-04-02 11:45:49.394683+00:00,meta,llama3.3:70b,0,3745,233,Prioritizing individual consent and oversight
+848a83c9-33d8-43e7-af22-8f656d89500a,2025-04-02 11:46:11.725941+00:00,meta,llama3.3:70b,0,3748,232,Prioritizing ethics and oversight
+ce20eb98-fbdf-4e9a-b003-7452de5b2987,2025-04-02 11:46:25.543332+00:00,meta,llama3.3:70b,0,3745,233,Prioritizing individual consent and oversight
+059cc202-6c45-495e-8312-ebce2de347aa,2025-04-02 11:46:41.264700+00:00,meta,llama3.3:70b,0,3745,233,Prioritizing oversight and individual authorization
+6a9d8153-cc8b-4d1f-856f-9bb4f1147f31,2025-04-02 11:46:49.597330+00:00,meta,llama3.3:70b,0,3748,233,Prioritizing oversight and individual consent
+25de8518-18e5-486d-a738-7b02dee0c601,2025-04-02 11:47:07.550686+00:00,meta,llama3.3:70b,0,3748,232,Prioritizing ethics and oversight
+925acbfb-09a9-41c8-8cc0-650c1f8784b5,2025-04-02 11:47:16.177116+00:00,meta,llama3.3:70b,0,3745,232,Prioritizing ethics and oversight
+589792f5-6797-41b8-ac3e-73a453f67bc7,2025-04-02 11:47:32.782708+00:00,meta,llama3.3:70b,0,3745,233,Prioritizing ethics and community benefits
+a28c24f0-b9bd-45e7-adab-dfbbbbcc915c,2025-04-02 11:47:42.874345+00:00,meta,llama3.3:70b,0,3748,233,Prioritizing oversight and individual privacy
+b283479b-65fa-4814-863d-9eaee4f98ed1,2025-04-02 11:47:55.349136+00:00,meta,llama3.3:70b,0,3748,233,Prioritizing oversight and individual consent
+b2aca988-d448-4a3e-9645-e07e58158bea,2025-04-02 11:48:10.939574+00:00,meta,llama3.3:70b,0,3748,233,Prioritizing oversight and individual consent
+6078d328-a21d-4191-84e2-0d7b13386b05,2025-04-02 11:48:36.861041+00:00,meta,llama3.3:70b,0,3748,232,Prioritizing ethics and oversight

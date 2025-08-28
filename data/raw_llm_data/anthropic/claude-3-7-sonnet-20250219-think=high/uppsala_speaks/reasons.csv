@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+90e8deda-48d7-455d-bc9d-65372a8d9b4c,2025-05-22 17:04:58.167858+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,10381,4620,Prioritize direct humanitarian aid and addressing root causes over criminalizing poverty and deportation.
+82f49d9a-74b1-422c-83ec-a357845ba456,2025-05-22 17:07:20.622931+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,10920,4819,Support humanitarian aid and address root causes first; avoid criminalizing poverty or simple deportation.
+17eb2552-321e-45cf-9466-41d785be820c,2025-05-22 17:08:40.015798+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,8954,3669,Support addressing root causes and humane aid over restrictions and deportation.
+9b2b9474-9017-45f0-b240-d26699a95af0,2025-05-22 17:09:39.549328+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,8618,3597,Prioritize addressing root causes while providing humanitarian support over criminalizing poverty.
+0509646e-48e6-4912-95fc-cc825c76bc87,2025-05-22 19:51:43.483853+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,9208,3842,Favor humanitarian aid and addressing root causes over criminalizing poverty.

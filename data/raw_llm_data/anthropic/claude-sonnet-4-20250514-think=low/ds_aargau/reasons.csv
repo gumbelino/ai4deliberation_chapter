@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c74a9e50-401e-4f38-8444-31699395fd44,2025-05-29 14:50:32.928874+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6335,2193,Ranked ambitious climate action highest then adaptation with status quo lowest
+940013b8-cc22-40ad-95a1-c881184b034a,2025-05-29 14:51:25.207220+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5931,2179,Prioritized aggressive emissions cuts and comprehensive adaptation over moderate action and status quo
+3885093f-51d2-4c2a-a908-c0c39e77ca8a,2025-05-29 14:52:17.475808+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5750,2272,Prioritized dramatic emissions cuts and adaptation over moderate action and status quo
+4c70c5ae-eabd-4ae9-8adf-648df9bf2193,2025-05-29 14:53:07.568581+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5808,2168,Prioritized strong emissions cuts and adaptation over economic growth and status quo approaches
+e0196a92-cc87-40ba-9d28-dddabdffd0db,2025-05-29 14:53:52.575480+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5626,1643,Prioritized urgent emissions cuts and comprehensive adaptation over moderate action and status quo

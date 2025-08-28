@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c738fca5-9679-4cc4-855d-00a4a2dff188,2025-03-21 07:39:32.618371+00:00,google,gemma2,0,0,0,Prioritizing comprehensive and accessible mental healthcare for all through increased public funding and addressing social determinants of health.
+f90a1b62-6ded-488d-a934-7c931785c321,2025-03-21 07:39:46.573738+00:00,google,gemma2,0,0,0,Switzerland needs more mental health services and focus on socioeconomic disparities.
+6fa58c3a-2125-4132-a8f9-bed19130991d,2025-03-21 07:39:59.855123+00:00,google,gemma2,0,0,0,Prioritize social determinants of health and increased public mental health services funding.
+50880b70-c6d6-4b94-82a2-aee7d27032ca,2025-03-21 07:40:13.195270+00:00,google,gemma2,0,0,0,Prioritizing increased public funding and preventative measures for accessible mental health care.
+27e6b3cb-b909-433c-895d-5429f541b231,2025-03-21 07:40:27.106786+00:00,google,gemma2,0,0,0,Existing services are sufficient; focus on socioeconomic factors and awareness campaigns to improve accessibility and reduce stigma.
+e6d1ce83-3021-46bf-bd5c-f3cee230c255,2025-03-21 07:40:41.312992+00:00,google,gemma2,0,0,0,"Prioritize public support, integrated care, and addressing socioeconomic disparities to improve mental health."
+8111a2cd-7047-4ec9-b56a-c400e603bd85,2025-03-21 07:40:55.159043+00:00,google,gemma2,0,0,0,"Holistic integrated services, public awareness campaigns, and addressing socioeconomic disparities are crucial. funding needs to be increased for those services."
+5f5d2441-92aa-41b4-8c8b-7e934f9ee885,2025-03-21 07:41:49.505308+00:00,google,gemma2,0,0,0,Support comprehensive solutions addressing both individual and societal mental health needs.
+4d4dcb1b-eb26-416d-a7b2-9e23d7a43cce,2025-03-21 07:42:02.756459+00:00,google,gemma2,0,0,0,"Support public awareness, integrated services, and socioeconomic solutions to mental health disparities."
+d5176519-059a-449b-a1ae-363a85b60144,2025-03-21 07:42:16.265352+00:00,google,gemma2,0,0,0,"Prioritizing socioeconomic support, increased public awareness, and integrated services over solely funding private clinics or increasing overall mental health services."

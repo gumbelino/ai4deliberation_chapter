@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d6ddfbf5-1609-4c1f-982b-5bb7a8d69a04,2025-04-28 10:30:56.231410+00:00,xai,grok-3-mini-beta-r=low,0,11086,207,"I support aggressive emission cuts most, then adaptation measures, and economic growth least."
+d05bddbe-c671-44ad-9d5b-85b81963d78a,2025-04-28 10:31:39.649502+00:00,xai,grok-3-mini-beta-r=low,0,11067,207,Prioritized dramatic emission cuts and adaptation for strong climate action over moderate and inaction.
+bfa4d9a0-e8b2-4e8f-915d-d5836bb9ba51,2025-04-28 10:32:18.207735+00:00,xai,grok-3-mini-beta-r=low,0,9150,210,"Prioritized aggressive emission reductions and adaptation over moderate cuts, status quo, and growth-focused policies."
+f05a6642-e3ee-489b-832a-72b23c81df80,2025-04-28 10:32:48.494418+00:00,xai,grok-3-mini-beta-r=low,0,10030,203,Prioritized aggressive mitigation and adaptation over economic growth and inaction.
+a29abc6e-c609-4055-882c-d170b733c816,2025-04-28 10:33:22.594377+00:00,xai,grok-3-mini-beta-r=low,0,10641,204,Prioritized emission cuts and adaptation over status quo and economic growth.

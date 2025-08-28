@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+4d97e4ce-9dc2-4921-858c-36e1968dbfa4,2025-05-22 18:20:25.922943+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,7236,3114,More funding for comprehensive care; address social factors; maintain public focus.
+5d53f2ec-dd07-4eae-8404-f673457eab80,2025-05-22 18:21:19.428857+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,7463,3220,"Prioritized addressing root causes, holistic care, and destigmatization over privatization or cuts."
+b12b29db-0834-405b-b805-c724b7e88db3,2025-05-22 18:22:14.327664+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,7260,2980,"I prioritize social determinants, stigma reduction, holistic care, and increased public funding."
+b6a8dec3-8282-4cb5-8797-089e5f552165,2025-05-22 18:23:08.904709+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,6928,2908,"Prioritize social equity, increase funding and awareness; holistic approaches over cuts or status quo."
+a5305205-5616-4825-9d43-3a1a265a14e9,2025-05-22 18:23:58.083117+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,7218,3169,"Support social determinants approach, comprehensive care, and increased funding over private/status quo/cuts."

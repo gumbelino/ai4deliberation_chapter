@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+46589d62-655c-4392-a331-6221dd298473,2025-04-01 12:56:02.713256+00:00,openai,o1-mini,0,3754,3956,Favor comprehensive adaptation resilience moderate emission cuts individual actions oppose inaction and economic overemphasis
+6fe77880-dfba-4319-9eb2-cc378db4c114,2025-04-01 12:56:35.205993+00:00,openai,o1-mini,0,3754,2680,"Focus on resilient adaptation strategies and community actions, prioritize planning; lower support for drastic emissions cuts and status quo."
+2b39aa89-7851-4f1f-8f5c-32aeb2ecb16c,2025-04-03 14:18:40.135878+00:00,openai,o1-mini,0,3754,2740,"Prioritized adaptation and resilience initiatives over emission cuts, economic focus, and maintaining status quo"
+20b37d19-ba7f-4a12-8977-067abc6539fe,2025-04-03 14:19:00.459461+00:00,openai,o1-mini,0,3754,3387,"Support adaptation, community actions, resilience, moderate emissions cuts, less for dramatic cuts, oppose status quo and economy-focused policies"
+45c762fc-01a7-4a0e-aa77-d169522066e1,2025-04-03 14:19:25.109194+00:00,openai,o1-mini,0,3754,2994,"Supported resilience, community adaptation, and CO₂ reductions; opposed maintaining status quo"

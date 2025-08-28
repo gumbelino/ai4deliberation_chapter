@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+39473505-265b-4fea-af4a-4b64ed496559,2025-04-17 10:48:47.719144+00:00,google,gemini-2.0-flash-thinking-exp,0,3910,271,"Ethics, community benefit, oversight are key; balance access and privacy."
+7db7b8e0-9f2d-4f6d-93e8-a5848142cac7,2025-04-17 10:49:09.744606+00:00,google,gemini-2.0-flash-thinking-exp,0,3626,128,"Ethical oversight and community benefit are key, with privacy safeguards."
+d779912a-006a-476f-969f-30389f8ba91e,2025-04-17 10:49:24.215933+00:00,google,gemini-2.0-flash-thinking-exp,0,3916,274,"Ethical biobanks for societal good, prioritize oversight and community benefit."
+d29fe2c0-bf20-4c36-a9ff-0b5fa949d4a4,2025-04-17 10:49:43.394006+00:00,google,gemini-2.0-flash-thinking-exp,0,3626,127,"Favor ethical oversight, community benefit, and conditional individual consent."
+13eda8c8-7253-4ecb-b340-4bd9fd7140ca,2025-04-17 10:53:40.758452+00:00,google,gemini-2.0-flash-thinking-exp,0,3626,125,Prioritize community benefit ethical oversight balance consent research progress
+277239aa-1dfd-46c6-b69a-66977c1a09c5,2025-04-17 10:54:00.922393+00:00,google,gemini-2.0-flash-thinking-exp,0,3628,128,"Ethical research, community benefit, individual rights, progress."
+6071bdb8-571e-4f80-b667-8e39180ad1ff,2025-04-17 10:54:21.485945+00:00,google,gemini-2.0-flash-thinking-exp,0,3912,271,"ethical biobanks, community benefit, oversight needed, some individual control"
+c1b9d56e-09ba-4f60-b620-f85fff82175c,2025-04-17 10:54:40.455874+00:00,google,gemini-2.0-flash-thinking-exp,0,3912,270,"Ethical biobanks: governance, community benefit, privacy."
+fdeb2bc3-2d73-4c6e-80b8-f89bb4782122,2025-04-17 10:55:02.064394+00:00,google,gemini-2.0-flash-thinking-exp,0,3624,122,Prioritize community benefit governance oversight and privacy

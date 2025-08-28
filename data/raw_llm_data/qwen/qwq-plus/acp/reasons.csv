@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+77b4ee94-c65d-4e03-a862-2c159b984e36,2025-04-02 08:49:30.462036+00:00,qwen,qwq-plus,0,5138,4497,"Supports free markets and moral governance, prioritizes minority inclusion over uniform influence."
+a0c4d7d9-9171-469d-83c4-5be691c36bf9,2025-04-02 08:51:04.625116+00:00,qwen,qwq-plus,0,5130,3989,Prioritizes inclusive policymaking and moral governance; criticizes current system's inequities and limited change.
+435eb878-7ca8-4b08-94f8-30dd366546b3,2025-04-02 08:52:27.999222+00:00,qwen,qwq-plus,0,5132,4796,"Prioritizes equality, limited government, and moral principles while resisting special benefits and excessive intervention."
+8ce1a31f-67ec-4a60-ab8e-7882781dda95,2025-04-02 08:54:08.030691+00:00,qwen,qwq-plus,0,5138,4851,Prioritizes inclusive policymaking and equality over current system and strict moral/economic focuses.
+1ac6bc6b-bcbd-4f93-b699-5f383826cb27,2025-04-02 08:55:49.657590+00:00,qwen,qwq-plus,0,5142,5210,"Prioritizes inclusive policymaking, opposes special benefits and moral legislation, prefers market focus over status quo."
+c26b6a74-a5ae-4b71-9f95-a6395427d608,2025-04-02 15:06:38.956013+00:00,qwen,qwq-plus,0,5132,4282,"Prioritizes inclusive policy input, current system with reforms, distrusts strict moralism and extreme free markets."
+608247c6-cef1-4846-8867-f0fe02674aed,2025-04-02 15:08:09.030562+00:00,qwen,qwq-plus,0,5130,4024,"Prioritizes equal influence over special benefits and current system, wary of excessive intervention or moral legislation."
+a37ce012-288e-4a76-86c2-afb42b2c32ac,2025-04-02 15:09:33.341427+00:00,qwen,qwq-plus,0,5130,3830,Prioritize inclusive governance and economic freedom; reject rigid moral enforcement.
+c6719266-2a9c-4d89-93dc-f7eb8c18f09a,2025-04-02 15:10:53.287493+00:00,qwen,qwq-plus,0,5134,6325,"Prioritize inclusive policies, skepticism towards limited government and moral legislation."
+a1eb4204-aac8-464f-8699-a98d758defa2,2025-04-02 15:13:03.896584+00:00,qwen,qwq-plus,0,5130,5218,Prioritizes current governance and inclusivity while resisting strict moral legislation and extreme equality measures.
+9e935d4b-40c8-4596-a7af-7a3864ed457a,2025-04-02 15:14:52.724388+00:00,qwen,qwq-plus,0,5138,4816,"Support inclusive governance first, current system second; oppose abolishing minority policies."
+79a58161-93fc-4ba9-b61e-bbe37dc0d8c8,2025-04-02 15:16:33.208258+00:00,qwen,qwq-plus,0,5134,6643,Prioritizes inclusive policymaking and free markets over strict equality or moral enforcement.
+1599b965-adee-451f-b030-7bc0aa0f8759,2025-04-02 15:18:51.151796+00:00,qwen,qwq-plus,0,5130,8165,Prioritizes inclusive governance and market efficiency while rejecting strict moral enforcement.
+6c22b7fc-da81-4298-a3b9-833059edcb25,2025-04-02 15:21:40.104015+00:00,qwen,qwq-plus,0,5132,5629,Prioritize minority inclusion and limited government; oppose strict moral laws and unequal policies.
+3de4fb16-ad83-4909-a41e-3030994278b1,2025-04-02 15:23:37.276079+00:00,qwen,qwq-plus,0,5138,4577,"Prioritizes inclusive governance and equality, rejects current system, cautious on moral legislation and free markets."
+dec17db2-fca3-46a2-a0e6-74a5045ea3a2,2025-04-03 07:26:23.648237+00:00,qwen,qwq-plus,0,5136,4962,"Support current govt and equal influence, oppose special benefits, cautious on markets/minority involvement."
+fda02095-9123-4fe8-94ee-76e16347d003,2025-04-03 07:28:07.145306+00:00,qwen,qwq-plus,0,5138,5285,"Prioritizes equality and market efficiency, cautious on moral legislation and systemic changes."
+b30c2978-22ea-4ce9-9742-e473dcbefa30,2025-04-03 07:29:57.306758+00:00,qwen,qwq-plus,0,5128,6509,"Prioritizes inclusive policymaking, equal influence, market focus, moral governance, current system last."
+c976e280-a13f-42c7-8ce2-279e768b75ef,2025-04-03 07:32:12.868856+00:00,qwen,qwq-plus,0,5140,4129,"Prioritizes inclusive governance, moderate market focus, rejects strict morals and minority exclusion."
+1219363b-9aec-4fad-b72f-1af869b187d4,2025-04-03 07:33:39.523530+00:00,qwen,qwq-plus,0,5140,6631,"Prioritizes inclusive governance for all groups, especially minorities, over rigid moralistic leadership."
+ddbca07a-c4af-4eeb-8729-4ead1e95887c,2025-04-03 07:35:56.924519+00:00,qwen,qwq-plus,0,5130,6252,"Prioritizes inclusive governance, free markets, moral leadership, while rejecting current system and equalizing minority policies."
+be12f972-4cbf-4161-9616-70ed9ae99f29,2025-04-03 07:38:06.101661+00:00,qwen,qwq-plus,0,5138,5539,"Prioritizes limited gov't and stability, balances social inclusion, opposes inequality and strict moral legislation."
+485d4d63-ed2e-4d1e-a94c-7aa42866e95a,2025-04-03 07:40:01.404354+00:00,qwen,qwq-plus,0,5136,4336,Prioritizes inclusive governance and minority representation over strict market or moral governance.
+809504d7-55f6-4550-adc9-92ae470245e4,2025-04-03 07:41:32.028287+00:00,qwen,qwq-plus,0,5136,4568,"Prioritizes equal influence over minorities and current system, cautious on market-focused governance."
+ec8ecb13-3545-4fbc-9809-14e362bb4dc4,2025-04-03 07:43:07.539465+00:00,qwen,qwq-plus,0,5140,4351,prioritizes inclusive governance and minority involvement; skeptical of market-focused minimalism
+920a7abf-1f3e-43b5-9c18-6ccc0ccb4bf0,2025-04-03 07:44:38.718080+00:00,qwen,qwq-plus,0,5146,5221,Prioritizes inclusive governance and free markets while rejecting moral authoritarianism and strict equality over representation.
+cd08dc42-04e1-48df-a498-7498b2e7de80,2025-04-03 07:46:27.127721+00:00,qwen,qwq-plus,0,5130,5797,"Support minority inclusion, current system; favor free markets, oppose strict morals/ equal influence only."
+ccc53064-a033-43af-b054-3a8b399ebcb2,2025-04-03 14:47:37.864167+00:00,qwen,qwq-plus,0,5138,5141,Prioritizes inclusive policymaking and equality over strict moral governance and minimal intervention.
+753ab39e-c1ca-494c-baa7-db43a5103d44,2025-04-03 14:49:24.819081+00:00,qwen,qwq-plus,0,5140,7015,Prioritizes inclusive governance and minority involvement over strict market focus or moral authoritarianism.
+c01a8876-12ce-4d89-8a20-6a47be8e83d1,2025-04-03 14:51:49.243592+00:00,qwen,qwq-plus,0,5128,4708,Prioritizes inclusive governance and skepticism toward moral legislation.
+05114058-45db-4e30-9b41-067afc3c46cb,2025-04-03 14:53:27.017995+00:00,qwen,qwq-plus,0,5132,4209,"Prioritizes inclusive governance and minority involvement, balanced with market efficiency and skepticism toward rigid moral legislation."

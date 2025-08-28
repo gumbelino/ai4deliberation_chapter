@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+e183dc3a-66e5-4c90-bf94-5c009e5f0849,2025-04-03 12:26:24.090349+00:00,google,gemma3:12b,0,0,0,Leaving things as is seems best; amalgamation is last; strengthening unione is middling.
+da5dd123-d365-43f4-bcee-4500da763610,2025-04-03 12:26:51.099487+00:00,google,gemma3:12b,0,0,0,Amalgamation risky. Postponing is better than proceeding. Unione's power is okay. Status quo is least desirable.
+4a797fa2-878a-411b-96bf-f63e58dd5ad1,2025-04-03 12:27:17.675474+00:00,google,gemma3:12b,0,0,0,"Maintaining the status quo is best. Amalgamation is risky, unions ineffective."
+5ffd9c84-1145-42fe-a544-14c82e8c5c85,2025-04-03 12:27:43.513786+00:00,google,gemma3:12b,0,0,0,"Postponement is best, then maintaining status quo, then amalgamation, union least favored based on ratings."
+7f2f657e-7b9f-4492-ad3a-bdb712a517e4,2025-04-03 12:28:09.705461+00:00,google,gemma3:12b,0,0,0,"Postponement is best, then current state, amalgamation next, unione last based on previous ratings."
+1d425506-45f0-4567-bf8b-485debb369b7,2025-04-03 12:28:35.395817+00:00,google,gemma3:12b,0,0,0,"Maintaining status quo is best, delay is second, amalgamation is undesirable, unions are least preferred."
+62b0c9d8-170d-4f54-a8be-c40c7b22adbf,2025-04-03 12:29:01.320702+00:00,google,gemma3:12b,0,0,0,Maintaining status quo is best; postponement preferable to forceful amalgamation.
+432189de-4bdf-40d8-aa38-17d97314c711,2025-04-03 12:29:26.389193+00:00,google,gemma3:12b,0,0,0,"Status quo best, postponement second, amalgamation risky, unione ineffective."
+6d95cb2c-4e6d-45f6-92c9-f7c2442c5d9c,2025-04-03 12:29:51.998367+00:00,google,gemma3:12b,0,0,0,"Prefer status quo, gradual change, and delay over rushing into amalgamation."
+567b5ae3-8455-4eef-8767-702c6832c10b,2025-04-03 12:30:17.797388+00:00,google,gemma3:12b,0,0,0,"Status quo is best; amalgamation risky, unione weak, postponement a compromise."
+76133452-9f37-4e7f-96e9-d6f8fc7a82b3,2025-04-03 15:15:15.317300+00:00,google,gemma3:12b,0,0,0,Maintaining status quo is best; delaying amalgamation is preferable to proceeding as is.
+012b1fd6-bcb9-4be3-a841-da2fa0d72ef6,2025-04-03 15:15:42.082434+00:00,google,gemma3:12b,0,0,0,Maintaining status quo is preferable to hasty changes; gradual steps are best.
+e15cd9e5-336e-4efd-8767-dc3037d469e9,2025-04-03 15:16:08.067784+00:00,google,gemma3:12b,0,0,0,"Postponing seems best, leaving things is okay, increasing unione is bad, amalgamation is worst."
+2500fc3f-c10b-4e4b-a18a-e561d5d6531b,2025-04-03 15:16:34.169595+00:00,google,gemma3:12b,0,0,0,"Maintaining the status quo seems best, but postponement is preferable to forced amalgamation."
+855506f3-2344-480c-8d72-4373e0369251,2025-04-03 15:17:00.150280+00:00,google,gemma3:12b,0,0,0,"Postponing is best, then unione, then amalgamation; maintaining status quo is least preferred."
+45e4653b-dff5-4212-b2e1-18e0cd6c6e5d,2025-04-03 15:17:26.839928+00:00,google,gemma3:12b,0,0,0,"Maintaining the status quo is best, followed by postponing, then amalgamation, lastly strengthening the union."
+36ff0d10-d4d2-470d-9ebb-65621858c488,2025-04-03 15:17:53.670179+00:00,google,gemma3:12b,0,0,0,"Postponing seems best, then maintaining. Amalgamation & unione are not desirable options."
+b13b93be-d780-4e0c-9fc0-a2529e98ef3d,2025-04-03 15:18:20.194764+00:00,google,gemma3:12b,0,0,0,"Status quo preferred, delay next, strengthen union, then proceed with amalgamation."
+c2e65f47-d955-4770-a548-720b2051777e,2025-04-03 15:18:46.190615+00:00,google,gemma3:12b,0,0,0,Postponing and then proceeding with amalgamation is better than increasing unione power.
+e9054440-7819-4dc5-989e-175a1a72cf16,2025-04-03 15:19:12.026909+00:00,google,gemma3:12b,0,0,0,"Postponement is best, things as they are next, boosting unione then amalgamation."
+d16ae122-4fd0-4d86-af96-82fbabc4961a,2025-04-03 15:19:38.347106+00:00,google,gemma3:12b,0,0,0,"Postponing and maintaining current state preferred, amalgamation least favored."
+06d4ba64-06aa-4085-8815-27c9a37e9103,2025-04-03 15:20:05.778277+00:00,google,gemma3:12b,0,0,0,"Postponing is best, maintaining is okay, union can work, amalgamation is least favorable."
+ce10e013-357c-4f64-ab11-c0c4aff0aaf6,2025-04-03 15:20:33.862537+00:00,google,gemma3:12b,0,0,0,"Amalgamation risky, delaying best. Current state ok, but unions weak."
+5817fa9e-c5ce-4ba6-bc1a-623cc5dbab6d,2025-04-03 15:21:01.335340+00:00,google,gemma3:12b,0,0,0,Maintaining current structure is best. Amalgamation is risky and unnecessary; postpone it.
+bb6fc77b-8c1b-4f8b-9086-22bcff79b85b,2025-04-03 15:21:29.638151+00:00,google,gemma3:12b,0,0,0,"Postponing is best, status quo second, unione third, amalgamation last due to uncertainties and concerns."
+7b461b80-9188-4034-b56c-0fd214f41378,2025-04-03 15:21:57.026915+00:00,google,gemma3:12b,0,0,0,"Postponing is best, then leaving things alone, followed by amalgamation, lastly strengthening unioni."
+d822f36e-a3b7-47e6-842c-638b7787050c,2025-04-03 15:22:24.051113+00:00,google,gemma3:12b,0,0,0,"Postponing is best, then keeping things as is, then moving forward, and lastly, proceeding as proposed."
+7ee7044f-fabb-4159-94ae-d09e417545f6,2025-04-03 15:22:52.563513+00:00,google,gemma3:12b,0,0,0,"Amalgamation is worst, unions next, maintaining status quo better than postponing."
+1f155b50-2afc-46c8-a105-55d559079855,2025-04-03 15:23:19.862196+00:00,google,gemma3:12b,0,0,0,"Leaving things alone and postponing seems best, amalgamation is the least favored option."
+2cd3ece3-7b70-4b29-b305-9bbe02b02a1b,2025-04-03 15:23:46.830347+00:00,google,gemma3:12b,0,0,0,"Postponing is best, maintaining is okay, unione is bad, proceeding is worst."
+8df6c70a-bd6b-4745-8060-b11e24a5d04f,2025-04-03 15:24:45.838536+00:00,google,gemma3:12b,0,0,0,"Amalgamation is favored, but caution is needed; union is weak; status quo is worst."

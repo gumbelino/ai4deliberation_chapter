@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+4b138d11-6d8d-4bb7-bcf5-d8e4699c638b,2025-04-08 12:29:19.032029+00:00,openai,o1,0,3279,6192,"Turned emphasis to bigger emission cuts, local adaptation, and resilience over static or growth."
+fbdcdc35-b8d4-4ed9-8161-bfb0effcaadb,2025-04-08 12:31:08.445048+00:00,openai,o1,0,3279,5359,"Prioritized large emission cuts, new technologies, and adaptation while deemphasizing status quo."
+b3e91d6d-ba9e-4ad5-8ab3-f5f1ed6b07bc,2025-04-08 12:32:43.592096+00:00,openai,o1,0,3279,4655,"Prioritized moderate CO2 cuts, local action, and resilience above leaving policies unchanged."
+d5b65155-8ebf-4ead-a541-ebcfb3746a8c,2025-04-08 12:33:46.629133+00:00,openai,o1,0,3279,5175,Prioritized urgent climate action and resilience over minimal or purely economic measures
+17872f6b-6b0f-45a2-9850-ad4057b958f8,2025-04-08 12:34:54.276511+00:00,openai,o1,0,3279,4928,"Prioritized substantial emission cuts, local-scale adaptation, and technology-led resilience."

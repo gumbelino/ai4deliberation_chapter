@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Leave the policy settings as they are.,P2. Policies that emphasise economic growth over climate change adaptation or mitigation.,P3. Policies that involve a dramatic cut back in CO2 emissions (by 50% in the next 10 years).,P4. Policies that involve a moderate cut in CO2 emissions (by 25% in over the next 10 years).,"P5. Adaptation policies and expenditure (e.g. coastal protection, water desalinisation, improving infrastructure etc). Planning controls and emergency response programs.","P6. Adaptation policies that target individual, small business or community-based actions (eg support the installation of alternative energy generators, insulation, water use efficiency)",P7. Preparing for climate risk through the development of new approaches and technologies that enhance resilience to the impacts of climate variability or change. 
+0ca2c51d-94cd-401e-b131-ef735b7a94a1,2025-04-28 09:51:44.094487+00:00,xai,grok-3-mini-beta-r=low,0,3215,217,6,7,1,5,2,4,3
+7d395544-52a0-404b-8e3d-4ecaa4e6e9d3,2025-04-28 09:52:22.126003+00:00,xai,grok-3-mini-beta-r=low,0,3215,211,6,7,1,2,4,5,3
+de68675d-ad60-4ae0-9edf-f11fe96c4ddb,2025-04-28 09:52:59.008197+00:00,xai,grok-3-mini-beta-r=low,0,3215,219,6,7,1,2,3,5,4
+dacd578b-ed9d-4a0b-8b08-0b88948a4dcc,2025-04-28 09:53:40.019925+00:00,xai,grok-3-mini-beta-r=low,0,3215,218,7,6,1,2,3,5,4
+34972062-ff66-498a-af68-aedd828c3c56,2025-04-28 09:54:20.789266+00:00,xai,grok-3-mini-beta-r=low,0,3215,218,6,7,1,2,4,5,3
+ceded43d-9f5a-4021-bf0d-d458b7136c2a,2025-04-28 10:17:57.957553+00:00,xai,grok-3-mini-beta-r=low,0,9189,220,6,7,1,2,4,5,3
+bb62ebbb-58ca-4671-8848-0b97f2834040,2025-04-28 10:18:31.432284+00:00,xai,grok-3-mini-beta-r=low,0,10669,214,6,7,1,2,4,5,3
+98764a8b-9ae3-427d-9bb4-fb7257be3f95,2025-04-28 10:19:09.562629+00:00,xai,grok-3-mini-beta-r=low,0,10199,215,6,7,1,4,2,5,3
+04038954-8d55-484a-b48c-75f107401878,2025-04-28 10:19:47.414712+00:00,xai,grok-3-mini-beta-r=low,0,10045,212,6,7,1,2,4,5,3
+d7b7640c-8414-4366-9927-5b9b4dd7b9ca,2025-04-28 10:20:24.950739+00:00,xai,grok-3-mini-beta-r=low,0,10724,214,6,7,2,1,3,4,5

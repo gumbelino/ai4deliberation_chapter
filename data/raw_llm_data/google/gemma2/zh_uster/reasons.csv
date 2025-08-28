@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+9d1091cf-f887-4754-a111-bd20557f167f,2025-03-21 06:18:19.026395+00:00,google,gemma2,0,0,0,"Prioritize adaptation, moderate emissions cuts, and local action over drastic change."
+0967bd58-1025-4439-9c22-f77ebe187276,2025-03-21 06:18:37.348460+00:00,google,gemma2,0,0,0,"Prioritize adaptation, moderate emissions cuts, and community action over economic growth at the expense of climate action."
+4df9d088-e69d-476a-bf3e-d5a291c649f9,2025-03-21 06:18:55.234593+00:00,google,gemma2,0,0,0,Prioritize adaptation and community action with moderate emission cuts.
+a50fb811-974f-46a3-991a-3094b0380bf9,2025-03-21 06:19:12.649165+00:00,google,gemma2,0,0,0,Prioritize local actions and adaptation over drastic emissions cuts.
+2d59c8f5-4930-4bf8-8b43-c82743e11813,2025-03-21 06:19:30.098965+00:00,google,gemma2,0,0,0,"Prioritize individual action, community resilience, and moderate emissions reduction over drastic cuts and economic growth."
+2b669447-f951-4086-9307-f01737993ac8,2025-03-21 06:19:47.905730+00:00,google,gemma2,0,0,0,"Prioritize adaptation, moderate emissions cuts over drastic ones, but avoid solely focusing on economic growth."
+5cdd3364-136c-42b2-996b-2370816660e9,2025-03-21 06:20:22.136379+00:00,google,gemma2,0,0,0,Prioritize practical adaptation and gradual emissions reduction over radical change.
+f391dcd9-1055-443e-bd12-d3881a191b32,2025-03-21 06:20:39.601656+00:00,google,gemma2,0,0,0,"Prioritize practical actions, community involvement, and technological solutions over purely economic growth."
+9a999d1a-11c6-4c98-be57-9320d0ffc731,2025-03-21 06:20:57.240373+00:00,google,gemma2,0,0,0,"Moderate cuts, adaptation, new tech over growth, leaving things unchanged is risky."

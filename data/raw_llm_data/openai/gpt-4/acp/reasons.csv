@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+710a0000-0601-441f-bd05-ddb941b0d11e,2025-03-26 08:01:31.135959+00:00,openai,gpt-4,0,4899,285,"I value economic freedom, social inclusion, and status quo over moral imposition and equality erasure."
+dc9507ff-55b3-4921-9898-72cf0334123c,2025-04-01 10:25:24.285136+00:00,openai,gpt-4,0,4899,285,"I value inclusive policy-making and strong leadership, but I'm wary of too much market intervention."
+5035c55c-274f-4a92-9aa0-4f2e4aadddc4,2025-04-01 10:25:36.558142+00:00,openai,gpt-4,0,4899,284,"I support inclusive policy-making and equal influence, but not at the expense of minority benefits."
+6553058f-f724-4421-9736-aff9e9e131ce,2025-04-01 10:25:49.430181+00:00,openai,gpt-4,0,4901,282,"I value equal influence, minimal government intervention, and representation of all social groups."
+deefcfcd-89b6-4c3b-aa76-980b16fe954e,2025-04-01 10:26:02.128450+00:00,openai,gpt-4,0,4899,282,"I value strong leadership, social inclusion, and minimal government intervention in the economy."
+808f2db2-dc0f-4a74-8865-3e896f779f8b,2025-04-01 10:26:15.081452+00:00,openai,gpt-4,0,4899,282,"I value equal influence, current stability, minimal government intervention, and moral principles."
+7b6fa97f-4be3-4e1a-bd8f-ac588bf9a316,2025-04-03 16:52:06.404432+00:00,openai,gpt-4,0,4899,281,"I value strong leadership, social inclusion, and minimal government intervention in markets."
+ce4b46ed-e659-4273-ac54-c7eb7765a548,2025-04-03 16:52:21.048489+00:00,openai,gpt-4,0,4901,282,"I value inclusive policy-making, equality, and minimal government intervention in economic markets."
+0835175d-1999-4b63-96e2-ac5605fe49b0,2025-04-03 16:52:34.104460+00:00,openai,gpt-4,0,4899,280,"I value equal influence, social group involvement, and minimal government intervention."
+eae06202-324b-4fde-84f9-91d7ad721015,2025-04-03 16:52:46.360949+00:00,openai,gpt-4,0,4899,281,"I value strong leadership, minimal government intervention, and equal influence for all."
+0e904baa-e0a1-4920-b46f-91fb4a83725f,2025-04-08 09:01:23.648584+00:00,openai,gpt-4,0,4899,282,"I value equal influence and involvement of all social groups, and minimal government intervention."
+48716863-8e87-4346-8134-2e534c5968ca,2025-04-08 09:01:35.722099+00:00,openai,gpt-4,0,4899,283,"I value social inclusion, economic stability, and moral leadership, but oppose drastic changes."
+9d11137d-f421-4a3b-8d86-db41fea25303,2025-04-08 09:01:49.131160+00:00,openai,gpt-4,0,4899,283,I value equal influence and involvement of all social groups in policy making over strong leadership.
+c7f0acc7-38dd-4140-8b3d-163a58a214b2,2025-04-08 09:02:05.998262+00:00,openai,gpt-4,0,4899,281,"I value strong leadership, equal influence, and minimal government intervention in society."
+0dab90c6-9ecb-432e-9244-23241a4f5637,2025-04-08 09:02:21.292986+00:00,openai,gpt-4,0,4899,281,"I value strong leadership, equal influence for all, and minimal government intervention."
+cb686675-b432-4a03-b699-2973e6d5ff3f,2025-04-08 09:02:34.545690+00:00,openai,gpt-4,0,4899,280,"I value equal influence, economic efficiency, and representation of disadvantaged groups."
+707b2f07-3ff0-415c-ac1f-afafa201f67f,2025-04-08 09:02:47.687045+00:00,openai,gpt-4,0,4899,281,"I value strong leadership, social inclusion, and minimal government intervention in markets."
+644b2306-e1f2-4893-b53b-c0209ceb583c,2025-04-08 09:03:03.666223+00:00,openai,gpt-4,0,4899,286,"I value inclusive policy-making, economic efficiency, and status quo over moralistic or equalizing approaches."
+411f2737-2d9a-4b26-a8ed-4e7ce6abd1ef,2025-04-08 09:03:16.584659+00:00,openai,gpt-4,0,4896,281,I value equal influence for all and involvement of disadvantaged groups in policy making.
+c28908d3-ae10-4734-9e2c-f0bd01ce4464,2025-04-08 09:03:30.461108+00:00,openai,gpt-4,0,4899,282,"I value equal influence, current government stability, and minimal intervention in economic markets."
+945c7079-0434-43c7-9d14-7ba1bec2c179,2025-04-08 09:03:44.846117+00:00,openai,gpt-4,0,4899,278,I value equal representation and minimal government intervention in economic markets.
+02b8b19d-868b-4752-929f-0c24b3e3fc00,2025-04-08 09:03:58.170797+00:00,openai,gpt-4,0,4901,284,"I value equal influence, economic efficiency, and current stability over minority benefits and moral policing."
+d0e014a9-cc8c-4793-b684-4d3a80902378,2025-04-08 09:04:12.471541+00:00,openai,gpt-4,0,4899,284,"I value inclusive policy-making, status quo, and equal influence over moral or economic focus."
+d630bd4d-ff27-49e9-8b67-6444373d8d59,2025-04-08 09:04:26.917173+00:00,openai,gpt-4,0,4901,279,I value inclusive policy-making and minimal government intervention in economic markets.
+902e4671-20c2-4c1e-978a-1de7148661d4,2025-04-08 09:04:39.932740+00:00,openai,gpt-4,0,4899,282,"I value inclusive policy-making and economic efficiency, but oppose moral legislation and inequality."
+a395df86-ba9b-48c8-95bc-4a7163efb443,2025-04-08 09:04:53.435867+00:00,openai,gpt-4,0,4899,279,I value inclusive policy-making and minimal government intervention in economic markets.
+5c10575c-b7b7-48d0-9ee7-5e4489e11367,2025-04-08 09:05:05.924954+00:00,openai,gpt-4,0,4901,280,I value equal influence and involvement of all social groups in policy making.
+4d7438e3-94e1-4ab4-b108-7c26b2ed9661,2025-04-08 09:05:21.614050+00:00,openai,gpt-4,0,4899,282,I value equal influence and involvement of all social groups in policy making the most.
+8bde9ea5-647d-4e6a-8c2e-0a5158fe2f77,2025-04-08 09:05:36.822562+00:00,openai,gpt-4,0,4899,281,"I value equality and representation for all, with minimal government intervention in markets."
+c3324b54-0150-4cd6-8fac-ec98945043ff,2025-04-08 09:05:50.156170+00:00,openai,gpt-4,0,4899,281,"I value social inclusion, strong leadership, and equal influence for all citizens."

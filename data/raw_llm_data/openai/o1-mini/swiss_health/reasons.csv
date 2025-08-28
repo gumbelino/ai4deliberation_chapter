@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+cfc40342-d6d0-4f20-8562-979de5e66e8a,2025-04-01 13:06:48.425639+00:00,openai,o1-mini,0,3116,3920,"Prefer universal public system, then govt control, fixing inefficiencies, less regulation, personal responsibility, no changes."
+a90f92d7-e835-48a1-b732-db2264ab3308,2025-04-01 13:07:17.744929+00:00,openai,o1-mini,0,3116,3975,Preference for increased government support and control to ensure affordability and efficiency
+f940d857-6a7e-4082-8132-a35a8120df81,2025-04-03 14:34:14.542560+00:00,openai,o1-mini,0,3116,4754,"Support universal income-based healthcare and government support, then fix inefficiencies and promote competition, oppose personal responsibility and status quo."
+cc7a5dbd-5530-4563-99c9-ae734e8e7d89,2025-04-03 14:34:54.257420+00:00,openai,o1-mini,0,3116,2633,Prioritized efficiency and support but opposed major systemic changes or reducing mandatory insurance
+a4738927-5ebd-44c7-976e-52984f1438dc,2025-04-03 14:35:15.375750+00:00,openai,o1-mini,0,3116,3090,"I support universal healthcare with income-based payments, improving efficiency and subsidies, rather than reducing regulation or keeping the status quo."

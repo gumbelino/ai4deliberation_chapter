@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+1afaa468-dee3-4f0e-839f-3ca0d755f62e,2025-04-11 09:48:30.419547+00:00,xai,grok-3-beta,0,4829,293,Prioritized public funding and strong privacy with regulation.
+42aa41e8-3f56-4bdc-8348-5de18f2d0654,2025-04-11 09:48:35.899398+00:00,xai,grok-3-beta,0,4826,295,Prioritized public funding and strong regulation for trust and privacy.
+ab531f13-6cf9-4001-92f8-cedffe7b1191,2025-04-11 09:48:46.569807+00:00,xai,grok-3-beta,0,4829,295,Prioritized public funding and strong regulation for trust and privacy.
+ae44e61f-9342-4461-af81-4d29dd42e02e,2025-04-11 09:48:54.719292+00:00,xai,grok-3-beta,0,4826,293,Prioritized privacy and balanced regulation with public funding.
+f35e8205-2838-4127-8ea9-8f4528abc14e,2025-04-11 09:49:00.783845+00:00,xai,grok-3-beta,0,4829,293,Prioritized privacy and strong regulation over minimal oversight.
+36c52973-8583-464f-a4ca-cbd408b73b20,2025-04-11 09:49:06.313417+00:00,xai,grok-3-beta,0,4829,295,Prioritized public funding and strong regulation for trust and privacy.
+13aa13ba-c4b6-4e22-a0bb-ece6bd17cd2b,2025-04-11 09:49:11.618486+00:00,xai,grok-3-beta,0,4829,295,Prioritized privacy and regulation over minimal government or private control.
+b43661dd-e840-4f01-ac58-01a21b416119,2025-04-11 09:49:18.619285+00:00,xai,grok-3-beta,0,4829,295,Prioritized public funding and strong regulation for trust and privacy.
+f03249bd-3eb5-4e8e-bcf9-8bcbea4cf54f,2025-04-11 09:49:32.092857+00:00,xai,grok-3-beta,0,4829,293,Prioritized strong regulation and privacy over minimal oversight.
+775b551f-53d8-43e0-848a-f4e60280277a,2025-04-11 09:49:39.407063+00:00,xai,grok-3-beta,0,4829,293,Prioritized strong regulation and privacy over funding source.
+37793ae7-1748-4746-9adf-f9608b7459f7,2025-04-14 08:30:18.595402+00:00,xai,grok-3-beta,0,4829,294,"Prioritized strong regulation and privacy, favoring public funding."
+6fc0afcb-84d2-4f0f-9141-3eb6aa7349de,2025-04-14 08:30:23.521841+00:00,xai,grok-3-beta,0,4826,296,Prioritized privacy and strong regulation over minimal oversight and private funding.
+3082f135-1566-4586-95d7-505fe05a5838,2025-04-14 08:30:28.407149+00:00,xai,grok-3-beta,0,4826,296,"Prioritized privacy and regulation, favoring public funding with strong oversight."
+680a0bc1-7c2a-4d84-b187-b22a57c1c9eb,2025-04-14 08:30:33.969652+00:00,xai,grok-3-beta,0,4826,296,"Prioritized privacy and strong regulation, favoring public over private control."
+3a53524a-1a4d-447f-8eb0-3ffa225be841,2025-04-14 08:30:38.842559+00:00,xai,grok-3-beta,0,4826,293,Prioritized strong regulation and privacy over funding source.
+a943a24b-4124-472e-89e2-913a7077a3d6,2025-04-14 08:30:43.660619+00:00,xai,grok-3-beta,0,4829,295,Prioritized public funding and strong regulation for trust and privacy.
+0b46621e-35d3-49b1-97ca-101fb630e430,2025-04-14 08:30:48.321125+00:00,xai,grok-3-beta,0,4826,294,"Prioritized privacy and strong regulation, favoring public funding."
+b239416f-c96b-4bcf-86d8-ba61b589a0d4,2025-04-14 08:30:53.399743+00:00,xai,grok-3-beta,0,4829,295,Prioritized public funding and strong regulation for trust and privacy.
+e78da658-fb43-45c1-8843-59497ecc4d00,2025-04-14 08:30:58.220138+00:00,xai,grok-3-beta,0,4829,295,Prioritized public funding and strong regulation for trust and privacy.
+21277073-79cb-4f54-9135-42ba1ec19f77,2025-04-14 08:31:03.358013+00:00,xai,grok-3-beta,0,4829,295,"Prioritized privacy and regulation, favoring public funding over private."
+4f209de6-02ca-432b-8b38-9fcd3f986a2d,2025-04-14 08:31:08.197564+00:00,xai,grok-3-beta,0,4829,296,"Prioritized privacy and strong regulation, balancing public and private roles."
+81334fa7-41c8-4090-8572-c59f5f642f81,2025-04-14 08:31:13.140147+00:00,xai,grok-3-beta,0,4829,295,Prioritized public funding and strong regulation for trust and privacy.
+d0878c76-bae0-42c8-9dfc-5723f52a4789,2025-04-14 08:31:17.977850+00:00,xai,grok-3-beta,0,4829,295,Prioritized strong regulation and public funding for trust and privacy.
+ea0a331f-6fa7-46a1-8680-e79b1d302387,2025-04-14 08:31:22.956142+00:00,xai,grok-3-beta,0,4829,293,Prioritized strong regulation and privacy over funding source.
+0494e839-e3f6-4605-b7f7-f146efb140a8,2025-04-14 08:31:27.611330+00:00,xai,grok-3-beta,0,4829,295,"Prioritized privacy and regulation, favoring public funding over private."
+0e25721b-43c7-40a3-bf6a-dc3628f855cb,2025-04-14 08:31:32.676721+00:00,xai,grok-3-beta,0,4829,293,Prioritized privacy and public funding with balanced regulation.
+31bbe895-2c2e-4760-a985-f6bdae7a077d,2025-04-14 08:31:37.682757+00:00,xai,grok-3-beta,0,4829,293,"Prioritized privacy and regulation, favoring public funding."
+a7d94307-ba38-48e6-b55a-4f43bffb18cb,2025-04-14 08:31:42.495644+00:00,xai,grok-3-beta,0,4829,295,"Prioritized privacy and regulation, favoring public funding over private."
+c70c8b59-7567-44a9-ac56-087e38a2225a,2025-04-14 08:31:47.030421+00:00,xai,grok-3-beta,0,4829,295,Prioritized strong regulation and privacy in biobanking policies.
+c24c38e7-e61e-466e-9c3e-c8bccc19a662,2025-04-14 08:31:52.040483+00:00,xai,grok-3-beta,0,4829,292,Prioritized privacy and regulation over funding source.

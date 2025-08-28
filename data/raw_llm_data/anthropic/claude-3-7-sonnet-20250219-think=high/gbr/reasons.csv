@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+fe724bde-7681-4fb2-970f-41f644171b23,2025-05-22 18:47:43.826147+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,8030,2929,Prioritize sustainable innovation while strengthening reef protection and transitioning from fossil fuels.
+584354dc-6c02-4885-9e6d-ce23728a7acd,2025-05-22 18:48:30.398334+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,9470,3937,Support innovation and protection over fossil fuels for reef's and economy's long-term health.
+9729ccc1-38b0-4ebf-b0a6-cd05ec4e2f7b,2025-05-22 18:49:40.584586+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,8533,3046,Prioritize innovation and regulation that balances reef protection with sustainable economic growth.
+1d05d017-93a4-441a-829d-4c92b7ddd2fe,2025-05-22 18:50:29.138860+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,9403,3827,Invest in sustainable industries and strengthen protections to address climate threats to the reef.
+4aa1d2e1-9434-46d1-8039-0db7084ba9ba,2025-05-22 18:51:31.523308+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,8829,3841,Prioritizing climate action through industry transition while maintaining some economic balance.

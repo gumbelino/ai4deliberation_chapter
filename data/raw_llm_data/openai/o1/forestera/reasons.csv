@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c917af58-390e-4a4b-8a9f-741c74c2c807,2025-04-02 08:56:36.195839+00:00,openai,o1,0,4542,4407,"Balance ecological/social values over wildlife, local harvest, restoration, fuels, and no management"
+a601c273-c39f-43d0-b28d-a8b064d5d967,2025-04-02 08:58:01.186821+00:00,openai,o1,0,4541,4336,I prioritize balanced ecological and social values while preserving wildlife habitat responsibly
+a7da171f-525a-402e-aad9-2f360962e209,2025-04-02 08:59:11.142238+00:00,openai,o1,0,4541,6128,"I prioritized balanced fuels reduction, ecological preservation, and social considerations."
+8c6bede5-b28c-4f01-aac2-3b885b336ea8,2025-04-02 09:00:56.369335+00:00,openai,o1,0,4541,4278,"Emphasizes ecological and social values, moderate thinning, wildlife protection, and local needs"
+61448676-4404-4dc7-bd43-275a408d2c64,2025-04-02 09:02:21.714294+00:00,openai,o1,0,4539,6450,Ranked no management first local harvest second restoration third others follow for balance

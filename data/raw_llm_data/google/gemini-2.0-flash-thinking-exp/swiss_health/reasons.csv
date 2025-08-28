@@ -1,0 +1,5 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d5b3134f-4706-465a-aace-92030749fc52,2025-04-17 11:21:56.969597+00:00,google,gemini-2.0-flash-thinking-exp,0,2703,66,Government for affordable fair efficient healthcare no deregulation
+20ea15f8-e58e-48fb-a1d2-ce6298afd8eb,2025-04-17 11:22:16.433114+00:00,google,gemini-2.0-flash-thinking-exp,0,2703,67,Favor public system efficiency fairness against deregulation individual responsibility
+18e9dac4-b6ce-4830-b56e-60d943b1c546,2025-04-17 11:22:32.513811+00:00,google,gemini-2.0-flash-thinking-exp,0,2895,172,Favor efficiency fairness and targeted government support for affordability
+f59b2e0b-003d-46a6-84a3-3e667292da19,2025-04-17 11:22:51.741465+00:00,google,gemini-2.0-flash-thinking-exp,0,2703,71,"Efficiency, fairness, prevention, and some government role are important."

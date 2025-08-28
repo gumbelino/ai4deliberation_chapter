@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+7d4f68b7-cf51-4e67-8109-ba03d027973b,2025-03-26 08:01:02.188195+00:00,openai,gpt-4,0,3532,261,I believe in addressing the root cause in source countries and providing local support.
+0773f7a1-f49b-45b6-99dd-b0fb39da4d07,2025-04-01 10:23:17.808082+00:00,openai,gpt-4,0,3532,263,I believe in addressing the root cause of begging in source countries and providing local support.
+778c07ff-b95f-4ae7-9c3b-5d985ec9a9ff,2025-04-01 10:23:30.676986+00:00,openai,gpt-4,0,3532,264,I believe in addressing the root cause of the problem in source countries and providing local support.
+76b1e456-1fc6-4ab1-88d3-3e4df91e2311,2025-04-01 10:23:42.350914+00:00,openai,gpt-4,0,3532,260,I prioritize addressing the root cause and providing accommodation over strict law enforcement.
+878485e0-0da7-48e9-b4aa-aae1ab71e4c0,2025-04-01 10:23:56.483674+00:00,openai,gpt-4,0,3534,263,"I believe in addressing root causes, enforcing laws, and providing support over punitive measures."
+b70bf0a4-0c5e-4847-bee6-f061146132da,2025-04-01 10:24:08.910859+00:00,openai,gpt-4,0,3532,263,"I believe in addressing root causes, enforcing laws, and providing support over punitive measures."
+1d1042ba-973d-4b37-ba4f-0f48392da095,2025-04-03 16:44:03.361454+00:00,openai,gpt-4,0,3532,263,I believe in addressing the root cause of begging in source countries and providing local support.
+add279ca-6019-4213-9eae-3f6836daf101,2025-04-03 16:50:11.780609+00:00,openai,gpt-4,0,3532,264,I believe in addressing the root cause in source countries and providing more accommodation for beggars.
+4456f8d2-abbd-4ae0-b1e0-3f59519267a3,2025-04-03 16:50:27.940002+00:00,openai,gpt-4,0,3532,264,I believe in addressing the root cause of the problem in source countries and providing local support.
+88aba033-5183-48ab-9bf1-ede36b30e393,2025-04-03 16:50:44.444998+00:00,openai,gpt-4,0,3532,261,I believe in providing support and accommodation for beggars while enforcing existing laws.
+b64894d6-e7a4-4587-89b0-dd707285cc90,2025-04-03 16:50:56.907632+00:00,openai,gpt-4,0,3534,264,I believe in addressing the root cause of the problem in source countries and enforcing existing laws.
+428d64fa-58de-45de-a19f-5b95e72b35bb,2025-04-08 08:52:54.138241+00:00,openai,gpt-4,0,3532,263,I believe in addressing the root cause of begging in source countries and providing local support.
+281d1b54-cca7-4c8e-badd-a01cb4a2f64c,2025-04-08 08:53:07.156217+00:00,openai,gpt-4,0,3532,264,I believe in addressing the root cause of the problem in source countries and providing local support.
+29224d67-45f1-44da-bf82-17a93ed282f9,2025-04-08 08:53:20.506351+00:00,openai,gpt-4,0,3532,263,I believe in addressing the root cause of begging in source countries and enforcing existing laws.
+a239631c-83ec-4416-b0c4-edc975ffd489,2025-04-08 08:53:32.995225+00:00,openai,gpt-4,0,3534,266,I believe in addressing the root cause of the problem and providing support rather than banning or deporting.
+337e1b05-b613-4ca9-8188-bdf2c68fc7ba,2025-04-08 08:53:46.112870+00:00,openai,gpt-4,0,3532,263,"I believe in addressing root causes, enforcing laws, and providing support over punitive measures."
+ab585ffd-709e-4a06-aa26-38d68fac8583,2025-04-08 08:53:57.782979+00:00,openai,gpt-4,0,3529,263,I believe in addressing the root cause in source countries and providing accommodation for beggars.
+435b6418-0bad-423c-af20-ce6fe5d9c3d8,2025-04-08 08:54:10.070922+00:00,openai,gpt-4,0,3532,261,I believe in addressing the root cause of begging and enforcing existing laws fairly.
+ac260656-16a0-455d-a9cc-7dfd4bf918b5,2025-04-08 08:54:23.483857+00:00,openai,gpt-4,0,3532,264,I believe in addressing the root cause of the problem in source countries and enforcing existing laws.
+bb8f40b0-b176-47a5-aeb5-000d02fdfa69,2025-04-08 08:54:36.588479+00:00,openai,gpt-4,0,3532,262,I believe in addressing the root cause of begging in source countries and providing accommodation.
+430fa1d9-34c1-420b-982b-199be8663a21,2025-04-08 08:54:48.875565+00:00,openai,gpt-4,0,3532,264,"I believe in addressing the root cause in source countries and providing support, not banning begging."
+1cbc1619-5143-424e-9373-b99e9bf8c28c,2025-04-08 08:55:01.097045+00:00,openai,gpt-4,0,3532,261,"I believe in addressing root causes and providing support, rather than punitive measures."
+b04da7d2-9903-4284-90e9-14b46c6f282d,2025-04-08 08:55:15.506865+00:00,openai,gpt-4,0,3532,263,I believe in addressing the root cause of the problem in source countries and providing accommodation.
+153e5f5f-d591-431f-8454-fb7af19ec8e5,2025-04-08 08:55:28.926424+00:00,openai,gpt-4,0,3532,264,I believe in addressing the root cause of the problem in source countries and providing support locally.
+1efce388-76f9-4292-bcb7-5d0502c46d1e,2025-04-08 08:55:40.482180+00:00,openai,gpt-4,0,3532,260,"I believe in addressing root causes and providing support, not punitive measures."
+edeb1b27-b63f-43a9-8dc8-8921bbec03b0,2025-04-08 08:55:54.308469+00:00,openai,gpt-4,0,3532,264,I believe in addressing the root cause of the problem in source countries and enforcing existing laws.
+83411336-82ec-4343-bbd4-4cdb972ccdec,2025-04-08 08:56:06.766611+00:00,openai,gpt-4,0,3534,263,"I believe in enforcing laws, addressing root causes, and providing support over punitive measures."
+c3aee85e-53e4-45c1-820f-e47eb75621e4,2025-04-08 08:56:20.308724+00:00,openai,gpt-4,0,3532,260,I believe in providing support and addressing root causes rather than punitive measures.
+c6a68c1a-180d-4972-b89f-eeef73a02d75,2025-04-08 08:56:35.136259+00:00,openai,gpt-4,0,3532,264,I believe in addressing the root cause of the problem in source countries and enforcing existing laws.
+895e9bd5-1aac-4448-a370-c470189206a0,2025-04-08 08:56:48.072526+00:00,openai,gpt-4,0,3532,261,"I believe in addressing root causes, providing support, and enforcing laws fairly."
+077d8239-b31f-4e75-9d31-c5eb229cb78b,2025-04-08 08:56:59.682206+00:00,openai,gpt-4,0,3534,263,"I believe in addressing root causes, enforcing laws, and providing support over punitive measures."

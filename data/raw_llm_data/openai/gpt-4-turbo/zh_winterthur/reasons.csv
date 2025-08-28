@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+5f4cd354-2477-4b0b-a01b-87422257cbb5,2025-03-26 07:54:21.285487+00:00,openai,gpt-4-turbo,0,3041,201,"Support for sustainable local production and research, moderate regulation, less support for status quo and less regulation."
+1b8f6faf-4120-41fb-b58a-c1334677a112,2025-03-26 07:54:30.312430+00:00,openai,gpt-4-turbo,0,3041,195,Prioritized sustainable agriculture and research over radical changes or maintaining status quo.
+5108dfe1-3b1b-4bba-a487-ed1b3f1783a5,2025-04-01 08:21:41.921152+00:00,openai,gpt-4-turbo,0,3041,196,Support sustainable local production and research; least favor status quo and less regulation.
+babe9f6f-b274-4330-91c5-67860074db75,2025-04-01 08:21:52.035907+00:00,openai,gpt-4-turbo,0,3041,197,"Support moderate and local sustainable measures, less support for radical changes or status quo."
+7b295747-97cc-4652-9802-3aa4ae37c51f,2025-04-01 08:22:01.445350+00:00,openai,gpt-4-turbo,0,3041,197,Support sustainable local production and research; less keen on radical changes or reduced regulations.
+a8534bcb-f051-4eb2-a403-59642d187a5e,2025-04-01 08:22:10.507708+00:00,openai,gpt-4-turbo,0,3041,195,Support sustainable agriculture and moderate regulation; oppose radical changes and deregulation.
+1aa19a68-17e5-4a91-9af0-4f762c1ba0c2,2025-04-01 08:22:17.913809+00:00,openai,gpt-4-turbo,0,3041,193,Moderate regulation and research investment are preferred for sustainable agriculture.
+b7ba2c44-f88c-4a7a-823c-02102ff0e280,2025-04-01 08:22:28.923552+00:00,openai,gpt-4-turbo,0,3041,195,Moderate regulation and research are preferred over radical changes or reduced regulations.
+13c4fcf6-a5aa-40a2-8817-a1e991ede89d,2025-04-01 08:22:38.256282+00:00,openai,gpt-4-turbo,0,3041,197,"Support sustainable local production most, moderate regulation next, least support for radical changes."
+c7cea2e9-2f3e-4b7f-90b7-30fadc013f56,2025-04-01 08:22:47.124724+00:00,openai,gpt-4-turbo,0,3041,195,I prioritize sustainable agriculture and moderate regulations over radical changes or status quo.
+6ed5e683-5468-4e86-bb99-cda4b8e4c66d,2025-04-01 08:22:55.716294+00:00,openai,gpt-4-turbo,0,3044,199,"Prioritized sustainable agriculture and local production, least support for maintaining status quo and deregulation."
+34f91f02-8e87-46f2-a97d-9f38d94adc30,2025-04-01 08:23:02.500417+00:00,openai,gpt-4-turbo,0,3041,199,"Support moderate and research-based policies for sustainability, less support for radical changes or status quo."
+5d9e4759-b0df-48b5-9dda-e84226256c7e,2025-04-03 11:55:59.742960+00:00,openai,gpt-4-turbo,0,3041,194,I prioritize research and moderate regulation for sustainable agriculture over radical changes.
+619216bd-5ffa-41e7-af0c-15bd12fdb6ef,2025-04-03 11:56:10.557659+00:00,openai,gpt-4-turbo,0,3041,195,I favor strong sustainable measures and least support less regulation on food production.
+b5b2be15-cd26-4820-8fa5-3c1360e6ba68,2025-04-03 11:56:19.226141+00:00,openai,gpt-4-turbo,0,3041,195,Moderate regulation and incentives for sustainable practices are preferred over radical changes.
+4d9e07fc-c8eb-472b-b5ce-87f2ed00cff8,2025-04-03 11:56:28.091569+00:00,openai,gpt-4-turbo,0,3044,195,I prioritize sustainable agriculture and moderate regulation over radical changes or status quo.
+f9264b59-f34d-46d5-a202-cdf7473bebc1,2025-04-03 11:56:37.162681+00:00,openai,gpt-4-turbo,0,3041,196,"Prioritized research and moderate regulation for sustainability, less support for radical changes."
+018cffd0-9a78-4554-b975-8a4913346280,2025-04-03 11:56:45.183282+00:00,openai,gpt-4-turbo,0,3041,197,Moderate regulation and research support are most effective; less regulation is least favorable.
+606fd360-f135-41d2-900b-0e7f4ceb553a,2025-04-03 11:56:55.507858+00:00,openai,gpt-4-turbo,0,3041,197,"Support local and sustainable practices, moderate regulation, research investment, less radical changes."
+3ecca5ca-b486-4889-a9d9-7e2b7136b922,2025-04-03 11:57:13.355347+00:00,openai,gpt-4-turbo,0,3044,195,Support sustainable practices and moderate regulation; oppose radical changes and deregulation.
+a350ded5-9d76-4087-b98e-8ef8d8fdbfcd,2025-04-03 11:57:21.323506+00:00,openai,gpt-4-turbo,0,3044,197,"Support for sustainable agriculture and moderate regulation prioritized, least favor for status quo."
+f60a273f-e8c3-4f59-95c6-233c9a74afb1,2025-04-03 11:57:30.059154+00:00,openai,gpt-4-turbo,0,3041,195,"Support sustainable local production and research, moderate regulation preferred, avoid extremes."
+9b0581df-6758-4243-9f88-6c9e4bd3578e,2025-04-03 11:57:38.864326+00:00,openai,gpt-4-turbo,0,3044,196,Investing in sustainable agriculture research and supporting local sustainable producers are key priorities.
+4dc1741d-b59c-413a-bfb9-cc42428a0dc9,2025-04-03 11:57:50.211662+00:00,openai,gpt-4-turbo,0,3044,199,I prioritize radical sustainable measures and support for local organic production over status quo or less regulation.
+8e48a808-0fe4-4cda-a0e0-c56eb5617a8f,2025-04-03 11:57:57.900503+00:00,openai,gpt-4-turbo,0,3044,195,"Support sustainable agriculture and moderate regulation, oppose status quo and reduced regulation."
+5297b4e4-3aa3-4082-8ba7-ec1016163064,2025-04-03 11:58:06.675536+00:00,openai,gpt-4-turbo,0,3041,196,I favor moderate and incentive-based policies over radical changes or maintaining status quo.
+bc0d6860-4376-4467-8418-99c3a347e180,2025-04-03 11:58:17.176507+00:00,openai,gpt-4-turbo,0,3041,195,I prioritize sustainable agriculture and moderate regulation over radical changes or status quo.
+ce6de391-46f9-410d-be88-1d357e7167a7,2025-04-03 11:58:25.056560+00:00,openai,gpt-4-turbo,0,3041,198,Support for sustainable agriculture and moderate regulation; least support for status quo and radical changes.
+d4c22527-1f62-4ce7-8a39-8a93bfbb23e8,2025-04-03 11:58:33.734511+00:00,openai,gpt-4-turbo,0,3041,198,I favor incentives for local sustainable production and moderate regulations over radical changes or status quo.
+91cfe756-e8a9-4484-b595-0940570c0c7e,2025-04-03 11:58:43.179510+00:00,openai,gpt-4-turbo,0,3041,196,"Support moderate regulation and incentives for sustainability, oppose radical changes and deregulation."

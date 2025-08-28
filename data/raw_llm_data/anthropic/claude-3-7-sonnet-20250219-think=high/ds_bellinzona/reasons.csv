@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d5c0899b-86e3-4c48-b308-ba2b90f8d917,2025-05-22 17:57:43.732308+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,10786,4739,Prioritized urgent emissions cuts and resilience innovation over moderate action or economic focus.
+59999ca8-48e2-45c6-a54b-2171d02b8ad8,2025-05-22 17:59:19.387610+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,7587,2983,Prioritized ambitious climate action and adaptation over economic-first approaches or inaction.
+3e074476-4e2e-43e6-ab6c-55dfbd507e74,2025-05-22 18:00:13.580464+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,8895,3830,Radical action and adaptation urgently needed; current policies insufficient.
+ee20eab7-b45e-450f-b321-8864fdda93c6,2025-05-22 18:01:23.345718+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,8473,3875,Ambitious emission cuts + adaptation technologies needed; status quo and economy-first approaches inadequate.
+cae0d543-960a-4229-853c-1b9ad94b0b5a,2025-05-22 18:02:28.278776+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,9731,3974,Prioritized ambitious climate action with strong mitigation and adaptation over status quo or economy-first.

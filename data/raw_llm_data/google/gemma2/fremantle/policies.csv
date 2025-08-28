@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,"P1. Retain existing bridge, but replace the navigation spans and deteriorated components","P2. Retain existing bridge, but replace the navigation spans and deteriorated components and incorporate bridge widening","P3. Construct a new standard bridge next to the current bridge, leaving a section of the existing bridge as a heritage and recreation site","P4. Construct a new bridge that is a major entry statements for Fremantle, leaving a section of the existing bridge as a heritage recreation site",P5. Construct a new standard bridge and retain the existing bridge as a pedestrian/cyclist facility,P6. Construct a new two lane standard bridge and retain the existing bridge as a 2 lane bridge with improved pedestrian/cyclist facilities
+230d9a30-e288-4c51-a565-dc7568ee0fd5,2025-03-21 07:36:17.310388+00:00,google,gemma2,0,0,0,5,6,3,4,2,1
+5b8cdce5-6d5e-4ac9-bbc8-41035468702d,2025-03-21 07:36:37.337412+00:00,google,gemma2,0,0,0,4,6,2,5,3,1
+848d6600-0775-4505-a532-cad6188c8591,2025-03-21 07:36:56.945087+00:00,google,gemma2,0,0,0,1,5,6,2,3,4
+19f983a3-7db3-40f1-b464-1ac0ae06a312,2025-03-21 07:37:16.290083+00:00,google,gemma2,0,0,0,4,5,6,1,3,2
+7948e7d4-4fd7-4dd9-a02e-8a330b2b73df,2025-03-21 07:37:35.664389+00:00,google,gemma2,0,0,0,5,2,1,6,3,4
+e3b86496-f37f-4a15-a7fa-5e30b4197ef4,2025-03-21 07:37:55.153634+00:00,google,gemma2,0,0,0,1,4,6,3,2,5
+a886ae1d-3028-47db-bb39-c2ef9d460307,2025-03-21 07:38:14.530005+00:00,google,gemma2,0,0,0,5,3,4,1,2,6
+bee725f5-de31-42d9-bda3-b09fff6d296d,2025-03-21 07:38:33.771799+00:00,google,gemma2,0,0,0,5,2,1,3,6,4
+db935dd7-fb7f-4a17-b78c-c572c91e5d96,2025-03-21 07:38:53.247379+00:00,google,gemma2,0,0,0,3,2,5,4,6,1
+75481099-b95b-410d-b8ee-2f3de1999068,2025-03-21 07:39:13.179561+00:00,google,gemma2,0,0,0,4,5,2,1,6,3

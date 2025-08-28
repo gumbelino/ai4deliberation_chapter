@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+eb88730c-7106-42ca-a28b-a8b1eefe3265,2025-03-21 07:30:08.889523+00:00,google,gemma2,0,0,0,Prioritizing adaptation and individual action while cautiously approaching drastic emission cuts.
+0596f8a2-f828-4d8e-b71b-bd8d73b016ec,2025-03-21 07:30:27.317415+00:00,google,gemma2,0,0,0,"Prioritize resilience, technology, and moderate emissions reductions over drastic changes."
+492a018f-d370-4fa4-a9bd-dbe0c10634a0,2025-03-21 07:30:45.542055+00:00,google,gemma2,0,0,0,"Prioritize moderate emission cuts, adaptation planning and community action over radical approaches and economic growth at the cost of climate action."
+59851210-e7de-4e0f-8b7a-eccc21d5059b,2025-03-21 07:31:04.406855+00:00,google,gemma2,0,0,0,"Prioritize moderate emission reductions, adaptation planning, and local action over economic growth."
+1e064a24-85af-4aa6-ba18-c159191c78f0,2025-03-21 07:31:22.698460+00:00,google,gemma2,0,0,0,"Prioritize individual action, moderate emissions cuts, and adaptation over radical change."
+5b1a7123-0588-4b23-abee-f5cb62d58846,2025-03-21 07:31:40.796726+00:00,google,gemma2,0,0,0,"Prioritize adaptation, moderate emissions cuts, and community action over radical change."
+38db3bd8-12ef-4601-af97-91b72a8e10fe,2025-03-21 07:31:59.139664+00:00,google,gemma2,0,0,0,"Prioritize gradual emissions reduction, adaptation planning, and technological solutions over drastic changes."
+e6cff23b-ff5b-48a0-b771-1842c49214e0,2025-03-21 07:32:17.234111+00:00,google,gemma2,0,0,0,"Prioritize local action, adaptation over radical emissions cuts, with some focus on economic growth and new technologies."
+90454231-e5d3-4424-8ee7-021f952938f6,2025-03-21 07:32:35.696040+00:00,google,gemma2,0,0,0,Prioritize resilience and moderate emissions reduction while avoiding economic prioritization over climate action.
+77dc7153-af95-4be7-86ff-ec3354568a79,2025-03-21 07:32:53.898215+00:00,google,gemma2,0,0,0,"Support individual action, moderate emissions cuts, and adaptation planning over radical changes or prioritizing economic growth."

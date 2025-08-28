@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+21de2592-28a3-471e-b582-b69bdce7d861,2025-03-20 11:06:39.569315+00:00,google,gemini-2.0-flash,0,2888,179,"Public universal healthcare with efficiency improvements is best, less regulation worst."
+5fe3b033-2ab7-45b6-b762-383d2b858f9e,2025-03-20 11:06:43.908708+00:00,google,gemini-2.0-flash,0,2888,186,Govt support for those in need is best; personal responsibility is worst; fix inefficiencies is good.
+5931f967-1adf-480d-a269-5a389c481b5a,2025-03-20 11:06:48.415768+00:00,google,gemini-2.0-flash,0,2888,180,I favor targeted government intervention and financial support to improve the current system.
+17facb89-e16c-4de5-abb9-076b7fbf222c,2025-03-20 11:06:52.770847+00:00,google,gemini-2.0-flash,0,2888,179,"I favor affordable, accessible healthcare through public options and efficiency improvements."
+2c298231-14bd-4db2-880b-8b8ac342c506,2025-03-20 11:06:57.016172+00:00,google,gemini-2.0-flash,0,2888,181,"Efficiency and fairness are key; current system needs improvements, not radical changes."
+bf39d567-7d75-43ee-ab24-fd979fe345cf,2025-03-20 11:07:01.293938+00:00,google,gemini-2.0-flash,0,2888,182,Efficiency and fairness are key; public system with income-based contributions is best.
+2e0e8b92-0c99-40da-a573-0177b009f9f8,2025-03-20 11:07:05.517450+00:00,google,gemini-2.0-flash,0,2888,183,"Efficiency and fairness are key; current system needs fixes, not radical change or deregulation."
+413232f7-bed5-45f1-98f0-c91880965374,2025-03-20 11:07:09.386619+00:00,google,gemini-2.0-flash,0,2888,188,"Public system best, then fix inefficiencies, then support, competition ok, current system and personal responsibility worst."
+2931b441-049b-4765-9cdf-58e5d9b538d5,2025-03-20 11:07:13.606977+00:00,google,gemini-2.0-flash,0,2888,185,Fixing inefficiencies is best; universal healthcare is good; less regulation is better than current system.
+12c5d211-c0f9-4511-9102-a801797e7f2d,2025-03-20 11:07:17.411592+00:00,google,gemini-2.0-flash,0,2888,184,"Efficiency, fairness, and access are key; current system needs improvement but not radical change."
+1ad7a504-fc65-45e5-82a8-f876288c9be4,2025-03-25 13:59:14.337857+00:00,google,gemini-2.0-flash,0,2888,179,"Public universal healthcare with efficiency improvements is best, less regulation worst."
+64f8fd26-6170-4d2c-b4f9-861a01870d42,2025-03-25 13:59:17.718733+00:00,google,gemini-2.0-flash,0,2888,182,"I favor government intervention for affordability and efficiency, dislike deregulation and abolishing insurance."
+2917b52e-f992-4616-b69e-88b57073249a,2025-03-25 13:59:21.129700+00:00,google,gemini-2.0-flash,0,2888,180,I favor targeted government intervention and financial support to improve the current system.
+511e5686-5c2f-48e9-b342-6acb992c0245,2025-03-25 13:59:24.310606+00:00,google,gemini-2.0-flash,0,2888,185,"I favor universal access, efficiency, and fairness, disliking deregulation and the status quo."
+03b2a0a9-e664-454b-81e5-641aa9c5b4f8,2025-03-25 13:59:27.513109+00:00,google,gemini-2.0-flash,0,2888,181,"Efficiency and fairness are key; current system needs improvements, not radical changes."
+ac77e2b8-cd9f-45cc-abbb-256c3eb2c8cb,2025-03-25 13:59:30.780342+00:00,google,gemini-2.0-flash,0,2888,182,Efficiency and fairness are key; public system with income-based contributions is best.
+3b5b7314-80af-4791-a883-4823979df6e0,2025-03-25 13:59:33.972300+00:00,google,gemini-2.0-flash,0,2888,182,"Public universal healthcare best, then targeted support, fixing inefficiencies, competition last."
+b6e6d5fa-8013-4ba6-a842-227182d5ad83,2025-03-25 13:59:36.770120+00:00,google,gemini-2.0-flash,0,2888,188,"Public system best, then fix inefficiencies, then support, competition ok, current system and personal responsibility worst."
+05d86806-fc01-49ae-935f-85637bcc215a,2025-03-25 13:59:40.091768+00:00,google,gemini-2.0-flash,0,2888,185,Fixing inefficiencies is best; universal healthcare is good; less regulation is better than current system.
+dc51fe68-184c-4ba1-89bd-2c051e1292e6,2025-03-25 13:59:42.968326+00:00,google,gemini-2.0-flash,0,2888,184,"Efficiency, fairness, and access are key; current system needs improvement but not radical change."
+55e95b47-bd52-4b8c-a15e-5265d96bf076,2025-03-27 09:36:00.557702+00:00,google,gemini-2.0-flash,0,2888,179,Public universal healthcare with efficiency improvements is best; personal responsibility worst.
+46118b21-d4be-418a-86ba-8ee74e4308b9,2025-03-27 09:36:03.805614+00:00,google,gemini-2.0-flash,0,2888,182,"I favor government intervention for affordability and efficiency, dislike deregulation and abolishing insurance."
+a2be44c1-a4f7-4348-a367-a6083ac45c6f,2025-03-27 09:36:06.884938+00:00,google,gemini-2.0-flash,0,2888,180,I favor targeted government intervention and financial support to improve the current system.
+5a913e44-ed9f-4926-b664-f51c08829cc5,2025-03-27 09:36:10.154693+00:00,google,gemini-2.0-flash,0,2888,179,"I favor affordable, accessible healthcare through public options and efficiency improvements."
+b0e4bcd3-fec4-4605-a80f-68386cfac78c,2025-03-27 09:36:13.426192+00:00,google,gemini-2.0-flash,0,2888,181,"Efficiency and fairness are key; current system needs improvements, not radical changes."
+767c127f-08e2-4db2-a85e-83e24d898a02,2025-03-27 09:36:16.601727+00:00,google,gemini-2.0-flash,0,2888,179,Efficiency and fairness are key; less regulation is not the answer.
+b1462403-cfa2-40f6-bd5a-861a3a0f57ea,2025-03-27 09:36:19.883404+00:00,google,gemini-2.0-flash,0,2888,182,"Public universal healthcare best, current system worst, financial fixes better than private competition."
+709d87b7-105e-49eb-97ae-4f4a8b1a4bfc,2025-03-27 09:36:22.698504+00:00,google,gemini-2.0-flash,0,2888,188,"Public system best, then fix inefficiencies, then support, competition ok, current system and personal responsibility worst."
+6d451303-5edb-4d8e-b07e-15c01896c4eb,2025-03-27 09:36:25.984901+00:00,google,gemini-2.0-flash,0,2888,185,Fixing inefficiencies is best; universal healthcare is good; less regulation is better than current system.
+c0b25d0b-130e-4159-b4a3-5ad2c62aaf58,2025-03-27 09:36:28.860968+00:00,google,gemini-2.0-flash,0,2888,184,"Efficiency, fairness, and access are key; current system needs improvement but not radical change."

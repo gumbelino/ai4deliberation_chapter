@@ -1,0 +1,2 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+9d9eb5e4-38fa-409c-bf43-74a7384c77e7,2025-03-27 18:01:58.146750+00:00,qwen,qwen1.5-110b-chat,0,5147,366,"Ranked based on support for policies that prioritize individual privacy, public ownership, and strong regulation to ensure ethical use of biobanks while maintaining accessibility for research advancements."

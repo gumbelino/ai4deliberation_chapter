@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+ca501985-d184-4fd6-87f6-1fdb4c0acd02,2025-04-08 10:55:10.102380+00:00,xai,grok-2-1212,0,3135,217,"Supported local sustainable incentives most, opposed less regulation and status quo."
+bf1835d6-9601-473a-8d9b-1c938ad676ce,2025-04-08 10:55:16.894019+00:00,xai,grok-2-1212,0,3135,219,"Supported local sustainable incentives most, opposed less regulation least due to environmental concerns."
+779b93b3-fc39-4654-9b6c-0c0b4a086f9e,2025-04-08 10:55:23.000843+00:00,xai,grok-2-1212,0,3135,212,Moderate regulation balances sustainability and practicality effectively.
+fd590ec6-2436-4183-b752-444bc3453c8b,2025-04-08 10:55:28.061010+00:00,xai,grok-2-1212,0,3135,217,"Strongest support for radical sustainable measures, least for deregulation."
+3c76ba69-19cc-4c4a-8697-39f0536fc6dd,2025-04-08 10:55:33.893639+00:00,xai,grok-2-1212,0,3135,222,Incentives for sustainable local farming rank highest; less regulation and status quo are least favored.
+497c6345-6bef-4b87-a204-4e821ecb0d31,2025-04-08 10:55:39.881267+00:00,xai,grok-2-1212,0,3135,220,Prioritized research and incentives for sustainable farming over less regulation or maintaining status quo.
+ad9fd52a-4497-492e-9cf6-8af06da6912c,2025-04-08 10:55:45.974616+00:00,xai,grok-2-1212,0,3138,220,"Strongest support for radical sustainable measures, least for deregulation and status quo."
+57fc79a3-377f-425b-b722-7fe8b0fd4d6d,2025-04-08 10:55:52.883087+00:00,xai,grok-2-1212,0,3135,212,Moderate regulation balances sustainability and practicality effectively.
+cc7171f8-ca37-4af0-b8d3-7e627b9a014f,2025-04-08 10:55:58.984356+00:00,xai,grok-2-1212,0,3135,212,Moderate regulation balances sustainability and practicality effectively.
+fd3155cc-eed4-407c-afb0-8c10623127bb,2025-04-08 10:56:05.224370+00:00,xai,grok-2-1212,0,3135,222,"Prioritized local sustainable incentives, moderate regulation, and research over radical changes or status quo."
+b4120e78-4010-4abe-9e45-9aa2060cf69b,2025-04-08 10:56:11.437275+00:00,xai,grok-2-1212,0,3138,220,Prioritizing sustainable agriculture research and local incentives aligns with environmental and economic benefits.
+949cc6e3-c160-47e2-beab-2050672e8437,2025-04-08 10:56:17.414431+00:00,xai,grok-2-1212,0,3138,222,"Prioritized local sustainable incentives, moderate regulation, and research over status quo and less regulation."
+af3ab98d-7f4d-450a-b86a-00f9e855dbc0,2025-04-08 10:56:22.435476+00:00,xai,grok-2-1212,0,3135,219,"Supported local sustainable farming and moderate regulation, opposed less regulation and status quo."
+9db5e761-c9d3-4e5f-b9c4-2a5132997063,2025-04-08 10:56:29.391482+00:00,xai,grok-2-1212,0,3135,212,Moderate regulation balances sustainability and practicality effectively.
+1095fa9c-c3b1-4e50-8e0b-e3a5016f3e2e,2025-04-08 10:56:35.541989+00:00,xai,grok-2-1212,0,3135,212,Moderate regulation balances sustainability and practicality effectively.
+a4518d78-f97f-4fb3-8873-0544c24cf79b,2025-04-08 10:56:41.188983+00:00,xai,grok-2-1212,0,3135,225,"Prioritized local sustainable incentives, moderate regulation, research, then radical changes, maintaining status quo least favored."
+a62de255-3ba5-4206-9c06-37e091ab8138,2025-04-08 10:56:47.413095+00:00,xai,grok-2-1212,0,3135,221,Incentives for sustainable local farming rank highest; least regulation and status quo rank lowest.
+12f26f2b-e025-41e4-8533-3196bd218c8b,2025-04-08 10:56:52.923951+00:00,xai,grok-2-1212,0,3135,217,"Supported local sustainable incentives most, opposed less regulation and status quo."
+bbb6c07e-5d11-4104-ae75-0fb08c29323d,2025-04-08 10:56:58.069493+00:00,xai,grok-2-1212,0,3135,222,"Prioritized local sustainable incentives, moderate regulation, and research over radical changes or less regulation."
+9f30f925-65b8-4c23-b2b4-0a9878b7e569,2025-04-08 10:57:04.315659+00:00,xai,grok-2-1212,0,3135,218,Prioritized sustainable agriculture research and local incentives for eco-friendly farming practices.
+e5f47505-28d5-4745-9980-7db0defc90b1,2025-04-08 10:57:09.650112+00:00,xai,grok-2-1212,0,3135,212,Moderate regulation balances sustainability and practicality effectively.
+fdf3ff51-e7dc-44fc-9495-62492090c334,2025-04-08 10:57:15.332598+00:00,xai,grok-2-1212,0,3135,218,Prioritized sustainable incentives and moderate regulation for balanced environmental and economic benefits.
+c3da67c2-9e0a-4251-8fff-1f2605562bea,2025-04-08 10:57:21.921435+00:00,xai,grok-2-1212,0,3135,223,"Prioritized local sustainable incentives, moderate regulation, research, then radical measures; opposed deregulation."
+21ddac0d-672f-44c6-9792-835d3197b3d0,2025-04-08 10:57:27.389037+00:00,xai,grok-2-1212,0,3138,219,Prioritized sustainable agriculture research and local incentives over deregulation and status quo.
+f454f85a-2090-484a-ad7c-74c1e6f5a4c2,2025-04-08 10:57:32.878587+00:00,xai,grok-2-1212,0,3138,219,Prioritizing sustainable agriculture research and moderate regulation supports environmental and economic balance.
+4931f477-ae88-44be-8898-c21388fb4d8f,2025-04-08 10:57:38.312426+00:00,xai,grok-2-1212,0,3135,212,Moderate regulation balances sustainability and practicality effectively.
+751090e7-748c-425c-84b4-7336a3f205e7,2025-04-08 10:57:44.245406+00:00,xai,grok-2-1212,0,3138,212,Moderate regulation balances sustainability and practicality effectively.
+ff3903e0-6719-4ec7-8077-1ef73eeabc3b,2025-04-08 10:57:50.291109+00:00,xai,grok-2-1212,0,3135,219,"Prioritized sustainable agriculture research and local incentives, least support for deregulation."
+e6cc953b-44f6-4c97-8247-bcce9712e7b3,2025-04-08 10:57:56.249355+00:00,xai,grok-2-1212,0,3138,222,"Prioritized local sustainable incentives, moderate regulation, and research over status quo and deregulation."
+f4eeb7fc-7d51-4148-a096-ba6af9b4fa3a,2025-04-08 10:58:02.786487+00:00,xai,grok-2-1212,0,3135,221,Incentives for sustainable local farming rank highest; less regulation and status quo least supported.

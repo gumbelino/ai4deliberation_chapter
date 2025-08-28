@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+9f5430d3-4b59-4468-b528-7eeca6900bd7,2025-03-20 10:54:28.303952+00:00,google,gemini-2.0-flash,0,5263,337,"Current system best, then guaranteed involvement, then equal influence, then markets, then morals."
+c3574463-bbf6-48ca-8152-ac8000fd033e,2025-03-20 10:54:33.177964+00:00,google,gemini-2.0-flash,0,5251,330,"Current system best, markets need oversight, morality not gov job, equal influence good."
+9d4b721e-e583-4170-990d-37b5ed0dd499,2025-03-20 10:54:37.770508+00:00,google,gemini-2.0-flash,0,5275,341,Guaranteed minority involvement is best; status quo is ok; moral legislation is worst.
+35fab46e-6625-4aab-97d2-bb8cedc2249d,2025-03-20 10:54:42.781129+00:00,google,gemini-2.0-flash,0,5259,332,Minority voices need amplification; markets need regulation; status quo is ok.
+b96882c7-08dc-4ec8-a935-36e31c708ee1,2025-03-20 10:54:47.719104+00:00,google,gemini-2.0-flash,0,5255,330,"I favor inclusive policy making, then equal influence, markets over moral legislation."
+a2d46af6-2f47-4e1c-b716-12f044fb7400,2025-03-20 10:54:52.598586+00:00,google,gemini-2.0-flash,0,5257,338,"Minority involvement is key, but not at the expense of others. Morality shouldn't be legislated."
+1f060735-506d-4dd2-aab5-58ccbdfd53ba,2025-03-20 10:54:57.656947+00:00,google,gemini-2.0-flash,0,5257,334,Equal opportunity is key; morality shouldn't be legislated; markets need some regulation.
+99c4dac4-27a0-4850-8819-e8c76f80a88d,2025-03-20 10:55:02.232009+00:00,google,gemini-2.0-flash,0,5265,337,"Moral principles first, then disadvantaged groups, current system, equality, free markets last."
+094d67c1-833a-464a-a2f5-e52cfc8ce72b,2025-03-20 10:55:07.302191+00:00,google,gemini-2.0-flash,0,5257,335,"Current system best, but needs improvement; involvement is key, not moralizing or market focus."
+39b3a7d4-b3a0-4df3-a031-6555c159ea40,2025-03-20 10:55:11.998174+00:00,google,gemini-2.0-flash,0,5255,332,"Current system best, but needs improvement. Minority focus is divisive, morality is personal."
+2550269e-e3b9-4a0d-aa67-29188b234738,2025-03-25 13:49:37.759557+00:00,google,gemini-2.0-flash,0,5263,337,"Current system best, then minority inclusion, equality, markets, and lastly, moral legislation."
+bac9e220-0ae0-46bd-befb-3fb1bddb3794,2025-03-25 13:49:41.945664+00:00,google,gemini-2.0-flash,0,5261,334,"Current system best, markets need fixing, minority focus less ideal, morality least."
+8d7ec611-e1f6-48cf-b2b8-4a272ba8cf66,2025-03-25 13:49:45.593332+00:00,google,gemini-2.0-flash,0,5275,341,Guaranteed minority involvement is best; status quo is ok; moral legislation is worst.
+02ac556e-78ff-4250-98ea-0abce1d67957,2025-03-25 13:49:49.627944+00:00,google,gemini-2.0-flash,0,5259,330,"Minority involvement most, moral legislation least, status quo middle."
+00f6de17-bd25-42cf-838c-60cb490a4713,2025-03-25 13:49:53.553507+00:00,google,gemini-2.0-flash,0,5255,330,"I favor inclusive policy making, then equal influence, markets over moral legislation."
+d56739bb-f665-4f4d-b879-58ff54811f57,2025-03-25 13:49:57.678583+00:00,google,gemini-2.0-flash,0,5257,338,"Minority involvement is key, but not at the expense of others. Morality shouldn't be legislated."
+7169aa56-0b27-4462-b249-43cfd0765bca,2025-03-25 13:50:01.806132+00:00,google,gemini-2.0-flash,0,5253,332,"Moral principles first, equality second, markets third, current system fourth, special groups last."
+778229d5-245d-4d38-8d81-b4eb0feb3ce3,2025-03-25 13:50:05.309325+00:00,google,gemini-2.0-flash,0,5265,339,"Moral principles first, then minority involvement, status quo, equality, and lastly, market focus."
+3b93e147-f8f1-49de-8549-4a2425074abe,2025-03-25 13:50:09.564830+00:00,google,gemini-2.0-flash,0,5255,328,"Current system best, but needs improvement. Minority focus least desirable."
+70ca8b86-e985-4734-85a6-7b968b2c3cdf,2025-03-25 13:50:13.142176+00:00,google,gemini-2.0-flash,0,5255,333,"Current system best, then minority inclusion, free markets, equal influence, moral legislation worst."
+bcd0d5fe-ae9c-4a22-b1bc-ac0dd2576442,2025-03-27 09:26:21.442975+00:00,google,gemini-2.0-flash,0,5263,335,"Current system best, then minority inclusion, equality, markets, moral leaders worst."
+2fc9c102-4aee-4454-a14b-96b852ee9d1c,2025-03-27 09:26:25.573832+00:00,google,gemini-2.0-flash,0,5261,340,"Current system is ok, markets need some help, minorities shouldn't get special treatment, morals not enforced."
+bf5c2b76-d59d-40d6-ae14-ae074f7b2719,2025-03-27 09:26:29.184055+00:00,google,gemini-2.0-flash,0,5275,340,Guaranteed minority involvement is best; current system needs work; moral legislation worst.
+b189749e-e1a8-4392-a450-9c3140e113fc,2025-03-27 09:26:33.290617+00:00,google,gemini-2.0-flash,0,5259,331,"I favor inclusive policy making, equal influence, and minimal market intervention."
+b2c7976c-4b36-4c1c-9321-1543590ead47,2025-03-27 09:26:37.256778+00:00,google,gemini-2.0-flash,0,5255,330,"I favor inclusive policy making, then equal influence, markets over moral legislation."
+7805a356-72c8-4120-9f85-163c26fee81f,2025-03-27 09:26:41.395756+00:00,google,gemini-2.0-flash,0,5257,333,"I favor inclusive policy making, dislike moral legislation, and want equal influence for all."
+e94c4058-55db-4bef-b4d7-f19a6338b63a,2025-03-27 09:26:45.504986+00:00,google,gemini-2.0-flash,0,5253,332,"Moral principles first, equality second, markets third, current system fourth, special groups last."
+01cb1e43-1a6f-4d12-9740-422df6a97bde,2025-03-27 09:26:49.267873+00:00,google,gemini-2.0-flash,0,5263,337,"Moral principles most, equal influence next, current system middle, markets then minority benefits least."
+24e75357-fb30-4802-83a5-458beea328c1,2025-03-27 09:26:53.367369+00:00,google,gemini-2.0-flash,0,5255,333,"Current system best, but needs improvement. Minority focus is overblown, morality is personal."
+eeaff97e-b174-44fd-b57b-28ec62f80a8e,2025-03-27 09:26:57.025787+00:00,google,gemini-2.0-flash,0,5255,332,"Current system best, but needs improvement. Minority focus is divisive, morality is personal."

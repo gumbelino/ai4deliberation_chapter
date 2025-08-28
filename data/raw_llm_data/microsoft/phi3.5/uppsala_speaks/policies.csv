@@ -1,0 +1,19 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Ban Begging within Sweden,P2. Deport any immigrants found begging on the streets who have stayed in Sweden longer than three months,P3. Enforce existing laws without special consideration for beggars,P4. Forbid giving money to beggars,P5. Focus resources on addressing the the problem in source countries such as Romania,P6. Ban Illegal Settlements,P7. Provide accommodation for beggars (more)
+c23fe48d-4947-4f32-bee0-5c8159e53aae,2025-03-25 22:12:18.915299+00:00,microsoft,phi3.5,0,0,0,1,7,5,2,6,4,3
+abd01218-9b39-438c-8b69-38ddb31563ca,2025-03-25 22:12:32.671923+00:00,microsoft,phi3.5,0,0,0,6,5,4,7,1,2,3
+60e4a77e-7399-4694-9503-0d1ab4920ccf,2025-03-25 22:12:58.054672+00:00,microsoft,phi3.5,0,0,0,7,3,5,4,6,2,1
+ed31d398-1491-4af7-85a8-54391149adde,2025-03-25 22:13:22.697648+00:00,microsoft,phi3.5,0,0,0,6,1,3,4,2,7,5
+5026529a-c8bc-4887-ac86-b184c8895992,2025-03-25 22:13:35.319844+00:00,microsoft,phi3.5,0,0,0,3,7,6,5,1,4,2
+c506d967-91a2-4d23-8575-984e3f2693be,2025-03-25 22:14:10.767508+00:00,microsoft,phi3.5,0,0,0,6,2,4,3,7,5,1
+0a4d15c7-2018-4e73-b079-ab273d61b6a9,2025-03-25 22:15:17.387038+00:00,microsoft,phi3.5,0,0,0,4,3,1,5,6,7,2
+d53b73cd-a1b6-4737-b154-b46530626ba3,2025-03-25 22:15:43.877595+00:00,microsoft,phi3.5,0,0,0,2,5,3,7,1,6,4
+3da8afbe-216e-4d22-94a2-24a3cc538941,2025-03-25 22:17:01.071909+00:00,microsoft,phi3.5,0,0,0,5,2,6,3,1,4,7
+04a2273d-3b7f-4891-9b31-896d3b401a0f,2025-03-25 22:18:06.187514+00:00,microsoft,phi3.5,0,0,0,3,7,4,1,2,6,5
+512bd32e-dfa9-4e72-b22b-fd22c508ea56,2025-04-04 12:55:10.490527+00:00,microsoft,phi3.5,0,0,0,7,1,6,3,2,5,4
+f7ab3f99-f90b-4e6f-9a51-93d3efd1a4e2,2025-04-04 12:55:49.645824+00:00,microsoft,phi3.5,0,0,0,7,3,5,4,6,2,1
+d0335ed4-dae5-4482-9936-6c02fcb7a26c,2025-04-04 12:56:20.703361+00:00,microsoft,phi3.5,0,0,0,6,1,3,4,2,7,5
+c37170b6-24bb-480e-aa08-a2a078a9ab7e,2025-04-04 12:56:33.184139+00:00,microsoft,phi3.5,0,0,0,3,1,2,4,7,5,6
+1d2eac8f-6afb-4222-89cb-5eb397bb5db1,2025-04-04 12:58:20.434289+00:00,microsoft,phi3.5,0,0,0,3,4,1,5,2,6,7
+7ceaf17b-fe06-41ca-854c-a99c850bbcef,2025-04-04 12:58:33.837164+00:00,microsoft,phi3.5,0,0,0,4,3,1,5,6,7,2
+50f610aa-0446-40dc-8ba7-2ad93535aec7,2025-04-04 12:58:59.225153+00:00,microsoft,phi3.5,0,0,0,1,4,3,7,6,5,2
+4ea7617e-5c45-4138-9557-b2f00b39f837,2025-04-04 12:59:24.734010+00:00,microsoft,phi3.5,0,0,0,4,3,2,7,1,6,5

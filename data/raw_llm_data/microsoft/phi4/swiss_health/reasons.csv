@@ -1,0 +1,36 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+526790c0-20fa-428b-838d-6e247b968837,2025-03-21 01:00:36.047460+00:00,microsoft,phi4,0,0,0,Income-based contributions and subsidies are key for fair healthcare access.
+05d0aee4-a000-41b9-ad61-9ea74daa5c1f,2025-03-21 01:00:56.921485+00:00,microsoft,phi4,0,0,0,"Ranked policies based on support for efficiency, fairness, and access to healthcare."
+fae54a05-2e20-41f3-9ddf-1c6e776a1ac8,2025-03-21 01:01:17.114464+00:00,microsoft,phi4,0,0,0,Support for government roles in reducing inefficiencies and ensuring affordability while valuing universal healthcare access.
+987fe670-252f-43f1-aef1-969eb5e46774,2025-03-21 01:01:57.370970+00:00,microsoft,phi4,0,0,0,Ranked policies based on fairness and efficiency in healthcare access and costs.
+b6bb6605-99ad-4d8f-b019-ef976ca9b566,2025-03-21 01:02:17.266744+00:00,microsoft,phi4,0,0,0,I prioritize income-based systems and government support for equitable healthcare access.
+750fe5e7-c095-47ed-bf25-53845b8e0788,2025-03-21 01:02:37.183262+00:00,microsoft,phi4,0,0,0,"Supports government role to address cost and access issues through regulation, subsidies, and universal healthcare. Emphasizes efficiency improvements and reduced bureaucracy over market-driven approaches."
+9f8fdd36-d9b6-4e87-87d0-2d62d4c386b0,2025-03-21 01:02:58.909408+00:00,microsoft,phi4,0,0,0,Supports income-based universal healthcare; prefers reducing inefficiencies and targeted subsidies over deregulation or personal responsibility.
+eccfd243-76a1-4218-b93d-d6c09038ab9e,2025-03-21 01:03:19.793121+00:00,microsoft,phi4,0,0,0,Ranked by fairness and efficiency; prioritizing universal access and financial support over deregulation.
+e229ba2d-fb45-49bb-b9d9-fabb16c9924f,2025-03-21 01:03:39.998797+00:00,microsoft,phi4,0,0,0,Income-based health care access and fixing inefficiencies are most supported.
+6f9dec90-72cd-4d1b-9c29-5cb82c3c3d04,2025-03-27 18:02:53.931982+00:00,microsoft,phi4,0,0,0,I prioritize policies promoting universal access and financial equity over deregulation.
+64e7776f-03fa-4efd-9b4b-58d18e9e117b,2025-03-27 18:03:15.010783+00:00,microsoft,phi4,0,0,0,Support for universal healthcare based on income; prioritize efficiency and fairness.
+50ce83f7-43f4-4393-947b-21a3a0a5aefc,2025-03-27 18:03:35.350195+00:00,microsoft,phi4,0,0,0,2 and 1 reflect support for universal healthcare and addressing financial barriers. 3 is middle-ground on government intervention. 4 and 5 are less supported due to concerns about personal responsibility and efficiency focus. 6 is least favored as changes are deemed necessary.
+24907047-1396-43a3-90df-7bdd0ade1410,2025-03-27 18:03:58.862009+00:00,microsoft,phi4,0,0,0,Supports universal healthcare and financial efficiency improvements over privatization.
+6987d643-248b-42c1-b1b0-0b73eb627c22,2025-03-27 18:04:19.396726+00:00,microsoft,phi4,0,0,0,Ranking based on prioritizing universal access and financial efficiency.
+1be36399-de95-4977-90d0-2262d3435477,2025-03-27 18:04:39.483584+00:00,microsoft,phi4,0,0,0,Policies focused on fairness and efficiency receive higher support over minimal changes or reduced regulation.
+2e3402a9-e8f6-4509-ab5b-5a0f88e6317c,2025-03-27 18:04:59.973326+00:00,microsoft,phi4,0,0,0,Support for income-based systems and efficiency improvements without radical change.
+faf041c1-a70d-48e4-9bce-8352b6a28bf0,2025-03-27 18:05:20.060777+00:00,microsoft,phi4,0,0,0,"I value fairness and efficiency, preferring income-based contributions and public oversight over competition."
+86351002-f43f-4e76-8af6-d649a5d1fd16,2025-03-27 18:05:41.464455+00:00,microsoft,phi4,0,0,0,Agree with policies that ensure affordable and equitable healthcare access through subsidies and public systems.
+9672ef88-d702-48ef-b9ba-a3a957897067,2025-03-27 18:06:03.304037+00:00,microsoft,phi4,0,0,0,Support for equitable access and reducing inefficiencies informed my rankings.
+227a69d5-d10a-49dc-9a3b-2e2b8880ea83,2025-03-28 02:15:59.758219+00:00,microsoft,phi4,0,0,0,"Ranked policies based on equity, affordability, and efficiency, prioritizing universal access and financial support."
+dd5d7236-131a-46db-82bf-1afe4079451e,2025-03-28 02:16:28.286679+00:00,microsoft,phi4,0,0,0,Income-based contributions and subsidies support equity and accessibility in healthcare.
+bd535bb7-864a-4b82-a191-df66c1391876,2025-03-28 02:16:54.452975+00:00,microsoft,phi4,0,0,0,Ranked policies based on effectiveness and equity for healthcare access.
+d9ef5e2b-c35b-4b81-b1d7-db7f442c6c89,2025-03-28 02:17:20.787937+00:00,microsoft,phi4,0,0,0,Ranking based on support for equitable and efficient healthcare access.
+926e5775-5082-494c-8842-2e1c61b6b7c6,2025-03-28 02:17:47.092956+00:00,microsoft,phi4,0,0,0,Income-based fairness and financial support are prioritized over systemic overhaul or deregulation.
+46ceef5b-2c3b-4f9a-b616-2225e2fd08ca,2025-03-28 02:18:13.577829+00:00,microsoft,phi4,0,0,0,Support government control and subsidies for efficiency and access; oppose abolishing insurance.
+2ae89690-01c6-4539-bb99-f5660d8451ff,2025-03-28 02:18:39.949183+00:00,microsoft,phi4,0,0,0,Government control over pricing and support for those in need ranked highest. Universal healthcare system was second. Financial efficiency fixes were third. No changes needed last.
+c9e53da3-3626-46c6-b7cd-a2c33dd2a94c,2025-03-28 02:19:08.249834+00:00,microsoft,phi4,0,0,0,Ranked policies for equitable healthcare access and efficiency.
+80a75d86-7c6a-4b0b-b792-d322f38b77e3,2025-03-28 02:19:33.757438+00:00,microsoft,phi4,0,0,0,"Agree with centralized, income-based public healthcare for efficiency and equity."
+a5c7fe3f-f381-47d5-8207-8510d9bfcb19,2025-03-28 02:20:00.607577+00:00,microsoft,phi4,0,0,0,I support universal healthcare with income-based payments and prioritize financial efficiency improvements.
+e7a34f7c-efc6-4516-bf5a-944069b84104,2025-03-28 02:20:27.491286+00:00,microsoft,phi4,0,0,0,Support for universal public healthcare and fixing inefficiencies align with high ratings. Less support for increased personal responsibility and status quo.
+b445d760-9c2d-4d47-8ac0-bf168146d61d,2025-03-28 02:20:55.182928+00:00,microsoft,phi4,0,0,0,I prioritize policies that reduce inefficiencies and support the needy while maintaining balance.
+40bf8e2d-b138-49b7-b4ac-4a001ead9334,2025-03-28 02:21:22.222413+00:00,microsoft,phi4,0,0,0,Supports government intervention and financial aid for healthcare inefficiencies.
+45c28ba8-54d5-4798-b4c8-09118cc7b51f,2025-03-28 02:21:46.917426+00:00,microsoft,phi4,0,0,0,Supports government intervention and financial support for equitable healthcare access.
+b3ff787d-473d-4d26-854c-7698ee14e7e0,2025-03-28 02:22:09.070504+00:00,microsoft,phi4,0,0,0,"Ranked policies based on efficiency, equity, and cost-effectiveness in healthcare."
+733a9ef2-51f6-48b8-afcb-34cfde9f7ed8,2025-03-28 02:22:31.054810+00:00,microsoft,phi4,0,0,0,Support for policies that increase access and efficiency while addressing inefficiencies.

@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+6a30d260-4844-4c09-8c42-75c52a27b00a,2025-05-20 13:05:03.970244+00:00,xai,grok-3-mini-fast-beta-r=low,0,8842,150,"Prioritized public funding, awareness, and social initiatives over private clinics."
+d3dea75b-994b-4c83-9b98-01119c12ebf6,2025-05-20 13:05:21.897977+00:00,xai,grok-3-mini-fast-beta-r=low,0,8232,153,"Prioritized policies for funding, awareness, and socioeconomic aid over privatization and service cuts."
+b061071b-60f4-4be3-b427-7c00c65b01c7,2025-05-20 13:05:38.749082+00:00,xai,grok-3-mini-fast-beta-r=low,0,8835,151,"Prioritized policies on equity, awareness, and funding over privatization and reductions."
+fcb4a2c9-81c6-4d7d-82c2-98f332aa54f1,2025-05-20 13:05:57.300110+00:00,xai,grok-3-mini-fast-beta-r=low,0,7935,149,"I support policies improving socioeconomic conditions and funding most, opposing reductions."
+a9a4aea4-d6cb-4518-a0cd-0eecde322c1d,2025-05-20 13:06:13.731897+00:00,xai,grok-3-mini-fast-beta-r=low,0,8146,154,"Prioritized policies addressing socioeconomic issues, funding, and awareness most, while opposing service reductions."

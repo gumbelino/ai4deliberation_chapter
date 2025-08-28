@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+fa463f98-a51d-4a21-9a45-551ac5d3d8ea,2025-03-20 23:41:42.469685+00:00,microsoft,phi4,0,0,0,Prefer moderate regulations with local incentives and climate risk prep. Avoid radical changes.
+dcf41a15-f520-4695-9b33-66423964be94,2025-03-20 23:44:27.876123+00:00,microsoft,phi4,0,0,0,I support incentive-based and emergency response policies over radical regulation or laissez-faire approaches.
+3d882bf9-5da0-42a5-9beb-7b8514951eba,2025-03-20 23:44:59.964938+00:00,microsoft,phi4,0,0,0,Support local sustainability and resilience with moderate regulation over radical changes.
+f54dc991-14eb-45b9-96a9-7e2395393159,2025-03-20 23:59:27.501488+00:00,microsoft,phi4,0,0,0,Moderate and incentivising local sustainable food production are highly supported. Radical changes are least favored.
+1886d924-1c43-4a9c-ae06-57b41ba5d6ad,2025-03-20 23:59:59.725076+00:00,microsoft,phi4,0,0,0,Supports incentives for local sustainable food production and climate risk preparation.
+2a2d47b1-4a8d-484d-bc74-97af3d0e897e,2025-03-21 00:17:12.451397+00:00,microsoft,phi4,0,0,0,Policies that incentivize local sustainable food production are most supported.
+83a0c46d-250d-4909-bbc4-f0791f22a31b,2025-03-21 00:17:44.196370+00:00,microsoft,phi4,0,0,0,Prioritize resilience technologies and moderate regulations for sustainable food policy.
+f1d71eb0-2f8d-4b01-bb71-48a4074ec913,2025-03-21 00:18:15.837018+00:00,microsoft,phi4,0,0,0,Supports moderate sustainable regulations and incentives for local producers.
+38c2dcd3-d551-4e59-8d32-df40029baca7,2025-03-27 17:32:10.881118+00:00,microsoft,phi4,0,0,0,Support moderate regulations and climate-resilient technologies.
+2fa5c8ee-ae19-4766-a5e5-ebe627bda1dc,2025-03-27 17:32:43.072169+00:00,microsoft,phi4,0,0,0,Support moderate and incentivizing sustainable policies while planning for climate risks.
+bce141fc-4802-4344-8366-758982e6ec65,2025-03-27 17:33:15.741336+00:00,microsoft,phi4,0,0,0,I prioritize moderate sustainable regulations and incentives for local producers over radical changes or fewer regulations.
+adba1acd-d9fa-435a-9efa-aba35afcbb5d,2025-03-27 17:33:48.410612+00:00,microsoft,phi4,0,0,0,Moderate sustainability with local incentives is most supported.
+f0d0768c-d20f-48a8-9feb-a7eb7789900e,2025-03-27 17:34:20.272983+00:00,microsoft,phi4,0,0,0,I support local sustainable incentives and adaptation policies the most; radical changes are least preferred.
+a1a672ba-6571-442a-bce1-cd95c7fe766d,2025-03-27 17:35:26.247440+00:00,microsoft,phi4,0,0,0,Support local sustainable incentives over radical bans and free trade.
+b29fc3ab-8736-4970-9eab-e2965c9e6d2c,2025-03-27 17:35:58.578500+00:00,microsoft,phi4,0,0,0,Moderate sustainable regulations most effectively balance sustainability and practicality.
+cdaabab8-4d15-4642-b061-e884d83c1396,2025-03-27 17:36:31.372266+00:00,microsoft,phi4,0,0,0,Support local sustainable agriculture with incentives and moderate regulations.
+fb89d378-0d9b-4625-8ea2-6b6aeaa725dd,2025-03-28 01:22:45.609230+00:00,microsoft,phi4,0,0,0,Moderate regulation with local incentives balances sustainability and feasibility.
+bb9b5aa0-fcd1-4a89-b463-5adc739fc8e1,2025-03-28 01:23:19.762402+00:00,microsoft,phi4,0,0,0,I prioritize sustainable and local food production through balanced regulations and incentives.
+1ea5f889-72bd-43e2-9996-3c50b2981edf,2025-03-28 01:23:53.576389+00:00,microsoft,phi4,0,0,0,Moderate policies preferred; incentives for local sustainable food production.
+6c055f9d-b370-4b77-bad0-7d03ca9a0c0c,2025-03-28 01:24:27.461130+00:00,microsoft,phi4,0,0,0,Support sustainable incentives and resilience with moderate regulation; avoid radical bans or inaction.
+b8e53266-99af-44eb-9d04-eaa578ac2082,2025-03-28 01:25:01.665964+00:00,microsoft,phi4,0,0,0,Support moderate regulations with incentives and climate resilience over minimal changes.
+8cb9048d-3f75-44f1-b87a-34f409a1b2c4,2025-03-28 01:25:35.657003+00:00,microsoft,phi4,0,0,0,I support local sustainable incentives and moderate regulations the most.
+fec04eaf-7835-4a49-96aa-874ea35f079b,2025-03-28 01:26:09.019883+00:00,microsoft,phi4,0,0,0,Ranked based on support for sustainability and local production incentives.
+3a5ed760-23de-4179-8600-ef0eb69a99e4,2025-03-28 01:26:42.889861+00:00,microsoft,phi4,0,0,0,I support moderate sustainable regulations and incentives for local producers.
+fe6a5ef8-edce-4ee3-aa5f-1daa5b66eb08,2025-03-28 01:27:16.516713+00:00,microsoft,phi4,0,0,0,Ranked policies by their balance of sustainability and practicality.
+f759071a-ff84-401a-a282-21a10d390730,2025-03-28 01:28:28.046192+00:00,microsoft,phi4,0,0,0,1 supports most incentive for local sustainability. 6 is moderate regulation.
+1497ae15-779a-45c2-8c1e-8b752cf71966,2025-03-28 01:29:01.950038+00:00,microsoft,phi4,0,0,0,I support incentivizing local sustainable food production and preparing for climate risks while opposing deregulation and radical regulation.
+da42faf6-a9b5-4650-9ed8-54fb674577a4,2025-03-28 01:29:38.497891+00:00,microsoft,phi4,0,0,0,Support moderate sustainability policies and innovative resilience strategies.
+166fe8e3-4e0a-4d01-b852-063ac4756a8a,2025-03-28 01:30:12.212079+00:00,microsoft,phi4,0,0,0,Support moderate sustainable policies and incentives for local producers over radical changes or no action.
+03755a2a-292d-44e9-bc90-1c8ff2e113af,2025-03-28 01:30:46.146490+00:00,microsoft,phi4,0,0,0,Supports moderate regulations and local sustainable incentives over drastic changes or status quo.
+790a7d18-e193-4843-9999-db4f630713c3,2025-03-28 01:31:19.827563+00:00,microsoft,phi4,0,0,0,Moderate policies preferred for sustainable food production and adaptation.

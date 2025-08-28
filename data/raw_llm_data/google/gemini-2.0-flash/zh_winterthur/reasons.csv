@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+96a5b9d4-af58-4a64-b923-c8b4122dcbd2,2025-03-20 10:59:01.799444+00:00,google,gemini-2.0-flash,0,3177,217,Moderate regulation and local incentives are best; radical regulation and deregulation are not.
+33b7fd33-95c7-4be0-891c-0448e8bab0d8,2025-03-20 10:59:05.870486+00:00,google,gemini-2.0-flash,0,3177,214,Moderate regulation and research are preferred over radical changes or deregulation.
+daca35b2-174d-4ae8-8419-40c2617170a3,2025-03-20 10:59:10.790486+00:00,google,gemini-2.0-flash,0,3177,220,"Support incentives, moderate regulation, research; oppose radical bans, less regulation, status quo."
+b884a35e-17db-48af-9f37-e1c4a96efaa7,2025-03-20 10:59:15.276974+00:00,google,gemini-2.0-flash,0,3177,218,"Support research, incentives, moderate regulation, but oppose radical steps and less regulation."
+1ba356bd-ed98-459b-a0fd-aae4940aa778,2025-03-20 10:59:19.351115+00:00,google,gemini-2.0-flash,0,3177,219,"Incentives for local sustainable production best, current policies worst, research is also important."
+34d2ef0b-674e-455a-b408-540da08f70c9,2025-03-20 10:59:23.796056+00:00,google,gemini-2.0-flash,0,3177,217,Incentivizing local sustainable production is best; radical regulation is too disruptive.
+450c2fd2-cf27-45ad-9639-834fcecd9f8e,2025-03-20 10:59:28.216066+00:00,google,gemini-2.0-flash,0,3177,219,"Incentivize sustainable practices, research, moderate regulation, avoid radical bans and deregulation."
+6833d91b-5183-43bb-abb6-48488e3af527,2025-03-20 10:59:32.664058+00:00,google,gemini-2.0-flash,0,3177,216,"Incentives for sustainable local production, moderate regulation, research are preferred."
+005f3182-77f0-4ee6-bb3c-6f3b79334f47,2025-03-20 10:59:37.109686+00:00,google,gemini-2.0-flash,0,3177,218,"Support sustainable practices with incentives and moderate regulation, avoid extremes and free trade focus."
+c5e99381-af1b-4d23-88b1-9500676b459b,2025-03-20 10:59:41.239497+00:00,google,gemini-2.0-flash,0,3177,217,Incentivizing local sustainable production is best; radical regulation is least desirable.
+b318ec01-9c3e-4331-a3c8-f30220bf3611,2025-03-25 13:53:13.196310+00:00,google,gemini-2.0-flash,0,3177,216,Moderate regulation and local incentives are best; radical regulation is too extreme.
+e51046d1-e3cf-4d72-8e1c-e824b8af7667,2025-03-25 13:53:16.312042+00:00,google,gemini-2.0-flash,0,3177,213,I favor research and moderate incentives for sustainable local production.
+913accfd-1115-4931-ba1f-fbd6996401a5,2025-03-25 13:53:19.846012+00:00,google,gemini-2.0-flash,0,3177,220,"Support incentives, moderate regulation, research; oppose radical bans, less regulation, status quo."
+63d332de-e3a3-45cf-b0b5-564307c63fef,2025-03-25 13:53:23.530258+00:00,google,gemini-2.0-flash,0,3177,217,"Support sustainable practices, but avoid radical regulations and prioritize research and local incentives."
+0bc59c75-4408-44de-8acc-9927d3a8249f,2025-03-25 13:53:26.518404+00:00,google,gemini-2.0-flash,0,3177,216,Moderate regulation and local incentives are preferred; free trade is least desirable.
+35af2741-7950-40aa-8b3e-6edb2e328276,2025-03-25 13:53:29.869655+00:00,google,gemini-2.0-flash,0,3177,221,"Incentivize local sustainable production, research, moderate regulation, avoid radical bans/free trade."
+78f1d507-efd0-4a4b-b1fd-9bc4425bd4ee,2025-03-25 13:53:33.405018+00:00,google,gemini-2.0-flash,0,3177,219,"Incentivize sustainable practices, research, moderate regulation, avoid radical bans and deregulation."
+4929ffd5-811a-4a00-a651-a80d65956d26,2025-03-25 13:53:36.954337+00:00,google,gemini-2.0-flash,0,3177,216,"Incentives for sustainable local production, moderate regulation, research are preferred."
+442c0419-1aa9-4899-998e-aef99c48c4b2,2025-03-25 13:53:40.416895+00:00,google,gemini-2.0-flash,0,3177,218,"Support sustainable practices with incentives and moderate regulation, avoid extremes and free trade focus."
+4777793e-71a6-4551-b301-dbcac5021921,2025-03-25 13:53:43.493189+00:00,google,gemini-2.0-flash,0,3177,217,Incentivizing local sustainable production is best; radical regulation is least desirable.
+e8697c45-7de7-4300-b9c0-be90b00758f2,2025-03-27 09:30:06.912079+00:00,google,gemini-2.0-flash,0,3177,217,"Radical regulation is best, current policy worst. Incentives and research are important."
+41908811-b825-4315-99a6-07fa0c5c4902,2025-03-27 09:30:09.957565+00:00,google,gemini-2.0-flash,0,3177,214,Moderate regulation and research are preferred over radical changes or deregulation.
+e148c699-b029-4c54-aa01-49fe5450cf93,2025-03-27 09:30:13.467111+00:00,google,gemini-2.0-flash,0,3177,220,"Support incentives, moderate regulation, research; oppose radical bans, less regulation, status quo."
+38cfd516-0bb0-4a6a-bee2-12407f3c31cf,2025-03-27 09:30:17.051358+00:00,google,gemini-2.0-flash,0,3177,216,"Support sustainable practices, local production, and moderate regulation, oppose deregulation."
+b0f6b8bd-f86a-46d5-b3a3-80d36daa13b3,2025-03-27 09:30:20.095826+00:00,google,gemini-2.0-flash,0,3177,216,"Moderate regulation and local incentives are preferred, avoiding extremes and promoting research."
+aeaed18e-9aa3-4895-a0cb-bd5edd97b658,2025-03-27 09:30:23.511143+00:00,google,gemini-2.0-flash,0,3177,221,"Incentivize sustainable practices, research, moderate regulation, avoid radical bans and free trade focus."
+7cdac421-b39d-4ac5-8a45-10d10b1a7f8e,2025-03-27 09:30:27.030130+00:00,google,gemini-2.0-flash,0,3177,219,"Incentivize sustainable practices, research, moderate regulation, avoid radical bans and deregulation."
+e6959a15-459a-458a-b6d2-dacb3048aba5,2025-03-27 09:30:30.339355+00:00,google,gemini-2.0-flash,0,3177,216,"Incentives for sustainable local production, moderate regulation, research are preferred."
+676fe8b0-4bf3-4af3-968f-cfb2d3cef9b7,2025-03-27 09:30:33.654474+00:00,google,gemini-2.0-flash,0,3177,217,"Support sustainable practices, but avoid radical bans and prioritize research and local incentives."
+c61ee243-b44f-44c2-a54a-f72fb77bfa3f,2025-03-27 09:30:36.584212+00:00,google,gemini-2.0-flash,0,3177,217,Incentivizing local sustainable production is best; radical regulation is least desirable.

@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+866c0a59-0c17-48f9-93a3-86b1243c72b6,2025-04-02 10:33:16.393588+00:00,google,gemma2:27b,0,3657,240,"Moderate cuts, resilience tech, and current policies are best balanced."
+3b0dbca7-71b0-4614-b089-11a1f8b0508e,2025-04-02 10:33:24.052847+00:00,google,gemma2:27b,0,3657,243,I prioritize emissions reduction and community-based adaptation over inaction or solely economic growth.
+d47bf00a-d956-48b4-afe4-2091728748c7,2025-04-02 11:19:00.011810+00:00,google,gemma2:27b,0,3657,241,Prioritize proactive adaptation and moderate emission cuts over drastic measures or inaction.
+cf73ad6a-0626-4a05-91e3-c5e518154af7,2025-04-02 11:19:07.174886+00:00,google,gemma2:27b,0,3657,239,"Prioritize emissions reduction, support adaptation, and reject inaction."
+c40d5488-a2c1-47ec-973f-fda04161fd12,2025-04-02 11:19:14.203474+00:00,google,gemma2:27b,0,3657,245,"Prioritize innovation and individual action, moderate emissions cuts over drastic ones, and reject inaction."
+6ad2715b-ac65-457c-a9d2-9bd0c0a0baa6,2025-04-02 11:19:21.578494+00:00,google,gemma2:27b,0,3657,240,Prioritize strong climate action and adaptation over economic growth and inaction.
+6357eb4e-9b55-4217-b2b8-a90e787ae7e5,2025-04-02 11:19:29.760463+00:00,google,gemma2:27b,0,3657,241,Prioritize proactive adaptation and moderate emission cuts over inaction or extreme measures.
+32e14b4b-d0a5-443d-9014-8a65a83bd055,2025-04-02 11:19:38.431520+00:00,google,gemma2:27b,0,3657,242,"I strongly support aggressive emissions cuts and adaptation measures, but prioritize technological innovation."
+c3edc195-b51d-4710-90c3-8fde83822392,2025-04-02 11:19:45.164414+00:00,google,gemma2:27b,0,3657,244,I strongly support drastic emissions cuts and favor adaptation over inaction or economic growth prioritization.
+8c8bf0d2-080e-4b16-a8b6-a2ad6c8dff81,2025-04-02 11:19:54.038410+00:00,google,gemma2:27b,0,3657,241,"Prioritize innovation and individual action, moderate emissions cuts over drastic ones."
+5e9fb3d5-581f-4051-895c-2662c5979c89,2025-04-02 11:20:03.595797+00:00,google,gemma2:27b,0,3657,238,I strongly support aggressive emissions cuts and individual adaptation measures.
+85550298-ab72-4a18-aedd-68b1b88ead12,2025-04-02 11:20:12.898208+00:00,google,gemma2:27b,0,3657,240,I support moderate emission cuts and adaptation through technology and community action.
+7bee7121-e6c6-40fa-aa69-5f140a8b8d98,2025-04-02 11:20:24.523771+00:00,google,gemma2:27b,0,3657,242,"Prioritize innovation and individual action, moderate emissions cuts, and adaptation planning."
+10cbc9ae-08a1-4044-9108-e42839eeb07d,2025-04-02 11:20:31.037713+00:00,google,gemma2:27b,0,3657,241,"Strong action needed, prioritize adaptation and moderate emissions cuts over pure growth."
+b4673e0f-25e0-4ffd-b218-63bd7afbadac,2025-04-02 11:20:39.668260+00:00,google,gemma2:27b,0,3657,244,"Prioritize strong emissions cuts, adaptation is crucial, individual actions are helpful but insufficient."
+05388945-4331-4839-82e3-783e2faae1dc,2025-04-02 11:20:49.918802+00:00,google,gemma2:27b,0,3657,244,I prioritize emissions reduction and community-based adaptation over purely economic growth or reactive measures.
+716affc5-4044-4e72-a1ab-44b051cd7d7f,2025-04-02 11:20:59.116895+00:00,google,gemma2:27b,0,3657,238,Prioritize individual action and adaptation while reducing emissions moderately.
+52b377f4-2dd1-408c-829e-163c477a1154,2025-04-02 11:21:08.779384+00:00,google,gemma2:27b,0,3657,245,"Prioritize adaptation, moderate emissions cuts, and technological innovation over economic growth and drastic measures."
+2dd53a12-aba0-4d23-ab6f-faaa99aefebc,2025-04-02 11:21:15.820703+00:00,google,gemma2:27b,0,3657,241,"Strong emissions cuts are crucial, adaptation is important but secondary to mitigation."
+d9014580-6575-43c4-b7d0-27f84e0e5b55,2025-04-02 11:21:22.794633+00:00,google,gemma2:27b,0,3657,244,"Prioritize adaptation and emission reduction, but favor community-based solutions over drastic cuts."
+b5e1191b-e486-4abc-8ae2-e93057d9c8b1,2025-04-02 11:21:30.457525+00:00,google,gemma2:27b,0,3657,241,"Prioritize individual action and adaptation, moderate emissions cuts over drastic ones."
+c21ed35f-fa90-49fa-a42b-9ff9bfdcf276,2025-04-02 11:21:37.577184+00:00,google,gemma2:27b,0,3657,239,"Strong action needed, but balanced with adaptation and individual empowerment."
+0064f0a7-ae88-4dc4-9ce8-e7eabaa5bc9a,2025-04-02 11:21:46.148794+00:00,google,gemma2:27b,0,3657,238,"Strong action needed, but balanced with adaptation and innovation."
+5e7ec425-e05d-4bf5-8dda-2d1ebf222d87,2025-04-02 11:21:54.492768+00:00,google,gemma2:27b,0,3657,241,Prioritize individual action and technological innovation for adaptation over drastic emission cuts.
+2e5bd8b7-6a7e-4498-89a5-6e7e63da0ed3,2025-04-02 11:22:04.583588+00:00,google,gemma2:27b,0,3657,241,Prioritize adaptation and moderate emission cuts over drastic measures or economic growth.
+11f76355-e7e9-4b8f-9d00-60023ec463f8,2025-04-02 11:22:25.545780+00:00,google,gemma2:27b,0,3657,240,Prioritize resilience and moderate emissions cuts over drastic measures or inaction.
+c76698ad-89ee-461e-8e29-363d9ea043d2,2025-04-02 11:22:33.318512+00:00,google,gemma2:27b,0,3657,243,I strongly support aggressive emissions cuts and adaptation measures over inaction or prioritizing economic growth.
+710b24a1-5475-473d-b747-3b59d4d99e35,2025-04-02 11:22:43.009102+00:00,google,gemma2:27b,0,3657,241,Prioritize adaptation planning and moderate emission cuts over drastic measures or inaction.
+a045db01-7fe1-45f2-a2e8-943e7e57e4b3,2025-04-02 11:22:51.170469+00:00,google,gemma2:27b,0,3657,241,"Strong emissions cuts are crucial, adaptation is important but secondary to mitigation."
+983cf523-f21f-44ee-9852-a136d458c32f,2025-04-02 15:28:50.229880+00:00,google,gemma2:27b,0,3657,246,"I strongly support drastic emissions cuts and adaptation measures, but oppose prioritizing economic growth over climate action."

@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+320c1ee0-2256-4b3b-ac60-ef470d88752f,2025-03-26 08:01:17.117687+00:00,openai,gpt-4,0,4370,252,"I prioritized environmental protection and minimal impact, hence the preference for road closure."
+f4995c5c-d117-45f5-8f19-50366f754563,2025-04-01 10:24:21.700539+00:00,openai,gpt-4,0,4367,256,"I support maintaining the road as is or stabilizing trouble spots, but oppose upgrading or closing it."
+69fc6a49-34ff-498c-b9b6-3348b5288864,2025-04-01 10:24:32.883081+00:00,openai,gpt-4,0,4370,250,I prioritized environmental protection and minimal intervention on the Bloomfield Track.
+58dd51cb-8b63-446e-b508-822c432afe7e,2025-04-01 10:24:47.175779+00:00,openai,gpt-4,0,4370,258,"I support maintaining the road for 4WD and stabilizing trouble spots, but oppose full upgrades or closure."
+feff48fd-c727-4152-b85f-bd3b3e9265f7,2025-04-01 10:24:59.551203+00:00,openai,gpt-4,0,4367,251,I prioritize environmental protection and believe in minimal intervention on the Bloomfield Track.
+35e7c938-62ca-454a-8c8c-943639fd69b2,2025-04-01 10:25:13.317622+00:00,openai,gpt-4,0,4370,250,I prioritize environmental protection and believe in minimal intervention to the existing road.
+da114f16-ca95-4686-937c-f59091896c31,2025-04-03 16:51:12.681570+00:00,openai,gpt-4,0,4370,248,I prioritized minimal environmental impact and accessibility for all vehicles.
+a686a48c-455d-4bac-a328-aa6f60373a74,2025-04-03 16:51:26.200154+00:00,openai,gpt-4,0,4367,252,"I support maintaining the road and minimal intervention, but oppose full closure or upgrade."
+7a0c5612-841c-430a-8d48-051ce3d5676a,2025-04-03 16:51:40.111608+00:00,openai,gpt-4,0,4370,250,I prioritized environmental protection and minimal intervention on the Bloomfield Track.
+da8fd3fc-b032-4709-bceb-5296f62404d5,2025-04-03 16:51:52.930135+00:00,openai,gpt-4,0,4370,248,"I support minimal intervention, preserving the environment while maintaining accessibility."
+7ee2ca8d-36a0-44af-8612-caf618ee26c5,2025-04-08 08:57:14.393107+00:00,openai,gpt-4,0,4370,248,I prioritize environmental protection and maintaining the road's current condition.
+eeab999f-d8e6-45d5-b594-23a9474b8cef,2025-04-08 08:57:25.726410+00:00,openai,gpt-4,0,4370,249,I prioritize environmental protection and sustainable use over extensive development or closure.
+8b7f61d9-c9ea-418b-afcb-1937045094c4,2025-04-08 08:57:38.077631+00:00,openai,gpt-4,0,4370,255,"I support upgrading the road for conventional vehicles, but oppose turning it into a bitumen road."
+1474687a-194f-43a9-a77b-fe846b02a58a,2025-04-08 08:57:48.806873+00:00,openai,gpt-4,0,4367,252,"I prioritize environmental protection and minimal intervention, hence the preference for closure and rehabilitation."
+cf598534-e0b0-4292-af54-ca7daef38a2b,2025-04-08 08:57:59.393488+00:00,openai,gpt-4,0,4370,251,I prioritize environmental protection and believe in minimal intervention on the Bloomfield Track.
+a4c4b59e-bdde-46ca-8e7f-e3036386d74c,2025-04-08 08:58:10.687687+00:00,openai,gpt-4,0,4370,249,I prioritize environmental protection and minimal intervention on the Bloomfield Track.
+1e0d47e9-9314-47c0-a454-8097b36bdbed,2025-04-08 08:58:22.800393+00:00,openai,gpt-4,0,4367,251,I prioritize environmental protection and believe in minimal intervention on the Bloomfield Track.
+b361f59c-2bde-4b86-bc9b-c5336bfdd61a,2025-04-08 08:58:34.168435+00:00,openai,gpt-4,0,4370,249,I prioritized policies that protect the environment and limit further development.
+b66f0a6e-f803-4073-9d07-870a984a0d79,2025-04-08 08:58:45.777077+00:00,openai,gpt-4,0,4370,252,"I support upgrading the road and stabilizing trouble spots, but oppose closing it."
+7926ab14-db82-4ec0-928b-5f66839f9080,2025-04-08 08:58:59.713482+00:00,openai,gpt-4,0,4370,251,I prioritize environmental protection and believe in limiting road upgrades to prevent further damage.
+38c26808-b592-453e-ae13-508f5128a671,2025-04-08 08:59:11.879158+00:00,openai,gpt-4,0,4370,251,I prioritize environmental protection and believe in minimal intervention on the Bloomfield Track.
+8c0ee7a8-df36-4a41-b1dc-7ddd81b97f94,2025-04-08 08:59:23.784846+00:00,openai,gpt-4,0,4370,254,"I support stabilizing trouble spots and upgrading to a dirt road, but oppose closing it."
+40ca5d5a-2974-4a64-b52d-701bda1decd5,2025-04-08 08:59:39.913040+00:00,openai,gpt-4,0,4370,253,I prioritize maintaining the road's current condition and stabilizing trouble spots for environmental protection.
+a745c5fb-e7fe-4364-89a2-95142ea44605,2025-04-08 08:59:51.958396+00:00,openai,gpt-4,0,4370,256,"I support maintaining the road as is or stabilizing trouble spots, but oppose upgrading or closing it."
+a2cd76ce-575a-4aa4-93b5-81658aa014b9,2025-04-08 09:00:03.804639+00:00,openai,gpt-4,0,4370,250,I prioritize environmental protection and believe in minimal intervention to the existing road.
+a00ab866-1e1f-42d8-81e2-7314dec2cc40,2025-04-08 09:00:18.053778+00:00,openai,gpt-4,0,4370,252,I support minimal intervention to preserve the environment and maintain the road's current use.
+34ae8c99-262f-49d2-92bd-b4c45f9295d7,2025-04-08 09:00:31.708841+00:00,openai,gpt-4,0,4370,250,I support upgrading the road for better accessibility but with minimal environmental impact.
+a73a7ef0-8e27-4356-91c7-f17c21dfb032,2025-04-08 09:00:45.691016+00:00,openai,gpt-4,0,4370,251,I prioritize environmental protection and believe in minimal intervention on the Bloomfield Track.
+000fbbe9-c630-4b35-a091-1af45da884c2,2025-04-08 09:00:59.485686+00:00,openai,gpt-4,0,4370,248,I prioritize minimal intervention and environmental preservation over extensive road upgrades.
+489c4863-fb4f-4493-871c-2c3c16f36239,2025-04-08 09:01:10.671525+00:00,openai,gpt-4,0,4370,248,I prioritize environmental protection and local community interests over extensive development.

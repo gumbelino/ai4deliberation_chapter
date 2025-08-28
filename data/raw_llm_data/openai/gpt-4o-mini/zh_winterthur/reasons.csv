@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+5fb6678a-de73-4db0-a637-8592d40f532d,2025-03-21 20:39:23.694472+00:00,openai,gpt-4o-mini,0,3012,195,I support incentives and research for sustainability over radical or less regulation policies.
+583dbbf5-9728-43ce-8732-565027b02b06,2025-03-21 20:39:29.993824+00:00,openai,gpt-4o-mini,0,3012,195,I support sustainable practices and research while opposing radical and less regulated policies.
+a3ec99a4-121a-40b9-b254-c122959b0153,2025-03-21 20:39:38.571191+00:00,openai,gpt-4o-mini,0,3012,196,I support moderate regulations and incentives for sustainability while opposing radical or less regulation.
+8c276782-f0ab-47d3-856d-d7e1f587aa16,2025-03-21 20:39:43.408050+00:00,openai,gpt-4o-mini,0,3012,197,I support local incentives and sustainable research over strict regulations or maintaining the status quo.
+5342cae1-7f15-4856-9681-930c4ff8881b,2025-03-21 20:39:48.941410+00:00,openai,gpt-4o-mini,0,3012,195,I support moderate regulations and sustainable practices over free trade and inaction.
+9690dc7a-6bff-4845-9783-7344920bff62,2025-03-21 20:39:53.942105+00:00,openai,gpt-4o-mini,0,3012,196,I support sustainable practices and local incentives while opposing extreme regulations and free trade.
+36324467-6d86-454a-b763-3e43035cbee4,2025-03-21 20:39:59.153261+00:00,openai,gpt-4o-mini,0,3012,195,I support moderate and research-focused policies over radical or less regulated approaches.
+da901cbb-ced1-4b1e-ad76-fd1b6012423e,2025-03-21 20:40:04.905150+00:00,openai,gpt-4o-mini,0,3012,196,I support sustainable practices and moderate regulations while opposing radical and less regulated policies.
+c9bbcaad-4f50-4b5a-9211-b09264308fbf,2025-03-21 20:40:09.716862+00:00,openai,gpt-4o-mini,0,3012,194,I prioritize research and moderate regulations for sustainability while opposing radical measures.
+90904716-fbb5-4f53-b5ff-21acd972aee8,2025-03-21 20:40:16.074619+00:00,openai,gpt-4o-mini,0,3015,196,I support moderate regulations and incentives for sustainability while opposing radical and less regulation.
+67ed104c-a32b-4675-bf22-541a7391e07b,2025-03-21 20:40:22.718708+00:00,openai,gpt-4o-mini,0,3012,194,I support sustainable practices and research over less regulation and radical measures.
+3bb27091-deb4-421c-9742-bfe666e6d079,2025-03-21 20:40:28.467113+00:00,openai,gpt-4o-mini,0,3015,197,I support moderate and incentive-based policies for sustainability over radical or free trade approaches.
+b2d48ed3-0225-4a67-a0ca-7671b60a5446,2025-03-21 20:40:33.587655+00:00,openai,gpt-4o-mini,0,3012,196,I support incentives and moderate regulations for sustainability over radical measures or free trade.
+293b5e9d-cc6f-492e-abd9-4758ba77427e,2025-03-21 20:40:40.344193+00:00,openai,gpt-4o-mini,0,3012,194,I support moderate regulations and incentives for sustainability while opposing radical measures.
+f5f0e8b2-b7b7-4888-8b5e-275723fb2406,2025-03-21 20:40:45.057657+00:00,openai,gpt-4o-mini,0,3012,196,I support moderate regulations and incentives for sustainability while opposing radical and less regulation.
+7c6964d7-ca5c-4713-abc1-01dc79976e88,2025-03-21 20:40:50.790627+00:00,openai,gpt-4o-mini,0,3015,194,I prioritize research and incentives for sustainability over radical or minimal regulations.
+ba6d0823-e7fc-4712-975c-15f750865d2f,2025-03-21 20:40:56.420609+00:00,openai,gpt-4o-mini,0,3012,195,I support incentives and research for sustainability over radical or less regulation policies.
+9dc37b35-dcab-4cd5-beef-d794e298d393,2025-03-21 20:41:01.336734+00:00,openai,gpt-4o-mini,0,3012,198,"I support strong incentives and moderate regulations for sustainability, opposing radical and free trade policies."
+4cd01048-ba15-4b77-94f2-d5247789b0a5,2025-03-21 20:41:06.454233+00:00,openai,gpt-4o-mini,0,3012,195,I support sustainable practices and research while opposing extreme regulations and free trade.
+145e6e67-af8e-42cf-9896-9e6a8ef8fa4a,2025-03-21 20:41:12.187615+00:00,openai,gpt-4o-mini,0,3012,197,I support moderate and local incentives for sustainability while opposing radical regulations and free trade.
+0bd42ff6-59e2-4ffe-a0c9-f85e099d255d,2025-03-28 06:49:06.109096+00:00,openai,gpt-4o-mini,0,3012,197,"I support incentives and research for sustainability, but oppose radical or less regulation policies."
+54b5e388-f601-4d8c-ad52-1d86bbbdb689,2025-03-28 06:49:14.094034+00:00,openai,gpt-4o-mini,0,3012,196,I support sustainable practices and moderate regulations while opposing less regulation and radical measures.
+e2f4434c-9977-4c4c-8f52-a6cbe6828908,2025-03-28 06:49:20.795434+00:00,openai,gpt-4o-mini,0,3012,197,I support moderate regulations and incentives for sustainability while opposing extreme measures and less regulation.
+6497706b-c635-48f8-b68f-ea7d90cbce71,2025-03-28 06:49:25.958619+00:00,openai,gpt-4o-mini,0,3015,197,I support moderate and local incentives for sustainability while opposing radical and free trade measures.
+d8c30389-59eb-4c09-a69a-58738a5d2a00,2025-03-28 06:49:31.107450+00:00,openai,gpt-4o-mini,0,3012,198,I support incentives for local sustainable farming and moderate regulations over radical or free trade policies.
+c44effe9-78a4-4277-bbbc-142bd51792bb,2025-03-28 06:49:36.396264+00:00,openai,gpt-4o-mini,0,3012,196,I prioritize incentives for sustainable practices over strict regulations or maintaining the status quo.
+79cf8af3-69a5-4741-867b-69237216d09d,2025-03-28 06:49:42.314012+00:00,openai,gpt-4o-mini,0,3012,198,"I support incentives for sustainability and moderate regulations, but oppose less regulation and inaction."
+721bdb5f-051f-455e-91a9-9e8601db6194,2025-03-28 06:49:47.950412+00:00,openai,gpt-4o-mini,0,3012,198,I support local incentives and moderate regulations for sustainable food over radical or free trade policies.
+9a616c93-20a3-4e20-acfd-3ae19018fd80,2025-03-28 06:49:53.176216+00:00,openai,gpt-4o-mini,0,3015,197,I support research and moderate regulations for sustainability while opposing radical measures and free trade.
+b61ccc24-0a0e-416f-abe9-7ec38385f19c,2025-03-28 06:49:59.030245+00:00,openai,gpt-4o-mini,0,3012,197,"I support moderate regulations and local incentives, while opposing radical and less regulated policies."
+b702a6ce-f248-4227-89dd-0b7eada51c97,2025-03-28 06:50:04.790944+00:00,openai,gpt-4o-mini,0,3012,196,I support local incentives and moderate regulations while opposing less regulation and radical measures.
+2d33a199-0d0f-4f45-a137-6e8ba79696c7,2025-03-28 06:50:10.446978+00:00,openai,gpt-4o-mini,0,3012,195,I support moderate and research-focused policies over radical or free trade approaches.

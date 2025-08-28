@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Leave the policy settings as they are.,P2. Policies that emphasise economic growth over climate change adaptation or mitigation.,P3. Policies that involve a dramatic cut back in CO2 emissions (by 50% in the next 10 years).,P4. Policies that involve a moderate cut in CO2 emissions (by 25% in over the next 10 years).,"P5. Adaptation policies and expenditure (e.g. coastal protection, water desalinisation, improving infrastructure etc). Planning controls and emergency response programs.","P6. Adaptation policies that target individual, small business or community-based actions (eg support the installation of alternative energy generators, insulation, water use efficiency)",P7. Preparing for climate risk through the development of new approaches and technologies that enhance resilience to the impacts of climate variability or change. 
+ed29d5ac-d092-4421-b9bc-dc819498480d,2025-04-08 14:29:34.206600+00:00,openai,gpt-4.5-preview,0,3218,218,1,2,5,6,4,7,3
+37fa5a85-f6d1-4ff0-89ee-0365a3ee3953,2025-04-08 14:30:03.562979+00:00,openai,gpt-4.5-preview,0,3218,219,6,7,3,2,1,4,5
+adc399bd-9466-4b85-8591-0e2d7eb90cc3,2025-04-08 14:30:34.704408+00:00,openai,gpt-4.5-preview,0,3218,218,6,5,1,7,3,4,2
+ac1a6a28-8f8a-4080-9b0e-1b80d60a4eb1,2025-04-08 14:31:06.947900+00:00,openai,gpt-4.5-preview,0,3218,215,5,7,1,2,3,6,4
+515c0a85-28f5-4411-8eb0-33ac7a3adbb8,2025-04-08 14:31:32.516072+00:00,openai,gpt-4.5-preview,0,3218,216,6,5,1,2,7,3,4
+bb80af65-3a30-45fd-b52a-6b32b051e334,2025-04-10 08:01:12.744345+00:00,openai,gpt-4.5-preview,0,3218,219,1,2,5,6,4,7,3
+668277a4-179d-4240-8fc3-15ed1ba7de96,2025-04-10 08:01:24.679949+00:00,openai,gpt-4.5-preview,0,3218,219,6,7,3,2,1,4,5
+e573260e-382c-437e-b2dd-e7320290dc97,2025-04-10 08:01:35.665588+00:00,openai,gpt-4.5-preview,0,3218,217,7,5,1,6,3,4,2
+258f8701-ce75-44cd-a9c9-afdd7d209df3,2025-04-10 08:01:46.259765+00:00,openai,gpt-4.5-preview,0,3218,216,5,7,1,2,3,6,4
+9e48ee32-9381-42a5-820e-f6fa782b50e7,2025-04-10 08:01:56.497778+00:00,openai,gpt-4.5-preview,0,3218,219,6,5,1,2,7,3,4

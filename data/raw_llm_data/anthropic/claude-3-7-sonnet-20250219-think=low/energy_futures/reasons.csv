@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+889344ea-b539-488d-8d67-e7e9b621b8b4,2025-05-22 13:38:57.123831+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,5973,1367,"Prioritized renewables for sustainability, transitional sources in middle, fossil fuels ranked lowest."
+fa227a04-caa2-4d54-a965-e861a08e3aa4,2025-05-22 14:10:34.340580+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,7379,2111,"Prioritized renewables first, then low-carbon alternatives, with fossil fuels ranked last."
+7e501e0b-6568-4f10-baff-e84a359f8b5c,2025-05-22 14:11:12.268789+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,5853,1091,Prioritized renewable energy sources with lowest environmental impact over fossil fuels and nuclear.
+35faa442-69ed-42da-b4ff-27bf4ddd8077,2025-05-22 14:11:34.699609+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,5754,1093,"Prioritized renewables based on sustainability, emissions impact, and technological feasibility."
+b70eb980-dfe5-45f1-83c4-203cd264ff57,2025-05-22 14:11:57.977582+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,6942,1878,"Prioritized renewables with immediate benefits over fossil fuels, with natural gas as a bridge solution."

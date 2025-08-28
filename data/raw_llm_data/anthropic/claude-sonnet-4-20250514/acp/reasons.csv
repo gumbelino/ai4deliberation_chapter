@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+65684ca4-3eb2-4c8c-a658-247e4bc8ae0a,2025-05-29 15:29:41.852910+00:00,anthropic,claude-sonnet-4-20250514,0,5251,291,I prioritize inclusive governance and minority representation over strong moral leadership or minimal government intervention.
+5cf45f36-dff2-42da-afc0-2b4c54ad2f17,2025-05-29 15:29:53.915915+00:00,anthropic,claude-sonnet-4-20250514,0,5251,291,I prioritized inclusive representation and minority rights over status quo or market-focused governance.
+2b5e2ff1-268b-429b-ab92-bc0898d03314,2025-05-29 15:30:06.119016+00:00,anthropic,claude-sonnet-4-20250514,0,5251,290,I prioritized inclusive democratic participation over maintaining status quo or imposing moral authority.
+7e89daa2-4030-438d-b5db-987b73a4efdf,2025-05-29 15:30:17.882728+00:00,anthropic,claude-sonnet-4-20250514,0,5251,291,I prioritized inclusive democracy with minority representation over market-focused or status quo approaches.
+7da39047-2107-400b-9236-d13470f917da,2025-05-29 15:30:29.458455+00:00,anthropic,claude-sonnet-4-20250514,0,5251,294,I prioritize minority inclusion and current system over market-focused or morally prescriptive governance.

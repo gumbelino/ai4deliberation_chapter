@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+16b5cc2f-018f-43e4-8fab-609307bada7a,2025-04-11 13:39:02.136986+00:00,xai,grok-3-mini-beta,0,3222,203,Prioritize adaptation and resilience as most effective based on considerations.
+e0cec272-a523-4e0a-80a8-50c7f94bf289,2025-04-11 13:39:25.082296+00:00,xai,grok-3-mini-beta,0,3222,209,I prioritize adaptation and resilience policies based on my strong support for emergency response and vulnerability measures.
+4cedf89b-b985-4767-9721-921fe0a11e84,2025-04-11 13:39:43.582006+00:00,xai,grok-3-mini-beta,0,3222,205,I support aggressive emission reductions and community adaptations most due to climate urgency.
+679ef8fe-73ed-4a6b-b5fc-920df09ade7a,2025-04-11 13:40:07.531399+00:00,xai,grok-3-mini-beta,0,3222,202,I prioritize emission cuts and adaptation due to climate urgency.
+42a019f7-d34c-4878-8786-618092f556f3,2025-04-11 13:40:28.624784+00:00,xai,grok-3-mini-beta,0,3222,205,I prioritize adaptation and resilience policies over emission cuts or maintaining status quo.
+49f43d88-3b23-46ca-b8c1-e74fb10680e4,2025-04-11 13:40:51.359100+00:00,xai,grok-3-mini-beta,0,3222,201,Prioritize adaptation and resilience for effective climate preparation.
+49a4be24-7385-41a5-b6de-a38e8ea7a41d,2025-04-11 13:41:12.345245+00:00,xai,grok-3-mini-beta,0,3222,205,I prioritize adaptation and emission reductions over economic growth for effective climate action.
+d5a46e0e-a2fc-4ce3-b14f-98dbcdf8da75,2025-04-11 13:41:32.319757+00:00,xai,grok-3-mini-beta,0,3222,201,I prioritize adaptation and emission reductions over economic growth.
+18a5232a-f1cf-4729-8585-c76ebfd688cc,2025-04-11 13:41:54.958704+00:00,xai,grok-3-mini-beta,0,3222,204,I prioritize adaptation and resilience measures for immediate impacts over emission cuts.
+4a54d055-cb40-4434-9a0e-01d6996b0e8a,2025-04-11 13:42:19.830188+00:00,xai,grok-3-mini-beta,0,3222,203,I prioritize aggressive emission reductions and adaptation for effective climate action.
+ffc1e65c-b58b-4bbe-85c8-638484c7923b,2025-04-11 13:42:44.854808+00:00,xai,grok-3-mini-beta,0,3222,203,I prioritize adaptation and resilience policies to effectively address climate impacts.
+bfc52d00-0d84-4e7b-97d0-bfda73230691,2025-04-11 13:43:09.501256+00:00,xai,grok-3-mini-beta,0,3222,204,I prioritize adaptation and resilience over emission cuts based on my ratings.
+e939dbc3-808e-4117-8f10-1470441840aa,2025-04-11 13:43:33.152795+00:00,xai,grok-3-mini-beta,0,3222,210,"I prioritize community adaptation and resilience as most effective, over emission cuts, growth, or inaction."
+b0b04c9d-c884-44cd-bdfd-fb73214c5088,2025-04-11 13:43:56.369658+00:00,xai,grok-3-mini-beta,0,3222,204,I prioritize aggressive CO2 cuts and adaptation for effective climate action.
+7ac31630-bfb7-4a76-87ea-202af5327dec,2025-04-11 13:44:23.342692+00:00,xai,grok-3-mini-beta,0,3222,205,I prioritize community-based adaptation and resilience over emission cuts or economic focus.
+4d77dcf7-2ee4-43d6-b8d8-50af045be2a9,2025-04-11 13:44:47.495128+00:00,xai,grok-3-mini-beta,0,3222,208,"I prioritize resilience, adaptation, and moderate emission cuts over inaction or growth-focused policies."
+e449cf72-e0c4-4a67-b6ad-9be88c463828,2025-04-11 13:45:11.458989+00:00,xai,grok-3-mini-beta,0,3222,205,I prioritize adaptation and resilience policies for immediate climate impacts over emission reductions.
+6e1e1f98-1c2b-4cd0-876f-aad9688d24c4,2025-04-11 13:45:38.164605+00:00,xai,grok-3-mini-beta,0,3222,206,Prioritized adaptation policies and support for resilience over emissions cuts or economic growth.
+18d78810-8acb-4193-b12d-e6dae216d0d0,2025-04-11 13:46:06.795060+00:00,xai,grok-3-mini-beta,0,3222,202,I prioritize adaptation and preparation over emission cuts and inaction.
+447e48ce-89d3-47e9-9fb4-ebe27ee851fb,2025-04-11 13:46:33.008326+00:00,xai,grok-3-mini-beta,0,3222,209,I support adaptation policies most due to emphasis on preparation and resilience over inaction or extreme cuts.
+e3a7c556-c3b9-4e2b-873d-06be898d8725,2025-04-11 13:46:56.870151+00:00,xai,grok-3-mini-beta,0,3222,203,I prioritize aggressive emission reductions and adaptation for urgent climate action.
+fbe082ab-892d-42d6-a550-fb0505fe54df,2025-04-11 13:47:19.915855+00:00,xai,grok-3-mini-beta,0,3222,202,I prioritize adaptation and resilience policies for immediate climate impacts.
+8f865b5d-9853-4b22-a81c-981a8aa85a78,2025-04-11 13:47:48.291410+00:00,xai,grok-3-mini-beta,0,3222,211,"I prioritize adaptation policies as they align with my strong support for resilience, preparation, and community actions."
+a57e5350-5e2d-4a83-94d4-34cbdb6952c8,2025-04-11 13:48:14.208506+00:00,xai,grok-3-mini-beta,0,3222,205,Prioritized adaptation and resilience policies based on strong agreement with preparation ratings.
+a8bd3d78-f9a9-405a-aff5-07800b13be52,2025-04-11 13:48:38.512790+00:00,xai,grok-3-mini-beta,0,3222,205,Prioritize adaptation for resilience and community actions over emissions cuts and growth.
+5ebd2477-1add-4ab7-8a4a-fedf97685a3e,2025-04-11 13:49:05.833363+00:00,xai,grok-3-mini-beta,0,3222,207,I prioritize adaptation and emergency responses due to strong support for resilience and emission reductions.
+a67136b2-22dc-46fe-bc8f-9f2fa6e53697,2025-04-11 13:49:31.224470+00:00,xai,grok-3-mini-beta,0,3222,207,I support policies promoting adaptation and mitigation due to my emphasis on urgent climate action.
+f733efaa-cb89-4979-9eae-1b54e12427de,2025-04-11 13:49:54.063587+00:00,xai,grok-3-mini-beta,0,3222,203,I prioritize adaptation and community actions due to climate vulnerability concerns.
+938f7215-bc60-48e5-a4a8-d52bd538db8c,2025-04-11 13:50:18.444772+00:00,xai,grok-3-mini-beta,0,3222,204,I prioritize adaptation and emission cuts over economic growth and status quo.
+84897956-6be7-4791-af5a-056299c0adc1,2025-04-11 13:50:44.213487+00:00,xai,grok-3-mini-beta,0,3222,208,"I prioritize dramatic CO2 cuts for effective climate action, followed by resilience and adaptation."

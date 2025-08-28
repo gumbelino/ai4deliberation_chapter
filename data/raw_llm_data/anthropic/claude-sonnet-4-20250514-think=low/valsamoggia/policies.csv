@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Increase the power unione,P2. Leave things things as they are,P3. Go ahead with the amalgamation as proposed,P4. Postpone the amalgamation
+2a0411b5-8618-4a07-94ea-826b3026ae5d,2025-05-29 15:09:25.229372+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5575,1256,4,2,3,1
+9a1f075e-4402-409f-9f36-12f6d20d1d74,2025-05-29 15:09:58.727012+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5424,1165,2,3,4,1
+90e9d006-6b22-4a43-9a3e-afb1add6b53b,2025-05-29 15:10:29.589116+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5500,1115,2,1,4,3
+d3034d79-9b8b-471f-ac5a-41a7c61501c3,2025-05-29 15:11:00.514381+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5337,998,3,4,2,1
+aa448da2-1dc9-4fdd-9f9a-9101562a2959,2025-05-29 15:11:28.298925+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5621,1355,4,3,2,1

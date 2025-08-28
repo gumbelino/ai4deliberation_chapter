@@ -1,0 +1,7 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+ea26eca1-94ff-4aa4-ae50-034249b0cd5b,2025-04-17 11:20:21.140789+00:00,google,gemini-2.0-flash-thinking-exp,0,2669,94,"Pro public mental health, social factors, prevention, destigmatization, integrated care, more funding."
+90ac84b3-6e75-44ca-a465-e3127b84f51d,2025-04-17 11:20:35.998230+00:00,google,gemini-2.0-flash-thinking-exp,0,2811,153,"Support public MH, prevention, social factors."
+c9dcf364-cb57-41bf-97a6-c4ae3a1770da,2025-04-17 11:20:51.807005+00:00,google,gemini-2.0-flash-thinking-exp,0,2669,83,Increase mental health services and funding focus on social solutions
+09356400-f140-4384-b7d1-98c2c8bafd9f,2025-04-17 11:21:07.368615+00:00,google,gemini-2.0-flash-thinking-exp,0,2811,160,"Support more mental health resources, destigmatization, and addressing social factors."
+54818fde-b6fb-40f2-ba6e-371393b757cf,2025-04-17 11:21:21.258976+00:00,google,gemini-2.0-flash-thinking-exp,0,2669,83,Pro public mental health access prevention destigma social determinants
+f49e1509-cfed-45f9-8a5d-21b058e20097,2025-04-17 11:21:35.813685+00:00,google,gemini-2.0-flash-thinking-exp,0,2811,153,Pro public mental health prevention and addressing social factors

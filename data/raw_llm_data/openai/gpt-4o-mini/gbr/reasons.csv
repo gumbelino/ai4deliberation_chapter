@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+bf715eff-b9d5-4347-87ac-beb3585e1b06,2025-03-21 20:57:27.666408+00:00,openai,gpt-4o-mini,0,3582,224,I prioritized strong environmental protections and innovation over coal and resource extraction.
+160860bb-0e16-43e7-b659-736e3c1675d8,2025-03-21 20:57:33.274171+00:00,openai,gpt-4o-mini,0,3582,222,I prioritize environmental protection and innovation over maintaining harmful industries.
+264014c4-028b-4ef8-904a-d99c649da57e,2025-03-21 20:57:41.262691+00:00,openai,gpt-4o-mini,0,3582,225,I prioritize strong environmental protections and innovation over business interests and coal reliance.
+c8b427e7-49fa-4a0b-9614-6e38b461b2a1,2025-03-21 20:57:48.424738+00:00,openai,gpt-4o-mini,0,3582,225,I prioritize sustainable practices and stronger protections for the environment over resource extraction.
+e89d5f2b-c802-4965-a86e-f538509e9688,2025-03-21 20:57:54.596186+00:00,openai,gpt-4o-mini,0,3582,223,I prioritize strong environmental protection and innovation over maintaining current practices.
+58e0e32c-2863-4ed0-86e9-0055ef7c55d5,2025-03-21 20:58:00.003597+00:00,openai,gpt-4o-mini,0,3582,224,I prioritize strong environmental protections and innovation over coal and resource extraction.
+6a381503-2741-4684-8f84-592c021f44c3,2025-03-21 20:58:05.735000+00:00,openai,gpt-4o-mini,0,3582,225,I prioritize sustainable practices and stronger protections for the environment over business interests.
+8a091ce4-7d66-40a1-9a0e-ba882c5d17b8,2025-03-21 20:58:12.790760+00:00,openai,gpt-4o-mini,0,3582,224,I prioritize strong environmental protections and innovation over maintaining or reducing regulations.
+e3ffac79-dba0-4931-b4e9-4ca313509ccf,2025-03-21 20:58:18.630768+00:00,openai,gpt-4o-mini,0,3582,225,I prioritize strong environmental protections and innovation over resource extraction and current practices.
+e3a15783-e65c-4347-933e-bfdee95c8fa9,2025-03-21 20:58:25.792119+00:00,openai,gpt-4o-mini,0,3582,224,I prioritize strong environmental protection and innovation over maintaining or reducing regulations.
+e55641f8-b9f7-4843-b47d-c92dfe30fd07,2025-03-21 20:58:30.921821+00:00,openai,gpt-4o-mini,0,3582,225,I prioritize strong environmental protections and innovation over current practices and coal reliance.
+a21ae314-5caa-4a39-a617-157832d48b3d,2025-03-21 20:58:36.859868+00:00,openai,gpt-4o-mini,0,3582,223,I prioritize sustainable practices and strong environmental protections over resource extraction.
+b3b1a576-d376-4a46-a307-83b2a7753e84,2025-03-21 20:58:42.348547+00:00,openai,gpt-4o-mini,0,3582,224,I prioritize strong environmental protections and innovation over mining and deregulation.
+3237920e-3bfb-4cf6-960d-51fa2d79090f,2025-03-21 20:58:48.426256+00:00,openai,gpt-4o-mini,0,3582,224,I prioritize strong environmental protections and innovation over coal and current regulations.
+4110c152-ae8e-447f-866a-b91dea62892f,2025-03-21 20:58:55.086195+00:00,openai,gpt-4o-mini,0,3582,224,I prioritize strong environmental protections and innovation over coal and resource extraction.
+19a46d9b-4e4b-4aac-abc6-de6e7685246e,2025-03-21 20:59:01.841670+00:00,openai,gpt-4o-mini,0,3582,223,I prioritize strong environmental protections and sustainable practices over resource extraction.
+60ec3feb-8f25-4c9f-bdf9-8731696e8c13,2025-03-21 20:59:07.724313+00:00,openai,gpt-4o-mini,0,3582,224,I prioritize strong environmental protection and innovation over coal and reduced regulations.
+d369a8fa-98a3-49d7-a780-0637012a56e2,2025-03-21 20:59:13.826389+00:00,openai,gpt-4o-mini,0,3582,223,I prioritize strong environmental protections and sustainable practices over resource extraction.
+66794600-338b-45a4-94ea-bdffdfe024db,2025-03-21 20:59:21.210214+00:00,openai,gpt-4o-mini,0,3582,223,I prioritize strong environmental protections and innovation over maintaining current practices.
+394941d0-7bd2-481f-94b3-58334f2e91a7,2025-03-21 20:59:26.520174+00:00,openai,gpt-4o-mini,0,3582,225,I prioritize strong environmental protections and innovation over current practices and coal reliance.
+1bc2ac09-3a18-4017-80d4-0d9b39445697,2025-03-28 06:59:41.784943+00:00,openai,gpt-4o-mini,0,3582,225,I prioritize strong environmental protections and sustainable practices over short-term economic gains.
+a230f466-f48d-441b-8420-e7c1da0d55ee,2025-03-28 06:59:47.420525+00:00,openai,gpt-4o-mini,0,3582,226,I prioritize strong environmental protections and innovation over current practices and extractive industries.
+acd55853-4d0d-4c07-bad4-7ad9cef69c4d,2025-03-28 06:59:56.917168+00:00,openai,gpt-4o-mini,0,3582,223,I prioritize strong environmental protections and sustainable practices over resource extraction.
+7cbe4266-9fd7-4e8c-958c-f4982a7306cc,2025-03-28 07:00:02.567852+00:00,openai,gpt-4o-mini,0,3582,224,I prioritize strong environmental protections and innovation over mining and resource extraction.
+b8267a9b-8216-4c50-a979-8bc24e67375c,2025-03-28 07:00:08.414768+00:00,openai,gpt-4o-mini,0,3582,223,I prioritize strong environmental protections and sustainable practices over business interests.
+c550b898-43ce-49f5-b598-5dd9b21c5562,2025-03-28 07:00:13.967498+00:00,openai,gpt-4o-mini,0,3582,223,I prioritize strong environmental protections and sustainable practices over resource extraction.
+7da2c0ff-05cd-40f9-911e-1517e78c2823,2025-03-28 07:00:19.573165+00:00,openai,gpt-4o-mini,0,3582,225,I prioritize strong environmental protections and innovation over resource extraction and deregulation.
+e291ca46-d686-46f1-968d-514d7032c10f,2025-03-28 07:00:25.765990+00:00,openai,gpt-4o-mini,0,3582,225,I prioritize strong environmental protections and innovation over current practices and coal reliance.
+a93c24eb-7898-49ce-a001-5c97502bd08a,2025-03-28 07:00:31.968311+00:00,openai,gpt-4o-mini,0,3582,224,I prioritize strong environmental protections and innovation over coal and resource extraction.
+4ecd2f2d-1164-41cf-aa34-a09d0c9375c7,2025-03-28 07:00:38.499332+00:00,openai,gpt-4o-mini,0,3582,226,I prioritize strong environmental protections and innovation over resource extraction and business as usual.
+cde78eec-1eb0-4e92-bbd5-ed4bcf8f89de,2025-03-28 07:00:45.953383+00:00,openai,gpt-4o-mini,0,3582,224,I prioritized strong environmental protections and innovation over coal and resource extraction.
+67cb755b-ae50-412e-b293-9548e9da6754,2025-03-28 07:00:55.166566+00:00,openai,gpt-4o-mini,0,3582,225,I prioritize strong environmental protections and sustainable practices over coal and resource extraction.

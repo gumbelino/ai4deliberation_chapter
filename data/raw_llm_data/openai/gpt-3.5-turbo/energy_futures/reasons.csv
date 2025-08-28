@@ -1,0 +1,37 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+fd43896d-cacb-4e18-9d39-3e93c4a0462b,2025-03-20 18:41:10.173829+00:00,openai,gpt-3.5-turbo,0,4590,307,"9 is least due to risks. 2, 4, 3, 5, 6, 7, 8, 1 follow in order of preference."
+110d80fb-160f-4575-a3e2-f2930eca9b9a,2025-03-20 18:41:15.683501+00:00,openai,gpt-3.5-turbo,0,4590,320,"7 is most cost-competitive, 2 is cleaner, 8 is reliable, 5 is renewable, 3 is promising, 6 is neutral, 1 is hydroelectric, 9 is transitional, 4 is least sustainable."
+7e2667db-620b-4183-bea4-c484a55c8d6b,2025-03-20 18:41:20.438866+00:00,openai,gpt-3.5-turbo,0,4590,306,"6 is preferred over 9. 3, 4, 5 are moderate. 2 is better than 7, 8. 1 is least preferred."
+2c631368-42d5-45ec-8240-5ce977f2cf3a,2025-03-20 18:41:25.617562+00:00,openai,gpt-3.5-turbo,0,4590,327,"7 is preferred for its reliability, 2 for its potential, 3 for its sustainability, 4 for its potential, 9 for its drawbacks, 6 for its reliability, 1 for its sustainability, 8 for its availability, 5 for its environmental impact."
+0ce89cfd-5f26-49f8-8d08-64b70d9067c1,2025-03-20 18:41:32.310914+00:00,openai,gpt-3.5-turbo,0,4590,302,6 is preferred over 9 due to safety concerns. 2 is favored for reliability. 5 is chosen for sustainability. 9 is rated lowest.
+87be3707-ca2e-4d97-b217-3fd3f1fc60d6,2025-03-20 18:41:37.351807+00:00,openai,gpt-3.5-turbo,0,4590,291,"3 is ranked highest for its reliability and cost, while 1 is lowest due to environmental concerns."
+5000b0c1-bb66-4786-9ec5-cb2e4471674f,2025-03-20 18:41:45.245657+00:00,openai,gpt-3.5-turbo,0,4590,286,I support solar energy the most and coal with CO2 burial the least.
+abcd8469-7ce8-4c54-a294-b9230eaace6f,2025-03-20 18:41:52.310207+00:00,openai,gpt-3.5-turbo,0,4590,323,"7 is preferred over 9 due to environmental concerns, 2 is favored over 8 for sustainability, 1 is chosen over 6 for lower emissions, 4 is rated higher than 5 for versatility, 3 is above 4 for reliability."
+a6db9db8-184e-48fd-9812-19ba69075d0f,2025-03-20 18:41:58.002349+00:00,openai,gpt-3.5-turbo,0,4590,302,"2 is top choice, followed by 4, 3, 5, 6, 8, 7, 1, 9."
+f3234359-031e-4fc0-9903-7c660af56b93,2025-03-20 18:42:02.864718+00:00,openai,gpt-3.5-turbo,0,4590,288,"Solar and wind are preferred for sustainability, while coal and geothermal are less favored."
+d507ff8a-567c-4d83-9db0-7ee1d4ad0fa1,2025-03-25 12:59:02.596224+00:00,openai,gpt-3.5-turbo,0,4590,288,"Wind and solar are top choices, while geothermal and hydroelectric are least preferred."
+20008a11-1d8f-46e1-a8a2-97aa307f5e32,2025-03-25 12:59:07.790210+00:00,openai,gpt-3.5-turbo,0,4590,285,I support wind and solar over coal and nuclear due to environmental concerns.
+fc75db87-a23c-4cbd-9913-7448f6970772,2025-03-25 12:59:12.859228+00:00,openai,gpt-3.5-turbo,0,4590,325,"4th is coal with CO2 burial, 9th is geothermal, 2nd is wind, 8th is solar, 3rd is biomass, 6th is natural gas, 7th is coal, 5th is hydroelectric."
+f74eaaad-8590-41ec-baf8-d767b5c1a7e1,2025-03-25 12:59:19.157098+00:00,openai,gpt-3.5-turbo,0,4590,285,"Ratings based on sustainability, cost, reliability, and environmental impact."
+ca843a5c-1551-4849-a78c-e78e8267460f,2025-03-25 12:59:24.512141+00:00,openai,gpt-3.5-turbo,0,4590,291,"7 is ranked higher due to safety and cost, while 9 is lowest due to environmental concerns."
+5d1cc27c-68bd-4d1f-ba1a-e209059259d6,2025-03-25 12:59:30.211465+00:00,openai,gpt-3.5-turbo,0,4590,287,"6 is rated highest due to its potential, 8 lowest due to risks."
+7f838b5f-6cc6-451d-94ac-db583d193e3f,2025-03-25 12:59:35.717580+00:00,openai,gpt-3.5-turbo,0,4590,289,"6 is preferred over coal, nuclear, and biomass due to its reliability and environmental benefits."
+28ed52da-365e-4657-901c-c301bdb4d218,2025-03-25 12:59:40.912701+00:00,openai,gpt-3.5-turbo,0,4590,287,"8 is least due to environmental concerns, 2 is most due to reliability."
+75d91fe0-2e36-485c-86d7-a4f85f41c43c,2025-03-25 12:59:45.894877+00:00,openai,gpt-3.5-turbo,0,4590,284,"I support hydroelectric and solar energy, biomass, and wind."
+b5c6e9ef-e30e-4fb7-a7f4-6e1decd6c830,2025-03-25 12:59:50.913276+00:00,openai,gpt-3.5-turbo,0,4590,283,"Solar and wind are top choices, nuclear is least favored."
+dadc3815-10e2-494a-9a47-39c03eed91d3,2025-03-28 06:59:05.956135+00:00,openai,gpt-3.5-turbo,0,4590,286,"7 is top due to safety, 9 is last due to inconsistency."
+f1afff51-1bee-4fb0-a370-d8e88e9e77c5,2025-03-28 06:59:11.947808+00:00,openai,gpt-3.5-turbo,0,4590,286,"5 is top due to safety, 9 is last due to emissions."
+0a73b5bb-c9d7-44a8-a637-31a3027b3634,2025-03-28 06:59:16.191349+00:00,openai,gpt-3.5-turbo,0,4590,299,"6 is preferred over 4, 8, 5, 9, 2, 7, 3, 1."
+ce724ad2-6d43-4d25-85c3-de4de6f53ac1,2025-03-28 06:59:21.338120+00:00,openai,gpt-3.5-turbo,0,4590,289,"Solar and wind are top choices, while coal and nuclear rank lower due to environmental concerns."
+9d37a0ca-244a-4f2b-a940-6ba25974b308,2025-03-28 06:59:26.380396+00:00,openai,gpt-3.5-turbo,0,4590,286,"I support policies based on sustainability, cost-effectiveness, and environmental impact."
+dcfea8c2-b4eb-43d1-a519-bd52aedb16dd,2025-03-28 06:59:31.110044+00:00,openai,gpt-3.5-turbo,0,4590,292,"3 is preferred due to reliability, cost, and potential; 7 is least due to environmental concerns."
+782144e6-14c0-4a09-812d-60c2ddf000bb,2025-03-28 06:59:37.769003+00:00,openai,gpt-3.5-turbo,0,4590,291,"5 is most sustainable, 9 least. Wind, solar, geothermal preferred over fossil fuels."
+99c92a44-8aa8-417c-89e7-e0764b707af0,2025-03-28 06:59:42.692556+00:00,openai,gpt-3.5-turbo,0,4590,318,"8 is top due to safety, 6 for reliability, 5 for sustainability, 2 for cost, 9 for potential, 3 for efficiency, 7 for transition, 1 for innovation, 4 for tradition."
+23f2544f-d2fb-45e5-ab97-ae137eb25df6,2025-03-28 06:59:47.995753+00:00,openai,gpt-3.5-turbo,0,4590,302,"3 is ranked highest for reliability, 6 for sustainability, 5 for cost-effectiveness, 7 for environmental impact, 9 for traditional use."
+06125b83-482f-4103-8eb3-fc55f970a882,2025-03-28 06:59:53.710061+00:00,openai,gpt-3.5-turbo,0,4590,283,I support wind energy the most and natural gas the least.
+af5fb16d-5c2b-4c6c-9a24-6b355bd79a53,2025-03-28 06:59:58.700948+00:00,openai,gpt-3.5-turbo,0,4590,283,I support Nuclear Energy the most and Hydroelectric the least.
+815ba9ca-f1d6-42cb-a782-e5de1ef5bf08,2025-03-28 07:00:04.052061+00:00,openai,gpt-3.5-turbo,0,4590,299,"7 is preferred over 2, 4 over 1, 5 over 6, 9 over 3, 8."
+ad618c35-3cbd-4791-abfa-54e06a635434,2025-03-28 07:00:10.206591+00:00,openai,gpt-3.5-turbo,0,4590,286,"7 is top due to safety, 9 is last due to emissions."
+1c33b81c-c7fd-4f16-9912-65379ff7eb48,2025-03-28 07:00:16.403018+00:00,openai,gpt-3.5-turbo,0,4590,287,"1 is most supported, 9 is least. Rankings based on previous ratings."
+0b663dac-775c-48ca-8817-ec89b6d6f8ba,2025-03-28 07:00:22.250211+00:00,openai,gpt-3.5-turbo,0,4590,282,I support wind and solar over coal and geothermal.
+5082fb5d-52dd-46a3-9c72-5a8c90090775,2025-03-28 07:00:27.842860+00:00,openai,gpt-3.5-turbo,0,4590,319,"8 is top due to reliability, 4 for cost, 3 for potential, 9 for environmental concerns, 5 for transition, 6 for innovation, 7 for neutrality, 2 for efficiency, 1 for impact."

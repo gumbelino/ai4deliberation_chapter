@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+8844e79b-d021-409c-bde1-5400cd3adaca,2025-03-21 20:24:47.664115+00:00,openai,gpt-4o-mini,0,4856,283,I prioritize minority involvement and equal influence over maintaining the status quo or strict market focus.
+42b5db06-567f-4ce7-85a1-47218effe113,2025-03-21 20:24:54.292095+00:00,openai,gpt-4o-mini,0,4856,280,I prioritize inclusive governance and minority representation over strict economic or moral policies.
+112ce213-a227-4f2e-a8a2-e3a30d0ec50c,2025-03-21 20:25:01.566382+00:00,openai,gpt-4o-mini,0,4856,281,I prioritize minority involvement and equal influence over strict moral governance or market focus.
+48dd17ab-b969-4df7-ad24-f0d6479ac542,2025-03-21 20:25:07.076339+00:00,openai,gpt-4o-mini,0,4856,280,I prioritize inclusive governance and minority representation over rigid economic or moral frameworks.
+4b028aa7-6ab7-465b-b781-5e96a4e0d612,2025-03-21 20:25:12.618175+00:00,openai,gpt-4o-mini,0,4856,283,I prioritize inclusive governance and market efficiency over maintaining the status quo or moral imposition.
+4b8f8c58-1d73-4b20-a27c-ee97bfe1aecd,2025-03-21 20:25:18.455872+00:00,openai,gpt-4o-mini,0,4856,279,I prioritize inclusive governance and minority representation over maintaining the status quo.
+0f594935-909f-4ca4-8710-19a12c58d152,2025-03-21 20:25:24.501012+00:00,openai,gpt-4o-mini,0,4856,281,I prioritize inclusive governance and minority representation over strict moralism and market focus.
+14a0b623-a6b9-49c7-8ee9-f1cf854bb12c,2025-03-21 20:25:30.833462+00:00,openai,gpt-4o-mini,0,4856,283,I prioritize inclusive governance and moral principles over maintaining the status quo or equalizing influence.
+bcc20367-1a97-47f1-bad8-87a74d39ce46,2025-03-21 20:25:40.162885+00:00,openai,gpt-4o-mini,0,4853,280,I prioritize inclusive governance and social equity over minimal intervention and traditionalism.
+26a29e0a-dd47-4a85-8e1c-cf7814940ad4,2025-03-21 20:25:46.516443+00:00,openai,gpt-4o-mini,0,4856,281,I prioritize inclusive governance that supports disadvantaged groups over strict market or moral controls.
+16f033b6-4f0c-4a84-8c94-e17f189f6412,2025-03-21 20:25:52.457690+00:00,openai,gpt-4o-mini,0,4856,279,I prioritize minority involvement and market fairness over maintaining the current system.
+f4ae4038-d6a5-4973-867a-a17274e91523,2025-03-21 20:26:29.631728+00:00,openai,gpt-4o-mini,0,4858,280,I prioritize inclusive governance and social equity over minimal intervention and moral enforcement.
+29ff46f9-a48e-46fa-8a20-1ec7b354e942,2025-03-21 20:26:38.638362+00:00,openai,gpt-4o-mini,0,4856,282,I prioritize minority involvement and equal influence over maintaining the status quo or strict morals.
+a3c17e38-2088-4d8b-8e27-7e87c6f521be,2025-03-21 20:26:45.187886+00:00,openai,gpt-4o-mini,0,4858,279,I prioritize minority involvement and equality over market focus and moral legislation.
+7d7e8021-e5e2-4417-a2bf-6b4cb2bb7382,2025-03-21 20:26:51.304083+00:00,openai,gpt-4o-mini,0,4856,281,I prioritize inclusive governance and minority representation over strict moral or market-focused policies.
+8d92bc72-2c29-40d4-b290-b124c91189a9,2025-03-21 20:26:58.047156+00:00,openai,gpt-4o-mini,0,4856,280,I prioritize inclusive governance and representation over strict market or moralistic approaches.
+88e42de7-0817-40f0-94af-ff0cec878dae,2025-03-21 20:27:09.101541+00:00,openai,gpt-4o-mini,0,4858,280,I prioritize minority involvement and social equity over market-focused or traditional governance.
+35e63c94-3cec-4ed9-9093-62618ca25cc6,2025-03-21 20:27:21.119863+00:00,openai,gpt-4o-mini,0,4856,283,I prioritize minority involvement and equal influence over maintaining the status quo or strict market focus.
+5a3acc55-c9cb-4cec-92ee-18d6719d606c,2025-03-21 20:27:32.704169+00:00,openai,gpt-4o-mini,0,4856,280,I prioritize inclusive governance and minority representation over strict moral or economic policies.
+903e45f1-aca8-4a38-889d-bd4a2f9472a7,2025-03-21 20:27:40.282697+00:00,openai,gpt-4o-mini,0,4856,282,I prioritize minority involvement and moral principles over maintaining the current system or minimal intervention.
+0fdcabca-7f43-4b25-9df8-422741d26ba2,2025-03-28 06:41:23.212097+00:00,openai,gpt-4o-mini,0,4856,280,I prioritize minority involvement and market efficiency over strong leadership and status quo.
+3f921f0f-c978-456f-8467-2ca789c3bd63,2025-03-28 06:41:30.259547+00:00,openai,gpt-4o-mini,0,4858,280,I prioritize inclusive governance and minority representation over rigid economic or moral frameworks.
+c4625d49-0c4b-42df-8fcb-54a57d4f7ee0,2025-03-28 06:41:36.232771+00:00,openai,gpt-4o-mini,0,4856,280,I prioritize inclusive governance over maintaining the status quo or strict market focus.
+dce3b443-a9ca-4317-9f0d-c53ee1174b79,2025-03-28 06:41:42.756255+00:00,openai,gpt-4o-mini,0,4858,280,I prioritize inclusive governance and minority representation over strict market or moral governance.
+07dfa476-3f58-41db-bf0e-6d3781b5e012,2025-03-28 06:41:49.492866+00:00,openai,gpt-4o-mini,0,4856,279,I prioritize inclusive governance and minority representation over maintaining the status quo.
+6a0a7601-770d-4071-9170-abc4b5263c45,2025-03-28 06:41:58.457356+00:00,openai,gpt-4o-mini,0,4856,281,I prioritize inclusive governance and minority representation over strict moral or market-focused policies.
+78fe57aa-d31d-4a82-b69c-8399155786bf,2025-03-28 06:42:05.113704+00:00,openai,gpt-4o-mini,0,4856,280,I prioritize inclusive governance and minority representation over strict market or moral controls.
+6aa24dfe-b108-47a6-9943-02beef1e824c,2025-03-28 06:42:11.649386+00:00,openai,gpt-4o-mini,0,4856,280,I prioritize inclusive governance that supports disadvantaged groups over maintaining the status quo.
+25020484-5e91-4f3b-bd5c-6d0f5063baa6,2025-03-28 06:42:18.010555+00:00,openai,gpt-4o-mini,0,4856,280,I prioritize inclusive governance and minority representation over minimal intervention and status quo.
+9138aa80-1951-44b9-b83d-84741ac5e438,2025-03-28 06:42:26.651672+00:00,openai,gpt-4o-mini,0,4856,280,I prioritize inclusive governance over maintaining the status quo or limiting minority support.
+fa325e5b-2b81-48fc-91ea-7d151c617a25,2025-03-28 06:42:34.028563+00:00,openai,gpt-4o-mini,0,4856,279,"I prioritize inclusive governance that represents all voices, especially disadvantaged minorities."
+f67a18f3-8f58-4ab9-8f66-424f1886f03e,2025-03-28 06:42:43.136749+00:00,openai,gpt-4o-mini,0,4856,280,I prioritize inclusive governance and minority representation over strict moral or economic policies.

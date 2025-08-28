@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+aaa22f5a-737c-4e11-b0bf-6b2ff802ad27,2025-04-02 11:37:40.641953+00:00,qwen,qwq-plus,0,5143,6356,"Prioritizes public funding, strong regulation, and privacy; distrusts private minimal regulation."
+e804ad55-cc61-41d3-95a2-b5c88d7539ef,2025-04-02 11:39:51.702310+00:00,qwen,qwq-plus,0,5131,7940,Prioritizes minimal biobank funding or strict regulation when used.
+e47c4c39-bad2-4b2c-a173-07726eba8bfd,2025-04-02 11:42:35.729316+00:00,qwen,qwq-plus,0,5137,6232,"Prioritize public funding with strong regulation and privacy, oppose minimal regulation and private funding."
+43d0bf77-91f0-4ebc-9f63-81c9f6b5595e,2025-04-02 11:44:45.393358+00:00,qwen,qwq-plus,0,5133,6391,Prioritize privacy and strong regulation over private funding and minimal oversight.
+e0243129-ff43-4437-a99f-fbbd7b8ec699,2025-04-02 11:46:58.069731+00:00,qwen,qwq-plus,0,5125,5048,"Prioritizes privacy, public oversight, and ethical use over private profit and minimal regulation."
+c961580f-4ed1-4747-90d8-bef03feabf5d,2025-04-02 21:58:41.263622+00:00,qwen,qwq-plus,0,5137,5003,"Prioritize public funding and strict regulation over private, lax systems."
+07a046c5-d5fb-4517-b897-e7e32f13617a,2025-04-02 22:00:25.792033+00:00,qwen,qwq-plus,0,5138,4701,Prioritize public funding and regulation over strict privacy constraints and minimal oversight.
+50b876fb-9980-4d3d-92a5-13167c453658,2025-04-02 22:02:04.089908+00:00,qwen,qwq-plus,0,5131,5793,Prioritize public funding with strong regulation for privacy/oversight; high privacy and public minimal regulation follow.
+f6a98665-5cbb-4f93-aa53-5b0079f3fb42,2025-04-02 22:04:04.320895+00:00,qwen,qwq-plus,0,5130,5545,"Prioritize privacy, public funding, and strong regulation while limiting excessive private influence and minimal oversight."
+29a38cf6-ec0d-4c4b-8198-449f16fe9730,2025-04-02 22:05:59.514883+00:00,qwen,qwq-plus,0,5131,6489,"Prioritize privacy, strong oversight, and redirect public funds to other health initiatives."
+c3293b5d-975b-45b8-8524-09d533b82b67,2025-04-02 22:08:13.597784+00:00,qwen,qwq-plus,0,5127,5571,Prioritize privacy and regulation; prefer public funding with strict oversight over private or lax systems.
+aba459ab-e7fd-4fa8-b154-8b4d5cc75757,2025-04-02 22:10:09.180359+00:00,qwen,qwq-plus,0,5129,3898,"Prioritizes public funding, strong regulation, and privacy over private interests and lax oversight."
+ecbc9beb-4eba-403d-ae35-01e83a7a712a,2025-04-02 22:11:30.790360+00:00,qwen,qwq-plus,0,5135,3368,prioritize-public-funding-strong-regulation-for-privacy-and-ethical-oversight
+83f1185b-41b7-4005-a15b-db030d046ecf,2025-04-02 22:12:41.578711+00:00,qwen,qwq-plus,0,5137,5568,"Prioritizes privacy and public oversight, cautious on private funding and minimal regulation."
+a31215bf-e5fe-46e2-9a2f-a94f6aa16358,2025-04-02 22:14:37.620836+00:00,qwen,qwq-plus,0,5131,7222,"Prioritizes privacy, regulation, and public health over unchecked private control."
+6113c466-0d62-4232-8b2f-db4dc24370ae,2025-04-03 14:08:40.990406+00:00,qwen,qwq-plus,0,5125,4036,Prioritize minimal government involvement and accessibility over strict privacy regulations.
+0f1adfb7-6629-4f40-85bd-584ce2d1caa3,2025-04-03 14:10:05.915741+00:00,qwen,qwq-plus,0,5129,7065,"Prioritize privacy, government oversight, and public benefit while balancing accessibility."
+b8c29ea7-ad3c-44de-97c6-101dadb3d7cf,2025-04-03 14:12:32.789225+00:00,qwen,qwq-plus,0,5133,6945,"Prioritize privacy, public oversight; cautious on minimal regulation/private funding."
+f24b5345-3b35-4e79-83e4-25f4eafb163b,2025-04-03 14:14:57.021810+00:00,qwen,qwq-plus,0,5135,5456,"Prioritize privacy and government oversight, minimize private profit and lax regulation."
+290d06c9-5cf5-4d2e-bcbe-83854426b34c,2025-04-03 14:16:50.144558+00:00,qwen,qwq-plus,0,5137,6027,"Prioritizes privacy, strong regulation, and public funding over minimal oversight and private profit."
+832ae30a-3033-4f44-9ae6-cf2e6e2ca6c0,2025-04-03 14:18:55.745892+00:00,qwen,qwq-plus,0,5131,5827,Prioritize public funding with strict oversight and privacy protections.
+d9940de1-768f-46f6-b38b-4ea9bf4d660c,2025-04-03 14:20:55.908252+00:00,qwen,qwq-plus,0,5133,5686,"Supports strong privacy, regulation, and public oversight while minimizing government funding."
+54e09b7a-06f8-4c2f-bb79-c7ef794f5e8c,2025-04-03 14:22:54.009150+00:00,qwen,qwq-plus,0,5132,6360,"Prioritize public funding, strong privacy, and moderate regulation."
+e7bf066d-4881-47aa-85c7-32df36be5764,2025-04-03 14:25:06.202663+00:00,qwen,qwq-plus,0,5127,4383,"Prioritizes privacy, regulation, and public oversight over minimal control and private profit."
+3c69ea3c-04c9-49d5-80db-edb4146af788,2025-04-03 14:26:37.321298+00:00,qwen,qwq-plus,0,5128,4099,"Prioritize privacy and public funding with strict regulation, minimizing corporate control."
+10c0775c-94c3-4069-8354-6df2a935364b,2025-04-03 14:28:02.773576+00:00,qwen,qwq-plus,0,5139,5461,"Prioritizes privacy, public funding, and strict regulation over private interests and minimal oversight."
+90abf20a-8b56-4e60-85dd-c0c1ca498e40,2025-04-03 14:29:55.923242+00:00,qwen,qwq-plus,0,5137,4905,Prioritizes public funding and strong regulation for privacy and oversight.
+1094f4ba-3202-4458-b568-90b9c110d653,2025-04-03 17:08:30.162976+00:00,qwen,qwq-plus,0,5137,5544,"Prioritize public funding, strong regulation, and privacy over private minimal regulation."
+855fbf3d-f982-4cf4-896b-df35ec4a480a,2025-04-03 17:10:25.873385+00:00,qwen,qwq-plus,0,5133,6077,"Prioritize privacy & strict regulation; oppose minimal oversight, favor public with strong controls."
+41a1fa1f-fcbd-4116-9247-c9dd44b6006a,2025-04-03 17:12:32.475041+00:00,qwen,qwq-plus,0,5129,3321,"Prioritize-public-funding,-strong-regulation,-and-privacy; oppose-minimal-oversight-and-private-profit-focus."
+49527d22-9da6-4939-b7b6-b31c93f8f96e,2025-04-03 17:13:42.850551+00:00,qwen,qwq-plus,0,5135,4282,"Prioritize privacy, public funding, and strong regulation over minimal oversight and private profit."

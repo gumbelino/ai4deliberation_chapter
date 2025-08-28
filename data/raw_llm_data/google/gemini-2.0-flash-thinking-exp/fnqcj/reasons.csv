@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+1e05b600-6dc0-4362-9147-1090dc2fddc9,2025-04-17 10:28:27.664515+00:00,google,gemini-2.0-flash-thinking-exp,0,4563,286,"Dirt road upgrade balances access and environment best. Bitumen too much, maintain too little."
+ab317dcc-5b19-47c6-b705-97cff94dc098,2025-04-17 10:28:54.260321+00:00,google,gemini-2.0-flash-thinking-exp,0,4565,279,"Environment first, oppose bitumen, minimal track impact."
+f9c184a7-145e-4b64-8733-b1ad4775cc44,2025-04-17 10:29:12.852323+00:00,google,gemini-2.0-flash-thinking-exp,0,4565,283,"Prioritize environment, long-term view, cautious of development impacts."
+6c430453-c7fa-4aa5-8bee-f9b52173ca27,2025-04-17 10:29:35.953407+00:00,google,gemini-2.0-flash-thinking-exp,0,4569,284,"Prioritize environment, limit development, long-term view important."
+15971380-2f14-4ea5-8049-f74f81e69e1e,2025-04-17 10:29:52.490001+00:00,google,gemini-2.0-flash-thinking-exp,0,4569,286,"Balance environment & access. Maintain 4WD track, fix trouble spots."
+cc17f9c9-d77f-4426-938f-13883f3b05a3,2025-04-17 10:30:09.178514+00:00,google,gemini-2.0-flash-thinking-exp,0,4567,280,Prioritize environment cautious development maintain 4WD track
+efa22baa-34c0-4811-8dd4-3f7b06341681,2025-04-17 10:30:29.929839+00:00,google,gemini-2.0-flash-thinking-exp,0,4565,281,Balance environment & access by maintaining 4WD and stabilizing.
+9d2f4075-a611-439f-8134-7ae6e510ca3d,2025-04-17 10:30:55.621343+00:00,google,gemini-2.0-flash-thinking-exp,0,4565,278,"Stabilize track, balance environment & access."
+529d1f06-7c21-4e18-ab77-b0315f44da66,2025-04-17 10:31:16.180800+00:00,google,gemini-2.0-flash-thinking-exp,0,4567,279,Balance env & access. Stabilize track.
+953ec8ff-c420-4351-8eea-3e3d67e1fc86,2025-04-17 10:32:34.234698+00:00,google,gemini-2.0-flash-thinking-exp,0,4567,284,"Environment focus, maintain 4WD track, stabilize, no bitumen."

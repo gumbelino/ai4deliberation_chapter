@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+93cb14a5-5b1e-4fd3-9477-5076ef8cc72a,2025-04-08 15:07:43.227908+00:00,openai,gpt-4.5-preview,0,4849,298,"Prefer publicly funded biobanks with strong regulation, oversight, and high privacy protection."
+0849737e-0baa-4d03-86ec-598bd6158cad,2025-04-08 15:08:24.150897+00:00,openai,gpt-4.5-preview,0,4849,296,"Prefer strong privacy, government oversight, public funding, and individual donor authorization."
+69aae654-7d6d-4c90-a798-f72ef8ae6ac7,2025-04-08 15:08:59.519945+00:00,openai,gpt-4.5-preview,0,4849,297,"Prioritized privacy, strong regulation, cautious resource use, wary of minimal oversight."
+338bfa09-a87e-4c82-a125-c2aeee15ad08,2025-04-08 15:09:47.041676+00:00,openai,gpt-4.5-preview,0,4849,297,"Prioritized privacy, strong oversight, public funding; least favored minimal regulation options."
+8a9c1628-4d42-4a1e-8b2b-9fcc12fd8442,2025-04-08 15:10:32.722543+00:00,openai,gpt-4.5-preview,0,4849,299,"Prefer public funding, strong oversight, strict privacy, cautious but supportive of biobanking."
+5dd7f5c3-839e-461d-925a-0056d05749ae,2025-04-10 08:20:00.887524+00:00,openai,gpt-4.5-preview,0,4849,298,"Prefer publicly funded biobanks with strong regulation, oversight, and high privacy protection."
+b32837d5-59f2-438e-9dfe-33b7d0276478,2025-04-10 08:20:17.728563+00:00,openai,gpt-4.5-preview,0,4849,296,"Prefer public funding, strong privacy, strict oversight, and individual consent protections."
+d82fff53-cd1a-4a0a-8fca-70ea6a8e759a,2025-04-10 08:20:34.833682+00:00,openai,gpt-4.5-preview,0,4849,296,"Prioritized privacy, strong oversight, cautious about private funding and minimal regulation."
+f81c09bb-18fa-457b-a895-37bd71266bf7,2025-04-10 08:20:52.073874+00:00,openai,gpt-4.5-preview,0,4849,296,"Strong privacy, oversight, and public funding prioritized; minimal regulation least supported."
+a833d499-5b45-4f7a-a4fc-5930d2f43da7,2025-04-10 08:21:06.291718+00:00,openai,gpt-4.5-preview,0,4849,298,"Prefer publicly funded biobanks with strong regulation, oversight, and high privacy protection."

@@ -1,0 +1,34 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+b2cac23c-02c9-4c53-a8ed-0036a83bb683,2025-04-10 16:50:10.792822+00:00,meta,llama4-scout,0,3331,221,"Prioritized community-based actions, then adaptation planning and tech development, over economic growth or status quo."
+cd8b1c43-0dc3-417f-9a11-23e19a6decf7,2025-04-10 16:50:14.812261+00:00,meta,llama4-scout,0,3331,215,Prioritized resilience and community-based actions over drastic cuts or economic growth.
+c3b6b8c6-d8f0-4077-be8b-54ee25b63f5b,2025-04-10 16:50:18.688371+00:00,meta,llama4-scout,0,3331,216,Prioritized proactive and emission-reducing policies over reactive and growth-focused ones.
+004f6628-d59f-41ac-8246-bd89a7dce3e1,2025-04-10 16:50:22.608248+00:00,meta,llama4-scout,0,3331,216,"Prioritized resilience and moderate emission cuts, rejected economic growth over climate action."
+1dcd877b-5606-4562-81a9-6cc38892f981,2025-04-10 16:50:26.758071+00:00,meta,llama4-scout,0,3331,215,Prioritized resilience and emission cuts over status quo and growth-focused policies.
+00381f33-7bb3-4782-a990-338803112a7d,2025-04-10 16:50:31.050258+00:00,meta,llama4-scout,0,3331,219,Prioritized adaptive and resilient policies over business-as-usual and growth-over-climate approaches.
+733bbeaf-7a3a-4984-8c6e-74affe1e2bb2,2025-04-10 16:50:42.096560+00:00,meta,llama4-scout,0,3331,224,"Prioritized community-based actions, then tech approaches, and opposed business-as-usual and growth-over-adaptation policies."
+7f2091ed-c88b-480b-b960-29ff70fe5334,2025-04-10 16:50:46.030858+00:00,meta,llama4-scout,0,3331,215,Prioritized resilience and community actions over extreme emission cuts or status quo.
+4c643d75-50d7-4617-bb87-bc8691aabc2a,2025-04-10 16:50:50.289214+00:00,meta,llama4-scout,0,3331,226,"I prioritized community-based actions, then planning controls, and ranked business-as-usual and growth-over-climate policies lowest."
+0638aa95-012e-42ba-80f7-09101052478c,2025-04-10 16:50:57.291236+00:00,meta,llama4-scout,0,3331,215,Prioritized emission cuts and targeted adaptation over economic growth and status quo.
+ddf2f3f4-3565-4a1a-8a7b-f82cae8129a1,2025-04-10 16:51:01.362678+00:00,meta,llama4-scout,0,3331,217,Prioritized strong emission cuts and resilience building over status quo and growth-focused policies.
+58caf218-efab-4143-b7a7-cd4f692f3371,2025-04-10 16:51:05.261393+00:00,meta,llama4-scout,0,3331,215,Prioritized resilience and moderate emission cuts over economic growth and inaction.
+8a895647-3838-4b35-9a33-7160b59f531f,2025-04-10 16:51:09.226443+00:00,meta,llama4-scout,0,3331,218,"Prioritized economic growth least, drastic CO2 cuts moderately, and resilience building most."
+ada5c2ac-3813-4f39-8852-d823aa9098a6,2025-04-10 16:51:13.120857+00:00,meta,llama4-scout,0,3331,214,Prioritized resilience and emission cuts over economic growth and status quo.
+94d87136-1793-438b-a71d-ea05be8afdd8,2025-04-10 16:51:17.218275+00:00,meta,llama4-scout,0,3331,226,"Prioritized economic growth least, then policies with low emission cuts or status quo, and favored resilience and community-based adaptation approaches."
+656cc3d6-dca9-423b-aa7b-0f5251fc108f,2025-04-10 16:51:22.402528+00:00,meta,llama4-scout,0,3331,218,Prioritized strong emission cuts and community-based actions for effective climate change mitigation and adaptation.
+6c168a8b-b2a5-479a-adfe-51b67f78e9b5,2025-04-10 16:51:26.506225+00:00,meta,llama4-scout,0,3331,218,"Prioritized drastic emissions cuts, then community-based adaptation, and finally tech-based resilience."
+a8f98c03-13e2-46cf-ab6b-217c8bdd56e9,2025-04-10 16:51:33.409815+00:00,meta,llama4-scout,0,3331,216,Prioritized climate resilience and moderate emission cuts over economic growth and status quo.
+15eaf4cb-bd96-4663-9dca-9f6f81d2f4c6,2025-04-10 16:51:37.591276+00:00,meta,llama4-scout,0,3331,219,"Prioritized drastic CO2 cuts, then moderate cuts, over economic growth or status quo."
+629db3bc-06e9-44db-932f-0571ec7468fd,2025-04-10 16:51:41.788400+00:00,meta,llama4-scout,0,3331,219,Prioritized community-based adaptation and tech resilience over drastic emissions cuts or economic growth-focused policies.
+3a53e31b-9166-4b3e-9fcd-1b3c11c75990,2025-04-10 16:51:49.577674+00:00,meta,llama4-scout,0,3331,216,Prioritized drastic emission cuts and resilience building over economic growth and status quo.
+3aabc96e-de49-4902-b384-aa0408841e71,2025-04-10 16:51:53.651500+00:00,meta,llama4-scout,0,3331,219,Prioritized strong emission cuts and resilience building over business-as-usual or growth-focused policies.
+7c416450-6eee-4115-92a0-12a813af10a3,2025-04-10 16:51:58.112318+00:00,meta,llama4-scout,0,3331,216,Prioritized strong emission cuts and resilience building over economic growth and status quo.
+0e473114-e737-46fb-8b40-80e85abee8bf,2025-04-10 16:52:01.991446+00:00,meta,llama4-scout,0,3331,221,Prioritized community-based actions and resilience building over business-as-usual or solely economic growth focused policies.
+ab936dec-507a-49eb-be4c-9541bd0d7bce,2025-04-10 17:31:57.763199+00:00,meta,llama4-scout,0,3331,218,Prioritized adaptive resilience and community actions over drastic emission cuts and economic growth focused policies.
+8833a277-a112-4c5e-9623-97db7aaacac8,2025-04-10 17:32:01.726996+00:00,meta,llama4-scout,0,3331,215,Prioritized proactive and community-based approaches over reactive and growth-focused ones.
+c4891a91-4432-4675-9779-06b00780e10c,2025-04-10 17:32:06.128106+00:00,meta,llama4-scout,0,3331,214,Prioritized resilience and emission cuts over economic growth and status quo.
+091454cb-43c3-4db9-94f7-aca2e18500f6,2025-04-10 17:32:10.334342+00:00,meta,llama4-scout,0,3331,221,"Prioritized drastic CO2 cuts, resilience tech, and community adaptation over economic growth and status quo."
+984c23a0-c8bb-4b44-8f4f-fbcd660bfb39,2025-04-10 17:32:14.279280+00:00,meta,llama4-scout,0,3331,216,Prioritized proactive and emission-reducing policies over reactive and growth-focused ones.
+a020bc8d-e611-45d1-bc9e-db30472012d7,2025-04-10 17:32:20.972977+00:00,meta,llama4-scout,0,3331,220,Prioritized moderate to drastic CO2 cuts and community-based actions over economic growth and status quo.
+288d66d4-7080-48c2-bbf8-9999fcc42b9c,2025-04-10 17:32:26.129910+00:00,meta,llama4-scout,0,3331,225,"Prioritized community-based actions, new tech, and moderate emission cuts over status quo, economic growth, or drastic cuts."
+d0e3ef30-a754-4d56-8d34-4f833cd478b0,2025-04-10 17:32:30.509818+00:00,meta,llama4-scout,0,3331,217,Prioritized strong emission cuts and targeted adaptation policies over economic growth and status quo.
+14bc7b6f-b615-4d24-ac76-4593c4a84117,2025-04-10 17:32:34.351597+00:00,meta,llama4-scout,0,3331,218,"Prioritized drastic emissions cuts and tech resilience, downplayed economic growth and status quo."

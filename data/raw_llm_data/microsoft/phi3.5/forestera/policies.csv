@@ -1,0 +1,25 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Management that favors aggressive reduction of hazardous fuels,P2. Management that favors thinning treatments to realize economic gain.,"P3. Management that favors treatments to restore structure, function and composition of the forest to presettlement conditions, and allowing the introduction of fire as a natural disturbance.",P4. No fire or fuels management. Leaving the forests as they stand without active management.,P5. Management that favors local-based harvesting for fuel and timber needs.,P6. Management that favors the protection of wildlife and wildlife habitat.,"P7. Management that prioritizes the location and level of treatments favoring both ecological and social values (i.e. wildlife, watersheds, community protection, special cultural places)."
+649de282-009d-4393-969e-be15e316e46f,2025-03-25 22:54:30.270385+00:00,microsoft,phi3.5,0,0,0,3,1,2,5,4,6,7
+20044fa6-74b8-41ea-8ab2-b2ed0f131f1a,2025-03-25 22:54:46.966130+00:00,microsoft,phi3.5,0,0,0,6,4,7,1,5,3,2
+86b43b4f-6d4b-4983-bb0b-026e513f3ee6,2025-03-25 22:55:03.925431+00:00,microsoft,phi3.5,0,0,0,2,4,3,1,5,6,7
+376f38de-c41b-42b3-8fd0-0fd9358789c6,2025-03-25 22:55:36.918464+00:00,microsoft,phi3.5,0,0,0,3,4,6,1,5,7,2
+3569f45e-c08a-4d19-b387-da9db9045056,2025-03-25 22:56:43.567453+00:00,microsoft,phi3.5,0,0,0,3,4,2,6,5,1,7
+250973a4-6fe9-43dc-980f-b738095a2e5a,2025-03-25 22:57:00.114457+00:00,microsoft,phi3.5,0,0,0,5,1,6,7,2,3,4
+18c2276a-1d02-4c84-a895-be0dd7cd222b,2025-03-25 22:57:17.653338+00:00,microsoft,phi3.5,0,0,0,6,4,1,2,7,3,5
+db3ee2d8-9426-400e-9544-25ca49bbbf42,2025-03-25 22:57:37.820267+00:00,microsoft,phi3.5,0,0,0,3,7,4,1,2,5,6
+64b29bad-fba5-4947-bd87-34e407b2f410,2025-03-25 22:58:52.619914+00:00,microsoft,phi3.5,0,0,0,5,4,6,1,3,2,7
+a7b6a958-35ae-44c7-bfec-1901cab94fdb,2025-03-25 23:06:20.841250+00:00,microsoft,phi3.5,0,0,0,3,4,2,1,5,6,7
+fc1272d7-d0ec-468e-992e-5ea9d6fd58f5,2025-03-25 23:06:37.732211+00:00,microsoft,phi3.5,0,0,0,6,4,2,3,5,1,7
+b3b2eb45-cfb8-4e80-82d7-7fd8f79748d7,2025-03-25 23:07:11.090510+00:00,microsoft,phi3.5,0,0,0,6,2,3,5,1,7,4
+b65f4573-7f69-47df-b40e-86e265f9a5c8,2025-03-25 23:07:28.567423+00:00,microsoft,phi3.5,0,0,0,3,5,6,1,2,4,7
+86f0cfb6-38d9-460a-a426-5a99c006e6bc,2025-03-25 23:07:49.819102+00:00,microsoft,phi3.5,0,0,0,1,7,4,5,2,3,6
+8296e05e-2535-49f6-bbec-f73ff600a780,2025-03-25 23:08:22.328309+00:00,microsoft,phi3.5,0,0,0,7,3,6,1,4,5,2
+848aa773-da60-48df-b7a4-6dfb8882f939,2025-03-25 23:08:58.142007+00:00,microsoft,phi3.5,0,0,0,6,1,3,7,4,2,5
+c16e8efa-5816-426f-bd0e-ade81feb4432,2025-03-25 23:09:13.711550+00:00,microsoft,phi3.5,0,0,0,7,1,2,3,6,4,5
+8b9c44b3-7d66-444d-802f-febf5a054001,2025-03-25 23:11:05.781740+00:00,microsoft,phi3.5,0,0,0,3,2,4,6,7,5,1
+82a430f6-8f9b-4f4b-a210-db8281978b47,2025-04-04 13:25:50.092237+00:00,microsoft,phi3.5,0,0,0,3,7,2,1,6,5,4
+bd7ca764-6880-4cad-b6be-6bd4f38a1718,2025-04-04 13:33:17.951667+00:00,microsoft,phi3.5,0,0,0,5,1,2,3,7,4,6
+3df471e1-8605-4144-9265-c1ad47b323b2,2025-04-04 13:38:40.245109+00:00,microsoft,phi3.5,0,0,0,5,4,1,2,3,7,6
+7a5aeb95-8a43-486a-bb43-c2e365e32924,2025-04-04 13:39:16.744921+00:00,microsoft,phi3.5,0,0,0,6,2,1,3,4,5,7
+ec7ae1c3-4497-4802-aba9-0080d2ef4267,2025-04-04 13:40:04.491766+00:00,microsoft,phi3.5,0,0,0,3,1,4,7,2,6,5
+1beb5a51-234a-4051-8741-6587353daf8b,2025-04-04 13:40:20.689312+00:00,microsoft,phi3.5,0,0,0,1,3,4,7,6,5,2

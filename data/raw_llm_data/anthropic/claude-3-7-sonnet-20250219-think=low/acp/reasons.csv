@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+0917d00b-8ad6-49f9-9c6a-d821f6665581,2025-05-22 13:31:45.222631+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,6817,1564,I value inclusive democratic participation with equal rights over moral impositions or market-only focus.
+f9f017ad-eb63-4903-bc09-518cbbdf20a6,2025-05-22 13:47:13.986178+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,6044,1077,I value inclusive democracy and current institutions over moral impositions or market-centered governance.
+57a1e12b-29cf-4b21-929d-9ea5b1982fbd,2025-05-22 13:47:37.502003+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,6760,1500,Inclusive democracy best balances equal participation with protecting minority rights.
+bd8eabc9-3b8f-4452-9504-57c3283a4c0b,2025-05-22 13:48:09.666081+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,6244,1136,I value inclusive democracy with diverse voices over both rigid moral control and market absolutism.
+a102f711-6859-490a-82a3-d68e94f5ed5c,2025-05-22 13:48:33.107092+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,6073,1090,I prioritize inclusive democracy that represents all voices over moral prescriptivism or minimal governance.

@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+7636e413-b892-4780-b7b6-01bd48438d63,2025-05-21 11:48:51.559530+00:00,xai,grok-3-mini-fast-beta-r=high,0,16235,287,"Ranked policies by support for inclusive democracy and equality, disfavoring moral enforcement and minority benefit reductions."
+1ead42f8-877a-4424-bf15-07a8ce4fd1f4,2025-05-21 11:49:30.548622+00:00,xai,grok-3-mini-fast-beta-r=high,0,14548,281,"Ratings prioritize inclusive democracy and market focus, deprioritizing moral enforcement."
+bd8cc2d4-eecc-430f-a617-62acdb791ece,2025-05-21 11:50:10.294794+00:00,xai,grok-3-mini-fast-beta-r=high,0,13418,282,"Ratings based on preference for inclusive, equitable democracy over status quo or restrictive policies."
+11c4610c-ee8f-4694-8ff7-14d709bff85a,2025-05-21 11:50:47.323297+00:00,xai,grok-3-mini-fast-beta-r=high,0,14961,282,"Prioritized minority involvement, opposed moral enforcement, moderately favored equality and status quo."
+53566057-76d7-40c1-b648-9a3b84f08cfa,2025-05-21 11:51:24.792805+00:00,xai,grok-3-mini-fast-beta-r=high,0,13393,285,"Ranked policies based on support for equality, representation, and minimal moral imposition from consideration ratings."

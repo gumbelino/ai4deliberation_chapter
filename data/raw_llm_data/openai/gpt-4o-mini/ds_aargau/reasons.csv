@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d8701ebb-3084-4a97-99e7-9ccca8bef0d3,2025-03-21 20:43:21.839710+00:00,openai,gpt-4o-mini,0,3317,216,I prioritize strong emission cuts and adaptation policies over economic growth and inaction.
+e17dc941-f762-44f2-a21e-9d87bcc4254a,2025-03-21 20:43:29.887336+00:00,openai,gpt-4o-mini,0,3317,217,"I prioritize adaptation and emission cuts, valuing resilience and community actions over growth."
+b8866dc1-96da-4ae2-b95c-52e1420b32ae,2025-03-21 20:43:37.189306+00:00,openai,gpt-4o-mini,0,3317,216,"I prioritize strong emission cuts and resilience, while opposing growth over climate action."
+993262dc-1484-4bb9-93e7-dd4944609db0,2025-03-21 20:43:46.407250+00:00,openai,gpt-4o-mini,0,3317,215,"I prioritize strong emission cuts and resilience, while opposing growth-focused policies."
+c81b12cc-b2a3-4a41-8546-13f63341dbc0,2025-03-21 20:43:54.799281+00:00,openai,gpt-4o-mini,0,3317,216,I prioritize strong emission cuts and adaptation policies over economic growth and status quo.
+a0866c9c-ce44-4c29-878f-f6c881beb4a5,2025-03-21 20:44:00.836501+00:00,openai,gpt-4o-mini,0,3317,216,I prioritize strong emission cuts and adaptation policies over economic growth and inaction.
+4650212d-3ace-4d80-93c3-6b463c763819,2025-03-21 20:44:06.870852+00:00,openai,gpt-4o-mini,0,3317,216,I prioritize strong emission cuts and adaptation policies over maintaining current settings or growth.
+4d2c45d0-1cc7-4837-969b-f5cd6f07a9a3,2025-03-21 20:44:13.028656+00:00,openai,gpt-4o-mini,0,3317,216,I prioritize strong adaptation and emission reduction policies over economic growth and inaction.
+4c1f10bd-df44-4299-b9c9-edf63caba9fa,2025-03-21 20:44:19.582794+00:00,openai,gpt-4o-mini,0,3317,216,I prioritize strong adaptation and emission cuts over economic growth and maintaining current policies.
+6fd4e71c-5e0f-4507-ad4c-495415a7a11e,2025-03-21 20:44:25.113036+00:00,openai,gpt-4o-mini,0,3317,216,I prioritize resilience and significant emissions cuts over maintaining current policies or growth focus.
+cc6a8490-f557-4b91-b1be-4a6d6567e880,2025-03-21 20:44:30.742470+00:00,openai,gpt-4o-mini,0,3317,216,I prioritize strong adaptation and emission cuts over economic growth and maintaining current policies.
+d4646e9e-d047-49b5-b1f3-4df81dcbfe6b,2025-03-21 20:44:36.583745+00:00,openai,gpt-4o-mini,0,3317,216,I prioritize strong adaptation and emission reduction policies over economic growth and inaction.
+50bdbcf6-b599-4b90-8a1b-e89cc6f4295d,2025-03-21 20:44:42.700991+00:00,openai,gpt-4o-mini,0,3317,218,"I prioritize adaptation and emission cuts, while opposing policies favoring economic growth over climate."
+d5b3300c-ac9b-4fd9-93e5-bc76b4ff20a2,2025-03-21 20:44:48.344471+00:00,openai,gpt-4o-mini,0,3317,217,"I prioritize strong emission cuts and adaptation, while opposing policies favoring economic growth."
+3c1ae72f-cfb6-48e2-93cb-25dc3eff1bba,2025-03-21 20:44:54.566667+00:00,openai,gpt-4o-mini,0,3317,217,"I prioritize strong emission cuts and resilience, while opposing policies favoring economic growth."
+eb8a7149-f30f-423a-ba17-c10b5985e1eb,2025-03-21 20:45:00.944389+00:00,openai,gpt-4o-mini,0,3317,215,I prioritize adaptation and significant emissions cuts over economic growth and inaction.
+143d7990-975f-4008-ba94-01e22bd2214e,2025-03-21 20:45:09.043557+00:00,openai,gpt-4o-mini,0,3317,217,"I prioritize strong emission cuts and resilience, while opposing policies favoring economic growth."
+b56124ed-9a34-4f83-a3c4-1fcc251760c6,2025-03-21 20:45:15.902628+00:00,openai,gpt-4o-mini,0,3317,216,I prioritize strong emission cuts and adaptation policies over economic growth and inaction.
+5e2dff3a-9010-4c7c-958f-ee40d32a57ad,2025-03-21 20:45:22.352443+00:00,openai,gpt-4o-mini,0,3317,216,I prioritize strong adaptation and emission cuts over economic growth and maintaining current policies.
+f351701b-8575-4973-8ab4-976facc5465e,2025-03-21 20:45:29.214359+00:00,openai,gpt-4o-mini,0,3317,216,I prioritize strong adaptation and significant emission cuts over economic growth and inaction.
+026ff402-fa1d-4eba-aa77-9aaa9b31a1a5,2025-03-28 06:51:31.868847+00:00,openai,gpt-4o-mini,0,3317,216,"I prioritize adaptation and resilience, followed by significant emissions cuts and community actions."
+79f13403-075b-4950-b19f-3a26e2cf33d1,2025-03-28 06:51:38.436811+00:00,openai,gpt-4o-mini,0,3317,216,"I prioritize strong emission cuts and resilience, while opposing growth over climate action."
+b838b3fa-e48e-4ecf-8ddb-0108970d8d7e,2025-03-28 06:51:44.295308+00:00,openai,gpt-4o-mini,0,3317,215,"I prioritize adaptation and resilience, while opposing policies that neglect climate action."
+2dc8869e-2f5b-490e-b196-44c666299a45,2025-03-28 06:51:50.957893+00:00,openai,gpt-4o-mini,0,3317,215,"I prioritize strong emission cuts and adaptation, while opposing growth-focused policies."
+a359992b-ab66-4f4d-b5e8-b5a5dd8decb0,2025-03-28 06:51:56.998671+00:00,openai,gpt-4o-mini,0,3317,214,I prioritize adaptation and resilience over drastic cuts or maintaining current policies.
+3fd4e4e8-986a-47ff-907a-c6782937621f,2025-03-28 06:52:02.682190+00:00,openai,gpt-4o-mini,0,3317,214,I prioritize adaptation and resilience over economic growth and minimal emissions cuts.
+5a0cf991-4054-415e-8186-0484f6a8f748,2025-03-28 06:52:10.193285+00:00,openai,gpt-4o-mini,0,3317,216,I prioritized resilience and adaptation while opposing inaction and growth over climate policies.
+5c13e19e-00a1-4ae0-94e5-17e62ac42be0,2025-03-28 06:52:16.019066+00:00,openai,gpt-4o-mini,0,3317,214,I prioritized strong adaptation and emission reduction policies for effective climate action.
+b9412b7b-3fbd-4a2f-9498-58d2a2962aa9,2025-03-28 06:52:22.463751+00:00,openai,gpt-4o-mini,0,3317,216,I prioritize adaptation and significant emissions cuts over economic growth and maintaining current policies.
+a1223eec-8994-4851-9b8f-e2c2a0a3764f,2025-03-28 06:52:29.258606+00:00,openai,gpt-4o-mini,0,3317,217,I prioritize adaptation and resilience over emissions cuts and oppose policies favoring economic growth.
+0d527abc-9eff-4535-abc6-7028492d0db8,2025-03-28 06:52:37.096076+00:00,openai,gpt-4o-mini,0,3317,218,I prioritize strong emission cuts and adaptation policies over maintaining the status quo or growth focus.
+2cc602fa-3a1c-4acc-941b-47f72280ff3b,2025-03-28 06:52:42.758619+00:00,openai,gpt-4o-mini,0,3317,216,"I prioritize adaptation and resilience, followed by significant emission cuts and community actions."

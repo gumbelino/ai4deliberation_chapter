@@ -1,0 +1,9 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+b9f758d5-4851-4f56-b234-7c28662d2bb1,2025-04-17 11:11:24.157793+00:00,google,gemini-2.0-flash-thinking-exp,0,3682,117,"Balance heritage, safety, and functionality, favoring practical solutions."
+88387c84-fa75-4741-8639-682a09580e90,2025-04-17 11:11:43.771869+00:00,google,gemini-2.0-flash-thinking-exp,0,3948,249,Prioritize safety function and long term solution balanced with heritage
+51832795-a101-4014-a25c-3916294e607f,2025-04-17 11:12:48.061738+00:00,google,gemini-2.0-flash-thinking-exp,0,3948,246,Safety environment new bridge retain old heritage pedestrians
+1e8a2230-82da-46c4-83be-3023ea539b1e,2025-04-17 11:13:19.211963+00:00,google,gemini-2.0-flash-thinking-exp,0,3950,253,"Balance safety, heritage, functionality, prioritize new bridge with heritage element."
+01439da8-fea0-468d-8387-16545b900722,2025-04-17 11:13:50.401639+00:00,google,gemini-2.0-flash-thinking-exp,0,3954,253,"Balance function, safety, heritage, environment, indigenous concerns."
+65f9b3d1-9d9b-4054-977f-c45e25770dd9,2025-04-17 11:14:15.967755+00:00,google,gemini-2.0-flash-thinking-exp,0,3952,260,"Safety, function, long term, pedestrian/cycle, environment prioritized. New bridge, reuse old."
+ab9db68e-2e28-4343-8d07-e857d2e0cb54,2025-04-17 11:15:24.532609+00:00,google,gemini-2.0-flash-thinking-exp,0,3954,252,Prioritize safety environment heritage and active transport retain adapt bridge
+ae7a0f27-7a32-4d2a-b187-cd3a8b0e278a,2025-04-17 11:19:45.429332+00:00,google,gemini-2.0-flash-thinking-exp,0,3948,249,"Safety, long-term, new bridge, heritage."

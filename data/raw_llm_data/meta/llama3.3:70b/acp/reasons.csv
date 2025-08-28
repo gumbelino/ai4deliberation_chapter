@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+42021b63-e85d-421e-9cf9-0974cc56b0e8,2025-04-02 10:32:05.001617+00:00,meta,llama3.3:70b,0,4989,272,Supported inclusive and fair government policies
+b3ac1b0e-4b6a-4440-abdb-d9158ca9ebac,2025-04-02 10:32:16.727935+00:00,meta,llama3.3:70b,0,4986,272,Supported inclusive and fair government policies
+897dc868-5daa-47ad-8de8-21f370415e7c,2025-04-02 11:18:51.152338+00:00,meta,llama3.3:70b,0,4991,272,Supported inclusive and fair government policies
+b17d6ca3-f766-4d62-ac0b-9dfaa1948767,2025-04-02 11:19:01.056655+00:00,meta,llama3.3:70b,0,4988,272,Supported inclusive and fair government policies
+b84c6fb7-43ac-4729-ab52-4b9410cd91cc,2025-04-02 11:19:21.983853+00:00,meta,llama3.3:70b,0,4989,272,Prioritizing equality and representation
+844aa36a-3c19-4439-aa4c-aaf0982274e7,2025-04-02 11:19:36.792391+00:00,meta,llama3.3:70b,0,4989,273,Prioritizing equality and minority involvement
+df80f082-045a-49ff-9b67-503ac661ccd2,2025-04-02 11:19:53.059330+00:00,meta,llama3.3:70b,0,4989,272,Supported inclusive and fair government policies
+98f8486f-deae-4be0-9030-d9630a522ab2,2025-04-02 11:20:07.045098+00:00,meta,llama3.3:70b,0,4989,272,Supported inclusive and fair government policies
+00bc39f3-614c-45e7-ac05-382a6bf8385b,2025-04-02 11:20:26.884684+00:00,meta,llama3.3:70b,0,4991,272,Prioritizing equality and representation
+5a3f5d42-fa32-42aa-b30e-b9865fae99ac,2025-04-02 11:20:42.085039+00:00,meta,llama3.3:70b,0,4989,272,Prioritizing equality and representation
+adf8ddb2-d7af-4e51-9818-e79c25ae54bb,2025-04-02 11:20:58.546277+00:00,meta,llama3.3:70b,0,4989,272,Supported inclusive and fair government policies
+e02360dc-8bb3-48d2-9d80-d06eb951ea7b,2025-04-02 11:21:08.231719+00:00,meta,llama3.3:70b,0,4991,272,Supported inclusive and fair government policies
+2c5459c2-0c99-4407-a1d4-99520d00bee0,2025-04-02 11:21:28.234798+00:00,meta,llama3.3:70b,0,4986,272,Prioritizing equality and representation
+c5924208-710c-4a9a-8f91-34cb2ae1c311,2025-04-02 11:21:43.451572+00:00,meta,llama3.3:70b,0,4989,273,Prioritizing equality and minority involvement
+9f99bae2-25e1-408b-be2c-bbc95cc665e6,2025-04-02 11:22:01.593478+00:00,meta,llama3.3:70b,0,4989,272,Prioritizing equality and representation
+6ce12dfd-286c-4017-8f97-814fe24b28bb,2025-04-02 11:22:14.235969+00:00,meta,llama3.3:70b,0,4989,273,Prioritizing equality and minority involvement
+1436c86c-1c92-4399-b78a-23b3099febdd,2025-04-02 11:22:27.333587+00:00,meta,llama3.3:70b,0,4991,272,Supported inclusive and fair government policies
+4eb43392-f15c-49db-a4f5-814f335a438a,2025-04-02 11:22:42.600423+00:00,meta,llama3.3:70b,0,4989,273,Prioritizing equality and minority representation
+2a17fd7f-11c9-49aa-8b56-e6a2cfa439cb,2025-04-02 11:22:55.522084+00:00,meta,llama3.3:70b,0,4989,271,Supported inclusive and moral governance
+aaa52863-f837-4e4b-9624-b3405a891723,2025-04-02 11:23:10.859443+00:00,meta,llama3.3:70b,0,4989,272,Prioritizing equality and representation
+bc68b136-b548-44d4-b93a-66d14360fcbf,2025-04-02 11:23:31.172983+00:00,meta,llama3.3:70b,0,4989,271,Supported inclusive and moral governance
+55ecdcdd-517e-43d5-8518-30bbab01d37c,2025-04-02 11:23:43.886641+00:00,meta,llama3.3:70b,0,4986,273,Prioritizing equality and minority representation
+358c2624-ccc8-44a0-9438-f39e46285c02,2025-04-02 11:24:05.929217+00:00,meta,llama3.3:70b,0,4991,272,Supported inclusive and equal policies.
+98fb4d0f-f11b-47e7-b5ba-6bf568a40809,2025-04-02 11:24:26.192014+00:00,meta,llama3.3:70b,0,4989,272,Supported inclusive and fair government policies
+ba783a0b-643e-411a-b952-b3ccf4e9ec48,2025-04-02 11:24:39.480693+00:00,meta,llama3.3:70b,0,4989,272,Prioritizing equality and representation
+80ca5339-e12d-4a2c-8a72-f52ad2eb95d6,2025-04-02 11:24:50.126030+00:00,meta,llama3.3:70b,0,4989,273,Supported inclusive and market-based policies.
+86c146b3-14e5-44ef-9ed6-98f24559b9b5,2025-04-02 11:25:05.458978+00:00,meta,llama3.3:70b,0,4989,273,Prioritizing equality and minority involvement
+7d12e50e-f76e-4efe-a662-692085afa345,2025-04-02 11:25:18.266866+00:00,meta,llama3.3:70b,0,4986,270,Supported inclusive governance models
+d0323c3b-32ba-4b17-bd34-62cf39b2d637,2025-04-02 11:25:29.534580+00:00,meta,llama3.3:70b,0,4986,272,Prioritizing equality and representation
+9a1fbde2-4484-4b44-ad44-4804e8a6a6c0,2025-04-02 11:25:40.913255+00:00,meta,llama3.3:70b,0,4989,272,Prioritizing equality and representation
+340537d8-cf52-452f-9297-0868f7c4fb72,2025-04-02 11:26:03.889338+00:00,meta,llama3.3:70b,0,4986,272,Supported inclusive and equal government policies
+be980c4b-81e4-44a1-a0c3-2283248b9ffd,2025-04-02 11:26:25.014261+00:00,meta,llama3.3:70b,0,4989,272,Supported inclusive and fair government policies

@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+ace3806d-01d8-4fe7-95d8-0a27dd0688f0,2025-03-20 17:02:00.922871+00:00,mistralai,open-mistral-nemo,0,3847,246,"Prioritize reef protection, reduce coal, invest in green"
+4d9918cc-0b34-484f-bf15-458ecf188f9a,2025-04-02 16:30:05.088236+00:00,mistralai,open-mistral-nemo,0,3847,247,"Prioritize sustainability, protect reef, reduce coal"
+5892bc77-964a-44a1-9330-f365f9a6a4ab,2025-04-02 16:30:08.848480+00:00,mistralai,open-mistral-nemo,0,3853,244,"Prioritize innovation, protect reef"
+1f0b9b5a-96b4-46cc-b8dd-4a53554536e1,2025-04-02 16:30:12.710774+00:00,mistralai,open-mistral-nemo,0,3849,250,"Prioritize climate action, ban new coal, support green industries"
+991b1ba4-95ff-4dd7-bbab-7dc8e39ccc29,2025-04-02 16:30:16.689556+00:00,mistralai,open-mistral-nemo,0,3853,251,"Prioritize reef protection, phase out coal, invest in green industries"
+c9b55bca-9c47-4870-80fa-8a568b36af39,2025-04-02 16:30:20.545018+00:00,mistralai,open-mistral-nemo,0,3849,243,Prioritize innovation and protection
+67951033-5b27-4c80-9b91-a40cef517db5,2025-04-02 16:30:24.177122+00:00,mistralai,open-mistral-nemo,0,3847,248,"Prioritize reef protection, innovate, strengthen regulations"
+fbd2b969-754c-4a67-a562-9d991aaa1f6e,2025-04-02 16:30:27.748131+00:00,mistralai,open-mistral-nemo,0,3849,252,"Prioritize reef protection, support innovation, oppose deregulation and new coal"
+36b3e6a1-d7cf-4ea1-bf72-3d7a20fdfa4d,2025-04-02 16:30:31.330586+00:00,mistralai,open-mistral-nemo,0,3853,250,"Prioritize innovation, protect reef, oppose coal, maintain balance"
+60911d43-d46c-4ffd-8bb0-1b53aeab3380,2025-04-02 16:30:35.567021+00:00,mistralai,open-mistral-nemo,0,3843,243,Prioritize innovation and protection
+3d97b2b0-82c3-423d-b13f-d5c59df14ff8,2025-04-02 16:30:39.291757+00:00,mistralai,open-mistral-nemo,0,3847,244,"Prioritize innovation, strengthen protection"
+4a8f15a8-5d84-40ab-a000-05dfdd96476f,2025-04-02 16:30:42.828334+00:00,mistralai,open-mistral-nemo,0,3853,248,"Prioritize reef protection, innovate, limit coal"
+0c7a5090-8178-42fa-85d3-fcdda2cc1c4c,2025-04-02 16:30:46.577909+00:00,mistralai,open-mistral-nemo,0,3847,251,"Prioritize reef protection, phase out coal, invest in green industries"
+79a5f063-aae4-4aae-970e-7bf149f4ee49,2025-04-02 16:30:50.147856+00:00,mistralai,open-mistral-nemo,0,3853,249,"Prioritize reef protection, support innovation, phase out coal"
+adb72f68-3330-40b4-bb5a-b02825b6b36c,2025-04-02 16:30:54.063026+00:00,mistralai,open-mistral-nemo,0,3847,251,"Prioritize reef protection, phase out coal, invest in green industries"
+c8ac5a99-7f4a-4a9d-977c-1a84ac24cb70,2025-04-02 16:30:58.023886+00:00,mistralai,open-mistral-nemo,0,3853,244,Prioritize innovation and environmental protection
+a99625c0-afdf-448c-b181-a47969bf14fa,2025-04-02 16:31:01.656616+00:00,mistralai,open-mistral-nemo,0,3849,245,"Prioritize reef protection, support innovation"
+af265921-3f64-4f19-adfa-c13cbaeb9626,2025-04-02 16:31:08.252284+00:00,mistralai,open-mistral-nemo,0,3853,249,"Prioritize innovation, maintain regs, ban new coal"
+929ec75c-8e2e-4285-8c3c-2552c7f14b09,2025-04-02 16:31:13.592712+00:00,mistralai,open-mistral-nemo,0,3853,249,"Prioritize reef protection, support innovation, maintain current regulations"
+d8c6a506-c8e0-40c6-aa71-7ca2394983db,2025-04-02 16:31:17.172051+00:00,mistralai,open-mistral-nemo,0,3853,243,Prioritize innovation and protection
+a6251bed-fdc3-47d7-9aee-0cd241a3f046,2025-04-02 16:31:20.665687+00:00,mistralai,open-mistral-nemo,0,3849,248,"Prioritize reef protection, reduce coal, maintain balance"
+de9a5bed-c61d-428f-8485-7a89d94058ae,2025-04-02 16:31:24.804708+00:00,mistralai,open-mistral-nemo,0,3853,249,"Prioritize reef protection, innovate, maintain current mix"
+727add77-6ba6-44bd-a0fd-32528124fab7,2025-04-02 16:31:28.700637+00:00,mistralai,open-mistral-nemo,0,3853,247,"Prioritize reef protection, invest in green industries"
+7a5d0b38-3489-40dd-a893-3115ae7f486b,2025-04-02 16:31:32.512710+00:00,mistralai,open-mistral-nemo,0,3849,247,"Prioritize innovation, protect reef, maintain balance"
+b57c65c2-013b-4f75-bebf-becba76eea4f,2025-04-02 16:31:36.242027+00:00,mistralai,open-mistral-nemo,0,3843,249,"Prioritize reef protection, innovate, maintain regs"
+872b5460-acf3-49a9-96c9-1b012b07ded9,2025-04-02 16:31:40.086742+00:00,mistralai,open-mistral-nemo,0,3843,248,"Strengthen env. regs, innovate, maintain"
+838f8758-d238-477b-b952-17f57f6bdb49,2025-04-02 16:31:53.123468+00:00,mistralai,open-mistral-nemo,0,3853,247,"Prioritize innovation, protect reef, maintain balance"
+8eca8438-e132-4f03-92ca-21318e20f924,2025-04-02 16:31:57.028690+00:00,mistralai,open-mistral-nemo,0,3849,249,"Prioritize reef protection, support innovation, reduce harmful industries"
+e4655b5d-07b6-42cb-a17d-74e7e02952a3,2025-04-02 16:47:00.726040+00:00,mistralai,open-mistral-nemo,0,3843,251,"Prioritize reef protection, phase out coal, invest in green industries"
+fc49de13-d8ac-444d-abfb-916949848031,2025-04-02 16:47:31.531445+00:00,mistralai,open-mistral-nemo,0,3843,249,"Prioritize reef protection, support innovation, oppose regulation cuts"

@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Wind,P2. Biomass,P3. Coal with CO2 Burial,P4. Hydroelectric,P5. Natural Gas,P6. Geothermal Energy,P7. Solar Energy,P8. Nuclear Energy,P9. Coal
+2cf222a2-9411-4c4c-a3ff-39a36fe37bde,2025-05-29 15:40:47.943841+00:00,anthropic,claude-sonnet-4-20250514,0,4974,295,4,8,6,2,7,3,1,5,9
+de1549f9-d841-4d0e-ae87-f1e7e6a89b5e,2025-05-29 15:41:00.560061+00:00,anthropic,claude-sonnet-4-20250514,0,4974,295,1,7,4,5,6,3,8,2,9
+8c535787-8400-4e50-8310-99dbef9568cc,2025-05-29 15:41:12.430262+00:00,anthropic,claude-sonnet-4-20250514,0,4974,297,2,5,7,3,6,4,1,8,9
+e4439bc9-45b0-4b1d-aec4-99a0a43c17e9,2025-05-30 11:35:53.993457+00:00,anthropic,claude-sonnet-4-20250514,0,4974,297,5,7,8,3,6,2,1,4,9
+a02c0a08-4eab-4418-9fa2-ffd018caa69a,2025-05-30 11:36:07.945753+00:00,anthropic,claude-sonnet-4-20250514,0,4974,298,2,5,4,1,7,6,8,3,9

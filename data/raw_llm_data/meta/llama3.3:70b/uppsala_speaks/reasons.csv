@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+aac0c65e-d6f5-4763-aaaf-357fe9f345fd,2025-04-02 10:31:08.099689+00:00,meta,llama3.3:70b,0,3622,252,Prioritizing source country solutions
+eb434a30-aabf-40a2-b3f2-d1849e53ca5b,2025-04-02 10:31:18.750424+00:00,meta,llama3.3:70b,0,3622,256,Prioritizing source country solutions and law enforcement.
+96b2af05-7447-4818-9af6-793cf6d76c37,2025-04-02 11:03:41.868610+00:00,meta,llama3.3:70b,0,3622,256,Prioritizing source country solutions and law enforcement.
+194d9c43-ff5b-4216-b793-31de24f9eb89,2025-04-02 11:03:54.623797+00:00,meta,llama3.3:70b,0,3622,252,Balancing help and law enforcement
+687d2eb7-9e00-43bd-811d-d82f0cc197a6,2025-04-02 11:04:09.183547+00:00,meta,llama3.3:70b,0,3622,252,Prioritizing aid over punishment
+0d7462f8-f04b-4ca1-879e-9d38b46d5347,2025-04-02 11:04:24.409687+00:00,meta,llama3.3:70b,0,3621,255,Prioritizing source country solutions and humane treatment
+bbebd94b-0db7-4aac-b828-559e6004fc2e,2025-04-02 11:04:41.519404+00:00,meta,llama3.3:70b,0,3622,252,Prioritizing source country solutions
+37d66a08-5553-4ebc-969f-c2c42f9ad3df,2025-04-02 11:04:57.642296+00:00,meta,llama3.3:70b,0,3624,252,Prioritizing help over punishment
+55ddc989-1059-47ac-9aa8-fb3e7b707a02,2025-04-02 11:05:14.098021+00:00,meta,llama3.3:70b,0,3622,252,Prioritizing source country solutions
+ab3a4dc4-40a1-4e13-b61b-96a239ef5bef,2025-04-02 11:05:30.176554+00:00,meta,llama3.3:70b,0,3622,254,Prioritizing humanitarian and source country solutions
+1e6ab532-a81d-44e7-b99d-17345a326032,2025-04-02 11:05:38.832801+00:00,meta,llama3.3:70b,0,3622,255,Prioritizing source country solutions and enforcement.
+0bdcb17c-c84c-4d42-a0e6-218e0c964d7a,2025-04-02 11:05:50.264041+00:00,meta,llama3.3:70b,0,3622,255,Prioritizing humanitarian aid and source country solutions
+8a0efb1d-c879-4fb2-8913-ae85a285d924,2025-04-02 11:06:00.892190+00:00,meta,llama3.3:70b,0,3622,255,Prioritizing source country solutions and enforcement.
+92e4ea49-12a4-4e33-a74a-1be19bef1a6f,2025-04-02 11:06:14.685285+00:00,meta,llama3.3:70b,0,3622,255,Prioritizing source country solutions and enforcement.
+25971c73-cfcd-497e-a763-09b5714bad78,2025-04-02 11:06:31.833521+00:00,meta,llama3.3:70b,0,3619,252,Prioritizing source country solutions
+7163a991-fb57-42bf-b6be-97b5646cf013,2025-04-02 11:06:48.143242+00:00,meta,llama3.3:70b,0,3622,254,Prioritizing humanitarian and source country solutions
+c05416ca-45c4-48a9-b487-0dfb91c490f6,2025-04-02 11:07:05.975201+00:00,meta,llama3.3:70b,0,3622,254,Prioritizing humanitarian aid over strict laws
+3ddcd3b1-bf28-4c66-9226-76753e239b43,2025-04-02 11:07:25.255894+00:00,meta,llama3.3:70b,0,3624,255,Prioritizing source country solutions and humane treatment
+c1244b29-f608-4090-8f6e-498d730b18c4,2025-04-02 11:07:45.126455+00:00,meta,llama3.3:70b,0,3624,256,Prioritizing source country solutions and law enforcement.
+f9778e8b-0a2e-4a55-b858-77684c2c03f6,2025-04-02 11:07:56.770253+00:00,meta,llama3.3:70b,0,3622,252,Prioritizing source country solutions
+7d03af3d-87ef-4070-83c7-eb2a372c6a39,2025-04-02 11:08:14.339305+00:00,meta,llama3.3:70b,0,3619,252,Prioritizing source country solutions
+3c81273f-d6c9-4f57-b245-d9089918639e,2025-04-02 11:08:26.683803+00:00,meta,llama3.3:70b,0,3619,255,Prioritizing enforcement and addressing root causes.
+51d554a2-391d-416f-964b-715c1e4fbd9d,2025-04-02 11:08:43.562649+00:00,meta,llama3.3:70b,0,3622,256,Prioritizing humanitarian aid and addressing root causes.
+e00ba843-35f3-4e11-853d-4d43ffda6ca6,2025-04-02 11:08:59.561607+00:00,meta,llama3.3:70b,0,3619,255,Prioritizing source country solutions and law enforcement
+9a8c3bff-7940-4328-81d6-a44f2d1d7163,2025-04-02 11:09:10.132288+00:00,meta,llama3.3:70b,0,3622,255,Prioritizing source country solutions and humane treatment
+bf432d1e-247e-4490-b41c-b794003443b0,2025-04-02 11:09:20.107323+00:00,meta,llama3.3:70b,0,3619,256,Prioritizing source country solutions and law enforcement.
+3d09899d-339e-4fef-9c75-f3bddd55d0d3,2025-04-02 11:09:32.937608+00:00,meta,llama3.3:70b,0,3624,256,Prioritizing source country solutions and enforcing laws.
+f8248b50-baff-48b3-be74-ee9e19a05138,2025-04-02 11:09:49.232337+00:00,meta,llama3.3:70b,0,3622,255,Prioritizing source country solutions and enforcement.
+e0a71157-577f-4fdd-924d-546228a2e3b9,2025-04-02 11:09:59.262905+00:00,meta,llama3.3:70b,0,3619,255,Prioritizing enforcement and addressing root causes.
+18fd53ee-58b7-474e-a769-d25462020a3c,2025-04-02 11:10:14.415717+00:00,meta,llama3.3:70b,0,3622,256,Prioritizing humanitarian aid and addressing root causes.
+0ece58a0-74e1-4de3-a63d-3b9feb4da534,2025-04-02 11:10:23.250661+00:00,meta,llama3.3:70b,0,3619,253,Prioritizing aid and enforcement balance
+394fa71d-ec1e-4466-8bb6-756866cb933a,2025-04-02 11:10:43.834235+00:00,meta,llama3.3:70b,0,3619,256,Prioritizing source country solutions and enforcing laws.

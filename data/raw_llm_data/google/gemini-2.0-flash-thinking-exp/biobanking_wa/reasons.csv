@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+3fa43fa6-6b2f-40e7-82a3-bab0876d12c8,2025-04-17 11:23:07.821563+00:00,google,gemini-2.0-flash-thinking-exp,0,4834,153,"Publicly funded, regulated biobanks with strong ethics and privacy."
+43908969-d796-4714-b319-5557ee1bbba3,2025-04-17 11:23:47.341466+00:00,google,gemini-2.0-flash-thinking-exp,0,4817,137,"Prioritize public, regulated, private, cautious, minimal input, minimal regulation."
+80c6da94-1348-4c38-8fe1-7f9bd45ba8d2,2025-04-17 11:24:04.756502+00:00,google,gemini-2.0-flash-thinking-exp,0,4815,133,"Publicly funded, strongly regulated, privacy-focused biobanks."
+09783b8a-cbf0-4347-9ba8-ea0e8e033a18,2025-04-17 11:24:19.541424+00:00,google,gemini-2.0-flash-thinking-exp,0,4830,152,"Prioritize public good, strong oversight, and privacy in biobanking."
+1a68e5ee-81d0-4df4-9c28-2c22433a6a0a,2025-04-17 11:24:37.368593+00:00,google,gemini-2.0-flash-thinking-exp,0,4836,153,Prioritize privacy public oversight cautious biobank approach limit commercialization
+90ef8bc0-2994-44e6-a5a0-f1f7a89a4134,2025-04-17 11:24:55.572776+00:00,google,gemini-2.0-flash-thinking-exp,0,5202,340,"Prioritize public good, strong ethics, privacy, and regulation for biobanks."
+7d05607d-6f05-493e-aa7d-ada4a19764fc,2025-04-17 11:25:15.485361+00:00,google,gemini-2.0-flash-thinking-exp,0,5208,340,"Publicly funded, strong regulation, ethics, privacy are paramount."
+30d66c5f-af81-4529-9ed6-0c5474b41daa,2025-04-17 11:25:32.184450+00:00,google,gemini-2.0-flash-thinking-exp,0,5208,342,"Prioritize ethics, public benefit, regulation, and privacy in biobanking."
+b0a5dfb3-ed47-43ba-b3cc-c53ae9a66b6a,2025-04-17 11:25:49.815548+00:00,google,gemini-2.0-flash-thinking-exp,0,4836,157,"Publicly funded, strong regulation, and privacy are key for ethical biobanking."

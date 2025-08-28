@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+9fa74480-15ce-48f0-ada7-803080971d2a,2025-03-20 11:04:18.696715+00:00,google,gemini-2.0-flash,0,4346,253,"Amalgamation is risky, but the union is failing. Postponing is better than the current proposal."
+bda5444d-d93e-4509-803c-4eefa782c906,2025-03-20 11:04:23.316533+00:00,google,gemini-2.0-flash,0,4340,247,"Amalgamation is risky, union is weak, status quo unsustainable, so postpone and rethink."
+d78a2527-e723-44ce-997f-ffa6028391ba,2025-03-20 11:04:28.032208+00:00,google,gemini-2.0-flash,0,4348,252,Amalgamation is risky; more power to unione is better than current state or full amalgamation.
+dc0ec78c-eb5b-40c8-ab24-064450138862,2025-03-20 11:04:32.600816+00:00,google,gemini-2.0-flash,0,4340,248,"Amalgamation has potential but needs more planning. Union is not effective, status quo is unacceptable."
+e2f319a7-7f4e-4355-a9cd-36ce6d8bb4c5,2025-03-20 11:04:36.930449+00:00,google,gemini-2.0-flash,0,4340,245,"Amalgamation is best, but needs more gradual, considered implementation than currently proposed."
+2096d56f-c0c7-4ab0-bfa6-bbf10725b448,2025-03-20 11:04:41.594701+00:00,google,gemini-2.0-flash,0,4350,252,"Amalgamation is risky; union power increase is best, status quo better than forced fusion."
+0392f021-57ea-43ff-835d-ff8e1f9b8e35,2025-03-20 11:04:46.178318+00:00,google,gemini-2.0-flash,0,4340,245,Amalgamation has potential but needs more planning; union is better than current state.
+82bcc047-5286-42f2-9c82-ee4e2762c241,2025-03-20 11:04:50.854860+00:00,google,gemini-2.0-flash,0,4348,249,Amalgamation is risky; union is better than status quo; postpone if possible.
+97330649-b683-4269-a643-a7709e3846f6,2025-03-20 11:04:55.242928+00:00,google,gemini-2.0-flash,0,4348,250,Amalgamation is risky; union power increase is better than current state or postponing.
+d606d301-4ca2-4ce6-96a9-e6ff962d5489,2025-03-20 11:04:59.362548+00:00,google,gemini-2.0-flash,0,4344,248,"Amalgamation is risky, needs more clarity; union is weak, status quo unacceptable."
+89ca2aa1-3a44-4824-bfe0-4a8301802b3b,2025-03-25 13:57:23.693233+00:00,google,gemini-2.0-flash,0,4346,253,"Amalgamation is risky, but the union is failing. Postponing is better than the current proposal."
+f2a9154b-07b5-45fa-8010-83c5bde9bce8,2025-03-25 13:57:27.465611+00:00,google,gemini-2.0-flash,0,4340,248,"Amalgamation is risky; union power increase is better than current state, but postponement is best."
+e6b6aa12-9226-4588-8612-bc39f2a5a7bd,2025-03-25 13:57:31.085384+00:00,google,gemini-2.0-flash,0,4348,252,Amalgamation is risky; more power to unione is better than current state or full amalgamation.
+3285d6a8-655b-4eac-89ee-1374f38d5f29,2025-03-25 13:57:34.884539+00:00,google,gemini-2.0-flash,0,4340,248,"Amalgamation has potential but needs more planning. Union is not effective, status quo is unacceptable."
+e4bb672c-7663-44db-8529-f992d67ec3c9,2025-03-25 13:57:38.063488+00:00,google,gemini-2.0-flash,0,4340,245,Amalgamation is good but needs more planning; unione is better than nothing.
+95be803c-edad-4a15-b994-41e817053b3b,2025-03-25 13:57:41.598515+00:00,google,gemini-2.0-flash,0,4350,253,"Amalgamation is risky; union power increase is best, leaving things as they are is worst."
+22b87e8f-1a6d-4526-9f89-1cc635c1b629,2025-03-25 13:57:45.354716+00:00,google,gemini-2.0-flash,0,4340,245,Amalgamation has potential but needs more planning; union is better than current state.
+3301cd03-6217-4c07-8127-66d3878bd178,2025-03-25 13:57:48.962994+00:00,google,gemini-2.0-flash,0,4348,253,"Amalgamation is risky; union is better than status quo, but postponement is preferable to immediate fusion."
+00cbfe75-6bb3-4df8-a23e-78e6a514e4e5,2025-03-25 13:57:52.159831+00:00,google,gemini-2.0-flash,0,4348,249,Amalgamation is risky; union power increase is better than current state or postponement.
+05184234-2508-47d2-8361-23d5eecf4725,2025-03-25 13:57:55.505840+00:00,google,gemini-2.0-flash,0,4344,253,Amalgamation needs more planning; Union is weak; Status quo is unacceptable; Postponement allows better planning.
+1cf7717f-f1d6-41d6-8251-131fcc9dfbf5,2025-03-27 09:34:11.084089+00:00,google,gemini-2.0-flash,0,4346,253,"Amalgamation is risky, but the union is failing. Postponing is better than the current proposal."
+6372a273-dbe0-4e18-a82f-cb4960852609,2025-03-27 09:34:14.776282+00:00,google,gemini-2.0-flash,0,4340,248,"Amalgamation is risky; union power increase is better than current state, but postponement is best."
+f90d2e76-ce50-47d7-8b77-3f13d9a10a16,2025-03-27 09:34:18.341378+00:00,google,gemini-2.0-flash,0,4346,253,Amalgamation is needed but the current plan is flawed; a stronger unione is a better intermediate step.
+adcc45d7-86ab-4d07-b06c-5ad7a3c97702,2025-03-27 09:34:21.765057+00:00,google,gemini-2.0-flash,0,4340,248,"Amalgamation has potential but needs more planning. Union is not effective, status quo is unacceptable."
+cde25796-f961-4473-9885-4a340c588007,2025-03-27 09:34:25.094406+00:00,google,gemini-2.0-flash,0,4344,252,"Amalgamation is best, unione better than nothing, status quo worst, postpone better than status quo."
+7015c959-8432-4016-bd2b-07d9da3def5e,2025-03-27 09:34:28.679330+00:00,google,gemini-2.0-flash,0,4340,243,Amalgamation has potential but needs more planning; status quo is unacceptable.
+07a7093f-3b1f-42be-953f-7f95fbf009cf,2025-03-27 09:34:32.364235+00:00,google,gemini-2.0-flash,0,4340,245,Amalgamation has potential but needs more planning; union is better than current state.
+e787f5b4-77b1-4296-a5cb-a1b5771d34d8,2025-03-27 09:34:35.944506+00:00,google,gemini-2.0-flash,0,4348,249,Amalgamation is risky; union is better than status quo; postpone if possible.
+eff739d8-1668-4b7f-84b9-a76f7e5db924,2025-03-27 09:34:39.104405+00:00,google,gemini-2.0-flash,0,4348,258,"Amalgamation is needed, but the current proposal is flawed; Unione is not the answer, and status quo is unsustainable."
+3a7462f1-6213-44a5-bd1b-ec52b0a7e570,2025-03-27 09:34:42.201262+00:00,google,gemini-2.0-flash,0,4346,248,"Amalgamation is needed, but the current proposal needs more thought and citizen involvement."

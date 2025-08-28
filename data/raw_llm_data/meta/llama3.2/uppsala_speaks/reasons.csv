@@ -1,0 +1,43 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+b2a9ee67-dd10-4f22-afba-f7ce3508b357,2025-03-20 17:35:46.333914+00:00,meta,llama3.2,0,0,0,"Strictest approach first, with most leniency towards deporting those staying longest."
+a01b3e22-eb6a-460a-bbda-f4eb90cf41eb,2025-03-20 17:35:57.823406+00:00,meta,llama3.2,0,0,0,Ban illegal settlements and deport overstay immigrants first to address root cause.
+ae00b0bb-c17c-4ef9-989e-a8d08d003cc0,2025-03-20 17:36:07.242807+00:00,meta,llama3.2,0,0,0,"Ban illegal settlements and deporting immigrants who stay longer than three months are least supported, while focusing resources on source countries is most supported."
+064398cf-2d6d-48b3-8203-d1b0553a59a5,2025-03-20 17:36:17.123164+00:00,meta,llama3.2,0,0,0,Strictness increases with policy options that prioritize enforcement and accommodation.
+893e4760-c7f8-418f-8035-3f85dfa2cbfd,2025-03-20 17:36:33.920028+00:00,meta,llama3.2,0,0,0,Strict law enforcement and deportation of long-term beggars.
+bd19c9d0-722b-4afe-91a2-01df8936130f,2025-03-20 17:36:43.157264+00:00,meta,llama3.2,0,0,0,Support policies that focus on source countries and existing laws.
+d0535f68-e6c3-4a68-8e40-a3798b6ae3c4,2025-03-20 17:36:52.541108+00:00,meta,llama3.2,0,0,0,Strongly support source country focus over punitive measures.
+08b08265-4673-41fc-b3b0-1353749b4f16,2025-03-20 17:37:01.935463+00:00,meta,llama3.2,0,0,0,Prioritize source country assistance and deportation over accommodation for beggars.
+1bf38c2b-a719-4a01-b714-28d142728e4d,2025-03-20 17:42:46.376003+00:00,meta,llama3.2,0,0,0,Prioritize source country solutions over restrictive measures inside Sweden.
+03b3548e-c2c3-4ec3-aacd-8726693f0e72,2025-03-20 17:43:03.108947+00:00,meta,llama3.2,0,0,0,"Ban illegal settlements most effective, with deportation and focus on source countries next."
+e52f2174-9c0a-432f-a4cd-aa67d79d5586,2025-03-20 17:43:20.245307+00:00,meta,llama3.2,0,0,0,Prioritize source country solutions over deportation of already present beggars.
+57d30385-faed-4503-bcbf-743b27f5abfb,2025-03-20 17:43:37.865384+00:00,meta,llama3.2,0,0,0,Prioritize source country solutions over harsher domestic measures.
+ef7d0f0e-b164-4b78-b999-96885f61034b,2025-03-20 17:44:09.341928+00:00,meta,llama3.2,0,0,0,I rated the policies that enforce existing laws and address root causes first.
+27d6e9a9-fb5a-4be9-ae6a-2089bbea45b2,2025-03-20 17:44:25.894717+00:00,meta,llama3.2,0,0,0,Stricter enforcement and source country focus over bans and accommodation.
+c6e04cf7-2bdc-46c6-8798-8ec31531888d,2025-03-20 17:44:41.362743+00:00,meta,llama3.2,0,0,0,"Strongest support for source country focus, weakest for deporting long-staying immigrants."
+4d025088-480c-4b15-985f-ebaac937c2c4,2025-03-20 17:44:56.760903+00:00,meta,llama3.2,0,0,0,Banning deportations and focusing on source countries are highest priorities.
+9023a1ec-01b9-488d-a902-57532a90d62a,2025-03-27 14:34:35.836860+00:00,meta,llama3.2,0,0,0,Prioritize addressing root causes in source countries over strict enforcement.
+1d876196-5264-4a39-99f4-0418bfe5bd28,2025-03-27 14:34:46.411298+00:00,meta,llama3.2,0,0,0,Banning beggars and deporting immigrants found begging prioritize public safety over helping vulnerable individuals.
+a7fe7869-c721-4f00-b768-19db5530aba9,2025-03-27 14:34:54.921838+00:00,meta,llama3.2,0,0,0,Ban illegal settlements and deport beggars who stay longer than three months are priorities.
+16c24100-911d-4e8b-b55e-1a78207995d5,2025-03-27 14:35:03.327346+00:00,meta,llama3.2,0,0,0,"Strongest support for source country focus, banning begging, and stricter enforcement."
+f3d1ea8c-664a-4b68-b712-6259700da976,2025-03-27 14:35:19.041531+00:00,meta,llama3.2,0,0,0,Ban begging has lowest priority; focus on source country solutions.
+f88ab84c-7f0f-4f77-a09e-1141c205ae62,2025-03-27 14:35:27.297770+00:00,meta,llama3.2,0,0,0,Ban begging and focus on source country issues are most supported policies.
+9d71863f-c20b-404a-92c6-d4f2a642310c,2025-03-27 14:35:35.648162+00:00,meta,llama3.2,0,0,0,I support the least restrictive approach with accommodation and focus on source countries.
+a5bf1696-fa0d-4287-ac63-86c6b9a66c36,2025-03-27 14:35:44.134368+00:00,meta,llama3.2,0,0,0,Banning deportations and focusing on source countries seem most reasonable.
+58dba6af-318a-4e4c-b723-6017eacc9652,2025-03-27 15:07:10.229483+00:00,meta,llama3.2,0,0,0,Banning everything from least to most restrictive with increasing reluctance to help.
+9da3f57a-af1d-409b-9fc1-148b65f24dfd,2025-03-27 15:07:19.825315+00:00,meta,llama3.2,0,0,0,Banning settlement and focusing on source country issues are preferred over punitive measures.
+01d6fc38-786a-47c2-9c44-08f2ad276a16,2025-03-27 15:07:28.388726+00:00,meta,llama3.2,0,0,0,Supporting policies that address root causes and deporting those overstaying their welcome are top priorities.
+8a87e2fa-9c17-47aa-a877-3918d6f6bd20,2025-03-27 15:07:36.926065+00:00,meta,llama3.2,0,0,0,Ratings reflect balancing immigration control with addressing root causes and supporting vulnerable populations.
+05208bef-ac91-4a72-9939-1b818d5f711b,2025-03-27 15:07:52.856021+00:00,meta,llama3.2,0,0,0,Deporting beggars is least supported while banning begging within Sweden is most supported.
+07114416-8bdb-42e6-8c96-af6c3df20c08,2025-03-27 15:08:01.226635+00:00,meta,llama3.2,0,0,0,"Ban illegal settlements and deport those who stay longer, focus on source countries."
+5cff63fd-9ecf-4318-994e-b5d3e5c65a59,2025-03-27 15:08:09.679548+00:00,meta,llama3.2,0,0,0,Focusing on source countries and providing aid is most effective.
+533c57da-24ec-4fb2-84b5-c4fe402cf797,2025-03-27 15:08:18.040740+00:00,meta,llama3.2,0,0,0,"I ranked policies that address source countries first, then Sweden's role and last deportations."
+f9cbf952-ccbf-4101-ba49-419b8b10c86e,2025-03-27 15:08:33.854669+00:00,meta,llama3.2,0,0,0,Banning illegal settlements and deporting beggars for over 3 months are top priorities while focusing on source country solutions.
+78cc5753-7e9d-44e7-b625-93e5e5a239f6,2025-03-27 15:08:42.356605+00:00,meta,llama3.2,0,0,0,Banning beggars and deporting immigrants who overstay are seen as too harsh while focusing on source countries is preferred.
+4bca668e-d9ce-47a7-ac4b-97de37dbda6a,2025-03-27 15:08:50.931621+00:00,meta,llama3.2,0,0,0,Providing accommodation for beggars is the most effective solution.
+a8fee806-3b1a-40d4-b277-e0d83351839b,2025-03-27 15:08:59.252674+00:00,meta,llama3.2,0,0,0,Prioritizing source country solutions and enforcing laws without exceptions.
+c49f707f-1062-4525-b54e-abb3fb23b395,2025-03-27 15:09:07.598510+00:00,meta,llama3.2,0,0,0,Prioritizing source country solutions and respecting existing laws.
+27f2816a-734a-4f7b-8f66-bddcad655ff6,2025-03-27 15:09:16.141486+00:00,meta,llama3.2,0,0,0,"Supports policy 2 (enforcement) most, followed by policy 4 (ban illegal settlements), then focuses on source countries next."
+92778ccf-bfdb-43e6-b7b3-dd6f0c731fe2,2025-03-27 15:09:24.914244+00:00,meta,llama3.2,0,0,0,I prioritize source country focus over deportation and strict regulations.
+ee5f5f65-4b3b-442d-87a5-b6939eff93f8,2025-03-27 15:09:33.209489+00:00,meta,llama3.2,0,0,0,Ban begging is the least effective while focusing on source countries is most beneficial.
+9b7f6489-e5a7-4486-87fa-83e9ff8e52e6,2025-03-27 15:09:41.592428+00:00,meta,llama3.2,0,0,0,Prioritizing source country solutions and law enforcement over immediate fixes.
+de4ba593-1bc7-4592-b393-e1aabac2ccf8,2025-03-27 15:09:49.935247+00:00,meta,llama3.2,0,0,0,"Strongest support for source country solutions, strict enforcement, and banning beggaring with some accommodation for vulnerable cases."

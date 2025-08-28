@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+b5c0eed5-17af-4958-be9f-8ba44e0f7cdd,2025-03-26 07:55:57.655625+00:00,openai,gpt-4-turbo,0,4192,267,"Favor policies promoting local sustainable production and strong regulations, least favor status quo."
+dd35408f-2338-4215-855e-cfefffdbe97f,2025-03-26 07:56:06.767150+00:00,openai,gpt-4-turbo,0,4192,266,"Support sustainable practices and adaptation, least favor maintaining status quo or reducing regulations."
+fe9f2223-9f10-4ff1-b3aa-2b518dd986f8,2025-04-01 08:29:14.559390+00:00,openai,gpt-4-turbo,0,4192,267,Moderate sustainable regulations and local incentives are preferred; fewer regulations are least favored.
+fed3de36-9434-4895-a272-9f49f42e9636,2025-04-01 08:29:24.566293+00:00,openai,gpt-4-turbo,0,4192,267,"Support local sustainable production and adaptation, moderate regulation, less emphasis on radical changes."
+34990b28-cff2-47b0-bbbe-b6db881abeaf,2025-04-01 08:29:35.180426+00:00,openai,gpt-4-turbo,0,4192,266,"Support local sustainable practices most, oppose maintaining status quo, moderate regulation preferred."
+05288d47-919c-439b-8d23-94a50bc573e4,2025-04-01 08:29:44.825704+00:00,openai,gpt-4-turbo,0,4192,263,"Support local sustainable production most, oppose maintaining current policies least."
+7488d1c7-da91-419e-8f32-b8235e102d44,2025-04-01 08:29:56.571190+00:00,openai,gpt-4-turbo,0,4192,267,"I prioritize radical sustainable changes and technology for resilience, least favoring status quo."
+5eaa347d-d33d-45a2-814e-abea93f61518,2025-04-01 08:30:07.695664+00:00,openai,gpt-4-turbo,0,4189,265,Moderate sustainable regulations and support for local sustainable production are prioritized.
+11235e65-7fe3-4256-a921-9e2896746715,2025-04-01 08:30:17.901778+00:00,openai,gpt-4-turbo,0,4192,270,Moderate sustainable regulations and local incentives are preferred; radical changes and fewer regulations are least favored.
+cdf21ec1-4b73-4744-ab2e-23b27291bb20,2025-04-01 08:30:34.695070+00:00,openai,gpt-4-turbo,0,4192,267,"Support local sustainable practices and moderate regulations, least favor status quo and fewer regulations."
+277e49ac-916a-4bf3-b727-8afe29e245fe,2025-04-01 08:30:43.641525+00:00,openai,gpt-4-turbo,0,4192,267,"Support local sustainable practices most, moderate regulation next, least support for status quo."
+ebb33afc-893b-40d7-b33e-1acfba3617c6,2025-04-01 08:30:53.990535+00:00,openai,gpt-4-turbo,0,4192,265,I favor strong sustainable policies and least support fewer regulations and status quo.
+76aa42fa-6ee0-44b8-9b37-af0335251fda,2025-04-03 12:11:07.639047+00:00,openai,gpt-4-turbo,0,4192,268,"Prioritized radical and moderate sustainable policies, least favoring status quo and fewer regulations."
+d4623ff5-dc10-4649-b3dd-d3ef49b196c7,2025-04-03 12:11:17.214313+00:00,openai,gpt-4-turbo,0,4192,266,Moderate sustainable regulations and local incentives align best with my views on sustainability.
+ceb407ca-9152-4012-b5ba-e8f70ed62afc,2025-04-03 12:11:33.109175+00:00,openai,gpt-4-turbo,0,4192,267,"Support local sustainable practices and moderate regulations, least favor status quo and radical changes."
+1a87c28c-3aec-4180-8435-1c7812aa24e3,2025-04-03 12:11:43.434789+00:00,openai,gpt-4-turbo,0,4192,266,"Support sustainable practices and resilience, less favor for status quo and deregulation."
+07084f21-fb0d-4ccd-a5c8-47a8e0dd2a09,2025-04-03 12:11:54.122688+00:00,openai,gpt-4-turbo,0,4189,269,"Prioritized climate resilience and moderate sustainable regulations, least favoring status quo and fewer regulations."
+c9cfc3c5-de74-4125-b3de-e2cd9b21449b,2025-04-03 12:12:12.518404+00:00,openai,gpt-4-turbo,0,4189,268,"Support for local sustainable practices and moderate regulations prioritized, less emphasis on radical changes."
+f3208b8f-ab5f-4761-8740-38830b585d81,2025-04-03 12:12:27.877904+00:00,openai,gpt-4-turbo,0,4192,268,"Favor radical sustainable policies and adaptation, least support for status quo and fewer regulations."
+3cb4c2dd-cac3-47be-9388-841fcefbfc2a,2025-04-03 12:12:40.846232+00:00,openai,gpt-4-turbo,0,4192,268,"Prioritized climate resilience and support for local sustainable practices, least favoring status quo."
+91db717b-6a0a-45ea-908e-4d0c5d02f763,2025-04-03 12:12:58.700767+00:00,openai,gpt-4-turbo,0,4192,271,"Prioritized climate resilience and support for local sustainable practices, least favoring status quo and free trade."
+351e210c-d693-4135-813b-3bb951c03811,2025-04-03 12:13:18.663213+00:00,openai,gpt-4-turbo,0,4189,269,"I prioritized sustainable and local food production, less support for status quo and minimal regulations."
+481e7f30-282c-4962-85ed-2b64a310c69a,2025-04-03 12:13:32.622046+00:00,openai,gpt-4-turbo,0,4192,269,"Prioritized sustainable local production and radical regulation, least favoring status quo and fewer regulations."
+b4365544-5e43-49ec-a02e-13f720ae851c,2025-04-03 12:13:49.558893+00:00,openai,gpt-4-turbo,0,4192,267,"Support moderate and local sustainable policies, less support for radical changes and status quo."
+4d96256d-81fb-42d2-8c0a-87e6bfd03339,2025-04-03 12:14:03.983058+00:00,openai,gpt-4-turbo,0,4192,268,"Prioritized climate resilience and sustainable local production, least favor deregulation and status quo."
+57da1e46-6117-4d39-a4d4-5f12b9b9a3f9,2025-04-03 12:14:22.223270+00:00,openai,gpt-4-turbo,0,4189,264,Support for sustainable local production and adaptation to climate risks ranked highest.
+d22c9906-f97f-40f3-88b2-d308e31ddfde,2025-04-03 12:14:36.833151+00:00,openai,gpt-4-turbo,0,4192,269,"Prioritized resilience and support for local, sustainable practices; least favor unchanged or fewer regulations."
+06f9616b-aec7-487e-8b5f-ff0c2abf4653,2025-04-03 12:14:51.001423+00:00,openai,gpt-4-turbo,0,4189,266,"Support local sustainable production most, oppose fewer regulations, moderate change over radical."
+fd7d403c-92aa-4bdd-9b89-46c4f33371c2,2025-04-03 12:15:03.483492+00:00,openai,gpt-4-turbo,0,4192,263,Support most policies promoting radical sustainability and least those reducing regulations.
+aa90fcb3-bcfc-4ed6-825e-0644142c63fb,2025-04-03 12:15:15.427218+00:00,openai,gpt-4-turbo,0,4192,266,"Support local sustainable practices most, least favor reducing regulations, moderate changes preferred."

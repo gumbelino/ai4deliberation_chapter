@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,"P1. The kind of government that we have, with no major changes","P2. Government with guaranteed involvement by all social groups, especially those representing disadvantaged minorities, in policy making","P3. A government with constitutional rules specifying its main task is to ensure that economic markets work well, and that government intervenes as little in society beyond that",P4. Government with strong leaders and legislation that ensures that proper moral principles are observed in society.,"P5. Government that abolishes all policies that give special benefits to minority groups, and instead ensures equal influence for all Australians"
+a7c6bfd6-dc5f-4229-ac38-d54ec8a72d3f,2025-04-08 14:26:13.995726+00:00,openai,gpt-4.5-preview,0,4856,280,3,5,1,2,4
+72b866a9-4823-498a-93e0-cd1796d96d76,2025-04-08 14:26:53.436749+00:00,openai,gpt-4.5-preview,0,4856,282,2,1,3,5,4
+db1c61cf-d4f7-4e8c-80c6-8073573b0f4e,2025-04-08 14:27:36.768976+00:00,openai,gpt-4.5-preview,0,4858,280,4,1,5,2,3
+e5d6b3ce-4919-46b9-9443-a2cc087b0f41,2025-04-08 14:28:20.101652+00:00,openai,gpt-4.5-preview,0,4856,278,2,1,3,5,4
+547a517b-1e52-4ace-97cb-42ab6292906c,2025-04-08 14:28:58.293716+00:00,openai,gpt-4.5-preview,0,4856,278,3,1,2,4,5
+79aa3b99-a269-4d40-abfa-8f6362319926,2025-04-10 07:59:37.489610+00:00,openai,gpt-4.5-preview,0,4856,280,3,5,1,2,4
+006e5e39-2d05-4053-90d6-5091951ecede,2025-04-10 07:59:56.093394+00:00,openai,gpt-4.5-preview,0,4856,280,2,1,3,5,4
+d4f6b4a4-a300-4c87-9417-ab297d25acaf,2025-04-10 08:00:13.742730+00:00,openai,gpt-4.5-preview,0,4858,279,4,2,1,3,5
+96e4e728-e00f-4821-b74c-100db1640aa6,2025-04-10 08:00:33.887437+00:00,openai,gpt-4.5-preview,0,4856,278,2,1,3,5,4
+e9703476-7087-4c31-8ca4-bee9369a1409,2025-04-10 08:00:54.179492+00:00,openai,gpt-4.5-preview,0,4856,278,3,1,2,4,5

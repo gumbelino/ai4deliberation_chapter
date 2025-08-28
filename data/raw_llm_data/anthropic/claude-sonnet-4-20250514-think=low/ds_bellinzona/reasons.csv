@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+32c7a61b-62c8-4ed9-8fce-fd543e81b440,2025-05-29 14:46:15.051118+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5959,2549,Prioritized technology resilience and emissions cuts over economic focus or inaction
+50902a36-b749-4a78-abe9-2766b12e48b3,2025-05-29 14:47:08.259140+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5438,1869,Prioritized adaptation planning and radical emissions cuts over moderate action and status quo
+8ab46dc5-01ab-471b-afe6-d70766d1c9c7,2025-05-29 14:47:54.852500+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6230,2339,I prioritized radical emissions cuts and adaptation over moderate approaches while rejecting inaction and economic-first policies
+b0205674-188d-4ae1-b6c3-c4abfa2fad3b,2025-05-29 14:48:46.143135+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6129,2585,Prioritize radical emissions cuts and emergency preparedness over moderate measures and status quo
+b330d5e4-ea26-427f-9dcd-ba1c1a434344,2025-05-29 14:49:40.908507+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5773,2382,Prioritized technology innovation and aggressive climate action over status quo or economic growth

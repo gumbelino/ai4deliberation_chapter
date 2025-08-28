@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+56c97602-7bb4-49ce-8374-9714c85dd252,2025-04-14 16:52:21.143197+00:00,google,gemini-2.5-pro-preview-03-25,0,4977,7081,Prioritize renewables & conservation; skeptical of fossil fuels & CCS risks.
+0e10ddd5-bbae-4215-858c-c4a3fbf027dd,2025-04-14 16:53:46.500261+00:00,google,gemini-2.5-pro-preview-03-25,0,4981,5350,"Support renewables & conservation, transition from coal, cautious on nuclear/CCS."
+7ff242ec-518f-4f37-93cf-200fdae55992,2025-04-14 16:54:43.323994+00:00,google,gemini-2.5-pro-preview-03-25,0,4975,5165,Renewables & efficiency first; minimize coal; cautious on nuclear/CCS.
+e443284c-0d22-43a7-ba3e-77c2fd073ca6,2025-04-14 16:55:45.721050+00:00,google,gemini-2.5-pro-preview-03-25,0,4975,7045,Renewables & conservation first; factor in emissions; cautious on coal/nuclear.
+16d29a8a-fd8a-474b-8347-5178bbacc77e,2025-04-14 16:57:07.761977+00:00,google,gemini-2.5-pro-preview-03-25,0,4981,6478,"Strong support for renewables/conservation, less for coal/nuclear/CCS due to emissions/risk."
+00349185-e6a0-4df0-95c4-546803ba5bf5,2025-04-14 16:59:56.466521+00:00,google,gemini-2.5-pro-preview-03-25,0,4950,6650,"Focus on renewables, conservation, climate action; minimize fossil fuels and risky tech."
+bbe21d71-47fc-4603-92eb-0154c43f6a80,2025-04-14 17:01:06.674269+00:00,google,gemini-2.5-pro-preview-03-25,0,4981,5465,"Prioritize renewables/conservation, transition from fossil fuels due to climate/cost."
+6c73e92e-3bfc-41a9-a848-5ee3738228b8,2025-04-14 17:02:11.353699+00:00,google,gemini-2.5-pro-preview-03-25,0,4975,7215,Support renewables & diverse tech for climate; cautious on fossil fuels & risks.
+38462e5e-21be-48e0-ae6f-44f854ead5fa,2025-04-14 17:03:34.668766+00:00,google,gemini-2.5-pro-preview-03-25,0,4983,6718,"Favor renewables/conservation, oppose coal, wary of nuclear/CCS."
+d887895d-a228-4aef-be60-d14f8231fd7c,2025-04-15 07:17:02.327382+00:00,google,gemini-2.5-pro-preview-03-25,0,4979,5731,Support renewables & tech mix; against coal; climate action needed.
+796a835c-b9e1-44a5-b2be-8f58df0c9678,2025-04-15 12:15:24.963856+00:00,google,gemini-2.5-pro-preview-03-25,0,4979,4502,"Prioritize conservation, renewables, nuclear; phase out coal; wary of CCS/biomass."
+3461f2f0-6dd6-47f4-90fe-b36f91192937,2025-04-15 12:16:30.092269+00:00,google,gemini-2.5-pro-preview-03-25,0,4977,7299,Support diverse clean energy & conservation; phase out coal.
+229c7101-1e17-43ba-a85f-861a3671b3d9,2025-04-15 12:18:00.085971+00:00,google,gemini-2.5-pro-preview-03-25,0,4981,4673,Support renewables & conservation. Nuclear viable. Reject coal for climate.
+76015512-7719-4416-83dd-6ab995b8c126,2025-04-15 12:19:03.322856+00:00,google,gemini-2.5-pro-preview-03-25,0,4979,4931,"Focus on renewables, conservation, climate; cautious on coal, nuclear, risk."
+ebbf3dca-e9fd-4ae3-a147-2829158afbe5,2025-04-15 12:20:04.547182+00:00,google,gemini-2.5-pro-preview-03-25,0,4977,5742,Strong support for renewables/conservation/climate action; less for coal/risk.
+3bc9e5bc-4bfb-4bc8-a4f1-360b0c6927cc,2025-04-15 12:21:20.829245+00:00,google,gemini-2.5-pro-preview-03-25,0,4979,6822,Support renewables & efficiency; wary of coal emissions & nuclear risks.
+02d8414a-c185-4938-b8dd-b50065cb9fba,2025-04-15 12:22:44.534215+00:00,google,gemini-2.5-pro-preview-03-25,0,4979,6199,"Favor clean energy mix (solar, nuclear, wind) over coal for climate."
+918d8470-d3da-4f86-9579-eff87257b6e1,2025-04-15 12:24:06.173395+00:00,google,gemini-2.5-pro-preview-03-25,0,4981,5593,"Focus on proven renewables & efficiency; avoid coal, nuclear, risky tech."
+1dd01d52-ec96-45db-b895-5cd70eaa6ed2,2025-04-15 12:25:18.855055+00:00,google,gemini-2.5-pro-preview-03-25,0,4977,5654,Renewables & tech investment are key; reduce reliance on fossil fuels.
+be7e746c-3b62-4119-8b18-7b9a1839f094,2025-04-15 12:26:32.678527+00:00,google,gemini-2.5-pro-preview-03-25,0,4977,6123,"Renewables, conservation, nuclear preferred. Fossil fuels, CCS, biomass less so."
+804e9b5f-2354-4158-b058-5e8f927fb315,2025-04-15 12:27:44.879199+00:00,google,gemini-2.5-pro-preview-03-25,0,4979,5782,"Support conservation & renewables, minimize emissions, phase out coal, cautious on nuclear/CCS."
+d719baa8-718f-40a6-a0b1-3ae690bef050,2025-04-15 12:28:52.924432+00:00,google,gemini-2.5-pro-preview-03-25,0,4979,8926,Support gas bridge & solar; hydro/nuclear viable; phase out coal; wind ranked low due to impacts.
+a576e087-cfba-48cb-8c3d-22824f494131,2025-04-15 12:30:39.147274+00:00,google,gemini-2.5-pro-preview-03-25,0,4979,5841,"Strong support for renewables/conservation, less for nuclear/gas, least for coal."
+26f012a4-7e6f-410b-8b15-b2f5edfd9d80,2025-04-15 12:31:47.008041+00:00,google,gemini-2.5-pro-preview-03-25,0,4981,4826,"Prioritise renewables/conservation, phase out coal, cautious on nuclear/CCS."
+5cd41080-5851-4383-9d2a-cb9ccbcdf388,2025-04-15 12:32:45.017892+00:00,google,gemini-2.5-pro-preview-03-25,0,4977,5135,"Renewables, conservation, GHG cuts are key. Cautious on coal, CCS, nuclear risks."
+1ea5f2b9-34ff-4b70-b6a6-68e6f95b132b,2025-04-15 12:33:57.513426+00:00,google,gemini-2.5-pro-preview-03-25,0,4977,5847,"Favor renewables & tech mix, cut coal, cautious on risk & fossil fuels."
+59a1aa92-d7b5-4d5f-9235-01291cc3ee55,2025-04-15 12:35:09.603684+00:00,google,gemini-2.5-pro-preview-03-25,0,4981,5994,"Back renewables, conservation, climate action; cautious on fossil fuels, nuclear, unproven tech."
+9962e69d-89b8-4679-8075-eda78f88f5e4,2025-04-15 12:36:18.766443+00:00,google,gemini-2.5-pro-preview-03-25,0,4977,6550,"Support renewables, conservation, nuclear. Skeptical of coal/CCS. Climate action urgent."
+1bd56a53-a09a-43eb-a3d2-1bc100630795,2025-04-15 12:37:32.068722+00:00,google,gemini-2.5-pro-preview-03-25,0,4981,4484,"Renewables, efficiency, tech mix best. Phase out coal. Wary of nuclear, CCS, gas."
+ed5389fe-27ff-4cf1-82bd-a575434e2537,2025-04-15 12:38:28.337700+00:00,google,gemini-2.5-pro-preview-03-25,0,4975,8223,"Strong support for renewables/tech mix, climate action; against coal."

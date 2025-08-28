@@ -1,0 +1,35 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+2c63dbd6-36a2-4ff4-a740-77903bd45e6d,2025-03-20 17:34:30.990237+00:00,mistralai,ministral-8b-latest,0,3164,211,I prefer moderate regulation and local incentives for sustainable food production.
+d70da90d-6841-44a9-a4bd-85484e06d539,2025-03-20 17:34:41.824722+00:00,mistralai,ministral-8b-latest,0,3164,220,"Moderate regulation and local incentives are most supported, while radical regulation and research investment are least supported."
+1e79b15d-da36-4e3a-880a-7ceb48d199d2,2025-03-20 17:34:48.473795+00:00,mistralai,ministral-8b-latest,0,3164,211,I support moderate regulation and local incentives for sustainable food production.
+116492c9-6d25-486a-b5d3-c8b784f023bc,2025-03-20 17:35:04.117376+00:00,mistralai,ministral-8b-latest,0,3167,209,I support radical regulation and incentives for local producers.
+2e151363-b5ae-4e95-8273-bed1ff1e13f2,2025-03-20 17:35:10.672166+00:00,mistralai,ministral-8b-latest,0,3164,220,"Moderate regulation and local incentives are most supported, while radical regulation and no change are least supported."
+d52907ad-969a-438d-b216-1a44d37b2d08,2025-04-01 14:57:30.013487+00:00,mistralai,ministral-8b-latest,0,3164,211,I support local sustainable producers and moderate regulation.
+61fb8054-3ab4-4cf5-838a-2fdc38bbf495,2025-04-01 14:57:33.675683+00:00,mistralai,ministral-8b-latest,0,3164,214,I prefer moderate regulation and local incentives for sustainable food production.
+4ca58aae-dd28-47f8-b903-978fae15593f,2025-04-01 14:57:37.328668+00:00,mistralai,ministral-8b-latest,0,3164,222,"Moderate regulation and research are most supported, while radical regulation and free trade are least supported."
+6f67d4cf-1e53-4423-9a4c-51fedcd0a034,2025-04-01 14:57:40.913582+00:00,mistralai,ministral-8b-latest,0,3164,214,I support moderate regulation and local incentives for sustainable food production.
+4dd06f0e-ba26-4db0-8e25-0162684c401b,2025-04-01 14:57:44.380170+00:00,mistralai,ministral-8b-latest,0,3164,223,"Moderate regulation and local incentives are most supported, while radical regulation and free trade are least supported."
+c2353051-01d4-488b-8a2d-1f2cfb5bcd25,2025-04-01 14:57:47.708261+00:00,mistralai,ministral-8b-latest,0,3164,214,I support moderate regulation and local incentives for sustainable food production.
+606c99a3-8771-4e46-bff2-bfdaa5e29772,2025-04-01 14:57:51.427081+00:00,mistralai,ministral-8b-latest,0,3164,213,I support moderate regulation and research for sustainable food production.
+d866d8a3-2a5d-4e1c-8a61-1860e533123d,2025-04-01 14:57:54.640714+00:00,mistralai,ministral-8b-latest,0,3164,218,"I support research and local incentives, but oppose radical regulation and leaving policies unchanged."
+decf8fd5-18bc-42cb-b646-e8654e29914e,2025-04-01 14:57:58.093688+00:00,mistralai,ministral-8b-latest,0,3167,221,"I support radical regulation and local incentives, but oppose free trade and leaving policies as they are."
+448b0780-c1ca-4696-8bb8-3b85dea31ca3,2025-04-01 14:58:01.995382+00:00,mistralai,ministral-8b-latest,0,3164,223,"Moderate regulation and local incentives are most supported, while radical regulation and no change are least supported."
+7a136e6a-eb32-4d08-b58a-adf52ac83b50,2025-04-02 16:06:58.263347+00:00,mistralai,ministral-8b-latest,0,3167,214,I support moderate regulation and local incentives for sustainable food production.
+305ffc57-7dc1-491a-9d8a-c841602882b8,2025-04-02 16:07:01.423080+00:00,mistralai,ministral-8b-latest,0,3164,217,"I support research and moderate regulation, but oppose radical regulation and free trade."
+34835f02-00b5-45d6-bcd6-fede33850ac0,2025-04-02 16:07:04.811579+00:00,mistralai,ministral-8b-latest,0,3164,218,"I support moderate regulation and local incentives, but oppose radical regulation and free trade."
+26b81991-8379-43f4-af0c-09e3305aec4d,2025-04-02 16:07:08.290779+00:00,mistralai,ministral-8b-latest,0,3164,223,"Moderate regulation and local incentives are most supported, while radical regulation and free trade are least supported."
+5247c83d-3541-468e-86c0-7e450f580866,2025-04-02 16:07:11.517243+00:00,mistralai,ministral-8b-latest,0,3167,214,I support moderate regulation and local incentives for sustainable food production.
+9ed2bd2b-e344-4551-ba9a-060e9b2847c5,2025-04-02 16:07:14.931774+00:00,mistralai,ministral-8b-latest,0,3164,218,"I support moderate regulation and local incentives, but oppose radical regulation and free trade."
+6c5a6719-7e0c-4bed-84d5-076b6d600ca8,2025-04-02 16:07:18.114133+00:00,mistralai,ministral-8b-latest,0,3164,226,Moderate regulation and local incentives for sustainable food production are most supported. Radical regulation and free trade are least supported.
+f883d21a-c056-43fa-a8e7-57a7cc236dc0,2025-04-02 16:07:21.825649+00:00,mistralai,ministral-8b-latest,0,3167,214,I support moderate regulation and local incentives for sustainable food production.
+6ebf4c9e-103a-4079-b7da-7cdc802cbd60,2025-04-02 16:07:25.000633+00:00,mistralai,ministral-8b-latest,0,3167,213,I support moderate regulation and research for sustainable food production.
+9a2e0939-f4bd-4005-84d7-d7fe21e7d413,2025-04-02 16:07:28.404080+00:00,mistralai,ministral-8b-latest,0,3167,212,I support radical regulation and local incentives for sustainability.
+9f139d84-45ca-418d-9f0f-f7c23424a47c,2025-04-02 16:07:31.571816+00:00,mistralai,ministral-8b-latest,0,3167,213,I support moderate regulation and research for sustainable food production.
+92394ea6-6f73-4e0e-84de-50055be5660f,2025-04-02 16:07:34.964741+00:00,mistralai,ministral-8b-latest,0,3164,215,"I support moderate and radical regulation, research, and local incentives."
+14e14b24-8c41-4bf5-930d-4f135f66483e,2025-04-02 16:07:38.442689+00:00,mistralai,ministral-8b-latest,0,3167,221,"Moderate regulation and research are preferred, while radical regulation and no change are least preferred."
+7bef7e51-ebf7-46a5-952c-235a4a55d979,2025-04-02 16:07:41.938911+00:00,mistralai,ministral-8b-latest,0,3164,213,Moderate regulation and local incentives are most supported.
+0d437f2c-919a-40ab-84aa-9b374d5594fd,2025-04-02 16:07:45.081939+00:00,mistralai,ministral-8b-latest,0,3164,229,"Moderate regulation is preferred, but radical measures are too extreme. Research and local incentives are good, while less regulation is not."
+783de96f-5277-462a-a5af-a6a0d1a4892b,2025-04-02 16:07:48.462344+00:00,mistralai,ministral-8b-latest,0,3167,212,I support radical regulation and local incentives for sustainability.
+7c4a7f29-62b9-49e5-b269-2a397ef5b8be,2025-04-02 16:07:51.790088+00:00,mistralai,ministral-8b-latest,0,3164,212,I prefer moderate regulation and incentives for local producers.
+c8559be1-3ce7-4e5e-bd22-09487eeb866c,2025-04-02 16:07:54.893775+00:00,mistralai,ministral-8b-latest,0,3164,222,"Support local sustainable producers, moderate regulation, invest in research, leave as is, radical regulation least."
+1fa3b8d8-97c9-4c9d-b631-875b2a821373,2025-04-02 16:07:58.154753+00:00,mistralai,ministral-8b-latest,0,3164,223,"Moderate regulation and local incentives are most supported, while radical regulation and no change are least supported."

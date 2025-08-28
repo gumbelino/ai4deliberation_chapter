@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+4add0163-0648-4b64-9887-92eb7b1fdf1a,2025-05-21 12:00:27.597270+00:00,xai,grok-3-mini-fast-beta-r=high,0,13554,208,"Prioritized urgent climate action and adaptation over moderate cuts, inaction, and economic dominance."
+0e77b48a-d217-4602-a826-080658a1f966,2025-05-21 12:01:07.335140+00:00,xai,grok-3-mini-fast-beta-r=high,0,12831,213,"Ranked policies based on strong support for adaptation and action from consideration ratings, prioritizing urgent climate responses over inaction."
+cc853ecf-4aa6-4f1c-b781-567676cbd9b3,2025-05-21 12:01:49.641340+00:00,xai,grok-3-mini-fast-beta-r=high,0,11948,211,"Ranked policies emphasizing adaptation for immediate resilience and mitigation for long-term impact, with inaction least supported."
+922634eb-b73e-4db9-b8d7-fb4ceb6ff696,2025-05-21 12:02:52.991873+00:00,xai,grok-3-mini-fast-beta-r=high,0,12866,210,"Prioritized adaptation policies for resilience, moderately supported emission reductions, least favored inaction and economic dominance."
+02b8ca26-2781-4524-bad9-fe0b894e9a01,2025-05-21 12:03:28.079416+00:00,xai,grok-3-mini-fast-beta-r=high,0,12582,207,"Prioritized adaptation and strong mitigation due to climate urgency, disfavoring inaction."

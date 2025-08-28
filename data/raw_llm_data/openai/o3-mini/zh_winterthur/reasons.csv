@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+27e1f811-8e8b-437c-8771-7691066425f5,2025-04-01 14:15:23.327489+00:00,openai,o3-mini,0,3009,6049,Prioritized incentives for local producers and moderate regulation over extreme or no changes
+7b33023d-7501-4d7b-bf24-8fcf6ac18406,2025-04-01 14:16:19.409608+00:00,openai,o3-mini,0,3009,5152,I prioritized local incentives then research and moderate regulation ahead of free trade
+0318d857-725e-4555-9795-73c5f44a0118,2025-04-01 14:17:07.230024+00:00,openai,o3-mini,0,3012,4897,I favor policies promoting local production moderate rules and research over radical free trade
+29a104ca-8dfc-422e-824e-d67daa5d1ccc,2025-04-01 14:18:04.325487+00:00,openai,o3-mini,0,3009,5472,I prioritized sustainable incentives and moderate regulations over extreme or minimal policies.
+c8f38cdd-7bbd-40ba-8415-ecb9e0a6506b,2025-04-01 14:18:56.602838+00:00,openai,o3-mini,0,3009,5218,I support local subsidies and moderate measures disfavoring free trade and extreme policies

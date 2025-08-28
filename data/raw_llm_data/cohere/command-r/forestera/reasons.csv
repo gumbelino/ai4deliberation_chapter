@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+0dec419c-4080-499a-a964-eedca0777121,2025-03-24 22:09:32.441035+00:00,cohere,command-r,0,5141.0,341.0,"My ratings reflect a holistic approach prioritizing ecological health, community safety and sustainable resource management."
+6f964423-d031-4fe0-a1b5-bb88beb3fff1,2025-03-24 22:09:37.821917+00:00,cohere,command-r,0,5134.0,339.0,"I prioritized ecological balance, community safety and sustainable economic gains over other forest management policies."
+cde8fa80-97d2-4aa7-a19d-d73aa5c796ed,2025-03-24 22:09:43.106619+00:00,cohere,command-r,0,5143.0,341.0,"My ratings favor ecological conservation, community protection, and sustainable management over economic gains."
+02f34d05-754d-47eb-899f-38156625bd09,2025-03-24 22:09:52.742304+00:00,cohere,command-r,0,5142.0,347.0,"My ratings reflect a balanced approach that prioritizes ecological, social, and economic values for sustainable forest management."
+f04b9d13-1f55-4b12-9c81-771e19955b31,2025-03-24 22:09:58.175014+00:00,cohere,command-r,0,5126.0,339.0,"My ratings reflect a holistic approach to management, prioritizing ecosystem health, community safety and participation over economic gain."
+89e126f9-7479-4500-b39e-2e6807b0f4b6,2025-03-24 22:10:03.506750+00:00,cohere,command-r,0,5126.0,339.0,"Restoration, science & community-based management most supported; commercial & presettlement goals least supported."
+6be5e979-2379-4f0a-a314-6d12772caf6f,2025-03-24 22:10:08.944468+00:00,cohere,command-r,0,5135.0,335.0,"I prioritized ecological integrity, then wildfire prevention, and local economic gains."
+5bdce71e-86ff-4940-82ea-f0f5b170f453,2025-03-24 22:10:14.290462+00:00,cohere,command-r,0,5139.0,342.0,"My ratings reflect a holistic approach prioritizing ecological health, community safety and sustainable management over economic gain."
+85db33f3-41c5-4eb3-990d-bad7a7806e24,2025-03-24 22:10:19.607986+00:00,cohere,command-r,0,5128.0,336.0,"Forests should prioritize ecosystem health, fire prevention, and community welfare over economic gain."

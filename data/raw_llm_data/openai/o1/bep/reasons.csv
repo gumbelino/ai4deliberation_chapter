@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+2c79fa8b-745b-4710-a5cb-4cc651469695,2025-04-08 12:21:40.203047+00:00,openai,o1,0,4145,4649,"Prioritized balanced, technology-driven, and local solutions over extreme bans or inaction"
+6da49bd3-6dd7-48b5-8724-71bd9ed9fd8b,2025-04-08 12:22:38.219022+00:00,openai,o1,0,4145,7797,"Radical regs then local incentives, moderate regs, new tech, adaptation, status quo, last fewer regs"
+ee3c3674-6ab0-40d0-8ef8-dc49b498661f,2025-04-08 12:24:13.179798+00:00,openai,o1,0,4142,3503,"Prefers radical sustainability, moderate policies, local incentives, then minimal regulation."
+31fee736-1db1-4b1d-a791-a2a33afcbfff,2025-04-08 12:25:06.344252+00:00,openai,o1,0,4145,5484,"Boost local incentives, moderate regs, adaptation, resilience, radical rules, free trade, no change"
+172adc93-a530-4246-92ba-183ed43fc57c,2025-04-08 12:26:47.417180+00:00,openai,o1,0,4145,5544,"Prioritize local sustainable production, adaptation tech, moderate regulation over radical reforms."

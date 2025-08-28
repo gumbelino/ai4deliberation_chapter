@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+9cafeacf-0a5c-4a34-b27a-aa8a17504ed4,2025-04-08 15:00:07.622375+00:00,openai,gpt-4.5-preview,0,3582,226,"Prioritised strong climate action, reef protection, and sustainable economic alternatives."
+85bd01e0-17fd-4ef3-aedb-1803f9ff5296,2025-04-08 15:00:35.714702+00:00,openai,gpt-4.5-preview,0,3582,226,"Prioritised sustainable industries, strong reef protection, reducing coal reliance gradually."
+4ed2b6c8-125b-4a8b-8c95-4d9e99e5ccf9,2025-04-08 15:01:01.921342+00:00,openai,gpt-4.5-preview,0,3582,226,Prioritised sustainable innovation and strong reef protection over coal and current practices.
+e4fa085e-9155-4e3e-a0cc-2a746d536e8e,2025-04-08 15:01:32.552580+00:00,openai,gpt-4.5-preview,0,3582,225,"Prioritised sustainable industries, strong reef protection, opposed reducing regulations."
+d1b82c4f-cfe7-47ea-8102-91316ccfcc95,2025-04-08 15:02:02.893272+00:00,openai,gpt-4.5-preview,0,3582,228,"Prioritised sustainable industries, reef protection, and ending coal reliance for climate action."
+eb4c8fc6-6fda-466c-b805-08ceda2539e0,2025-04-10 08:16:17.667496+00:00,openai,gpt-4.5-preview,0,3582,226,"Prioritised strong climate action, reef protection, and sustainable economic development."
+0b29023e-9cd5-43bb-a9b8-b20e9fa289af,2025-04-10 08:16:31.201779+00:00,openai,gpt-4.5-preview,0,3582,226,Prioritised sustainable innovation and stronger reef protection over coal and heavy industry.
+2c4b5b5d-4b64-40d7-8680-c02d02918e28,2025-04-10 08:16:46.208184+00:00,openai,gpt-4.5-preview,0,3582,226,"Prioritised strong environmental protection, reducing coal reliance, and sustainable innovation."
+4fc16510-d57e-4520-bc74-da3543af4ec2,2025-04-10 08:17:00.521728+00:00,openai,gpt-4.5-preview,0,3582,227,"Prioritised sustainable industries, stronger reef protection, reducing coal reliance and impacts."
+953d307a-e18e-4409-aed9-7fb1aec0a165,2025-04-10 08:17:14.528976+00:00,openai,gpt-4.5-preview,0,3582,228,"Prioritised sustainable industries, reef protection, and ending coal reliance for climate action."

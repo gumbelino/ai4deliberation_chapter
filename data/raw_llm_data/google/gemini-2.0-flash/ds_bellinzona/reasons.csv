@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+721c5fee-1fd8-4cbd-8c33-688b2323b859,2025-03-20 10:59:45.625755+00:00,google,gemini-2.0-flash,0,3613,235,Adaptation and resilience are key; radical emissions cuts seem less realistic/impactful.
+c8c0ef63-1267-49ee-afd2-5d7b61537029,2025-03-20 10:59:49.702698+00:00,google,gemini-2.0-flash,0,3613,233,Adaptation is key; radical emissions cuts are less feasible than moderate ones.
+66f56b8d-fd11-40de-a7d5-2c7ed4c1fbd7,2025-03-20 10:59:54.157208+00:00,google,gemini-2.0-flash,0,3613,233,"Radical emission cuts are needed, but adaptation and resilience are also important."
+af36eb78-7825-4256-a85e-9a8ce9d70f4f,2025-03-20 10:59:58.304626+00:00,google,gemini-2.0-flash,0,3613,237,Adaptation & radical CO2 reduction are key; economic growth at all costs is least desirable.
+53176714-d0b2-4ba7-a93d-a016c02004db,2025-03-20 11:00:02.700510+00:00,google,gemini-2.0-flash,0,3613,235,Adaptation and moderate emission cuts are preferred; economic growth over climate is least preferred.
+fe679fe9-a5c1-4e2f-ab6a-c3680daf321e,2025-03-20 11:00:07.225697+00:00,google,gemini-2.0-flash,0,3613,235,Adaptation & resilience are key; moderate emissions reduction is preferable to radical or none.
+e2dc2b39-8008-48e9-b2f2-a60c82540da1,2025-03-20 11:00:11.943635+00:00,google,gemini-2.0-flash,0,3613,233,Aggressive emission cuts and adaptation are key; economic growth alone is insufficient.
+805e926b-f974-4d19-9a09-db0695064ff8,2025-03-20 11:00:16.022055+00:00,google,gemini-2.0-flash,0,3613,236,"Moderate emission reduction is best, then resilience, then adaptation, radical is too extreme."
+a0bf67a4-8620-4508-9c7d-f037fa1e5066,2025-03-20 11:00:20.424897+00:00,google,gemini-2.0-flash,0,3613,237,Adaptation is key; radical emissions cuts unrealistic; economic growth shouldn't trump climate action.
+2bd73d52-7e21-4234-ace1-1646d8c6855a,2025-03-20 11:00:25.141631+00:00,google,gemini-2.0-flash,0,3613,234,Adaptation and radical emission cuts are key; economic growth focus is least desirable.
+be5e4a01-cbe9-47fe-9433-ac01074b6f0f,2025-03-25 13:53:46.779680+00:00,google,gemini-2.0-flash,0,3613,235,Adaptation and resilience are key; radical emissions cuts seem less realistic/impactful.
+d47026bd-fbe0-45f2-8334-ca254a097751,2025-03-25 13:53:49.937662+00:00,google,gemini-2.0-flash,0,3613,233,Adaptation is key; radical emissions cuts are less practical than moderate ones.
+ac3e89fe-4b4f-4a88-8c45-b0fd96992b2e,2025-03-25 13:53:53.372543+00:00,google,gemini-2.0-flash,0,3613,233,"Radical emission cuts are needed, but adaptation and resilience are also important."
+25be67e3-d92c-45ec-ac03-ba8851a7831e,2025-03-25 13:53:56.377060+00:00,google,gemini-2.0-flash,0,3613,234,Adaptation & radical CO2 reduction are key; economic growth alone is insufficient.
+3bfe906c-9245-4e6c-8680-6e1e0e054279,2025-03-25 13:53:59.750809+00:00,google,gemini-2.0-flash,0,3613,236,Adaptation and moderate emission cuts are key; economic growth shouldn't trump climate action.
+c223a6f4-3b4f-45ae-be12-00d25e982f71,2025-03-25 13:54:03.255921+00:00,google,gemini-2.0-flash,0,3613,234,Adaptation and moderate emission cuts are preferred; economic growth is not a priority.
+a4fef359-bb57-46b7-a22c-500c91cabe69,2025-03-25 13:54:06.784069+00:00,google,gemini-2.0-flash,0,3613,233,Aggressive emission cuts and adaptation are key; economic growth alone is insufficient.
+fa94b0a4-1988-4c90-b768-b1ef4bdfad11,2025-03-25 13:54:10.022606+00:00,google,gemini-2.0-flash,0,3613,236,"Moderate emission reduction is best, then resilience, then adaptation, radical is too extreme."
+c0610413-6623-4fb7-a6f5-fc0de5e79acf,2025-03-25 13:54:13.672257+00:00,google,gemini-2.0-flash,0,3613,237,Adaptation is key; radical emissions cuts unrealistic; economic growth shouldn't trump climate action.
+e5b6e1df-8b34-43dc-a26f-7de86486ac4b,2025-03-25 13:54:17.172861+00:00,google,gemini-2.0-flash,0,3613,234,Adaptation and radical emission cuts are key; economic growth focus is least desirable.
+6f872faa-ed19-42d2-ab5b-0d394c950fd6,2025-03-27 09:30:39.979183+00:00,google,gemini-2.0-flash,0,3613,237,"Adaptation and resilience are key; radical emissions cuts seem unrealistic, economic growth not a priority."
+c685b665-e204-4ef9-b12e-47603516bae4,2025-03-27 09:30:43.036738+00:00,google,gemini-2.0-flash,0,3613,233,Adaptation is key; radical emissions cuts are less feasible than moderate ones.
+011be297-b8fb-4475-9950-1ccc001876e3,2025-03-27 09:30:46.605460+00:00,google,gemini-2.0-flash,0,3613,233,"Radical emission cuts are needed, but adaptation and resilience are also important."
+69abafeb-9c46-46d8-be0b-c24af9dda550,2025-03-27 09:30:49.610607+00:00,google,gemini-2.0-flash,0,3613,234,Adaptation & radical CO2 reduction are key; economic growth alone is insufficient.
+83672745-5e03-4597-b838-fcbe94b1ad28,2025-03-27 09:30:52.970148+00:00,google,gemini-2.0-flash,0,3613,235,Adaptation and moderate emission cuts are preferred; economic growth over climate is least preferred.
+3f308d62-315e-464b-923f-4913fd11b3c8,2025-03-27 09:30:56.452445+00:00,google,gemini-2.0-flash,0,3613,234,Adaptation and moderate emission cuts are preferred; economic growth is not a priority.
+35c362ba-1e59-4b74-8b0e-d7f7ad792114,2025-03-27 09:30:59.831508+00:00,google,gemini-2.0-flash,0,3613,233,Aggressive emission cuts and adaptation are key; economic growth alone is insufficient.
+3e88579c-de4d-44a6-8295-72d91575a86f,2025-03-27 09:31:02.904409+00:00,google,gemini-2.0-flash,0,3613,236,"Moderate emission reduction is best, then resilience, then adaptation, radical is too extreme."
+f9933637-0fd0-4a50-aa44-49bf608d580b,2025-03-27 09:31:06.384162+00:00,google,gemini-2.0-flash,0,3613,237,Adaptation is key; radical emissions cuts unrealistic; economic growth shouldn't trump climate action.
+3c290478-973a-47c9-a9ac-c6704ee13dc1,2025-03-27 09:31:09.864389+00:00,google,gemini-2.0-flash,0,3613,234,Adaptation and radical emission cuts are key; economic growth focus is least desirable.

@@ -1,0 +1,7 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+4117e8f7-4482-4276-94a6-ec612069557e,2025-05-29 15:56:29.182456+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,8733,3882,Natural fire restoration and balanced ecology ranked highest economic focus lowest
+73f3bc91-07c0-4227-9cef-c038541fdfd4,2025-05-29 15:57:32.960008+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,8673,3828,I prioritize balanced ecological and social management over pure restoration or economic approaches
+a724f036-d22a-410e-971b-624368745720,2025-05-30 12:01:40.804395+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,6467,5138,I prefer natural processes and restoration over economic-focused management approaches
+f574a5d0-2e3d-401f-a6d7-4102eb9fdace,2025-05-30 12:05:07.077217+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,7992,4694,Favored natural restoration and balanced ecological approaches over economic or passive management
+17def0d0-265f-4c49-8809-539b4b949dc9,2025-05-30 12:06:38.523243+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,8388,4714,Balanced ecological-social management beats purely economic or no management approaches
+03e77dde-6911-44b8-835a-244fa2c06333,2025-05-30 12:08:05.794136+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,8311,4701,Prioritized economic benefits and minimal intervention over ecological restoration and wildlife protection

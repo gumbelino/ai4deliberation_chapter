@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+036f696c-5ef2-4f07-b85b-bfc463d67794,2025-05-21 11:42:36.607696+00:00,xai,grok-3-mini-fast-beta-r=high,0,13689,260,"Rankings favor addressing root causes and providing aid, opposing restrictive measures."
+28116a28-f9d4-416f-85ef-ebb42dc35e1d,2025-05-21 11:43:27.659052+00:00,xai,grok-3-mini-fast-beta-r=high,0,12574,263,Based on support for root cause solutions and law enforcement over aid that may encourage begging.
+3083c478-8408-4a68-9ed4-e1a6da97b38b,2025-05-21 11:44:02.798829+00:00,xai,grok-3-mini-fast-beta-r=high,0,13305,259,Favored addressing root causes and aiding beggars over enforcing bans.
+01a2f6ce-fe26-4272-8072-711da509de38,2025-05-21 11:44:44.343568+00:00,xai,grok-3-mini-fast-beta-r=high,0,13287,260,Prioritized humanitarian aid and root-cause solutions over restrictive and punitive policies.
+776ba34d-7758-4181-9d60-50f334297ddd,2025-05-21 11:45:32.158709+00:00,xai,grok-3-mini-fast-beta-r=high,0,12238,261,Prioritized addressing root causes and aid in Sweden over harsh enforcement and deportation.

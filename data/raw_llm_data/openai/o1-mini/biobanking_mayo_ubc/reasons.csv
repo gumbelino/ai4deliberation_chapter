@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+49c0df75-4217-4289-9651-9aeb067231f5,2025-04-01 12:54:59.240078+00:00,openai,o1-mini,0,4187,5075,"Prefer strong oversight and individual consent, prioritizing governance over societal benefits."
+c36ea325-2ebd-4395-8c0a-0d4a72213dad,2025-04-01 12:55:33.975001+00:00,openai,o1-mini,0,4187,4183,"Support strong ethical review, require approval for all research, prioritize preventing discrimination and community benefits."
+60c7f163-46bb-40cb-87cd-61fa5f2f03cc,2025-04-03 14:17:29.469351+00:00,openai,o1-mini,0,4187,3432,"I support policy 5 most for balanced consent and oversight, then policies 3, 1, 2, 4, 6, and least policy 7"
+9256e740-7234-4323-aec8-ff33fcc0686c,2025-04-03 14:17:52.877955+00:00,openai,o1-mini,0,4187,1809,Ranks reflect balanced approach to consent and oversight in research practices
+c0213b3c-80d6-4ac5-8bc5-6f45307eb836,2025-04-03 14:18:08.224203+00:00,openai,o1-mini,0,4187,4819,"Prefer governance approval and individual consent, ensure ethical oversight, prioritize prevention"

@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+6197d7b5-32f8-4f0e-8649-b4714e612e26,2025-05-29 14:34:17.830760+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5790,2205,Prioritize community adaptation and ambitious emissions cuts over economic growth and status quo
+6f269d4c-ed31-4137-8011-b736d11acb63,2025-05-29 14:35:07.233471+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6121,2450,Prioritized ambitious emissions cuts and adaptation over status quo and economic-first approaches
+fe295e08-b3f4-4a25-b8f7-05b362a0526f,2025-05-29 14:36:00.720880+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5467,1981,Prioritized innovation and dramatic emissions cuts over moderate action while rejecting status quo
+d6090c11-68eb-499c-9f0a-e2e9c58bdab8,2025-05-29 14:36:43.509529+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5516,2517,Prioritized ambitious emissions cuts and comprehensive adaptation over economic growth and inaction
+311d97cf-5bcf-4e75-acdf-ca54b0d6bfc8,2025-05-29 14:37:36.337863+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5526,2168,"Community adaptation and emergency preparedness ranked highest, status quo and economics lowest"

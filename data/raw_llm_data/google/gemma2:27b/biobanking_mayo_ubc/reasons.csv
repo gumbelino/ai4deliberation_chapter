@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+42fb40c4-5e07-4833-b60e-3bb51d4ad9f4,2025-04-02 10:31:55.212116+00:00,google,gemma2:27b,0,3955,270,I prioritize ethical oversight and community benefit while minimizing individual burden.
+169a3f87-eb8d-4518-ac01-c1939e8c27e3,2025-04-02 10:32:04.672164+00:00,google,gemma2:27b,0,3962,278,I prioritize ethical oversight and individual consent while balancing societal benefits and minimizing discrimination.
+f7978222-7655-4d9d-ae36-24147bec44a0,2025-04-02 10:59:29.578850+00:00,google,gemma2:27b,0,3963,280,"Individual control is paramount, even for anonymized data, with strong oversight for all research."
+f6d988a8-92d5-4c64-a772-9cce19fc5d25,2025-04-02 10:59:40.270054+00:00,google,gemma2:27b,0,3958,276,I prioritize individual consent and oversight for all research uses of data and samples.
+38f40631-9322-4514-b86a-150c2d6e38e0,2025-04-02 10:59:54.181691+00:00,google,gemma2:27b,0,3965,278,I prioritize individual consent and oversight while balancing societal benefits and minimizing discrimination risks.
+30e1c6f6-ee62-4270-8277-11181fcb9212,2025-04-02 11:00:03.644186+00:00,google,gemma2:27b,0,3960,276,I prioritize oversight and community benefit while minimizing individual burden and potential discrimination.
+ecea8342-7764-490d-8666-06e6b7864792,2025-04-02 11:00:11.370915+00:00,google,gemma2:27b,0,3959,278,"Preventing discrimination is paramount, individual consent is crucial, but governing body oversight is also important."
+6a7434af-bd9f-415f-a0e5-5b74b94df8ff,2025-04-02 11:00:20.660514+00:00,google,gemma2:27b,0,3960,274,Prioritize community benefit and preventing discrimination over strict individual control.
+9f3e4183-3023-43e6-9c4e-72b79db489f7,2025-04-02 11:00:30.030400+00:00,google,gemma2:27b,0,3958,277,I prioritize ethical oversight and individual consent while balancing societal benefits and minimizing discrimination risks.
+d086eff6-6acb-4724-aec3-55ad18bc47a8,2025-04-02 11:00:37.706188+00:00,google,gemma2:27b,0,3961,277,I prioritize ethical oversight and individual consent while balancing societal benefits and minimizing discrimination risks.
+ec095ef2-e022-427e-a955-740bfe6e9585,2025-04-02 11:00:46.203084+00:00,google,gemma2:27b,0,3967,287,"I prioritize individual consent when identifiable but trust ethics boards for de-identified data, emphasizing societal benefit and discrimination prevention."
+ac2354d2-279a-4370-bc00-e7ddb5c38380,2025-04-02 11:00:56.305360+00:00,google,gemma2:27b,0,3959,276,I prioritize ethical oversight and individual consent while balancing societal benefits and minimizing discrimination risks.
+a79d5d2e-9fa7-4e4a-8cc7-fb18a4667491,2025-04-02 11:01:04.378353+00:00,google,gemma2:27b,0,3958,276,I prioritize individual consent and ethical oversight while balancing societal benefits and discrimination prevention.
+dcc0e577-3af3-4b0f-9d2d-d4c061025dff,2025-04-02 11:01:12.288561+00:00,google,gemma2:27b,0,3965,277,Prioritize community benefit and informed consent while allowing for ethical research use.
+6900e032-fa74-4c1a-b562-5531fbc22768,2025-04-02 11:01:19.627312+00:00,google,gemma2:27b,0,3956,277,I prioritize individual consent and oversight by governing bodies for research use of data and samples.
+dc6a5db6-82d3-40f3-8843-d328d59cae7b,2025-04-02 11:01:28.020175+00:00,google,gemma2:27b,0,3958,276,"Preventing discrimination is paramount, community benefit is important, individual control is crucial."
+1a002512-b4d6-4080-bc32-3f3795a43490,2025-04-02 11:01:36.183133+00:00,google,gemma2:27b,0,3958,276,I prioritize individual consent and oversight for all research uses of data and samples.
+194bebf8-bded-4c55-bb04-a04aff607faa,2025-04-02 11:01:49.674864+00:00,google,gemma2:27b,0,3962,278,I prioritize individual consent and oversight for all research uses of data and samples.
+5367234e-8f69-45b7-b2de-7d1e2186058d,2025-04-02 11:02:00.184013+00:00,google,gemma2:27b,0,3956,275,I prioritize informed consent and oversight while balancing societal benefits and minimizing discrimination risks.
+9f474c49-0a3f-4798-99d4-a4235540622a,2025-04-02 11:02:08.442024+00:00,google,gemma2:27b,0,3957,271,"Preventing discrimination is paramount, individual consent is crucial when identifiable."
+e627c308-189f-4bfd-9d45-0ebbc217e305,2025-04-02 11:02:20.332828+00:00,google,gemma2:27b,0,3962,278,I prioritize ethical oversight and community benefit while minimizing individual burden for identifiable data.
+ac9b7105-addd-4d7f-8c6c-be6a06110807,2025-04-02 11:02:32.289199+00:00,google,gemma2:27b,0,3956,275,I prioritize community benefit and preventing discrimination while valuing individual consent and ethical oversight.
+40f02d73-8362-493e-96be-b22c30d24b3e,2025-04-02 11:02:40.317118+00:00,google,gemma2:27b,0,3961,277,I prioritize individual consent when identifiable but trust ethics boards for de-identified data.
+bb035fb9-3fce-4dcb-a806-2ca2af807374,2025-04-02 11:02:51.268402+00:00,google,gemma2:27b,0,3960,285,I prioritize individual consent for identifiable data and believe governing bodies should oversee research using identifiable and non-identifiable data.
+178ddd56-1005-4089-877d-8bbdce079de6,2025-04-02 11:03:02.076591+00:00,google,gemma2:27b,0,3960,276,I prioritize individual consent and oversight while balancing societal benefits and discrimination concerns.
+9d497c83-12ea-4e93-889c-4ef0524dadff,2025-04-02 11:03:11.135771+00:00,google,gemma2:27b,0,3959,276,I prioritize ethical oversight and individual consent while balancing societal benefits and minimizing discrimination risks.
+b25c6f8b-b4c1-4b1d-b3fe-efd8b3fec63d,2025-04-02 11:03:18.705211+00:00,google,gemma2:27b,0,3960,276,I prioritize individual consent and oversight while balancing societal benefits and discrimination prevention.
+d18be6f6-c2bf-4e67-bdc9-2ab6b938e33e,2025-04-02 11:03:31.344471+00:00,google,gemma2:27b,0,3960,276,I prioritize informed consent and oversight while balancing societal benefits and minimizing discrimination.
+4dd87e56-f2f7-4bf2-9d58-6b7af5ef8f10,2025-04-02 11:03:41.096368+00:00,google,gemma2:27b,0,3961,273,I prioritize informed consent and community benefit while minimizing potential discrimination.
+ab5444d9-a556-4046-8047-0ccb15f41f7a,2025-04-02 11:03:49.995290+00:00,google,gemma2:27b,0,3965,278,"Preventing discrimination is paramount, individual consent is crucial, and oversight is necessary."

@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+7286c104-07b8-4f73-9009-b9038023c18f,2025-05-29 15:35:22.137429+00:00,anthropic,claude-sonnet-4-20250514,0,3291,208,I prioritize research and moderate regulation over radical changes while opposing deregulation and status quo.
+60e0e284-a9cd-444f-8a20-c9f813098827,2025-05-29 15:35:31.551836+00:00,anthropic,claude-sonnet-4-20250514,0,3291,211,I prioritize incentives and research over radical changes while supporting moderate regulation over status quo or deregulation.
+b381f4d6-a134-4651-a953-2937417bce50,2025-05-29 15:35:42.724654+00:00,anthropic,claude-sonnet-4-20250514,0,3291,209,I prioritize incentives for local sustainable production and research over radical bans or deregulation.
+8eb0005c-0e16-4c88-b684-4d3fd7050bd5,2025-05-29 15:35:52.928984+00:00,anthropic,claude-sonnet-4-20250514,0,3291,204,I prioritize research and moderate regulation over radical changes while opposing deregulation
+70edc5ad-a18f-4921-8d6f-9d30ebdf69df,2025-05-29 15:36:02.669247+00:00,anthropic,claude-sonnet-4-20250514,0,3291,208,I prioritize research and moderate regulation over radical changes while opposing deregulation and status quo.

@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+e1dc338e-d00a-4552-b107-badd63e1db64,2025-04-08 14:24:53.759801+00:00,openai,gpt-4.5-preview,0,4304,249,Prefer minimal intervention to protect environment while keeping limited local road access.
+ea5f5ab4-540b-4fd2-8a8e-d1cdf5ec99fd,2025-04-08 14:25:08.773833+00:00,openai,gpt-4.5-preview,0,4307,252,"Prefer minimal impact, maintain access, avoid further development, protect environment long-term."
+2ae7f024-f346-40bb-a25d-c00aaa6b69a4,2025-04-08 14:25:22.470335+00:00,openai,gpt-4.5-preview,0,4307,250,"Prefer minimal upgrades to protect environment, oppose closure or bitumen sealing."
+940a752f-c4e4-4e91-9fba-c716b2861220,2025-04-08 14:25:38.999027+00:00,openai,gpt-4.5-preview,0,4304,251,Closing road protects environment; minimal upgrades better; bitumen least preferred option.
+3536b656-8c90-4bfc-a1a0-623b7c75ae2e,2025-04-08 14:25:57.553476+00:00,openai,gpt-4.5-preview,0,4307,251,"Protect rainforest; close road to restore environment, avoid further damage from development."
+99fa1cbf-f453-40cf-988d-3938abce2eb0,2025-04-10 07:58:10.604206+00:00,openai,gpt-4.5-preview,0,4304,248,Prefer minimal intervention to balance environmental protection and limited local access.
+02b8e550-582d-4d56-b01b-870fabc7029d,2025-04-10 07:58:30.609074+00:00,openai,gpt-4.5-preview,0,4307,248,Closing road protects environment; minimal upgrades better than major development.
+7a4d1738-4447-4b02-8172-b306d8e62d69,2025-04-10 07:58:47.567060+00:00,openai,gpt-4.5-preview,0,4307,250,"Prefer minimal upgrades to protect environment, oppose closure or bitumen sealing."
+9021239f-e345-4015-8c7b-370b49fcfa03,2025-04-10 07:59:05.578187+00:00,openai,gpt-4.5-preview,0,4304,251,Closing road protects environment; minimal upgrades better; bitumen least preferred option.
+aa4244aa-a298-467d-ac5f-b76730f63865,2025-04-10 07:59:18.274973+00:00,openai,gpt-4.5-preview,0,4307,252,"Improved access balanced with environmental protection, avoiding full closure or bitumen upgrade."

@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+47cc7853-10aa-4ccc-b067-5b1dd03ec2cc,2025-05-29 15:06:04.458359+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6270,1448,"Prioritized clean renewables like solar and hydro first, nuclear mid-range, fossil fuels last"
+f6103467-99aa-4b2a-9b9c-da0589fff58c,2025-05-29 15:08:46.840866+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6313,1381,"Prioritized clean renewables first, nuclear and gas as transition, coal options last due to emissions"
+526c1ce5-ee83-4101-90b0-21bd6b181855,2025-06-02 02:50:13.568338+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,7078,2306,Prioritized proven renewables over fossil fuels with coal least favored due to emissions concerns
+02d8da32-82b9-4960-bf4c-443f96d0e0ea,2025-06-02 04:06:26.000585+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6978,2223,"Prioritized clean renewables first, nuclear mid-tier, fossil fuels last due to emissions"
+543b216f-cb55-459b-863d-7f2057a0bafc,2025-06-02 04:07:26.535077+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,7000,1908,Prioritized renewables for climate goals then nuclear as low carbon then gas then coal options

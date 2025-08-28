@@ -1,0 +1,41 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+18ed345d-fc10-4516-9f7e-a60b55ffdc65,2025-03-25 21:11:28.775256+00:00,cohere,command-r-08-2024,0,4487.0,274.0,Privacy.and.individual.consent.are.priorities.over.societal.benefits.
+4fd43996-189e-431d-9a13-da2a0d73b045,2025-03-25 21:11:35.554997+00:00,cohere,command-r-08-2024,0,4487.0,276.0,Privacy.and.individual.rights.should.be.prioritized.over.societal.benefits.
+a2624ca5-fdc1-4454-a82f-299bcde3e40e,2025-03-25 21:11:42.378970+00:00,cohere,command-r-08-2024,0,4498.0,273.0,Privacy.and.discrimination.are.priorities.over.benefits.
+b714e14e-8d8e-4dcc-ad8b-614f8d9f9836,2025-03-25 21:11:49.669551+00:00,cohere,command-r-08-2024,0,4536.0,294.0,"Privacy,consent,andcommunitybenefitarekey,withoversightbygoverningbodies."
+87729106-085d-435f-8d77-245ab2739753,2025-03-25 21:11:57.210774+00:00,cohere,command-r-08-2024,0,4520.0,289.0,Privacy.and.individual.rights.are.priorities.over.societal.benefits.
+1eff6ceb-c037-43ed-a0f4-80a8aca2d7c6,2025-03-25 21:12:04.531070+00:00,cohere,command-r-08-2024,0,4542.0,298.0,Authorization.Approval.Discrimination.Benefits.Combination.Over-authorization.Privacy.
+e20a04df-da73-4626-8537-2e1168513954,2025-03-25 21:12:12.931870+00:00,cohere,command-r-08-2024,0,4486.0,267.0,Privacy&oversight&individualchoice&societalbenefitsareallimportant.
+cb5ddcb7-dc31-4428-9e36-bd9f1f7b67ad,2025-03-25 21:12:19.693998+00:00,cohere,command-r-08-2024,0,4531.0,296.0,Privacy.and.individual.rights.are.priorities.over.societal.benefits.
+97ce104a-3d77-4f4d-b8ac-2cd440244127,2025-03-25 21:12:27.775354+00:00,cohere,command-r-08-2024,0,4541.0,295.0,"Privacy,individualcontrol,anddiscriminationpreventionarekeyconcerns."
+245ac415-1d68-4950-9808-2e122d5dc296,2025-03-25 21:12:36.487802+00:00,cohere,command-r-08-2024,0,4494.0,273.0,Privacy&individuals'rights.Benefits&discrimination.Approval&oversight.
+f33608bd-3f5f-48fd-bd35-0d122192bafa,2025-03-25 21:12:45.584376+00:00,cohere,command-r-08-2024,0,4549.0,305.0,"Privacy,individual.rights.and.benefits.to.community.are.most.important."
+7af97ea0-5f05-4b55-8d2d-8cff090f2070,2025-03-25 21:13:05.060504+00:00,cohere,command-r-08-2024,0,4538.0,297.0,Privacy.Individual.Control.Research.Ethics.Boards.Community.Benefits.
+02587c98-52e8-4b4b-9212-2bc912156f71,2025-03-25 21:13:13.757226+00:00,cohere,command-r-08-2024,0,4517.0,289.0,Privacy.and.individual.consent.are.priorities.over.societal.benefits.
+5df46e0c-8c9a-404e-9f3a-a8b5c3f932ca,2025-03-25 21:13:20.619863+00:00,cohere,command-r-08-2024,0,4492.0,272.0,"Privacy,consent,andcommunitybenefitarekey,withdiscriminationpreventionaspriority."
+5fc1da37-c611-48d4-be4b-0563088a7c34,2025-03-25 21:13:27.100329+00:00,cohere,command-r-08-2024,0,4544.0,297.0,Privacy&individual.control.trumps.benefits.to.society.
+8e1c375c-fcbb-4f81-92e4-163028bf6b0a,2025-03-25 21:13:34.644974+00:00,cohere,command-r-08-2024,0,4494.0,275.0,Privacy&individual.control.trump.societal.benefits&discrimination.prevention.
+302c6502-61f5-4f2f-b8f8-3350f2ffc7e1,2025-03-25 21:13:40.546776+00:00,cohere,command-r-08-2024,0,4535.0,296.0,Privacy&individual.rights.are.priorities.over.societal.benefits.
+a7fc3f3d-ae0e-45b4-abfe-af37904c7218,2025-03-25 21:13:47.314136+00:00,cohere,command-r-08-2024,0,4528.0,291.0,Prioritize.Privacy.And.Community.Benefits.Over.Individual.Authorization.
+3ff1336a-29b1-4c09-9785-78403fcdf4c7,2025-03-25 21:13:53.594236+00:00,cohere,command-r-08-2024,0,4547.0,303.0,"Privacy,discrimination,and,benefits,are,priorities,over,individual,authorization."
+36010583-d217-4d6b-b0cf-364efbf8e6e3,2025-03-25 21:14:00.454304+00:00,cohere,command-r-08-2024,0,4547.0,301.0,"Privacy,consent,anddiscriminationpreventionarekey,withresearchoversightessential."
+1cdcb420-8283-4416-badb-5c57a683bd9c,2025-03-27 10:21:27.624444+00:00,cohere,command-r-08-2024,0,4546.0,300.0,Authorization.and.approval.should.be.required.for.all.research.
+7fda9fc1-8dc9-47b6-adbc-701d395fc8d6,2025-03-27 10:21:35.213115+00:00,cohere,command-r-08-2024,0,4486.0,262.0,"I support informed, individual consent and community benefits."
+d845da12-5f8e-4b1e-945e-3df0dd8c2155,2025-03-27 10:21:41.966822+00:00,cohere,command-r-08-2024,0,4541.0,298.0,Prioritise.Community.Benefits.Over.Discrimination.Concerns.
+108ae2fc-0ac8-4597-b134-ba381441785b,2025-03-27 10:21:49.312627+00:00,cohere,command-r-08-2024,0,4538.0,301.0,Prioritise.Community.Benefits.Over.Individual.Authorization.And.Discrimination.Prevention.
+cf6061ab-9733-4b81-b389-b6c120d99955,2025-03-27 10:21:55.888379+00:00,cohere,command-r-08-2024,0,4514.0,281.0,Privacy&individuals'rights.Ethics&benefits.Discrimination.
+4aead3a4-41ce-4c22-8405-fbaf60fd3903,2025-03-27 10:22:02.233984+00:00,cohere,command-r-08-2024,0,4546.0,299.0,Privacy.and.non-discrimination.are.priorities.over.benefits.
+60efae3f-3b51-4540-a6a9-d4e462a35029,2025-03-27 10:22:11.841313+00:00,cohere,command-r-08-2024,0,4537.0,301.0,Privacy.and.individual.rights.should.be.prioritized.over.societal.benefits.
+8924d5d6-fe36-4141-9664-ea655e97e0b3,2025-03-27 10:22:19.335831+00:00,cohere,command-r-08-2024,0,4527.0,296.0,Privacy.and.individual.rights.should.be.prioritized.over.societal.benefits.
+fc59d936-67cd-4eca-8e34-8253b84f99ab,2025-03-27 10:22:26.298118+00:00,cohere,command-r-08-2024,0,4508.0,280.0,Prioritize.privacy.and.non-discrimination.over.individual.authorization.
+cc6868f6-1fae-486b-b48c-d60489c70873,2025-03-27 10:22:33.653994+00:00,cohere,command-r-08-2024,0,4504.0,283.0,Privacy.and.individual.rights.should.be.prioritized.over.societal.benefits.
+f79b66a0-7efc-4d6a-a724-1643e06b9eff,2025-03-27 10:40:56.844085+00:00,cohere,command-r-08-2024,0,4546.0,300.0,Authorization.and.approval.should.be.required.for.all.research.
+650624a8-95d7-4afe-9433-53308e313fb6,2025-03-27 10:41:06.269693+00:00,cohere,command-r-08-2024,0,4486.0,262.0,"I support informed, individual consent and community benefits."
+e2ae4647-9539-44b7-a0b8-b3a4d8f2d40f,2025-03-27 10:41:13.829013+00:00,cohere,command-r-08-2024,0,4499.0,274.0,Privacy&oversight&discrimination.Authorization&approval.Benefits.
+7d3e1274-1778-4af3-a288-5baf504a832a,2025-03-27 10:41:20.816328+00:00,cohere,command-r-08-2024,0,4516.0,287.0,Privacy.and.individual.consent.are.priorities.over.societal.benefits.
+4ee131ba-2f88-47bf-b4f5-6c4e09d71930,2025-03-27 10:41:27.844559+00:00,cohere,command-r-08-2024,0,4510.0,280.0,"Privacy,individuals'rights,andnon-discriminationarekeyconcerns."
+95cf32c7-6822-4833-a2c5-c327e19e3e4d,2025-03-27 10:41:38.530789+00:00,cohere,command-r-08-2024,0,4540.0,294.0,Privacy&oversight&individuals'rights.Discrimination&benefits.
+14ff00bb-98aa-468a-b823-0443abf4da54,2025-03-27 10:41:46.310984+00:00,cohere,command-r-08-2024,0,4537.0,299.0,Privacy.and.individual.consent.are.priorities.over.societal.benefits.
+c805fc3d-f0cf-4e05-b54e-67617b628111,2025-03-27 10:41:54.395623+00:00,cohere,command-r-08-2024,0,4545.0,305.0,Privacy.and.individual.rights.should.be.prioritized.over.societal.benefits.
+6260c4e6-555c-4eb7-beb4-12f17bcd3b53,2025-03-27 10:42:01.765495+00:00,cohere,command-r-08-2024,0,4508.0,271.0,Privacy&identification&benefits&governance.
+c69cdc43-8bc4-44f7-a729-6cff2cedb1e7,2025-03-27 10:42:09.957779+00:00,cohere,command-r-08-2024,0,4504.0,283.0,Privacy.and.individual.rights.should.be.prioritized.over.societal.benefits.

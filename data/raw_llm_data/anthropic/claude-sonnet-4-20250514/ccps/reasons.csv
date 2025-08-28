@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+343880a6-bb70-4840-8d07-12224760045c,2025-05-29 15:30:41.049552+00:00,anthropic,claude-sonnet-4-20250514,0,3509,227,I prioritize moderate emissions cuts and adaptation while opposing economic-first or status quo approaches.
+a284ca54-82e0-4489-b273-cc34bf924f39,2025-05-29 15:30:51.532441+00:00,anthropic,claude-sonnet-4-20250514,0,3509,225,Prioritize dramatic emissions cuts and adaptation over economic growth while supporting resilience technologies
+da9190c2-921a-4fe5-8fac-9fab48fac110,2025-05-29 15:31:03.978178+00:00,anthropic,claude-sonnet-4-20250514,0,3509,226,I prioritize dramatic emissions cuts and community action over economic growth and status quo policies.
+b51c3d10-db9f-4ab1-a63b-da3b1c7ccec9,2025-05-29 15:31:14.293598+00:00,anthropic,claude-sonnet-4-20250514,0,3509,226,I prioritize dramatic emissions cuts and adaptation support over economic growth or status quo approaches.
+664fb8b1-d471-406a-b1da-6e2d4da618ba,2025-05-29 15:31:24.244735+00:00,anthropic,claude-sonnet-4-20250514,0,3509,231,I prioritize individual action and moderate emissions cuts while supporting adaptation and technology development over dramatic changes or status quo.

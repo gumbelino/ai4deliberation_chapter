@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+da872817-12d8-402e-8b2f-a811c9e2bfec,2025-04-02 08:50:16.691652+00:00,openai,o1,0,3215,3138,Chose solutions that prioritize strong climate action and adaptation over minimal changes.
+a08dc0a9-ed7d-4ce8-a6fc-c01b2d4270da,2025-04-02 08:51:00.344244+00:00,openai,o1,0,3215,4727,Prioritize significant emission cuts and adaptation over current policy or growth-first approaches
+2f286d35-0af1-4da0-ba04-08961c6b638c,2025-04-02 08:52:12.819744+00:00,openai,o1,0,3215,2935,I prioritize strong emissions cuts and adaptation measures over solely economic approaches.
+a23db089-f2dd-4fc6-9dba-9853ab412541,2025-04-02 08:53:00.155588+00:00,openai,o1,0,3215,4729,"Focus on big emission cuts, then innovative resilience, moderate cuts, adaptation, economy last"
+29196435-41a2-4a53-bbac-47e776995b59,2025-04-02 08:54:14.539786+00:00,openai,o1,0,3215,8709,"Big cuts first, community level, new tech, moderate cuts, status quo, growth, minimal adaptation"

@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+767b9120-066c-43fc-8aee-eea769a55e2d,2025-04-02 08:36:51.360981+00:00,openai,o1,0,4301,4634,I value maintaining the 4WD track with minimal upgrades over closure or major improvements
+0ef4d530-3cf6-4417-b717-41d9eadcf52a,2025-04-02 08:38:08.799767+00:00,openai,o1,0,4304,4245,Prioritize minimal harm to environment while ensuring stable access.
+1343c93a-0069-45e2-9d36-df95209d1d7e,2025-04-02 08:39:31.354231+00:00,openai,o1,0,4304,3882,Prefer minimal improvements and retaining 4WD access over closure or major upgrades
+47ab6e45-341b-49be-8bed-f710c0c30bc6,2025-04-02 08:40:30.117705+00:00,openai,o1,0,4301,3354,Minimize environmental harm by stabilizing the track over closure or full upgrade
+1ba3ff0b-055e-4db7-942e-31a19b01b15c,2025-04-02 08:41:21.924169+00:00,openai,o1,0,4304,4126,"Favor improved 4WD road over bitumen or closure, focusing on stability and accessibility."

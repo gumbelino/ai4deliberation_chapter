@@ -1,0 +1,3 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+bd47230f-a114-436f-8cf6-b75b551213aa,2025-04-03 17:08:58.447546+00:00,deepseek,deepseek-v2,0,0,0,Supports moderate regulation for sustainable food production over radical measures.
+0e6c7696-ed3e-482f-8c3f-d04ea610882e,2025-04-03 17:09:15.033569+00:00,deepseek,deepseek-v2,0,0,0,"Liked most regulation, liked least radical change."

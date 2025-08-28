@@ -1,0 +1,4 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+ba476948-f09b-4482-85c1-2ac02c3df95d,2025-05-30 12:15:14.718974+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,6107,3394,Prioritized adaptation and emergency response over emissions cuts alone while opposing inaction
+de68b3dd-9825-4e25-9a99-4489b57f3586,2025-05-30 12:16:16.851870+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,7048,3309,Favored aggressive emissions reductions and community resilience over economic priorities
+0f07cc93-2e4c-4ed3-977d-8541d1a458e0,2025-05-30 12:17:15.448201+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,6520,3987,Favored aggressive emissions cuts and resilience over moderate cuts and status quo policies

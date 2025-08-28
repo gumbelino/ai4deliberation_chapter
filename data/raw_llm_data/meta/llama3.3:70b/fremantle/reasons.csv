@@ -1,0 +1,36 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+f86498e3-7b9c-43f2-beb5-bfd5b375e46c,2025-04-02 10:36:22.985665+00:00,meta,llama3.3:70b,0,3847,218,Prioritizing heritage and safety concerns
+92aa9451-c49e-4789-9bd4-7f5b28a40708,2025-04-02 10:36:39.276105+00:00,meta,llama3.3:70b,0,3844,218,Prioritizing heritage and safety concerns
+a7ae4708-efec-4bb1-ac92-399c6cdb6590,2025-04-02 12:25:17.887597+00:00,meta,llama3.3:70b,0,3847,218,Prioritizing heritage and safety concerns
+6a676a75-8f10-4d03-b39c-c828631bbac2,2025-04-02 12:25:40.198662+00:00,meta,llama3.3:70b,0,3847,218,Prioritizing heritage and functionality balance
+e96d3b53-0102-4fb7-9216-be17d9f9b754,2025-04-02 12:26:01.602076+00:00,meta,llama3.3:70b,0,3844,217,Prioritizing heritage and safety
+ccbdd6e8-e729-4a30-8a43-c576e08fa35a,2025-04-02 12:26:19.067196+00:00,meta,llama3.3:70b,0,3847,218,Prioritizing heritage and safety concerns
+26548afb-fc8d-45ee-a19d-1914776046a4,2025-04-02 12:26:28.450602+00:00,meta,llama3.3:70b,0,3847,217,Prioritizing heritage and safety
+efa294f7-a406-4351-84f0-c92fe6ee0ac5,2025-04-02 12:26:39.662319+00:00,meta,llama3.3:70b,0,3844,218,Prioritizing heritage and safety concerns
+a1e40c35-c60e-446a-b365-4ae17c20c28b,2025-04-02 12:26:54.885975+00:00,meta,llama3.3:70b,0,3847,218,Prioritizing heritage and functionality balance
+de9f51c0-019d-4aa5-a3ff-d5d0aa81cb1e,2025-04-02 12:27:08.127216+00:00,meta,llama3.3:70b,0,3847,218,Prioritizing heritage and safety concerns
+2cbf72d9-9d69-4c23-970b-98212074c5d8,2025-04-02 12:27:33.137769+00:00,meta,llama3.3:70b,0,3847,218,Prioritizing heritage and safety concerns
+b9219747-1983-4c33-8bae-839e064e7dc8,2025-04-02 12:27:47.623078+00:00,meta,llama3.3:70b,0,3844,218,Prioritizing heritage and safety concerns
+7857fe6f-6cf8-450e-ab66-c1f202a5ad54,2025-04-02 12:27:55.959117+00:00,meta,llama3.3:70b,0,3847,217,Prioritizing heritage and safety
+d6b66d1c-2b65-4dec-8552-fc86c6321f42,2025-04-02 12:28:14.798781+00:00,meta,llama3.3:70b,0,3844,217,Prioritizing heritage and safety
+ddc86a2b-71f4-4cd9-b677-276344288032,2025-04-02 12:28:33.860867+00:00,meta,llama3.3:70b,0,3844,218,Prioritizing heritage and functionality balance
+1432ce2a-8a47-4572-96fc-e5b8a37e0fda,2025-04-02 12:28:47.351886+00:00,meta,llama3.3:70b,0,3844,217,Prioritizing heritage and functionality
+f072b3ca-dbc6-48ff-bcd3-2a45d92f04cf,2025-04-02 12:29:01.563493+00:00,meta,llama3.3:70b,0,3847,218,Prioritizing heritage and safety concerns
+8c14d1fd-9827-4c2c-a778-fa8342214c21,2025-04-02 12:29:18.517432+00:00,meta,llama3.3:70b,0,3847,217,Prioritizing heritage and functionality
+6f3e6ce7-7b3f-429e-8aaa-21521db2c24f,2025-04-02 12:29:29.861939+00:00,meta,llama3.3:70b,0,3847,218,Prioritizing safety and heritage preservation
+2e56b207-2186-491a-a1e3-abcf3763421f,2025-04-02 12:29:46.335188+00:00,meta,llama3.3:70b,0,3847,217,Prioritizing heritage and safety
+14f61add-4800-4cd1-94ac-7867c3d136ba,2025-04-02 16:33:55.556595+00:00,meta,llama3.3:70b,0,3847,217,Prioritizing heritage and safety
+00c4163c-1e80-4f67-b166-ff2abd19851e,2025-04-02 16:34:09.859279+00:00,meta,llama3.3:70b,0,3847,217,Prioritizing heritage and safety
+9ced7e8b-099b-49ae-8923-4d3768bb3c21,2025-04-02 16:34:26.806571+00:00,meta,llama3.3:70b,0,3847,217,Heritage preservation is prioritized
+59f8616f-ecc8-4e96-bf26-205d7b9a09c5,2025-04-02 16:34:44.489967+00:00,meta,llama3.3:70b,0,3847,216,Heritage preservation prioritized
+dd5963e5-8a58-4b03-9709-78967d5c72a2,2025-04-02 16:34:57.718461+00:00,meta,llama3.3:70b,0,3847,217,Prioritizing heritage and safety
+51cf35a0-c900-47d4-a81e-866d19e19a7b,2025-04-02 16:35:16.738415+00:00,meta,llama3.3:70b,0,3847,218,Prioritizing heritage and functionality balance
+b4ce0c95-34ef-4df7-85d0-384e99dda149,2025-04-02 16:35:29.743002+00:00,meta,llama3.3:70b,0,3847,217,Prioritizing heritage and safety
+eb03bd08-5931-419b-8580-72f0984e0b9e,2025-04-02 16:35:47.425718+00:00,meta,llama3.3:70b,0,3847,217,Prioritizing heritage and safety
+be396d67-4bae-4d54-9db2-d04e778b66d7,2025-04-02 16:36:05.706947+00:00,meta,llama3.3:70b,0,3847,217,Prioritizing heritage and safety
+a9d651c6-14b9-44f8-9a7f-3c930c495a21,2025-04-02 16:36:16.733173+00:00,meta,llama3.3:70b,0,3844,218,Prioritizing heritage and safety concerns
+6c308bb5-70db-48f2-9a4b-0ddbd7098410,2025-04-02 16:36:36.530054+00:00,meta,llama3.3:70b,0,3847,218,Prioritizing heritage and functionality balance
+fc6dff05-f931-4dc5-9f0e-13c78f782b12,2025-04-02 16:36:50.748029+00:00,meta,llama3.3:70b,0,3847,218,Prioritizing heritage and safety concerns
+5464141e-cde2-4179-8c42-67e067321f09,2025-04-02 16:37:03.888752+00:00,meta,llama3.3:70b,0,3847,218,Prioritizing heritage and functionality balance
+fc292547-c6c8-48fe-ae1a-e0fa474d8684,2025-04-02 16:37:17.468017+00:00,meta,llama3.3:70b,0,3847,217,Prioritizing heritage and functionality
+3dbacec5-2826-4c1b-b82d-592c085a8ac7,2025-04-02 16:37:31.815141+00:00,meta,llama3.3:70b,0,3847,218,Prioritizing heritage and functionality balance

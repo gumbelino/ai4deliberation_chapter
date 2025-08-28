@@ -1,0 +1,9 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,"P1. Retain existing bridge, but replace the navigation spans and deteriorated components","P2. Retain existing bridge, but replace the navigation spans and deteriorated components and incorporate bridge widening","P3. Construct a new standard bridge next to the current bridge, leaving a section of the existing bridge as a heritage and recreation site","P4. Construct a new bridge that is a major entry statements for Fremantle, leaving a section of the existing bridge as a heritage recreation site",P5. Construct a new standard bridge and retain the existing bridge as a pedestrian/cyclist facility,P6. Construct a new two lane standard bridge and retain the existing bridge as a 2 lane bridge with improved pedestrian/cyclist facilities
+b9f758d5-4851-4f56-b234-7c28662d2bb1,2025-04-17 11:11:24.157793+00:00,google,gemini-2.0-flash-thinking-exp,0,3682,117,5,4,3,2,1,6
+88387c84-fa75-4741-8639-682a09580e90,2025-04-17 11:11:43.771869+00:00,google,gemini-2.0-flash-thinking-exp,0,3948,249,2,3,5,1,4,6
+51832795-a101-4014-a25c-3916294e607f,2025-04-17 11:12:48.061738+00:00,google,gemini-2.0-flash-thinking-exp,0,3948,246,1,3,6,5,2,4
+1e8a2230-82da-46c4-83be-3023ea539b1e,2025-04-17 11:13:19.211963+00:00,google,gemini-2.0-flash-thinking-exp,0,3950,253,2,6,3,1,4,5
+01439da8-fea0-468d-8387-16545b900722,2025-04-17 11:13:50.401639+00:00,google,gemini-2.0-flash-thinking-exp,0,3954,253,4,2,5,6,1,3
+65f9b3d1-9d9b-4054-977f-c45e25770dd9,2025-04-17 11:14:15.967755+00:00,google,gemini-2.0-flash-thinking-exp,0,3952,260,5,1,6,4,3,2
+ab9db68e-2e28-4343-8d07-e857d2e0cb54,2025-04-17 11:15:24.532609+00:00,google,gemini-2.0-flash-thinking-exp,0,3954,252,1,5,4,3,2,6
+ae7a0f27-7a32-4d2a-b187-cd3a8b0e278a,2025-04-17 11:19:45.429332+00:00,google,gemini-2.0-flash-thinking-exp,0,3948,249,1,6,2,5,4,3

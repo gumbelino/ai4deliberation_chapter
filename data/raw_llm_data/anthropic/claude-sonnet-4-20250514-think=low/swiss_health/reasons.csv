@@ -1,0 +1,5 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+50006e08-c2e8-47e7-84d1-08c6a79ab08e,2025-05-29 15:19:44.373445+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,4449,2135,I support income-based universal care and fixing inefficiencies while opposing deregulation
+731d0744-4ccf-4c94-b04e-b4bd5b7e30bc,2025-05-29 15:21:16.484262+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,4396,1643,Favored universal income-based system and efficiency fixes over deregulation and removing coverage
+949a13da-e783-43cf-bb20-10cfb2809130,2025-05-29 15:21:54.787125+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,4362,1552,I prioritized fixing inefficiencies and ensuring universal access over market competition and status quo
+fad9f4e4-101f-4106-a60d-88eb856346a7,2025-05-29 15:22:30.226948+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,4443,1353,I favored universal income-based systems and government support over market competition or status quo

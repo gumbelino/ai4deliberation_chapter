@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c4fe6f22-0ae7-4c7f-a475-3d25b4dea20d,2025-03-24 22:15:09.818379+00:00,cohere,command-r,0,3017.0,171.0,"My ratings reflect a holistic approach to mental health, prioritizing awareness, access to services, and socioeconomic factors over reduction of resources and privatization."
+cac2ab8c-d501-4345-9b68-9463eb063462,2025-03-24 22:15:15.913378+00:00,cohere,command-r,0,3017.0,166.0,"My ratings reflect a focus on socioeconomic factors, prevention, and destigmatization over private solutions and status quo."
+0bc3ea30-788e-461a-8532-5329818be81c,2025-03-24 22:15:19.501309+00:00,cohere,command-r,0,3017.0,162.0,"My ratings reflect a focus on prevention, destigmatization, and accessible, comprehensive care."
+640325f1-0cab-44f0-b2a0-322a356823d5,2025-03-24 22:15:22.958178+00:00,cohere,command-r,0,3017.0,163.0,"My ratings reflect a focus on accessibility, awareness, and socioeconomics over privatization and status quo."
+69786255-48e8-478e-9dfa-66afd1c35a37,2025-03-24 22:15:26.380697+00:00,cohere,command-r,0,3017.0,165.0,"My ratings reflect a holistic approach to mental health, prioritizing prevention, awareness, and access to quality services."

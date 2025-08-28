@@ -1,0 +1,37 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+415f0fae-8b32-4462-a97f-1a3de89bee91,2025-03-20 18:13:13.809564+00:00,meta,llama3.2,0,0,0,Ratings reflect support for reducing bureaucracy and increasing personal responsibility over universal public healthcare.
+a78f61ca-6a46-4859-a862-a8c8af89c2b1,2025-03-20 18:13:24.932838+00:00,meta,llama3.2,0,0,0,Supports some government regulation and financial support for the most vulnerable.
+552df789-a1c4-4460-8412-d469102728f5,2025-03-20 18:13:40.998551+00:00,meta,llama3.2,0,0,0,"Universal public system rated most supportive, followed by fixing inefficiencies and individual subsidies."
+d7ec5c64-4206-4373-bd81-239c043c3b88,2025-03-20 18:13:52.454083+00:00,meta,llama3.2,0,0,0,"Universal system wins, followed by deregulation, then fixing inefficiencies, then abolishing mandatory insurance, no change needed, and most government control."
+126033e3-125c-4db1-949e-b1bea3f5ea89,2025-03-20 18:14:04.572638+00:00,meta,llama3.2,0,0,0,I ranked universal public healthcare over personal responsibility due to its comprehensive coverage.
+e80643c6-cbbd-4611-90d5-f84600c38be9,2025-03-20 18:14:14.752640+00:00,meta,llama3.2,0,0,0,"Universal system is top priority, followed by financial inefficiency fix, then less regulation and control."
+1e2a353c-950f-4297-848d-a76fd8e2eb74,2025-03-20 18:14:24.705381+00:00,meta,llama3.2,0,0,0,Generally support public system with financial assistance but value efficiency and private competition.
+1ef98057-917f-4fe6-9da1-4192a956ef80,2025-03-20 18:14:41.331213+00:00,meta,llama3.2,0,0,0,Abolishing mandatory health insurance and increasing out-of-pocket payments is the least supported option.
+43e130d4-14dd-471f-b4fe-11877d96f242,2025-03-20 18:23:21.283397+00:00,meta,llama3.2,0,0,0,More government control and financial support are preferred over private competition.
+1749ddb6-27fb-49dc-af6d-07d73beee1dd,2025-03-20 18:23:29.777057+00:00,meta,llama3.2,0,0,0,Ratings reflect desire for balance between individual responsibility and government support.
+4aa48fb8-7001-4ad2-8ebe-33836d6f2ab2,2025-03-20 18:23:42.611253+00:00,meta,llama3.2,0,0,0,"I prefer fixing inefficiencies, supporting public healthcare with subsidies, and limiting private influence."
+0685ba12-3bbf-4ee5-843f-3c01e0cac52e,2025-03-20 18:23:51.217525+00:00,meta,llama3.2,0,0,0,"Universal system is least preferred, followed by increased responsibility and no changes."
+65131ab1-a872-402a-8c67-d8d510c4845d,2025-03-20 18:23:59.887792+00:00,meta,llama3.2,0,0,0,"Ratings reflect support for gradual, progressive change with some government involvement."
+d31d9053-dca0-43cf-b5aa-863997ff7d7b,2025-03-20 18:24:08.278972+00:00,meta,llama3.2,0,0,0,More government control over healthcare is preferred to reducing personal responsibility and private competition.
+ca3df455-0b91-46a8-899a-2f2feea05feb,2025-03-20 18:24:16.957283+00:00,meta,llama3.2,0,0,0,More government control and public support align with my previous ratings.
+a850df9e-19c8-4676-b07c-88d6b5430558,2025-03-20 18:24:29.757852+00:00,meta,llama3.2,0,0,0,"Universal system with income-based payments wins, while private competition and minimal changes prevail."
+cbbb8d96-e63c-4050-8983-a0c127789464,2025-03-27 14:56:52.353800+00:00,meta,llama3.2,0,0,0,Universal healthcare is best with government support and regulation.
+9768f84e-e954-4fdd-b5b2-71136336d554,2025-03-27 14:56:58.305732+00:00,meta,llama3.2,0,0,0,Reduced government intervention and personal responsibility are preferred over increased public control.
+f3e204c6-4d53-46bf-97d9-58d88f28a8bc,2025-03-27 14:57:07.346199+00:00,meta,llama3.2,0,0,0,Supporting universal healthcare with income-based payment system and abolishing mandatory insurance to promote efficiency.
+7fc779ac-fd14-4325-b49a-80579e0d18f5,2025-03-27 14:57:13.249782+00:00,meta,llama3.2,0,0,0,"Public control and increased subsidies are preferred, private competition is next, fixing inefficiencies is better than abolishing mandatory insurance."
+2c354fe4-288a-4d4b-ac2d-b28f15d454b5,2025-03-27 14:57:19.330624+00:00,meta,llama3.2,0,0,0,"Universal system supports most, while abolishing mandatory insurance and reduced regulation are least preferred."
+b61c1ae3-2319-498e-831e-baaf9e117a1c,2025-03-27 14:57:25.322889+00:00,meta,llama3.2,0,0,0,Government control and public support are preferred over private control and personal responsibility.
+bc2d1fc0-c560-4017-911d-6f9c6015d141,2025-03-27 14:57:31.232481+00:00,meta,llama3.2,0,0,0,"Rated policies for efficiency, support for public system, and prioritizing government control over private competition."
+3d861b35-754a-4c45-a10a-e52706f676ae,2025-03-27 14:57:40.453445+00:00,meta,llama3.2,0,0,0,More government support and public healthcare preferred over private control.
+5032fd56-cd5d-438b-8f77-a99b57c9c035,2025-03-27 15:51:40.720719+00:00,meta,llama3.2,0,0,0,"More control and subsidies support universal access, while minimal change preferred for efficiency."
+b75b32fd-f856-471d-8fb5-866034118f9a,2025-03-27 15:51:46.817850+00:00,meta,llama3.2,0,0,0,"Supports increasing government control and public system, while opposing abolishing mandatory insurance."
+815a810c-0667-4e2f-96a9-60446af55c18,2025-03-27 15:51:55.976628+00:00,meta,llama3.2,0,0,0,Higher taxes and controls for lower costs and more support for those needing help.
+3c1489e0-46e7-4576-bd3f-663f7ec9087f,2025-03-27 15:52:07.943172+00:00,meta,llama3.2,0,0,0,More personal responsibility and private competition are preferred over increased government control.
+d453abd4-8443-439c-990a-ddd99430320d,2025-03-27 15:52:16.855268+00:00,meta,llama3.2,0,0,0,More government control is preferred over reducing regulation and personal responsibility.
+96ad1bb6-e5c0-40a5-9ec5-ebdddc8b5733,2025-03-27 15:52:25.772176+00:00,meta,llama3.2,0,0,0,More government control is best to ensure healthcare access for all but should be combined with private competition.
+0a11ebec-d42f-417d-90db-6d1fd12d38c6,2025-03-27 15:52:31.717193+00:00,meta,llama3.2,0,0,0,"Universal public system is most supported, but current system works well."
+5581a05d-a92a-4701-99fa-80347303fe30,2025-03-27 15:52:40.867021+00:00,meta,llama3.2,0,0,0,"Ratings reflect support for universal healthcare, regulation reduction, and financial assistance."
+2b9d0b7e-5271-492f-ba7c-d6332455bbb1,2025-03-27 15:52:52.800352+00:00,meta,llama3.2,0,0,0,Universal system wins; inefficiency fixes come second; individual responsibility over public support.
+671ff3ea-01f3-4291-8005-d81c1165eab3,2025-03-27 15:52:58.716057+00:00,meta,llama3.2,0,0,0,I rated option 1 (less regulation) highly for efficiency but lower for fairness and accessibility.
+db50564d-283b-4d5f-b371-3561ac30b672,2025-03-27 15:53:04.840511+00:00,meta,llama3.2,0,0,0,"Higher taxes and government control support lower costs, universal care."
+5afcf6cb-94f2-4c4d-9207-c1099018b4fd,2025-03-27 15:53:10.734879+00:00,meta,llama3.2,0,0,0,Public control and subsidies are preferred over private competition and personal responsibility.

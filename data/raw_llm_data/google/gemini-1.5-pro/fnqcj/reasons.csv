@@ -1,0 +1,39 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+9925d004-151b-44db-92d5-e10d1a41c313,2025-03-20 10:11:21.876535+00:00,google,gemini-1.5-pro,0,4519,286,Prioritize upgrading the road for broader access while minimizing environmental impact.
+06d5835c-34ce-4d3b-9f57-330d95d5ca67,2025-03-20 10:11:29.299514+00:00,google,gemini-1.5-pro,0,4513,281,"Prioritize environment, sustainable access, and community benefit."
+8c938655-2a61-4699-a721-f30754297216,2025-03-20 10:11:36.584082+00:00,google,gemini-1.5-pro,0,4513,280,Prioritize environmental protection while allowing reasonable community access.
+5ccec249-4180-4ce6-8798-511781f60ad5,2025-03-20 10:11:43.463439+00:00,google,gemini-1.5-pro,0,4511,279,Prioritize environmental protection while acknowledging community access needs.
+57105347-a255-414d-b79f-b29947ecfa77,2025-03-20 10:11:50.737797+00:00,google,gemini-1.5-pro,0,4525,289,Prioritize Daintree rainforest protection and limit environmental damage from development.
+b32686d5-57ae-4457-958b-a3bfbebc1e3e,2025-03-20 10:11:58.076613+00:00,google,gemini-1.5-pro,0,4517,284,"Prioritize environment, access for locals, and limit development."
+56729904-a165-4b13-83f1-c279f100eab5,2025-03-20 10:12:05.484915+00:00,google,gemini-1.5-pro,0,4517,284,Prioritize environmental protection and responsible access while considering community needs.
+30052c6b-1473-4680-8a38-d3a59109d85a,2025-03-20 10:12:12.748112+00:00,google,gemini-1.5-pro,0,4519,284,"Prioritize environment, sustainable access, and community benefits."
+3f9c888f-bf6b-4a09-b65c-4aad71a2ffe2,2025-03-20 10:12:20.022589+00:00,google,gemini-1.5-pro,0,4515,286,Prioritize environmental protection while allowing some access; upgrading to bitumen is worst.
+61db00a0-ad87-4b91-8faf-1a40051a9996,2025-03-20 10:12:27.930169+00:00,google,gemini-1.5-pro,0,4523,287,Prioritize environmental protection and responsible access while considering community needs.
+88e883dc-8931-49d8-be86-53b814b27316,2025-03-25 13:19:14.034974+00:00,google,gemini-1.5-pro,0,4517,285,Prioritize upgrading the road for broader access while minimizing environmental impact.
+f6c2b6ba-81e7-4986-878a-da1c4b129f8f,2025-03-25 13:19:20.276458+00:00,google,gemini-1.5-pro,0,4515,282,"Prioritize environment, sustainable access, and community benefit."
+f1cea525-b6ae-49f9-983c-1688524d67f7,2025-03-25 13:19:26.222713+00:00,google,gemini-1.5-pro,0,4513,280,Prioritize environmental protection while allowing reasonable community access.
+86d75f5c-2444-458e-8b3b-00a66227242f,2025-03-25 13:19:32.559037+00:00,google,gemini-1.5-pro,0,4511,279,Prioritize environmental protection while acknowledging community access needs.
+b1804b10-ce2d-4d38-9b16-0296614de457,2025-03-25 13:19:38.570406+00:00,google,gemini-1.5-pro,0,4525,291,Prioritize environmental protection and limit development's impact on the Daintree.
+e23741eb-214c-4fc7-83ab-263723f3b333,2025-03-25 13:19:44.960654+00:00,google,gemini-1.5-pro,0,4515,284,Prioritize environmental protection while allowing some access; upgrading is harmful.
+dee6e910-b38d-46b8-8e55-0374b6fbf86f,2025-03-25 13:19:51.208293+00:00,google,gemini-1.5-pro,0,4521,286,Prioritize environmental protection and responsible access while considering community needs.
+a7781a99-7054-4d25-bcba-2ae82109e118,2025-03-25 13:19:57.455786+00:00,google,gemini-1.5-pro,0,4521,286,Prioritize environmental protection and sustainable access while considering local interests.
+3d970f0e-03e3-4bfe-833e-4fb565037f71,2025-03-25 13:20:03.586277+00:00,google,gemini-1.5-pro,0,4515,287,Prioritize environmental protection while allowing some access; upgrading is acceptable but not paving.
+5f52a1f7-cab7-4a5c-930f-6f2a88b03b59,2025-03-25 13:20:10.036404+00:00,google,gemini-1.5-pro,0,4523,288,"Prioritize environmental protection and responsible development, balancing access with preservation."
+c255d428-a053-40aa-a80a-5eee06b81e8d,2025-03-27 09:43:29.613788+00:00,google,gemini-1.5-pro,0,4513,280,Prioritize environmental protection while allowing reasonable community access.
+7312d37a-8599-4bb1-b4db-a64a4f8a1381,2025-03-27 09:43:35.552355+00:00,google,gemini-1.5-pro,0,4511,279,Prioritize environmental protection while acknowledging community access needs.
+13cc49b7-13cb-4eb0-b6a6-dfe56b0d0ff5,2025-03-27 09:43:41.624905+00:00,google,gemini-1.5-pro,0,4525,294,"Prioritize environment, access, and community needs. Upgrading dirt road balances these best."
+f62dc4dd-6963-4493-9d1a-5c4269eda979,2025-03-27 09:43:48.196327+00:00,google,gemini-1.5-pro,0,4517,284,Prioritize environmental protection and responsible access while minimizing further development.
+a1b51c37-00f6-441d-89b8-27279ab5f245,2025-03-27 09:43:54.572377+00:00,google,gemini-1.5-pro,0,4519,285,Prioritize environmental protection and responsible access while considering community needs.
+9e4d83e8-d583-4421-880f-316223007be2,2025-03-27 09:44:00.705276+00:00,google,gemini-1.5-pro,0,4521,287,Prioritize environmental protection and sustainable access while considering local community needs.
+30291c0e-ca92-4f93-a2d3-b82418763797,2025-03-27 09:44:06.826200+00:00,google,gemini-1.5-pro,0,4515,286,Prioritize environmental protection while allowing some access; upgrading to bitumen is excessive.
+6c396c38-048f-4875-a0f5-acf792b45969,2025-03-27 09:44:13.243441+00:00,google,gemini-1.5-pro,0,4523,293,"Prioritize environment, sustainable access, and community benefit. Oppose full closure or paving."
+86e0ca08-462f-40e0-b41f-7e2e2b56ffeb,2025-03-27 09:44:19.655140+00:00,google,gemini-1.5-pro,0,4513,286,Prioritize environmental protection while allowing some access; upgrading dirt road balances these concerns.
+2a6836ac-90b0-47d8-bd5f-4cc4a6cc6c8b,2025-03-27 09:44:26.166079+00:00,google,gemini-1.5-pro,0,4513,286,"Prioritize environment, limit development impact, acknowledge local concerns but favor broader community."
+8d0f7493-2ec0-4c25-8213-b4b3db09baa4,2025-03-27 09:44:32.271909+00:00,google,gemini-1.5-pro,0,4511,286,"Prioritize environment, local say, sustainable access. Oppose major upgrades or closure."
+46ad8559-a3e5-47f3-87ed-aa4fade7614c,2025-03-27 09:44:38.466032+00:00,google,gemini-1.5-pro,0,4513,282,Prioritize environmental protection and responsible access while considering community needs.
+bd55e9f8-28a9-4e46-9877-52a14310a292,2025-03-27 10:07:33.832836+00:00,google,gemini-1.5-pro,0,4511,287,"Prioritize environment, sustainable access, and community benefits. Oppose full closure or paving."
+1f841495-0cc9-400f-a8d9-369ec4243c69,2025-03-27 10:07:40.475014+00:00,google,gemini-1.5-pro,0,4519,286,Prioritize environmental protection while allowing some access; upgrading is harmful.
+eb2a693e-704a-44bb-b9dc-a00205d43911,2025-03-27 10:07:46.891106+00:00,google,gemini-1.5-pro,0,4515,285,"Prioritize environment, limit damage, controlled access benefits locals and nature."
+be961055-0eb6-4d6f-a994-17d245b5152f,2025-03-27 10:07:53.988321+00:00,google,gemini-1.5-pro,0,4511,284,Prioritize environmental protection while allowing some access; upgrading to bitumen is excessive.
+b0243173-b65f-4193-945b-201fc08f1c17,2025-03-28 10:14:01.644021+00:00,google,gemini-1.5-pro,0,4529,290,Prioritize environmental protection and responsible access while considering community needs.
+aa201130-eeab-4540-ab8c-88079676e700,2025-03-28 10:14:07.989681+00:00,google,gemini-1.5-pro,0,4525,288,Prioritize environmental protection and responsible access while minimizing further development.

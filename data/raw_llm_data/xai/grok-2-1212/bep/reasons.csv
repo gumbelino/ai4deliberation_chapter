@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+abe806fb-8142-4cfb-a083-00786b39d688,2025-04-08 10:26:01.174434+00:00,xai,grok-2-1212,0,4336,300,"Ranked policies based on sustainability, local support, and balanced regulation."
+13fe5717-ecb1-4a02-9e90-6220b9561eba,2025-04-08 11:10:32.507172+00:00,xai,grok-2-1212,0,4336,300,"Supported local sustainable farming most, opposed deregulation and status quo."
+919cabcc-2788-4fe4-812e-7e4d7a63f4cd,2025-04-08 11:10:40.051613+00:00,xai,grok-2-1212,0,4336,298,Local incentives and moderate regulations best balance sustainability and practicality.
+d847f5e6-f280-467a-9e03-3edfccad2043,2025-04-08 11:10:46.489703+00:00,xai,grok-2-1212,0,4336,298,Local incentives and moderate regulations best balance sustainability and practicality.
+242c0cac-641e-4d33-8215-c52f916e2838,2025-04-08 11:10:53.492949+00:00,xai,grok-2-1212,0,4333,299,Local sustainable incentives are most effective; fewer regulations least beneficial.
+a61d0c98-2533-4945-9eb9-5fa6bc0ce0c7,2025-04-08 11:11:01.258867+00:00,xai,grok-2-1212,0,4336,308,"Prioritized local sustainable incentives, balanced regulations, and tech for resilience; opposed deregulation and status quo."
+a42d2f9b-b8fc-478f-a6f8-4a1072647234,2025-04-08 11:11:08.543991+00:00,xai,grok-2-1212,0,4336,305,"Prioritized local sustainable incentives, strong regulations, and adaptation over deregulation and status quo."
+410a15a5-d651-4111-8695-4dbc1fe16abc,2025-04-08 11:11:15.632693+00:00,xai,grok-2-1212,0,4333,302,Prioritized local sustainable production and moderate regulations for balanced environmental and economic benefits.
+d933b2b4-ead1-4f48-b091-ff096e9d04ea,2025-04-08 11:11:23.486132+00:00,xai,grok-2-1212,0,4336,300,"Supported local sustainable incentives most, opposed deregulation and status quo."
+cd28cb84-1ccb-4e2d-850f-9152e7471bcf,2025-04-08 11:11:30.954141+00:00,xai,grok-2-1212,0,4336,299,"Supported local, sustainable farming; opposed deregulation and inaction."
+cb005cbc-5c0d-40a8-a20d-a59785a01c2e,2025-04-08 11:11:38.316342+00:00,xai,grok-2-1212,0,4336,301,Prioritized local sustainable incentives and moderate regulations for balanced impact and feasibility.
+5a037236-75b3-4883-b7e0-4d8a543b66e2,2025-04-08 11:11:46.008374+00:00,xai,grok-2-1212,0,4336,303,Local and moderate sustainable policies are most supported; radical changes and deregulation least.
+a816522d-9212-48f1-9124-724dc69fd0a2,2025-04-08 11:11:53.278756+00:00,xai,grok-2-1212,0,4336,302,Strongest support for radical sustainable policies to address climate and food system issues.
+de6d3e60-402c-41b3-b49e-7e59a2b4ea27,2025-04-08 11:12:00.853270+00:00,xai,grok-2-1212,0,4333,304,"Local sustainable incentives are most supported; fewer regulations least, as they may harm sustainability."
+399cc2b9-9bfc-4b79-a5b4-62a52966e591,2025-04-08 11:12:08.427743+00:00,xai,grok-2-1212,0,4336,297,Moderate sustainable regulations balance environmental and economic needs effectively.
+beb06f29-943d-438b-a91a-cb6cfe8bf193,2025-04-08 11:12:15.382536+00:00,xai,grok-2-1212,0,4336,304,"Prioritized local sustainable incentives, balanced regulations, and adaptation over deregulation or inaction."
+e3f976ec-1919-4b33-b00b-695955c274b8,2025-04-08 11:12:22.096094+00:00,xai,grok-2-1212,0,4336,300,"Supported local sustainable incentives most, opposed deregulation and status quo."
+03c62cfb-57ea-4e83-b2be-9617bc023e56,2025-04-08 11:12:29.346270+00:00,xai,grok-2-1212,0,4333,295,Moderate regulations balance sustainability and practicality effectively.
+0eb04019-a734-4c4d-97fd-75558f1a8df8,2025-04-08 11:12:43.473414+00:00,xai,grok-2-1212,0,4336,300,Supported local sustainable incentives most; opposed deregulation and status quo.
+8f895723-3219-4290-8cf2-7d71eed182d2,2025-04-08 11:12:50.726213+00:00,xai,grok-2-1212,0,4336,300,"Supported local sustainable incentives most, opposed deregulation and status quo."
+1aa8748b-54cc-4877-b2df-70bcbae7b34e,2025-04-08 11:12:57.826023+00:00,xai,grok-2-1212,0,4336,302,Prioritized local sustainable incentives and moderate regulations for balanced environmental and economic benefits.
+b0a2a7b3-02de-434c-91f6-6e66e5ddd637,2025-04-08 11:13:04.845034+00:00,xai,grok-2-1212,0,4336,302,Prioritized local sustainable incentives and moderate regulations for balanced environmental and economic benefits.
+45e7a1b8-0a53-4d41-96b6-ab113aef48d5,2025-04-08 11:13:11.929084+00:00,xai,grok-2-1212,0,4336,303,"Supported local sustainable farming and moderate regulations most, opposed minimal change and deregulation."
+f208ad91-9b05-4915-97c1-2191eba851e3,2025-04-08 11:13:20.805055+00:00,xai,grok-2-1212,0,4336,300,"Supported local sustainable farming most, opposed deregulation and status quo."
+acd2617f-63f1-44c8-918e-607e2e510ad9,2025-04-08 11:13:27.489416+00:00,xai,grok-2-1212,0,4336,304,"Prioritized local sustainable incentives, moderate regulations, and adaptation over minimal or radical changes."
+f16a1582-ac5a-4b32-b5d3-3a886d478166,2025-04-08 11:13:36.471973+00:00,xai,grok-2-1212,0,4333,301,Local and sustainable food production is prioritized over deregulation and status quo.
+3647aeeb-56c8-4116-9a6a-5fddc70968c4,2025-04-08 11:13:43.732380+00:00,xai,grok-2-1212,0,4336,300,"Supported local sustainable farming most, opposed deregulation and status quo."
+95306808-57b4-4cab-8151-91636b08c946,2025-04-08 11:13:51.139477+00:00,xai,grok-2-1212,0,4336,302,Prioritized local sustainable incentives and moderate regulations for balanced environmental and economic benefits.
+0c4c5e3a-a421-4b09-839b-30ad72d8dc5f,2025-04-08 11:13:58.873350+00:00,xai,grok-2-1212,0,4333,301,Local and sustainable food production is prioritized over deregulation and status quo.
+5fe39292-6295-4da1-bc2e-bf41e9cd5289,2025-04-08 11:14:09.982344+00:00,xai,grok-2-1212,0,4336,299,Local sustainable incentives and moderate regulations best balance economy and environment.
+88636bc6-a189-4220-94b3-db386ec9cbce,2025-04-08 11:14:18.172015+00:00,xai,grok-2-1212,0,4336,301,Local sustainable incentives and moderate regulations best balance food security and environmental health.

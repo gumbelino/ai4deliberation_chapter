@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+cf33e4b1-c47e-4166-9d44-306571063c8c,2025-03-21 06:56:53.579567+00:00,google,gemma2,0,0,0,Balancing incentives and regulation for sustainable food systems is key.
+b651634b-da69-4685-b943-a1ea1d495d17,2025-03-21 06:57:10.243489+00:00,google,gemma2,0,0,0,"Moderate regulation, local incentives, and research are most appealing for sustainable food production."
+d9aa5751-5132-4bba-b9f4-639e8771e999,2025-03-21 07:14:09.826006+00:00,google,gemma2,0,0,0,Moderate regulation with incentives for sustainability is preferable while avoiding excessive control and free trade focus.
+a837473d-d173-4b3b-8096-d113c71736d2,2025-03-21 07:14:26.434733+00:00,google,gemma2,0,0,0,Prioritize research and moderate regulation for sustainable food production.
+8346c69f-67a4-4baf-a5f2-b87c327250e4,2025-03-21 07:28:26.330309+00:00,google,gemma2,0,0,0,Moderate regulation and incentives for local sustainable food production are best.
+7d85bd24-a626-4c39-bca8-8d3d6489d15b,2025-03-21 07:28:43.396751+00:00,google,gemma2,0,0,0,Prioritize research and incentives while allowing for some regulation.
+7b26bc10-d511-44e5-8e57-15988b4056c1,2025-03-21 07:29:00.119622+00:00,google,gemma2,0,0,0,"Incentives for sustainable practices are best, radical bans are worst."
+b6f5d141-46b1-40ce-9a44-c248cd302f85,2025-03-21 07:29:19.964074+00:00,google,gemma2,0,0,0,Prioritize incentives and moderate regulation over radical change.
+6146c398-c179-4835-af7a-05f88244fb26,2025-03-21 07:29:36.435244+00:00,google,gemma2,0,0,0,Moderate regulation with local incentives is best; extreme approaches are too drastic.
+a167df92-9e6e-4fd2-bd22-dfd97557fe53,2025-03-21 07:29:52.703506+00:00,google,gemma2,0,0,0,Moderate regulation and incentives for local sustainable production are most favored.

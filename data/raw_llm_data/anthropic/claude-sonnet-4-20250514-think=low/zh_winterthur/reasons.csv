@@ -1,0 +1,5 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+534e7245-136d-4182-b43c-df474a4b0943,2025-05-29 14:42:29.253598+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5369,1764,Prioritized research and moderate sustainability over radical regulation or maintaining status quo
+aabe0e38-74e3-42ad-ba3f-12cef87840a0,2025-05-29 14:43:48.535342+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5346,1776,I favor incentives for local sustainable producers and moderate regulation over radical bans or deregulation
+0f2e6718-b11c-42bd-b020-e7d17f526cbf,2025-05-29 14:44:34.133991+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6248,1955,"Prefer research and incentives over regulation, moderate over radical, action over status quo"
+458924df-ae4c-4b9c-9a8c-4992174132ab,2025-05-29 14:45:23.117448+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5789,2180,I prioritize local farmer support and research over radical or minimal regulation changes

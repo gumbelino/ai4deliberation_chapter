@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+e2a56e87-6284-4a78-97d3-0ec99657ccae,2025-04-01 15:03:34.311265+00:00,openai,o3-mini,0,3579,5888,Support reef and eco-innovation while limiting coal and harmful extractive industries.
+45d7c3f2-9096-46d7-bb89-6e2be04458cf,2025-04-01 15:04:21.792394+00:00,openai,o3-mini,0,3579,4415,I ranked eco-friendly policies highest aligning with reef protection while minimizing mining.
+d7b183e9-bd3e-4cd0-a5e0-abd968aec17a,2025-04-01 15:04:48.856127+00:00,openai,o3-mini,0,3579,5632,I prioritized reef protection and eco innovation over mining growth and regulatory cuts.
+dc3b0bbd-a2a7-4337-9318-5440418a1487,2025-04-01 15:05:51.326541+00:00,openai,o3-mini,0,3579,4735,I prioritized strong environmental protection and swift coal phaseout while favoring innovation
+0be31c81-a6a1-41c7-8765-3f91e052502b,2025-04-01 15:06:34.396721+00:00,openai,o3-mini,0,3579,4799,I prioritized strong climate action and reef protection with low endorsement for mining expansion

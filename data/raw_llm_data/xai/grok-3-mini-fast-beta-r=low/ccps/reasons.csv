@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+6d605178-fb52-4b66-ba96-4ca19993188b,2025-05-20 12:48:17.978212+00:00,xai,grok-3-mini-fast-beta-r=low,0,10377,213,Prioritized aggressive emission cuts and adaptation over growth and inaction.
+a64dea23-2740-4d1c-860b-5b110e8b6bdd,2025-05-20 12:48:39.308732+00:00,xai,grok-3-mini-fast-beta-r=low,0,11331,216,I support policies prioritizing emission reductions and adaptation over inaction due to climate urgency.
+e4da2ecf-a4b1-44f7-b2bf-a42ec15c1b93,2025-05-20 12:49:02.746363+00:00,xai,grok-3-mini-fast-beta-r=low,0,8949,219,"I support aggressive emission reductions and adaptation most, prioritizing action over inaction or growth-focused policies."
+48f2a527-89d4-43a5-9ecd-e1417bba5314,2025-05-20 12:49:20.365044+00:00,xai,grok-3-mini-fast-beta-r=low,0,9796,216,Prioritized policies for emission cuts and adaptation due to strong climate action support.
+eae4da1d-ce51-4a94-96bf-ed5f23213933,2025-05-20 12:49:39.590314+00:00,xai,grok-3-mini-fast-beta-r=low,0,9985,216,"Prioritized emission cuts for urgent action, then adaptation, least for inaction."

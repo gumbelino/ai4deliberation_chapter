@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+e1cf7f19-be4e-477a-902f-31bd80ad6304,2025-04-08 14:35:02.074809+00:00,openai,gpt-4.5-preview,0,3645,241,"Oversight essential, prevent discrimination, ensure community benefit, consent when identifiable."
+b05c4f6c-4f3d-49ed-b19c-2ab9f639d74d,2025-04-08 14:35:33.919645+00:00,openai,gpt-4.5-preview,0,3645,239,Preventing discrimination and individual consent are prioritized over general societal benefits.
+e1846838-66c0-464b-b054-a43e905b3584,2025-04-08 14:36:06.305323+00:00,openai,gpt-4.5-preview,0,3645,239,Protecting from discrimination and strong oversight are my highest policy priorities.
+c646f0a9-a8e7-423d-8132-9063b5cb7794,2025-04-08 14:36:32.781445+00:00,openai,gpt-4.5-preview,0,3645,241,"Prioritized ethics oversight, individual consent, and community benefit; discrimination least."
+5a26ca6d-2910-4bd1-9f76-0b1977215c3b,2025-04-08 14:37:00.395478+00:00,openai,gpt-4.5-preview,0,3645,240,"Prioritized consent, oversight, privacy protection, and preventing discrimination risks."
+96dd3d91-868b-43e4-9789-04f22d3e2272,2025-04-10 08:03:49.308751+00:00,openai,gpt-4.5-preview,0,3645,239,Individual consent and ethics oversight are essential; preventing discrimination also important.
+9e48c978-f27f-4f89-95be-541ac1cafbfe,2025-04-10 08:04:08.317421+00:00,openai,gpt-4.5-preview,0,3645,236,Individual consent and preventing discrimination are my highest priorities.
+784aa518-37e0-47d2-bdbc-eed5132f6f9a,2025-04-10 08:04:24.556241+00:00,openai,gpt-4.5-preview,0,3645,240,"Prioritized ethics oversight, individual consent, community benefit, preventing discrimination."
+191e454a-099f-469e-9eb3-00d63f129a16,2025-04-10 08:04:44.884621+00:00,openai,gpt-4.5-preview,0,3645,240,"Prioritized oversight, preventing discrimination, and community benefits over individual consent."
+517c63ef-5be0-4599-94b1-4a38f8abd050,2025-04-10 08:05:02.184438+00:00,openai,gpt-4.5-preview,0,3645,240,"Prioritized ethics approval, individual consent, privacy protection, preventing discrimination."

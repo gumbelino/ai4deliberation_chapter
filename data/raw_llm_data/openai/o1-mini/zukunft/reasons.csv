@@ -1,0 +1,5 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+8e4b9f1c-c4a0-424b-a7d5-4a94625cf2d3,2025-04-01 13:01:30.525310+00:00,openai,o1-mini,0,3024,3525,"I support socioeconomic initiatives, increased funding, awareness campaigns, integrated clinics, private funding, and oppose service reductions or maintaining status quo."
+8bf4040d-298c-489d-b42c-bb9378610b88,2025-04-01 13:01:54.941801+00:00,openai,o1-mini,0,3024,4037,"Prioritized increasing funding and socioeconomic initiatives, then awareness campaigns, integrated clinics, private funding, reducing services, and maintaining current funding."
+61d8d648-7fed-4a5d-ad04-3588325e819c,2025-04-03 14:26:35.657928+00:00,openai,o1-mini,0,3024,3837,"Highest priority to increasing funding, awareness campaigns, and socioeconomic initiatives; least support reducing services."
+d15b3bb9-9708-4e8b-ba18-3c6f8246f623,2025-04-03 14:27:25.079926+00:00,openai,o1-mini,0,3024,3714,"Prioritize increasing funding and awareness, integrate services, improve socioeconomic conditions, and reduce focus on private and reducing services."

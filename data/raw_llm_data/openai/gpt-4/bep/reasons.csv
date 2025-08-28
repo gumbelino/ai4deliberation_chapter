@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+b5bd5453-6d73-4635-8638-ef1246909cd6,2025-03-26 08:05:10.326530+00:00,openai,gpt-4,0,4192,267,"I prioritize local, sustainable farming and climate resilience over deregulation or status quo."
+8a863394-76c6-46f9-8ae6-67b5fc6e7afb,2025-04-01 11:51:50.007477+00:00,openai,gpt-4,0,4192,264,"I prioritize policies that support local, sustainable farming and climate resilience."
+6d47e030-4205-4aba-b127-68d76574bcae,2025-04-01 11:52:03.390465+00:00,openai,gpt-4,0,4192,268,"I support policies that enhance resilience, plan for emergencies, and incentivize sustainable farming."
+4f661fbf-fab6-44a4-bbd1-acbec4f8e09c,2025-04-01 11:52:16.566770+00:00,openai,gpt-4,0,4192,267,"I prioritize local, sustainable production and climate resilience over deregulation or status quo."
+ce75154f-2cfc-4da2-87c0-2809f0a1c329,2025-04-01 11:52:33.467196+00:00,openai,gpt-4,0,4192,269,"I prioritize local, sustainable production and moderate regulations, while opposing laissez-faire policies."
+1effb988-3f89-457c-b28d-ba663ca6bc0e,2025-04-01 11:52:53.672992+00:00,openai,gpt-4,0,4192,267,"I prioritize sustainable and resilient food production, with a balance between regulation and incentives."
+50f3b070-275a-4ac7-a3af-26f99ca9a33e,2025-04-03 17:00:54.505797+00:00,openai,gpt-4,0,4192,265,I prioritize sustainable and local food production and moderate regulation over radical changes.
+8d2b2c7b-cec0-4d89-b541-8470ba4e67d2,2025-04-03 17:01:09.730296+00:00,openai,gpt-4,0,4192,267,"I prioritize sustainable, local production and moderate regulations over radical changes or status quo."
+8612466b-65dd-4ed4-9dfa-002510a0c962,2025-04-03 17:01:25.975886+00:00,openai,gpt-4,0,4192,266,"I prioritize local, sustainable food production and climate risk preparation over deregulation."
+695b28f2-6959-4177-a252-8cf4b7093edf,2025-04-03 17:01:41.102915+00:00,openai,gpt-4,0,4189,266,"I prioritize sustainable and local food production, and moderate regulation over radical changes."
+b2dc944e-d6b8-4783-9850-55704da3bedd,2025-04-08 09:46:57.360781+00:00,openai,gpt-4,0,4192,266,"I prioritize policies that support local, sustainable farming and prepare for climate risks."
+1a440c6c-8dc3-4c9a-aae8-717e9bb6eb44,2025-04-08 09:47:11.538430+00:00,openai,gpt-4,0,4189,263,I support policies that promote sustainable local production and climate resilience.
+4a0bf555-23d2-45a6-b4af-7d7f059bbb85,2025-04-08 09:47:25.932480+00:00,openai,gpt-4,0,4192,263,I support policies that promote sustainable local production and moderate regulations.
+08a8948a-f6d8-4d5c-aa4b-8c9008d0edc8,2025-04-08 09:47:37.772701+00:00,openai,gpt-4,0,4189,265,I prioritize sustainable and local food production and climate adaptation over deregulation.
+49aa4c66-da32-45a6-a80c-99c39626f461,2025-04-08 09:47:50.398708+00:00,openai,gpt-4,0,4192,265,"I prioritize sustainable and local food production, and proactive climate risk planning."
+0ffb16c7-96f9-4641-bfc1-4bf1146f68e2,2025-04-08 09:48:02.484715+00:00,openai,gpt-4,0,4192,268,"I prioritize sustainable and local food production, and am open to new technologies for resilience."
+e90ec65e-b30f-4e13-9eba-7238a0b1ef7c,2025-04-08 09:48:14.973925+00:00,openai,gpt-4,0,4189,265,"I prioritize sustainable and local food production, and preparation for climate risks."
+3532d81c-1c57-4a10-9cda-2558b788c271,2025-04-08 09:48:28.397459+00:00,openai,gpt-4,0,4192,265,I prioritize sustainable and local food production with moderate regulations and climate resilience.
+a0dc246b-f2af-4a24-a152-1b981427294b,2025-04-08 09:48:41.791007+00:00,openai,gpt-4,0,4192,263,I prioritize sustainable and local food production and climate risk preparation.
+5be140d2-b0ae-4502-aab3-66775c3a3f4b,2025-04-08 09:48:55.890766+00:00,openai,gpt-4,0,4192,265,"I prioritize sustainable and local food production, and adaptation to climate change."
+ac0d1e44-b703-4b47-847c-9420e965b6c4,2025-04-08 09:49:09.367229+00:00,openai,gpt-4,0,4192,267,"I prioritize sustainable and local food production, and believe in moderate regulation and adaptation."
+b590be82-c66a-4219-9eb3-9291db12a7da,2025-04-08 09:49:23.078780+00:00,openai,gpt-4,0,4192,264,"I prioritize policies that support local, sustainable farming and moderate regulations."
+447fa874-0063-4cf9-9c7d-4f2b3bb1c8e6,2025-04-08 09:49:34.961747+00:00,openai,gpt-4,0,4192,263,"I prioritize local, sustainable production and adaptation to climate change."
+4e0539bc-3430-4262-90de-98888645ce80,2025-04-08 09:49:45.867188+00:00,openai,gpt-4,0,4192,268,I prioritize sustainable local production and moderate regulations over laissez-faire or radical approaches.
+da556b8e-5e63-46f6-9c3c-242b776a332e,2025-04-08 09:49:59.842658+00:00,openai,gpt-4,0,4192,268,I prioritize sustainable local production and moderate regulations over laissez-faire or radical approaches.
+f1ca51a2-5c20-4f2f-acac-05856828cf86,2025-04-08 09:50:12.643475+00:00,openai,gpt-4,0,4192,266,"I support sustainable regulations and incentives for local, organic production over fewer regulations."
+a208e34c-2983-4c97-aa9a-d2ebc6f273f8,2025-04-08 09:50:26.767168+00:00,openai,gpt-4,0,4189,268,I prioritize sustainable local production and moderate regulations over laissez-faire or radical policies.
+50594c20-9741-4b90-bf6d-21279cc7b5dc,2025-04-08 09:50:40.011779+00:00,openai,gpt-4,0,4189,265,"I prioritize sustainable, local food production and climate resilience over deregulation."
+19ca6c29-0100-4dc6-ab25-1fae53b55c7a,2025-04-08 09:50:53.789404+00:00,openai,gpt-4,0,4189,267,"I prioritize local, sustainable farming and moderate regulations over radical changes or status quo."
+e29ccbe6-6c46-4b42-a74c-bc7d2b77a2e0,2025-04-08 09:51:08.497662+00:00,openai,gpt-4,0,4192,266,I prioritize sustainable local production and moderate regulations over radical changes or status quo.

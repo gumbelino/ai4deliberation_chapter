@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+36fa57de-4c05-422f-9058-533cd2ffb9df,2025-04-08 10:26:58.849413+00:00,xai,grok-2-1212,0,3654,296,Prioritize solving root causes in home countries over local bans or deportations.
+25aa92ae-f593-4ef1-ac3d-1fa5e06f9513,2025-04-08 10:27:07.232748+00:00,xai,grok-2-1212,0,3654,298,Prioritizing source country solutions and support over punitive measures aligns with addressing root causes.
+7ef86acb-de5d-495c-9854-878a388e7c76,2025-04-08 10:27:13.642640+00:00,xai,grok-2-1212,0,3654,296,Prioritizing source country solutions and law enforcement over direct aid or bans.
+766b866a-6bf2-4504-8ce6-4bf6ed685288,2025-04-08 10:27:20.828043+00:00,xai,grok-2-1212,0,3656,295,Prioritizing source country solutions and law enforcement over bans and deportation.
+3cf73048-dc9f-49b4-84d5-8eb55632021a,2025-04-08 10:27:29.103072+00:00,xai,grok-2-1212,0,3654,298,Prioritizing source country solutions and law enforcement over direct aid or bans on begging.
+d6ca0d55-901c-4d32-9e0a-8f1e4d6c7ff8,2025-04-08 10:27:36.975307+00:00,xai,grok-2-1212,0,3651,295,Prioritize solving root causes in home countries over local bans or enforcement.
+fa3fddf0-4b80-4278-ab6a-75b307a468ee,2025-04-08 10:27:44.582785+00:00,xai,grok-2-1212,0,3654,295,Prioritizing source country solutions and law enforcement over bans and deportation.
+c9e7e7b7-e455-40bd-bec2-5a0a8c1c35ed,2025-04-08 10:27:51.430352+00:00,xai,grok-2-1212,0,3654,296,Prioritizing source country solutions and law enforcement over local bans and support.
+75af56a9-0b0c-4a98-89ed-826d693f1d9d,2025-04-08 10:27:58.768752+00:00,xai,grok-2-1212,0,3654,299,Prioritizing source country solutions and support over bans and deportations reflects a humane approach.
+eb9c978d-da6f-4d6f-a7ae-1761116cc5db,2025-04-08 10:28:06.402153+00:00,xai,grok-2-1212,0,3654,298,Prioritizing source country solutions and law enforcement over direct aid or bans on begging.
+1957933e-9f29-443d-a69a-27bf3696f01a,2025-04-08 10:28:14.121214+00:00,xai,grok-2-1212,0,3654,298,Prioritizing source country solutions and legal enforcement over direct aid or bans on begging.
+bf8b8349-2e22-4b06-be68-95028f1f3ec3,2025-04-08 10:28:20.317694+00:00,xai,grok-2-1212,0,3654,296,Prioritizing source country solutions and basic support over bans and deportations.
+22b6a641-b50b-4f47-af1d-8456916793ad,2025-04-08 10:28:26.633495+00:00,xai,grok-2-1212,0,3654,298,Prioritizing source country solutions and legal enforcement over direct aid or bans on begging.
+99f16eec-1c85-4de1-a67e-093ce6b91ceb,2025-04-08 10:28:33.045037+00:00,xai,grok-2-1212,0,3654,299,Prioritizing source country solutions over local bans and enforcement reflects a focus on root causes.
+6ff0a432-7b46-45c7-a492-556889839546,2025-04-08 10:28:40.245974+00:00,xai,grok-2-1212,0,3654,296,Prioritizing source country solutions and legal enforcement over bans and deportations.
+b80bc2e5-aed1-4530-9260-c956f1e1d7ea,2025-04-08 10:28:47.037023+00:00,xai,grok-2-1212,0,3656,299,"Prioritizing source country solutions and support in Sweden, while enforcing laws and limiting begging."
+3cc0e15a-1a81-4f31-b800-a12c5bb331e9,2025-04-08 10:28:53.872920+00:00,xai,grok-2-1212,0,3654,298,Prioritizing source country solutions and legal enforcement over direct aid or bans on begging.
+b705588c-4da3-4d44-ad98-0a6eb577d2cb,2025-04-08 10:29:00.952418+00:00,xai,grok-2-1212,0,3654,298,Prioritizing source country solutions and basic support over punitive measures reflects a balanced approach.
+a1fb2ff5-77fa-49cd-946f-57c6edfde057,2025-04-08 10:29:08.235459+00:00,xai,grok-2-1212,0,3654,298,Prioritizing source country solutions and support over punitive measures aligns with addressing root causes.
+a01f0518-5132-4cbc-83b2-ba8f16cd917b,2025-04-08 10:29:15.317699+00:00,xai,grok-2-1212,0,3656,296,Prioritizing source country solutions and legal enforcement over direct aid or bans.
+04007949-8941-46e1-a242-431f227c06bb,2025-04-08 10:29:21.891360+00:00,xai,grok-2-1212,0,3656,298,Prioritizing source country solutions and law enforcement over direct aid or bans on begging.
+36fd99fa-75fb-4fe1-902e-738c54eb5970,2025-04-08 10:29:29.741885+00:00,xai,grok-2-1212,0,3654,296,Prioritizing source country solutions and legal enforcement over direct aid or bans.
+7f75b771-be97-4c55-bd47-c42a16ec08d6,2025-04-08 10:29:37.279503+00:00,xai,grok-2-1212,0,3656,295,Prioritizing source country solutions and law enforcement over bans and deportation.
+724824ab-fd71-4e33-bda7-6dae96ddd11b,2025-04-08 10:29:45.009936+00:00,xai,grok-2-1212,0,3654,294,Prioritizing source country solutions aligns with addressing root causes effectively.
+52e38d8b-e5fc-4034-b5ab-75820e6b34bc,2025-04-08 10:29:52.836724+00:00,xai,grok-2-1212,0,3656,298,"Prioritize solving root causes in home countries, support basic needs, enforce laws fairly."
+996f469f-7359-4cbd-8deb-7d3888c4fa08,2025-04-08 10:29:59.956595+00:00,xai,grok-2-1212,0,3654,297,Prioritizing source country solutions and support over punitive measures reflects a humane approach.
+6831c32d-f0b1-46e9-b0b6-1e0c752eaa4a,2025-04-08 10:30:07.125852+00:00,xai,grok-2-1212,0,3654,296,Prioritizing source country solutions and legal enforcement over direct aid or bans.
+943ddf27-8e86-4fed-a1b2-840674ee4971,2025-04-08 10:30:13.475322+00:00,xai,grok-2-1212,0,3654,295,Prioritizing source country solutions and support over restrictive measures in Sweden.
+91417cea-95ae-4f59-a366-66ec458a2362,2025-04-08 10:30:21.347541+00:00,xai,grok-2-1212,0,3654,297,"Prioritize source country solutions and support, enforce laws equally, avoid punitive measures."
+fae39768-ca7b-4144-b640-f180b640eefd,2025-04-08 10:30:28.622744+00:00,xai,grok-2-1212,0,3654,298,"Prioritize source country solutions and law enforcement, least support for deportation and begging bans."

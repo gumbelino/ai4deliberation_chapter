@@ -1,0 +1,19 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+2ad11bca-0b08-475d-96bb-243fa1c4aa97,2025-04-22 08:14:50.138897+00:00,google,gemini-2.0-flash-thinking-exp,0,4617,317,"Cautious about broad use, leaning towards clinical, non-heritable, and oversight."
+818b426b-6f20-4113-9d2d-164399328f2f,2025-04-22 08:15:12.031671+00:00,google,gemini-2.0-flash-thinking-exp,0,4617,314,"Cautiously pro non-heritable medical use, concerned about broader applications."
+737de2bc-bf5f-4d34-8164-c4442cf9354c,2025-04-22 08:15:35.290182+00:00,google,gemini-2.0-flash-thinking-exp,0,4275,142,"Favor medical use but cautious about broader use and ethics, need safety."
+3c7ef174-ba8b-4bfe-bb63-309b326e46a5,2025-04-22 08:16:15.070404+00:00,google,gemini-2.0-flash-thinking-exp,0,4275,144,"Cautiously pro non-heritable clinical use, concerned about ethics and access."
+949d1fa7-06b3-48e7-82aa-430a4508aec1,2025-04-22 08:16:46.092245+00:00,google,gemini-2.0-flash-thinking-exp,0,4275,141,Cautious support for medical use non-heritable with ethical concerns
+7fe34b13-5ded-4632-af88-ca4bf3dce3e5,2025-04-22 08:17:05.423030+00:00,google,gemini-2.0-flash-thinking-exp,0,4275,141,"Cautious about genome editing, prioritize safety and limited clinical use."
+683ed8b6-63f0-4c3b-8306-8a4435abd7a7,2025-04-22 08:17:24.580499+00:00,google,gemini-2.0-flash-thinking-exp,0,4251,118,Cautious optimism for clinical non-heritable use concerned about broader applications
+09b76c74-243f-47c7-a9dc-2ee486910530,2025-04-22 08:17:45.073382+00:00,google,gemini-2.0-flash-thinking-exp,0,4251,118,"Cautious optimism, favoring clinical use, safety, and ethical oversight."
+db95acab-94e1-4564-93f7-a87f3f763ad7,2025-04-22 08:18:08.507315+00:00,google,gemini-2.0-flash-thinking-exp,0,4251,116,Cautious about clinical use but wary of broader less controlled applications
+317965ea-74a0-4b2b-b95f-46ac7c9feb51,2025-04-22 08:21:03.996676+00:00,google,gemini-2.0-flash-thinking-exp,0,4617,317,"Cautious about broad use, leaning towards clinical, non-heritable, and oversight."
+8f3282fc-22bb-45f8-89a0-08593fdf4cec,2025-04-22 08:21:26.884952+00:00,google,gemini-2.0-flash-thinking-exp,0,4617,314,"Cautiously pro non-heritable medical use, concerned about broader applications."
+1ecf85ad-28cd-4489-a2bb-0f6cc86dce78,2025-04-22 08:21:51.958397+00:00,google,gemini-2.0-flash-thinking-exp,0,4275,142,"Favor medical use but cautious about broader use and ethics, need safety."
+b800516e-e7f0-43b4-bce1-7f67121ea481,2025-04-22 08:22:32.118133+00:00,google,gemini-2.0-flash-thinking-exp,0,4275,144,"Cautiously pro non-heritable clinical use, concerned about ethics and access."
+0af79a68-9d4e-4cd1-b269-5e1a80886ed7,2025-04-22 08:23:04.466073+00:00,google,gemini-2.0-flash-thinking-exp,0,4275,141,Cautious support for medical use non-heritable with ethical concerns
+df1ba615-32aa-4b4c-9891-f7d54b025691,2025-04-22 08:23:24.619826+00:00,google,gemini-2.0-flash-thinking-exp,0,4275,141,"Cautious about genome editing, prioritize safety and limited clinical use."
+f89ecf1c-d90d-4727-8207-ff8822ea3c8a,2025-04-22 08:23:44.173263+00:00,google,gemini-2.0-flash-thinking-exp,0,4251,118,Cautious optimism for clinical non-heritable use concerned about broader applications
+baccd843-3d92-49fb-a66f-726bfe2118c3,2025-04-22 08:24:05.680234+00:00,google,gemini-2.0-flash-thinking-exp,0,4251,118,"Cautious optimism, favoring clinical use, safety, and ethical oversight."
+43970fd2-6fdb-43bf-85a4-6827c25cea7f,2025-04-22 08:24:29.230751+00:00,google,gemini-2.0-flash-thinking-exp,0,4251,116,Cautious about clinical use but wary of broader less controlled applications

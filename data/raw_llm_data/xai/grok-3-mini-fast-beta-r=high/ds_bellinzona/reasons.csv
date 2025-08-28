@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+8be8aefc-1f64-47e7-91e1-64647fca504f,2025-05-21 12:09:21.659961+00:00,xai,grok-3-mini-fast-beta-r=high,0,13494,214,Prioritized adaptation for resilience over mitigation due to strong agreement on urgent climate preparation in considerations.
+4934c996-47de-4304-884c-6830a0ff12eb,2025-05-21 12:09:57.145335+00:00,xai,grok-3-mini-fast-beta-r=high,0,11874,212,"Supported adaptation and radical emission reductions most, status quo least due to climate urgency."
+f4ce73be-8627-4652-8104-833cceb8cb3d,2025-05-21 12:10:28.030655+00:00,xai,grok-3-mini-fast-beta-r=high,0,13390,212,Prioritized adaptation and radical emission reductions due to urgency and evidence from climate considerations.
+8113d8c1-210f-482f-a5fb-b618ec95d2b1,2025-05-21 12:11:06.151801+00:00,xai,grok-3-mini-fast-beta-r=high,0,12232,213,Prioritized radical emission cuts and adaptation for urgent climate action over economic focus and inaction.
+2220cd2c-ff1b-4b3b-aed6-8ad182e0a578,2025-05-21 12:11:30.736320+00:00,xai,grok-3-mini-fast-beta-r=high,0,12981,217,"Prioritized radical emission reductions and adaptation for effective climate action, least supporting inaction and economy-over-climate."

@@ -1,0 +1,4 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+bd340ebc-a779-4389-957c-7644e47273da,2025-06-02 02:42:38.976423+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,7554,5020,Favored climate adaptation and moderate regulation over radical changes or inaction
+2bc483ee-371a-499a-a3ae-0eb2bccdfb7e,2025-06-02 02:46:13.434703+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,8371,4287,I favor local sustainable incentives and moderate regulations over radical changes or status quo
+9dabbfef-ab97-4c4e-902c-28f0529c2b2f,2025-06-02 02:47:29.643277+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,9273,4072,Local production incentives ranked first moderate sustainability second radical or no change last

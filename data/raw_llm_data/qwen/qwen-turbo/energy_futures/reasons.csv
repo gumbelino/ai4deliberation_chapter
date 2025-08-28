@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+26021731-e9d8-4146-821e-68c5981cb869,2025-03-27 16:39:47.054139+00:00,qwen,qwen-turbo,0,4809,327,"Prioritize renewables; skeptical of coal, nuclear; support geothermal, wind for low emissions and sustainability."
+4fb091b9-6304-4e0e-ae23-1b7213f3cc23,2025-03-27 16:39:52.619182+00:00,qwen,qwen-turbo,0,4811,328,"Favored renewables, nuclear, geothermal; opposed coal, natural gas; cautious about CO2 burial."
+720ae7c3-f64a-44fa-8c9f-6aeb1ce9807d,2025-03-27 19:37:44.261285+00:00,qwen,qwen-turbo,0,4809,321,"Preferring established tech, cautious on renewables, skeptical of nuclear and coal."
+37b9100c-2e97-49a3-a1fe-028a213c43de,2025-03-27 19:37:49.839068+00:00,qwen,qwen-turbo,0,4809,323,Nuclear preferred; fossil fuels ranked low; renewables vary; complexity and risk considered.
+99e888f1-9442-49a6-9eaa-1577656c8af0,2025-03-27 19:37:55.374460+00:00,qwen,qwen-turbo,0,4823,335,"Preferring established, low-risk technologies; supporting renewables for long-term sustainability; opposing coal due to high emissions."
+387290cf-a3c8-4093-becf-6790f3db8100,2025-03-27 19:38:01.941767+00:00,qwen,qwen-turbo,0,4815,326,"Supports renewables, cautious on nuclear, prioritizes reducing emissions, skeptical of coal."
+6be38160-2207-451a-87b8-75177017c716,2025-03-27 19:38:07.464133+00:00,qwen,qwen-turbo,0,4815,328,"Prioritize nuclear, wind, solar; avoid coal, natural gas; support CO2 burial."
+d76ac125-c642-41a6-8009-13209f0e1758,2025-03-27 19:38:13.002888+00:00,qwen,qwen-turbo,0,4811,331,"Preferring proven tech, concerned about risks, supports conservation, skeptical of fossil fuels,看好可再生能源但有顾虑。"
+aad80c6d-afa4-4920-a70a-8eb36ecc1a25,2025-03-27 19:38:18.728772+00:00,qwen,qwen-turbo,0,4815,329,"Pref er newer renewable technologies, skeptical of coal and nuclear, supportive of natural gas as a bridge."
+4b802c13-e1a1-48a8-a55f-e7acd7cacefc,2025-03-27 19:38:24.148585+00:00,qwen,qwen-turbo,0,4805,321,"Nuclear preferred; coal and fossil fuels ranked low; renewables mixed, some high."
+f356f87b-4521-4f5d-ae8a-38ac8f64d76a,2025-03-27 19:38:29.994614+00:00,qwen,qwen-turbo,0,4807,321,"Preferring established tech, skeptical of renewables, concerned about costs and environmental impacts."
+de394ac2-c216-459a-8f5a-0aedcb74d03d,2025-03-27 19:38:35.501651+00:00,qwen,qwen-turbo,0,4817,323,"Prioritize renewables,谨慎输入错误，请稍后重试。"
+46ef81b3-c4e4-4356-9692-39c70f045144,2025-03-27 19:38:41.047224+00:00,qwen,qwen-turbo,0,4811,331,"Preferring proven, low-emission technologies; skeptical of coal; supports geothermal, wind, and solar long-term."
+50bed222-7bb1-411b-85f9-a06a5e9e360c,2025-03-27 19:38:46.559005+00:00,qwen,qwen-turbo,0,4815,326,"Prefers established & proven tech, cautious on renewables, values economic and environmental balance."
+b32bab76-9050-4652-b82e-9f5ab76048b1,2025-03-27 19:38:52.344541+00:00,qwen,qwen-turbo,0,4807,326,"Preferrer established tech, skeptical of unproven methods, balanced view on renewables, concerned about risks."
+199dc235-6c6d-4e4b-8c00-312dd79bf084,2025-03-27 19:38:57.825157+00:00,qwen,qwen-turbo,0,4811,330,"Prefers established clean tech, skeptical of coal, nuclear; supports solar, geothermal, wind, and biomass."
+35a05407-8b53-4c93-b09a-0be408a8c7c6,2025-03-27 19:39:08.091176+00:00,qwen,qwen-turbo,0,4817,330,"Prioritize renewables, nuclear, and gas; minimize coal; unsure about geothermal and hydroelectric."
+8cac827b-93a2-4725-99e6-59387ba08385,2025-03-27 19:39:13.935234+00:00,qwen,qwen-turbo,0,4817,333,"Prioritize renewables, nuclear, and natural gas; oppose coal and wind for baseload; favor CO2 burial."
+384c8601-cd59-4fad-b2d8-ae25af55f1aa,2025-03-27 19:39:19.718836+00:00,qwen,qwen-turbo,0,4809,326,"Favored renewables, nuclear, geothermal; opposed coal, gas; unsure about hydro and wind."
+aae0d874-910e-453d-a5a8-aed781a18480,2025-03-27 19:39:25.488000+00:00,qwen,qwen-turbo,0,4805,331,Nuclear preferred; solar and wind lower due to variability; coal and gas low due to emissions; geothermal and bioenergy moderate.
+d130d739-62dc-4421-b6f6-d7511447d2ad,2025-03-27 19:39:31.121921+00:00,qwen,qwen-turbo,0,4813,334,"Supports renewables, cautious on coal/nuclear, values geothermal, wind, biomass, skeptical of coal with CO2 burial."
+cf0d417d-6b2b-498b-a453-bbb8f2140638,2025-03-27 19:39:37.173990+00:00,qwen,qwen-turbo,0,4813,319,"Favored renewables, cautious on nuclear and coal,看重"
+2fee9161-8979-4d99-9dc3-e0fa734991bd,2025-03-27 19:39:42.735564+00:00,qwen,qwen-turbo,0,4807,332,"Supports solar, biomass, natural gas, geothermal; cautious on wind, coal with CO2; opposes coal, hydroelectric."
+69995eba-a490-4279-abf7-319c306fcc75,2025-03-27 19:39:49.040675+00:00,qwen,qwen-turbo,0,4809,325,"Prioritize renewables, nuclear, and CCS; oppose coal; support tech innovation and energy conservation."
+fbe64b87-4fa9-4f4f-99e9-c5a046ed9f72,2025-03-27 19:39:54.876420+00:00,qwen,qwen-turbo,0,4815,329,"Prioritize renewables, nuclear, and carbon capture; oppose coal, fossil fuels, and excessive costs."
+4fd61680-1629-46e8-ab31-7287cbfa18bb,2025-03-27 19:40:00.508597+00:00,qwen,qwen-turbo,0,4809,330,"Prefer nuclear, solar, geothermal; avoid coal, biomass; support carbon capture; uncertain about hydro and wind."
+0bdf18f7-c8c3-4046-bd96-b567f756d24a,2025-03-27 19:40:06.502614+00:00,qwen,qwen-turbo,0,4813,337,"Favored renewables, cautious on nuclear, skeptical of coal,看好可再生能源，对核能持谨慎态度，对煤炭持怀疑态度。"
+fdd575e6-8a27-402f-8dde-95c494c91048,2025-03-27 19:40:12.207690+00:00,qwen,qwen-turbo,0,4817,327,Nuclear and hydroelectric are top choices; coal and fossil fuels are least favored.
+b5124619-f96b-4d56-bc66-f62a90fa371c,2025-03-27 19:40:17.756712+00:00,qwen,qwen-turbo,0,4815,326,Nuclear and solar favored; coal and wind least preferred; balanced view on others.
+90aed7cd-bd2e-4b8d-8767-dd693edf772d,2025-03-27 20:03:14.247054+00:00,qwen,qwen-turbo,0,4827,334,"Pro-renewables, skeptical of fossil fuels, neutral on nuclear, prioritizes climate action."

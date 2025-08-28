@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+08ec3c1e-a72a-452a-beef-a907a214196b,2025-04-02 10:39:35.593850+00:00,meta,llama3.3:70b,0,4357,271,Supported moderate genome editing regulations
+33c03c95-9a3f-479b-be1e-effe4c53e9f0,2025-04-02 10:39:58.245414+00:00,meta,llama3.3:70b,0,4354,273,Supported cautious use of genome editing.
+1fb92fb6-ff36-4c07-864e-119f2288e225,2025-04-02 15:33:33.566025+00:00,meta,llama3.3:70b,0,4357,271,Supported moderate genome editing policies
+9c43a1a5-4ed0-418b-997c-06682d3cc520,2025-04-02 15:33:46.844933+00:00,meta,llama3.3:70b,0,4357,272,Caution with heritable editing
+2025738a-b5b6-4c24-91c9-be08e0a7e54f,2025-04-02 15:33:58.365419+00:00,meta,llama3.3:70b,0,4355,271,Supported moderate genome editing policies
+3fef6cee-c67c-42aa-b7ff-99275eeb8b4e,2025-04-02 15:34:15.554315+00:00,meta,llama3.3:70b,0,4354,274,Prioritizing safety and ethical use.
+7a2b4a13-273a-418e-9853-c550e5e83813,2025-04-02 15:34:29.290448+00:00,meta,llama3.3:70b,0,4357,271,Supported moderate genome editing policies
+2f1cedf7-cff6-4b3b-88a9-210b942e1d4b,2025-04-02 15:34:44.410826+00:00,meta,llama3.3:70b,0,4357,272,Supported cautious genome editing approaches.
+f2811aef-5997-4ef6-9381-8e6288a200f3,2025-04-02 15:35:01.675952+00:00,meta,llama3.3:70b,0,4357,272,Caution with heritable editing
+91d8611f-1eaa-45e6-8ed4-c0c99c2924e8,2025-04-02 15:35:13.545257+00:00,meta,llama3.3:70b,0,4357,271,Supported moderate genome editing policies
+9c089f3b-4d64-4deb-9f87-19e66e2c0443,2025-04-02 15:35:25.223548+00:00,meta,llama3.3:70b,0,4357,273,Prioritizing safety and ethical use
+53b3fb4d-dac4-42f1-a63a-44a58e757c01,2025-04-02 15:44:52.129078+00:00,meta,llama3.3:70b,0,4357,272,Caution with heritable editing
+4d4ae92f-4fa4-4538-975f-fc6ea8ea92da,2025-04-02 15:46:33.720980+00:00,meta,llama3.3:70b,0,4357,272,Supported cautious genome editing approaches.
+4d1ac2df-98ce-4d58-b841-d17ae43bd22e,2025-04-02 15:50:21.510345+00:00,meta,llama3.3:70b,0,4357,271,Supported moderate genome editing policies
+59b053ff-911e-4169-9b98-e854b1130fa3,2025-04-02 15:50:37.033838+00:00,meta,llama3.3:70b,0,4357,272,Supported moderate genome editing policies.
+e2efb868-55d9-4b6d-b948-fa7a2ac59a2d,2025-04-02 15:50:52.813425+00:00,meta,llama3.3:70b,0,4357,271,Supported moderate genome editing regulations
+05341110-eb0c-4873-b738-23c55226d142,2025-04-02 15:53:33.267310+00:00,meta,llama3.3:70b,0,4357,272,Supported restricted genome editing use.
+7a44d483-3eb3-4328-9c33-1caead150018,2025-04-02 15:54:06.030591+00:00,meta,llama3.3:70b,0,4357,271,Supported moderate genome editing regulations
+8e882d04-e017-44f4-b80d-18674562ac96,2025-04-02 15:54:30.782930+00:00,meta,llama3.3:70b,0,4357,271,Supported moderate genome editing policies
+5b5f07c5-0aac-4cb2-9f64-2402b54bc965,2025-04-02 15:54:52.340189+00:00,meta,llama3.3:70b,0,4355,271,Supported moderate genome editing policies
+f17ba7e3-befb-454f-9faa-3004a343ec79,2025-04-02 15:55:31.669325+00:00,meta,llama3.3:70b,0,4355,272,Supported moderate genome editing policies.
+84be9093-2177-4e1e-9b0c-1a6f7b7e4749,2025-04-02 15:56:12.234498+00:00,meta,llama3.3:70b,0,4357,273,Supported safe and regulated genome editing.
+56e134c4-10ac-4a96-bca7-af92d331abd6,2025-04-02 15:56:40.236035+00:00,meta,llama3.3:70b,0,4357,272,Caution with heritable editing
+37267b30-56f8-42b0-9d38-fd57fad4d1c6,2025-04-02 15:57:22.100385+00:00,meta,llama3.3:70b,0,4357,272,Supported moderate genome editing policies.
+ee625798-85a7-4fc5-a49a-5ffc572a2e93,2025-04-02 15:57:45.185422+00:00,meta,llama3.3:70b,0,4357,271,Supported cautious genome editing approaches
+23f0108b-799d-4178-8e8f-f72517d05c1f,2025-04-02 15:58:12.237613+00:00,meta,llama3.3:70b,0,4354,271,Supported moderate genome editing policies
+2dee417c-5b76-4c1d-a705-1aa63d9199f7,2025-04-02 15:58:34.810504+00:00,meta,llama3.3:70b,0,4357,272,Caution with heritable editing
+520798d0-fbfb-42d9-8960-fadf0ebc7c64,2025-04-02 15:59:02.498368+00:00,meta,llama3.3:70b,0,4357,271,Supported moderate genome editing policies
+f7debedb-80c5-4373-aca8-8364b89d7e91,2025-04-02 15:59:40.565705+00:00,meta,llama3.3:70b,0,4357,273,Supported cautious use of genome editing.
+1b2f2677-e839-457b-b51d-558b6234d14c,2025-04-02 15:59:59.701122+00:00,meta,llama3.3:70b,0,4357,271,Supported moderate genome editing policies

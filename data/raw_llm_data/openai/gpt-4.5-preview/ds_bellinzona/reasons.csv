@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+785fc0c2-ef52-4bf6-bd26-aa8fd64f4096,2025-04-08 14:44:29.312292+00:00,openai,gpt-4.5-preview,0,3325,212,"Prioritized resilience, strong emissions cuts; least favored economic growth over climate action."
+4c81e5b9-9b87-4416-be99-02eda29a4b18,2025-04-08 14:44:55.562974+00:00,openai,gpt-4.5-preview,0,3325,215,"Strongly support radical CO₂ cuts, moderate actions, and adaptation; oppose economic-only focus."
+919645cb-07c0-4e53-b890-c034a35987ce,2025-04-08 14:45:24.301807+00:00,openai,gpt-4.5-preview,0,3325,213,"Prioritized strong emissions cuts, adaptation, community actions; rejected status quo and growth."
+e28cbd12-0e0e-4b1e-a703-5180bf0272c1,2025-04-08 14:45:51.502099+00:00,openai,gpt-4.5-preview,0,3323,212,"Prioritized strong emissions cuts, emergency planning, resilience; economy-only least supported."
+25468b10-7d03-40a0-bc68-7237e6cee062,2025-04-08 14:46:12.901627+00:00,openai,gpt-4.5-preview,0,3325,214,"Prioritized strong emission cuts, resilience tech, community actions, adaptation, status quo last."
+eca2bbb2-aac8-4f90-9cda-cbc8e782ba41,2025-04-10 08:08:16.889483+00:00,openai,gpt-4.5-preview,0,3325,213,"Prioritized resilience and strong emission cuts, least favored status quo and economic-only focus."
+6fbe904f-0d49-4888-9e85-07425a9c7663,2025-04-10 08:08:32.331575+00:00,openai,gpt-4.5-preview,0,3325,211,"Strongly support radical emissions cuts, moderate adaptation; oppose economic-only approaches."
+4e20487b-7753-46f5-9762-c34e8ccffcdd,2025-04-10 08:08:46.218587+00:00,openai,gpt-4.5-preview,0,3325,212,"Strongly support rapid emissions cuts, adaptation measures, less priority on economic growth."
+b9e0cea8-e1a3-4172-9020-25c956ebe4a8,2025-04-10 08:09:00.473757+00:00,openai,gpt-4.5-preview,0,3323,212,"Prioritized strong emission cuts, emergency planning, and resilience; economy least important."
+8cd4a927-3702-4bbb-b317-c75796bf73a2,2025-04-10 08:09:13.364660+00:00,openai,gpt-4.5-preview,0,3325,213,"Strongly support radical emissions cuts, resilience tech, and community adaptation over status quo."

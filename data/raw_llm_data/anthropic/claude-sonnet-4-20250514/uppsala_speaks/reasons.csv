@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+e7d4a7dc-b0bf-4143-bee6-f8551ed91b79,2025-05-29 15:27:41.962257+00:00,anthropic,claude-sonnet-4-20250514,0,3810,271,Prioritize addressing root causes in source countries while providing humanitarian support over punitive measures
+739f3031-4548-4f14-9988-ab81c55953b5,2025-05-29 15:27:52.921866+00:00,anthropic,claude-sonnet-4-20250514,0,3810,272,Focus on root causes in source countries while providing humanitarian aid and enforcing laws fairly for all
+b6a18206-71b2-4405-b752-cb9563fdf145,2025-05-29 15:28:04.794580+00:00,anthropic,claude-sonnet-4-20250514,0,3810,272,Prioritize addressing root causes in source countries while providing humanitarian support over punitive enforcement measures
+d9a593cf-73a4-46fe-85a0-38cb95495a5e,2025-05-29 15:28:17.217857+00:00,anthropic,claude-sonnet-4-20250514,0,3810,275,I prioritize addressing root causes in source countries over punitive measures while supporting some accommodation and law enforcement.
+def5aa2b-78a6-4f62-b2e0-97f91b2c29ad,2025-05-29 15:28:30.976030+00:00,anthropic,claude-sonnet-4-20250514,0,3810,270,Prioritize source country solutions and accommodation while avoiding punitive measures against vulnerable populations

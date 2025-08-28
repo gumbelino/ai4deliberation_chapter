@@ -1,0 +1,40 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+25397686-bae4-4499-95de-5b1b40120243,2025-03-25 21:28:49.228938+00:00,cohere,command-r-08-2024,0,5087.0,304.0,RadicalRegulationLeast;ModerateRegulationLeast;FreeTradeWorst;IncentivesBest.
+26ba7689-97ee-4cd6-a2ca-e24ecba14607,2025-03-25 21:28:55.943435+00:00,cohere,command-r-08-2024,0,5087.0,298.0,Radical.Moderate.Tech.Adapt.Status.Free.Reg.
+4577c326-329a-406f-95fe-a919d41d3dd7,2025-03-25 21:29:02.608073+00:00,cohere,command-r-08-2024,0,5087.0,302.0,Radical.Regulation.Least.Preferred.Moderate.Regulation.Most.Preferred.
+9cc53c9a-3d63-4760-bed9-df6b19088efb,2025-03-25 21:29:10.961722+00:00,cohere,command-r-08-2024,0,5087.0,301.0,"Supportiveofregulation,encouraginglocal,sustainable,andresilientfoodproduction."
+3a289a07-9a7d-4caa-92c3-b76ccf50706b,2025-03-25 21:29:18.255433+00:00,cohere,command-r-08-2024,0,5090.0,306.0,I'm supportive.of.moderate.sustainable.regulation.and.incentives.for.local.producers.
+9c4c6782-04dc-40a9-858e-4f138183f6ae,2025-03-25 21:29:25.547311+00:00,cohere,command-r-08-2024,0,5087.0,305.0,RadicalRegulationLeast;ModerateRegulationBest;IncentivesGood;LeaveAsIsWorst.
+4c70ed89-6d5a-4c5e-8e3c-10505fabf8f6,2025-03-25 21:29:32.587819+00:00,cohere,command-r-08-2024,0,5087.0,311.0,RadicalRegulationLeast;ModerateRegulationBetter;MaintainStatusQuo;IncentiviseSustainability;LeastRegulationBest
+727862b9-754f-406c-8182-159134dafc0f,2025-03-25 21:29:40.865793+00:00,cohere,command-r-08-2024,0,5087.0,304.0,Support.for.radical.regulation.is.low.but.so.is.status.quo.
+eb7801af-c058-466f-88cd-bcfd8c0477d1,2025-03-25 21:29:48.326152+00:00,cohere,command-r-08-2024,0,5087.0,302.0,Support.for.local.producers.and.moderate.regulation.over.free.trade.
+d25ad52a-2c56-41fe-ab9b-23680cda752e,2025-03-25 21:29:56.467653+00:00,cohere,command-r-08-2024,0,5087.0,299.0,"Radical,moderate,minimal,statusquo,adaptation,technology,incentives."
+a0519a93-2a19-4887-959c-7c497957999c,2025-03-25 21:30:03.996205+00:00,cohere,command-r-08-2024,0,5087.0,303.0,"Moderate,incentivising,local,free-trade,planning,status-quo,radical."
+c88e86c0-7ba8-4a58-b0ac-7f40f97fe557,2025-03-25 21:30:11.060599+00:00,cohere,command-r-08-2024,0,5087.0,307.0,"Radical,local,and,tech,solutions,best,over,free,or,moderate,trade,policies."
+66481dc3-08b0-4f07-9722-f9092fc3e729,2025-03-25 21:30:20.380396+00:00,cohere,command-r-08-2024,0,5087.0,301.0,Radical.Moderate.Free.Mixed.Radical.Tech.Incentives.
+2bb87013-cf03-4402-b9c6-32bb0f491434,2025-03-25 21:30:28.747488+00:00,cohere,command-r-08-2024,0,5087.0,300.0,"Supportiveoflocal,sustainablefoodproduction&adaptationpolicies;opposeregulation."
+ca07e4b4-83c8-4c49-8e94-f11d94855a37,2025-03-25 21:30:35.790266+00:00,cohere,command-r-08-2024,0,5087.0,306.0,Radical.Regulation.Not.Preferred.Over.Incentives.And.Moderate.Approaches.
+1cdd28a1-320e-4344-947a-81cc65ebf7b6,2025-03-25 21:30:42.654132+00:00,cohere,command-r-08-2024,0,5087.0,307.0,"Radical.regulation.least.favoured,.local.incentives.and.moderate.regulation.most.preferred."
+b03db982-4640-458d-98ee-d905663c8b8b,2025-03-25 21:30:50.533719+00:00,cohere,command-r-08-2024,0,5087.0,298.0,"Supportiveoflocalproducers&sustainability,opposeregulationreduction."
+e36c70e2-4083-41e9-92d1-59262dd28ce7,2025-03-25 21:30:58.216380+00:00,cohere,command-r-08-2024,0,5087.0,307.0,Radical.regulation.is.not.ideal.Moderate.regulation.and.incentives.are.key.
+0b2a9a0c-3092-4103-9156-dde266366611,2025-03-25 21:31:06.911463+00:00,cohere,command-r-08-2024,0,5087.0,301.0,"Radical regulation,adaptation&tech.over.lesser,incentives&statusquo."
+f8cf4af9-346a-470b-8b81-2ef2048a2bae,2025-03-25 21:31:14.803369+00:00,cohere,command-r-08-2024,0,5090.0,306.0,"Supportive.of.local.producers,.adaptation.policies,.moderate.regulation,.and.climate.resilience."
+daa2e243-a0c7-4079-8ee6-4de2b93a45dc,2025-03-27 10:40:03.108582+00:00,cohere,command-r-08-2024,0,5087.0,302.0,Radical.Regulations.Least.Preferred.Moderate.Regulations.Most.Preferred.
+ef81eee0-3cd0-4ffa-8881-850f3b90b270,2025-03-27 10:40:09.950704+00:00,cohere,command-r-08-2024,0,5087.0,302.0,"Supportive.of.local.producers,.adaptation.policies,.and.moderate.regulations."
+64b31386-c799-4cdd-857e-a1bce447f752,2025-03-27 10:40:18.657407+00:00,cohere,command-r-08-2024,0,5087.0,303.0,Radical.Regulation.Least.Preferred.Incentives.Local.Producers.Most.
+e4d56cfe-17ab-47cb-9034-f4b6da432c60,2025-03-27 10:40:27.618321+00:00,cohere,command-r-08-2024,0,5087.0,306.0,"Supportive.of.local.producers,.moderate.regulation,.adaptation.policies,.and.climate.resilience."
+c5de3ab9-ed93-47c4-80b6-7583d031732b,2025-03-27 10:40:34.839798+00:00,cohere,command-r-08-2024,0,5087.0,304.0,Radical.Regulation.Moderate.Regulation.Incentives.Adaptation.No.Change.
+1b0faf9c-f149-44dc-bba4-4f0042fea57a,2025-03-27 10:40:43.624501+00:00,cohere,command-r-08-2024,0,5087.0,304.0,Radical.regulations.least.favoured.Moderate.regulations.most.favoured.
+bb77b0bc-1974-47e1-b2d0-8b52b088d24d,2025-03-27 10:40:50.497069+00:00,cohere,command-r-08-2024,0,5087.0,302.0,Radical.Regulation.Least.Preferred.Moderate.Regulation.Most.Preferred.
+e0f588e3-f6cc-4b74-9da3-a0bcc1a3e56c,2025-03-27 10:40:57.470685+00:00,cohere,command-r-08-2024,0,5087.0,305.0,RadicalRegulation>Incentives>ModerateRegulation>Adaption>FewerRegulation>Technology
+a43d0c14-ca31-4060-aa21-52237112204f,2025-03-27 10:41:04.498293+00:00,cohere,command-r-08-2024,0,5087.0,296.0,"Radicalregulationleastfavoured,localproducersincentivesmostsupported."
+4b7f41a3-848e-4036-9eda-003363a2e72e,2025-03-27 10:41:11.999846+00:00,cohere,command-r-08-2024,0,5087.0,310.0,Radical.Regulation.Least.Preferred.Moderate.Better.Than.Status.Quo.Incentives.Best.
+e527da9a-4353-4604-94a6-b2ee7601dc0d,2025-03-27 10:55:21.868790+00:00,cohere,command-r-08-2024,0,5087.0,303.0,"Radical,local,moderate,tech-based,planning,status-quo,free-trade."
+2537f9b1-6d65-4def-aa82-58a775eb695f,2025-03-27 10:55:28.490602+00:00,cohere,command-r-08-2024,0,5087.0,305.0,"Supportiveoflocal,organic,adaptation,resilience;lessofregulation,free-trade,inaction."
+5fa0474f-e41b-4312-977e-6ec850b9b812,2025-03-27 10:55:35.457283+00:00,cohere,command-r-08-2024,0,5087.0,303.0,Radical.Regulation.Least.Preferred.Incentives.Local.Producers.Most.
+740386a3-0f1a-42b5-97b0-fa6efcb8db1c,2025-03-27 11:00:47.858905+00:00,cohere,command-r-08-2024,0,5087.0,305.0,Radical.Regulation.Moderate.Regulation.Incentives.Planning.Status.Quo.
+32bcff06-47c0-451d-9da3-04b314ff69ef,2025-03-27 11:00:55.543747+00:00,cohere,command-r-08-2024,0,5087.0,294.0,"RadicalRegulationLeast,ModerateRegulationBest."
+63e09367-c23a-40a0-97fd-00bf7813b3f4,2025-03-27 11:06:46.289843+00:00,cohere,command-r-08-2024,0,5087.0,302.0,Radical.Regulation.Least.Preferred.Moderate.Regulation.Most.Preferred.
+ad7862f0-1e28-451a-bf8c-8df7582a2e54,2025-03-27 11:06:53.453904+00:00,cohere,command-r-08-2024,0,5087.0,295.0,"Radical regulation,local incentives,adaptation,moderate regulation preferred."
+6210fde6-6f52-4fe3-966f-60938274fa68,2025-03-27 11:07:00.915210+00:00,cohere,command-r-08-2024,0,5087.0,296.0,"Radicalregulationleastfavoured,localproducersincentivesmostsupported."
+1a27397f-f573-49e4-842f-c731ce0dd3e9,2025-03-27 11:07:07.339772+00:00,cohere,command-r-08-2024,0,5087.0,305.0,Radical.Regulation.Least.Preferred.Moderate.Regulation.Preferred.Least.Regulation.

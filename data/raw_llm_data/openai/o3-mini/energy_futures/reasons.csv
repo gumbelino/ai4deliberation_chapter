@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+cc6315f5-d143-4c0c-a019-ff9ccf93d008,2025-04-01 14:50:01.440845+00:00,openai,o3-mini,0,4520,8126,Nuclear and renewables top our list for low emissions and sustainability while fossil fuels lag
+679e69e5-f30b-42bc-bd74-ed0f8da9e6e4,2025-04-01 14:50:59.681580+00:00,openai,o3-mini,0,4520,8060,Rankings reflect sustainability and cost priorities favoring solar and wind over fossil fuels
+dd1cdbc0-f184-4d87-8837-077022993c3e,2025-04-01 14:52:09.143522+00:00,openai,o3-mini,0,4520,6203,"Ratings prioritize nuclear due to efficiency, safety, cost and environmental merits."
+5a3c4906-19df-467f-ba9a-5ddd59dac885,2025-04-01 14:53:16.241370+00:00,openai,o3-mini,0,4520,6779,Rankings reflect tradeoffs among cost safety emissions reliability and renewable viability.
+c8fcffb4-969c-4078-bb96-186cd9e8a9b6,2025-04-01 14:54:13.848430+00:00,openai,o3-mini,0,4520,6711,I ranked policies balancing cost risk reliability and sustainability.

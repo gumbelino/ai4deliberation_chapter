@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Management that favors aggressive reduction of hazardous fuels,P2. Management that favors thinning treatments to realize economic gain.,"P3. Management that favors treatments to restore structure, function and composition of the forest to presettlement conditions, and allowing the introduction of fire as a natural disturbance.",P4. No fire or fuels management. Leaving the forests as they stand without active management.,P5. Management that favors local-based harvesting for fuel and timber needs.,P6. Management that favors the protection of wildlife and wildlife habitat.,"P7. Management that prioritizes the location and level of treatments favoring both ecological and social values (i.e. wildlife, watersheds, community protection, special cultural places)."
+c917af58-390e-4a4b-8a9f-741c74c2c807,2025-04-02 08:56:36.195839+00:00,openai,o1,0,4542,4407,2,7,6,5,1,3,4
+a601c273-c39f-43d0-b28d-a8b064d5d967,2025-04-02 08:58:01.186821+00:00,openai,o1,0,4541,4336,4,6,2,7,5,3,1
+a7da171f-525a-402e-aad9-2f360962e209,2025-04-02 08:59:11.142238+00:00,openai,o1,0,4541,6128,2,5,6,7,4,3,1
+8c6bede5-b28c-4f01-aac2-3b885b336ea8,2025-04-02 09:00:56.369335+00:00,openai,o1,0,4541,4278,3,6,2,4,7,1,5
+61448676-4404-4dc7-bd43-275a408d2c64,2025-04-02 09:02:21.714294+00:00,openai,o1,0,4539,6450,6,4,3,1,2,7,5

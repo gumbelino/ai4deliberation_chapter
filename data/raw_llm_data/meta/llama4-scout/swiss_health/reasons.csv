@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+1e143d72-60b4-4254-8af5-022ab91306d6,2025-04-10 17:07:31.123473+00:00,meta,llama4-scout,0,2742,167,I prioritized efficient fixes and equitable systems over radical changes or maintaining status quo.
+9b75ff15-8409-4152-a5ed-960b8dbbddfd,2025-04-10 17:07:34.666698+00:00,meta,llama4-scout,0,2742,172,"I prioritized efficiency, equity, and accessibility, favoring nuanced reforms over radical changes or inaction."
+146a9ef5-e3a5-43ad-9a8f-2dea98c27de4,2025-04-10 17:07:39.114484+00:00,meta,llama4-scout,0,2742,165,Prioritizing efficiency and targeted support over radical changes or less regulation.
+b4a6a377-6ddc-45fe-82e9-f2419da0f4f0,2025-04-10 17:07:45.132586+00:00,meta,llama4-scout,0,2742,166,Prioritizing efficiency and public support over radical changes or maintaining status quo.
+387d835d-7648-48e8-b036-36e15e358a9c,2025-04-10 17:07:48.707659+00:00,meta,llama4-scout,0,2742,167,"I prioritized efficient, equitable, and accessible healthcare systems with some government involvement."
+5db65f4f-c375-406a-8899-c7af7fd0f4f4,2025-04-10 17:07:52.086444+00:00,meta,llama4-scout,0,2742,170,I prioritized policies addressing inefficiencies and supporting those in need over radical changes or less regulation.
+7cfcc688-b3ac-4142-a905-5f6ad07578a6,2025-04-10 17:07:56.000703+00:00,meta,llama4-scout,0,2742,173,"I prioritized public unified systems and financial support, while opposing abolishing mandatory insurance and preserving the status quo."
+5447873b-d3f1-452d-93ed-a81ac7389d72,2025-04-10 17:07:59.353039+00:00,meta,llama4-scout,0,2742,171,"I prioritized government support and public systems, then regulation, and opposed radical changes or inaction."
+2663cd76-adb5-4259-b461-d6968f2ecf52,2025-04-10 17:08:09.488364+00:00,meta,llama4-scout,0,2742,168,"I prioritized efficiency and access, supporting fixing inefficiencies and a universal public system."
+3871e8e1-7ba5-4c02-bf69-c356a7e687c6,2025-04-10 17:08:14.907476+00:00,meta,llama4-scout,0,2742,167,I prioritized public unified healthcare and fixing inefficiencies over regulation or personal responsibility.
+96cea849-d6c4-4dbb-a665-af6725bd6ad7,2025-04-10 17:08:23.618774+00:00,meta,llama4-scout,0,2742,167,I prioritized efficient fixes and supportive measures over radical changes or less government involvement.
+c43618b4-90a0-4b32-802d-47fccdefaaf4,2025-04-10 17:08:29.467096+00:00,meta,llama4-scout,0,2742,170,"I prioritized public unified healthcare, then efficiency fixes, and least supported abolishing mandatory insurance."
+ea30b46e-5578-45fe-8e39-5a98d79efcac,2025-04-10 17:08:34.499662+00:00,meta,llama4-scout,0,2742,173,"Prioritized cost efficiency, public unified system, and government control over unregulated competition and abolishing mandatory insurance."
+7bf4de23-a55a-4816-a130-556723aa7218,2025-04-10 17:08:38.240296+00:00,meta,llama4-scout,0,2742,163,Prioritized cost-effective reforms and equitable access over radical changes.
+60e9d599-1ff4-4ef9-9abd-470e99cda585,2025-04-10 17:08:42.152366+00:00,meta,llama4-scout,0,2742,165,Prioritizing efficiency and public support over radical changes or status quo.
+994dcd05-25cc-48d3-9296-bef45ea88c22,2025-04-10 17:08:46.966816+00:00,meta,llama4-scout,0,2742,171,"I prioritized efficient fixes, then progressive reforms, and downplayed radical changes or maintaining status quo."
+392ee9df-f66e-48a0-a145-1668067447fc,2025-04-10 17:08:54.858312+00:00,meta,llama4-scout,0,2742,163,Prioritized cost efficiency and public healthcare access with some regulation.
+a97235e3-ae1a-4e77-9522-026108ef66c7,2025-04-10 17:08:58.209353+00:00,meta,llama4-scout,0,2742,169,"Prioritized policies based on previous ratings, balancing government control and personal responsibility with system efficiency."
+e6386f5a-4e44-4498-8278-ab5bbd2b43fa,2025-04-10 17:09:01.826647+00:00,meta,llama4-scout,0,2742,171,"I prioritized efficient fixes and equitable systems, supporting income-based healthcare and rejecting abolishing mandatory insurance."
+8fabbc75-819e-45ef-bdd9-7e6674366d0b,2025-04-10 17:09:05.226489+00:00,meta,llama4-scout,0,2742,175,"I prioritized public unified systems and financial support, while opposing abolishing mandatory insurance and inaction on current system issues."
+e3724f34-65da-4902-a7c6-e916d80dbe08,2025-04-10 17:09:12.179529+00:00,meta,llama4-scout,0,2742,166,"I prioritized government-supported, efficient systems over radical changes or less regulation."
+b047e619-977c-42f5-bec3-c71be9fbe988,2025-04-10 17:09:16.982946+00:00,meta,llama4-scout,0,2742,167,I prioritized efficient fixes and public unified systems over radical changes or less regulation.
+0a50baa4-d569-4f3b-8284-8f3fe62db19e,2025-04-10 17:09:20.461712+00:00,meta,llama4-scout,0,2742,165,Prioritizing efficiency and targeted support over radical changes or status quo.
+1e773d87-32d8-4903-8e39-4fda0a658661,2025-04-10 17:09:27.824048+00:00,meta,llama4-scout,0,2742,168,"Prioritized efficient fixes, then public support, and rejected radical changes or doing nothing."
+b3c19a8a-d702-4ce5-9e47-b947a9f25c4a,2025-04-10 17:37:39.007633+00:00,meta,llama4-scout,0,2742,165,I prioritized efficiency and accessibility while balancing government control and personal responsibility.
+574c793e-3259-43a1-8cee-d7ee196c2103,2025-04-10 17:37:42.515291+00:00,meta,llama4-scout,0,2742,165,Prioritizing efficiency and targeted support over radical changes or less regulation.
+4b688faa-d5a2-4588-be5a-38be5b5b5165,2025-04-10 17:37:47.264962+00:00,meta,llama4-scout,0,2742,165,I prioritized efficiency and accessibility while balancing personal responsibility and government involvement.
+d2799855-c894-4b3b-8d8d-ea36e9bb1fe3,2025-04-10 17:37:50.708476+00:00,meta,llama4-scout,0,2742,167,I prioritized efficient fixes and targeted support over radical changes or less government involvement.
+b3a9b6ce-f5a7-4bf3-80cf-07a245cdf6d9,2025-04-10 17:37:59.753951+00:00,meta,llama4-scout,0,2742,167,Prioritized cost-effective reforms and public support over radical changes or maintaining status quo.
+4f3b08df-2aca-486d-845c-c26438718eed,2025-04-10 17:38:03.244414+00:00,meta,llama4-scout,0,2742,170,"I prioritized efficiency and accessibility, supporting fixes to the current system and a unified public system."
+699ffe4b-9f95-4bbb-86ad-21523c105f5f,2025-04-10 17:38:06.787465+00:00,meta,llama4-scout,0,2742,173,"I prioritized efficient fixes, then government control and public systems, and least supported radical changes or reduced regulation."
+cbce11ab-9a4f-4b5a-95e0-742ef8755a54,2025-04-10 17:38:11.288708+00:00,meta,llama4-scout,0,2742,171,"I prioritized efficient fixes and public unified systems, while opposing abolishing mandatory insurance and doing nothing."

@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+dc57f330-6b00-44e3-b5bb-e3383d3218c9,2025-03-20 17:09:38.152219+00:00,openai,gpt-4o,0,4307,250,Prioritize environmental protection and minimal development impact on the Daintree.
+45677de8-13f3-4160-a96f-fa8a8b0b8333,2025-03-20 17:09:48.071310+00:00,openai,gpt-4o,0,4307,250,Prioritize environmental protection and minimal development impact on the Daintree.
+abb3c200-f6a8-41ff-a788-d5a92ce96c8b,2025-03-20 17:09:57.345613+00:00,openai,gpt-4o,0,4307,251,Prioritize environmental protection and minimal development impact on the Daintree area.
+a1464ab1-2409-4546-a0ec-e5441e90c0ee,2025-03-20 17:10:08.517489+00:00,openai,gpt-4o,0,4307,251,"Prioritize minimal impact and safety, avoid full upgrades to protect the environment."
+23f047a3-9b5e-4fb0-9a06-9b3762550cb8,2025-03-20 17:10:18.263735+00:00,openai,gpt-4o,0,4307,250,Prioritize environmental protection and minimal development impact on the Daintree.
+9cd418ef-7a85-45b9-b2e3-89ee28434a34,2025-03-20 17:10:27.888379+00:00,openai,gpt-4o,0,4304,247,Prioritize environmental protection and minimal impact over road upgrades.
+3889d9c2-fb37-4166-8c75-008a485609f1,2025-03-20 17:10:38.525894+00:00,openai,gpt-4o,0,4307,245,Environmental protection prioritized over road development and accessibility.
+8bd17c06-bd25-4e76-95a6-50497bfcc365,2025-03-20 17:10:49.439114+00:00,openai,gpt-4o,0,4307,250,Prioritize environmental protection and minimal development impact on the Daintree.
+06862495-a3b0-4c03-9185-7c1c3b470d67,2025-03-20 17:11:00.118852+00:00,openai,gpt-4o,0,4307,251,Prioritize environmental protection and minimal development impact on the Daintree area.
+792543fb-7978-4456-bbc7-199783341bcf,2025-03-20 17:11:11.493799+00:00,openai,gpt-4o,0,4307,250,Prioritize environmental protection and minimal development impact on the Daintree.
+39565f32-0437-4a16-8d61-a1f2ac07ca38,2025-04-01 09:35:46.886142+00:00,openai,gpt-4o,0,4307,245,Environmental protection prioritized over road development and accessibility.
+8c793ace-c9d8-4ac7-9c04-c47f4df158a0,2025-04-01 09:35:54.709191+00:00,openai,gpt-4o,0,4307,250,Prioritize environmental protection and minimal development impact on the Daintree.
+6df7a771-f6c2-420f-8e7b-cb49689d6639,2025-04-01 09:36:00.858743+00:00,openai,gpt-4o,0,4310,252,Prioritize environmental protection and minimal development impact on the Daintree.
+fc5262de-7847-4caa-a4a3-b45088f49727,2025-04-01 09:36:07.927356+00:00,openai,gpt-4o,0,4304,250,Prioritize environmental protection and minimal development impact on the Daintree.
+1f575611-157b-4837-a0bf-64fa80dcd1b6,2025-04-01 09:36:14.485247+00:00,openai,gpt-4o,0,4307,247,Prioritize environmental protection and minimal impact over road upgrades.
+c31fd01d-257c-41b7-b521-c3b54212e8ba,2025-04-01 09:36:21.132978+00:00,openai,gpt-4o,0,4307,250,Prioritize environmental protection and minimal development impact on the Daintree.
+161ddc94-4f4b-49b3-b113-e729f3e44a77,2025-04-01 09:36:28.764172+00:00,openai,gpt-4o,0,4304,251,"Prioritize conservation and minimal impact, avoid extensive development or bitumen upgrade."
+c22e1f22-d53c-42de-b437-100251e4180c,2025-04-01 09:36:33.755599+00:00,openai,gpt-4o,0,4307,250,Prioritize environmental protection and minimal development impact on the Daintree.
+8ebecf15-b148-425a-8458-778da92e5270,2025-04-01 09:36:39.638219+00:00,openai,gpt-4o,0,4307,250,Prioritize environmental protection and minimal development impact on the Daintree.
+d755ebc0-003d-48ed-a0fc-1973e385cb2c,2025-04-01 09:36:45.407579+00:00,openai,gpt-4o,0,4307,247,Prioritize environmental protection and minimal development over road upgrades.
+5169781a-9b1f-4090-ac20-48c87e2bdd03,2025-04-01 09:36:52.987100+00:00,openai,gpt-4o,0,4307,250,Prioritize environmental protection and minimal development impact on the Daintree.
+2ce535ef-5126-4b94-a5ac-4f5408dec2a3,2025-04-01 09:36:59.084298+00:00,openai,gpt-4o,0,4307,249,"Prioritize minimal impact and safety, avoid extensive development or closure."
+716310e4-8faa-45d8-9f8a-32d115c8e646,2025-04-01 09:37:05.071007+00:00,openai,gpt-4o,0,4307,250,Prioritize environmental protection and minimal development impact on the Daintree.
+f7c90292-64ea-4309-8e74-769bec54b9ce,2025-04-01 09:37:12.394491+00:00,openai,gpt-4o,0,4307,250,Prioritize environmental protection and minimal development impact on the Daintree.
+de32bc12-7d98-413b-bce9-f101c5da7d87,2025-04-01 09:37:20.851522+00:00,openai,gpt-4o,0,4307,248,Prioritize minimal impact on environment while maintaining access and safety.
+c6f542c5-c161-420b-94e7-290212a4585e,2025-04-01 09:37:26.977190+00:00,openai,gpt-4o,0,4307,250,"Prioritize minimal impact and safety, avoid extensive development and environmental harm."
+15e5aaa4-7a55-4058-8e02-cd2ca3a6c291,2025-04-01 09:37:35.371697+00:00,openai,gpt-4o,0,4307,251,Prioritize environmental protection and minimal development impact on the Daintree area.
+05408fd2-9fb0-4183-aa89-d3d370a5980e,2025-04-01 09:37:42.574505+00:00,openai,gpt-4o,0,4307,250,Prioritize environmental protection and minimal development impact on the Daintree.
+d9d388c8-98c7-4875-bc89-7d22ebfbd8c3,2025-04-01 09:37:49.887868+00:00,openai,gpt-4o,0,4307,249,"Prioritize minimal impact and safety, avoid extensive development or closure."
+85637355-c6a7-4580-95ac-7fe6cf4686dd,2025-04-01 09:37:59.333063+00:00,openai,gpt-4o,0,4307,249,"Prioritize minimal impact and safety, avoid extensive development or closure."

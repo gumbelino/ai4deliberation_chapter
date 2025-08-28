@@ -1,0 +1,5 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+316a124c-e424-4cbf-aa50-373f43248a64,2025-05-29 15:24:02.250661+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6482,2660,Prioritized strong privacy protections and regulatory oversight over funding source or participation levels
+388ae662-9cef-4567-8bb8-de7af462f21b,2025-05-29 15:24:56.715082+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6428,1421,Prioritized strong privacy protections and oversight while opposing minimal regulation approaches
+5836ab3d-729b-4f37-b315-1d88ae8e2891,2025-05-29 15:25:34.150283+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6601,1848,Prioritized privacy protection and strong oversight over funding source or minimal regulation
+23544957-6c8d-4fd9-b603-3547d9156dbf,2025-06-02 03:50:07.613862+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,7168,2204,Prioritized privacy and strong oversight over funding source while opposing minimal regulation

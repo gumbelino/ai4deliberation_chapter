@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d6c8deca-92a3-496f-83b9-a822a8e437b4,2025-03-21 20:52:22.614414+00:00,openai,gpt-4o-mini,0,4523,289,"Nuclear is preferred for reliability, followed by biomass; wind and solar are less favored."
+e6b45683-4919-4da8-ba56-87376f2ed525,2025-03-21 20:52:30.373957+00:00,openai,gpt-4o-mini,0,4523,287,"I prioritize nuclear and biomass for sustainability, while ranking coal and its variants lowest."
+914a1f75-e1cd-4dff-b7df-678ceb5e874c,2025-03-21 20:52:40.916956+00:00,openai,gpt-4o-mini,0,4523,287,"I prioritize nuclear and biomass for reliability, while ranking coal and hydroelectric lowest."
+6c3990d3-17f5-4b87-b40d-200c2c846b7a,2025-03-21 20:52:48.701353+00:00,openai,gpt-4o-mini,0,4523,289,"Nuclear is preferred for safety and efficiency, while coal and solar are less favorable options."
+875beb28-1fd4-4ec2-9867-08e3c0f55e71,2025-03-21 20:52:55.050196+00:00,openai,gpt-4o-mini,0,4523,291,"Nuclear is preferred for reliability, while coal and solar are least favored due to emissions and variability."
+7a6aa63f-63cb-49cf-b2ba-c8f4e6f639d6,2025-03-21 20:53:02.939305+00:00,openai,gpt-4o-mini,0,4523,290,"I prioritize nuclear and solar for sustainability, followed by coal with CO2 burial and natural gas."
+bd0c0d4e-c8e6-4110-8432-87c7d8dae364,2025-03-21 20:53:11.027085+00:00,openai,gpt-4o-mini,0,4523,291,"Nuclear is preferred for reliability, followed by wind and solar; coal and gas are less favorable."
+9578aba0-e82e-4be6-9e4f-36e021ff6809,2025-03-21 20:53:18.832214+00:00,openai,gpt-4o-mini,0,4523,289,"I prioritize nuclear and solar for reliability, followed by biomass, while ranking fossil fuels lower."
+3808862d-8e70-4007-b33f-3f31f8746bea,2025-03-21 20:53:25.873257+00:00,openai,gpt-4o-mini,0,4523,290,"Nuclear is preferred for reliability, while coal and wind are least favored due to environmental concerns."
+bbd4dff1-bf0f-45f6-aaa5-23b91e4a0f96,2025-03-21 20:53:32.891289+00:00,openai,gpt-4o-mini,0,4523,289,"I prioritize nuclear and natural gas for reliability, followed by renewables and less favored coal."
+6db292de-0fee-49fa-b0d6-52e63e364aff,2025-03-21 20:53:42.872099+00:00,openai,gpt-4o-mini,0,4523,288,"I prioritize nuclear and natural gas for reliability, followed by geothermal and biomass for sustainability."
+f8966f43-21ac-493e-9af7-add5a1216f29,2025-03-21 20:53:51.576069+00:00,openai,gpt-4o-mini,0,4523,287,"I prioritize nuclear energy for reliability, followed by geothermal and natural gas for sustainability."
+63194935-fb1b-450c-9f9e-3234d2822769,2025-03-21 20:53:58.128216+00:00,openai,gpt-4o-mini,0,4523,288,"I prioritize nuclear and renewables for sustainability, while ranking coal and fossil fuels lower."
+e68c6c39-93cf-4d36-b89e-7f56cdbe82de,2025-03-21 20:54:07.653233+00:00,openai,gpt-4o-mini,0,4523,286,I prioritize nuclear and renewable options while opposing coal and CO2 burial methods.
+9d301170-f443-4fd3-858d-7616f20dc54e,2025-03-21 20:54:16.855054+00:00,openai,gpt-4o-mini,0,4523,285,I prioritize nuclear and renewable options over fossil fuels and coal for sustainability.
+00a24932-1823-4d63-bb44-b1728067563f,2025-03-21 20:54:24.139971+00:00,openai,gpt-4o-mini,0,4523,289,"I prioritize nuclear and biomass for reliability, followed by wind, while ranking fossil fuels lower."
+3c1d9719-9f51-4ca4-9bb6-3167b8a5f6cf,2025-03-21 20:54:31.997792+00:00,openai,gpt-4o-mini,0,4523,288,"I prioritize nuclear and renewables over fossil fuels, with coal and solar rated lowest."
+e772e557-a2ea-466a-9a3a-2a9d254fae5d,2025-03-21 20:54:38.783183+00:00,openai,gpt-4o-mini,0,4523,287,"I prioritize renewable and low-emission options, ranking nuclear highest and coal lowest."
+8698684e-024b-4e37-91bf-ab06e9a7af9f,2025-03-21 20:54:48.000353+00:00,openai,gpt-4o-mini,0,4523,290,"I prioritize nuclear for safety and efficiency, followed by natural gas and coal with CO2 burial."
+07386aaf-daa8-42da-9da3-401ad8e2b14a,2025-03-21 20:54:55.677219+00:00,openai,gpt-4o-mini,0,4523,283,I prioritized renewable and sustainable options while ranking fossil fuels lower.
+e3ff6f66-0179-4d78-885a-17870651c90e,2025-03-28 06:56:48.492216+00:00,openai,gpt-4o-mini,0,4523,289,"Nuclear is preferred for reliability, followed by geothermal; coal and wind are least favored."
+727390e2-085b-4e8b-97d1-7400964c9f86,2025-03-28 06:56:56.124445+00:00,openai,gpt-4o-mini,0,4523,290,"Nuclear is preferred for reliability, followed by geothermal and natural gas; coal is least favored."
+be8614a3-e84b-4bd5-aeec-68fa3191921d,2025-03-28 06:57:06.436720+00:00,openai,gpt-4o-mini,0,4523,288,"I prioritize nuclear and biomass for reliability, followed by natural gas and hydroelectric options."
+0e667396-5984-4dae-b660-149c3b78053a,2025-03-28 06:57:13.224374+00:00,openai,gpt-4o-mini,0,4523,290,"I prioritize nuclear energy for safety and efficiency, followed by renewables and less on fossil fuels."
+f504bd1c-bc75-4c21-ae99-6417781c3c41,2025-03-28 06:57:22.797581+00:00,openai,gpt-4o-mini,0,4523,285,I prioritize nuclear and renewable sources over fossil fuels and coal for sustainability.
+bea282a7-d324-416c-962d-adac970b98fa,2025-03-28 06:57:30.982405+00:00,openai,gpt-4o-mini,0,4523,289,"I prioritize biomass and hydroelectric, favoring renewables over fossil fuels and risky technologies."
+259cd882-8e21-401d-ac79-4d8aa0a11a24,2025-03-28 06:57:40.031350+00:00,openai,gpt-4o-mini,0,4523,290,"Nuclear is preferred for reliability, while solar and coal with CO2 burial are less favorable."
+dc12e005-13d4-4551-bd21-b8897dd4073f,2025-03-28 06:57:46.159930+00:00,openai,gpt-4o-mini,0,4523,287,I prioritized renewable and less harmful options over fossil fuels and high-emission sources.
+490bcb19-c34f-4fcc-9d47-7d0eb46405bc,2025-03-28 06:57:52.719771+00:00,openai,gpt-4o-mini,0,4523,287,"I prioritize nuclear and geothermal for reliability, while ranking coal and fossil fuels lower."
+91bf6b46-116e-449b-8b1d-ad16e793c5fa,2025-03-28 06:58:03.784043+00:00,openai,gpt-4o-mini,0,4523,288,"I prioritize nuclear and geothermal for reliability, while viewing coal and solar less favorably."
+ae44bd00-9062-410f-a933-f35345f4791b,2025-03-28 06:58:11.284630+00:00,openai,gpt-4o-mini,0,4523,290,"Nuclear is preferred for reliability, followed by wind; coal is least favored due to emissions."
+79cf94cf-faa5-4720-955f-0a33e3c4d769,2025-03-28 06:58:17.711220+00:00,openai,gpt-4o-mini,0,4523,287,I prioritize sustainable options like biomass and solar over fossil fuels and less reliable sources.

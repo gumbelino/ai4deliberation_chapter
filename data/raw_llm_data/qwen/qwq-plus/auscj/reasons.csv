@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+16e2f5e5-5f0e-411e-af44-9970a9babcc0,2025-04-02 11:18:36.854443+00:00,qwen,qwq-plus,0,4467,6729,"Support restricted medical uses, cautious on heritable edits, emphasize equity and safety."
+a5ed2e5d-7dc3-409c-addc-d5f2f19e2d03,2025-04-02 11:20:58.085910+00:00,qwen,qwq-plus,0,4467,4798,Support clinical uses with strict oversight; oppose unregulated or heritable edits without clear medical need.
+e22212f3-c1a0-40b7-8c03-51f9e760400b,2025-04-02 11:22:38.574132+00:00,qwen,qwq-plus,0,4467,6417,Support clinical uses with oversight; oppose unregulated or for-profit applications.
+3808fe0c-462f-4028-b56f-d96d01475f77,2025-04-02 11:24:51.493499+00:00,qwen,qwq-plus,0,4467,6422,Support-nonprofit-clinical-use-with-strict-oversight-oppose-commercial-or-unregulated-editing.
+95a09fa0-6d71-42cb-bf35-dd4220458748,2025-04-02 11:27:04.869282+00:00,qwen,qwq-plus,0,4467,7849,"Prioritize safety and ethics, favor non-heritable genome editing with oversight."
+2b556c60-63bf-4b25-85dc-a16b034750a3,2025-04-02 21:21:23.860274+00:00,qwen,qwq-plus,0,4465,6293,"Support non-profit, non-heritable genome editing with oversight; oppose heritable or unregulated uses."
+236d1731-3885-4fd1-b2c2-7eebcd402abf,2025-04-02 21:23:34.287921+00:00,qwen,qwq-plus,0,4467,7647,Support medical uses with non-profit/non-heritable restrictions; oppose unrestricted or full prohibitions.
+b8e159db-9f00-4754-95f5-d20eeba99e73,2025-04-02 21:26:12.652965+00:00,qwen,qwq-plus,0,4467,6882,"Support strict regulation, non-heritable uses, oppose minimal restrictions; prioritize safety and equity."
+2fb59458-df10-4b35-bcf1-9da360c3ff32,2025-04-02 21:28:34.541850+00:00,qwen,qwq-plus,0,4467,7349,Support clinical non-heritable uses with strict oversight; oppose heritable edits and for-profit applications.
+aaa2e5dc-ee5e-40a7-bbd9-7f5bbd24b0ef,2025-04-02 21:31:06.880153+00:00,qwen,qwq-plus,0,4467,4857,Supports clinical genome editing with strict oversight; opposes unregulated and profit-driven uses.
+2e001897-1cfa-47c3-ab30-1f99701b2abd,2025-04-02 21:32:48.054089+00:00,qwen,qwq-plus,0,4467,6615,Support-medical/clinical uses with strict limits; oppose full prohibition and unregulated editing.
+bcf7e4c2-b8f9-4938-8a0b-e52a3b7eb4a3,2025-04-02 21:35:04.315131+00:00,qwen,qwq-plus,0,4465,6153,"Support medical uses with non-profit and oversight, cautious on heritable edits."
+c8d5b9bf-1aa9-484c-8cfc-c166e837f75d,2025-04-02 21:37:11.044409+00:00,qwen,qwq-plus,0,4467,5011,Support clinical uses with strict oversight; oppose unregulated or non-medical applications.
+cb777ef9-fc7e-4f9f-bfe7-fa199aefbc3c,2025-04-02 21:38:54.613941+00:00,qwen,qwq-plus,0,4467,5874,Support-clinical-use-with-oversight;cautious-on-heritable-edits;oppose-unrestricted-applications
+7fceb8ea-3600-4a15-8992-13371180f7fd,2025-04-02 21:40:56.592350+00:00,qwen,qwq-plus,0,4465,6826,Cautious support for non-heritable genome editing with oversight; oppose full bans and minimal restrictions.
+08c165a1-b653-4857-9024-c15fe138f0f0,2025-04-03 13:24:03.940731+00:00,qwen,qwq-plus,0,4467,6951,Support non-heritable clinical uses with strict oversight; oppose heritable and lax regulations.
+4dffbd99-d466-455e-ad98-a56f4e162cab,2025-04-03 13:26:28.857047+00:00,qwen,qwq-plus,0,4467,6636,"Support-medical-oversight, oppose-profit-driven/unregulated-editing."
+8e4efc58-e003-4aa6-921f-c81590b1dd12,2025-04-03 13:28:45.727072+00:00,qwen,qwq-plus,0,4467,8799,Support-clinical-non-profit-with-oversight;restrict-heritable-edits-and-profit.
+4fa2d3be-4bba-4e71-ab8b-f15312fe66e6,2025-04-03 13:31:48.018860+00:00,qwen,qwq-plus,0,4467,4163,Support non-heritable editing with strict ethics; oppose heritable uses and lax regulations.
+4854e9f9-2e9b-452b-98b9-8782087fb908,2025-04-03 13:33:14.518995+00:00,qwen,qwq-plus,0,4467,5153,Support clinical non-heritable editing with oversight; cautious on heritable uses and equity concerns.
+c796e07f-c97b-4015-8969-6a1938a7d62d,2025-04-03 13:35:01.995152+00:00,qwen,qwq-plus,0,4467,4813,Favor clinical uses with oversight; oppose extremes.
+93d5615a-fb42-4344-a921-f3930f0d8d74,2025-04-03 13:36:44.757306+00:00,qwen,qwq-plus,0,4464,7416,"Support oversight, non-heritable edits; oppose unregulated uses to avoid inequality/dystopian risks."
+e5a34f8a-627a-431d-b8dc-f46129729209,2025-04-03 13:39:17.548777+00:00,qwen,qwq-plus,0,4467,6111,Support-non-heritable-medical-use-with-oversight-oppose-heritable-edits-and-for-profit-applications.
+6b7f9a46-e818-4376-8dec-9ce85a66cddb,2025-04-03 13:41:23.994964+00:00,qwen,qwq-plus,0,4467,8003,Support medical uses with strict oversight; oppose unregulated or for-profit applications.
+930832d5-1c83-4f68-9128-e6fc3999b33a,2025-04-03 13:44:09.540656+00:00,qwen,qwq-plus,0,4467,9112,"Prioritize medical non-heritable uses, cautious on heritable edits, emphasize equity and strict oversight."
+fb9e792e-b05e-478f-9594-72aead6e79ce,2025-04-03 13:47:16.829543+00:00,qwen,qwq-plus,0,4467,6079,"Prioritizes ethical caution, supporting prohibition except for research and strict oversight."
+0e73efca-4a5b-484d-a60d-556160564b78,2025-04-03 13:49:22.951293+00:00,qwen,qwq-plus,0,4467,4065,"Support-non-profit,-strict-oversight-oppose-heritable-edits-prioritize-safety-equity."
+27db597a-72c4-4ff6-953b-aea75199b178,2025-04-03 16:53:40.266955+00:00,qwen,qwq-plus,0,4467,4747,Support-medical-use-with-oversight;cautious-on-non-medical-or-profit-driven-edits.
+0624a536-e7b6-4c8a-a5ab-4445cd862f4d,2025-04-03 16:55:19.314090+00:00,qwen,qwq-plus,0,4467,5788,"Supports clinical genome editing with strict oversight, restricts non-medical and heritable uses."
+a493f5ba-fbe0-443f-ba3f-de48879856ad,2025-04-03 16:57:19.470054+00:00,qwen,qwq-plus,0,4467,7916,"Support ethical non-heritable uses, restrict profit/heritable editing, prioritize oversight."
+e4f99125-109e-48f6-bfd3-a4d371d03a79,2025-04-03 17:00:03.256775+00:00,qwen,qwq-plus,0,4467,7680,"Prioritize ethical, non-commercial uses with strong oversight for clinical purposes."

@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+cdda7875-2de2-4bc8-aba3-b322d355f329,2025-04-01 13:52:29.858763+00:00,openai,o3-mini,0,3215,5109,I prioritized adaptation and moderate cuts for their balance of impact and feasibility.
+519670d3-2fca-4eef-9a01-eadb5875e878,2025-04-01 13:53:33.043884+00:00,openai,o3-mini,0,3215,4406,I prioritized proactive adaptation and resilience policies over minimal and growth-focused options.
+aeac86ce-77f3-4c44-b13b-82bff3c6371d,2025-04-01 13:54:13.636539+00:00,openai,o3-mini,0,3215,5750,I ranked proactive climate adaptation and resilience options over economic growth and extreme measures.
+40f69a5d-42ce-46cc-a395-b2955b4e9090,2025-04-01 13:55:07.964893+00:00,openai,o3-mini,0,3215,5562,I favoured adaptive resilience and proactive planning over less effective growth or inaction options.
+438f5b01-68b7-4de0-a62c-f3a22faf95f1,2025-04-01 13:56:03.379971+00:00,openai,o3-mini,0,3215,7605,I prioritized policies emphasizing adaptation and balanced emission cuts based on earlier ratings.

@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,"P1. The kind of government that we have, with no major changes","P2. Government with guaranteed involvement by all social groups, especially those representing disadvantaged minorities, in policy making","P3. A government with constitutional rules specifying its main task is to ensure that economic markets work well, and that government intervenes as little in society beyond that",P4. Government with strong leaders and legislation that ensures that proper moral principles are observed in society.,"P5. Government that abolishes all policies that give special benefits to minority groups, and instead ensures equal influence for all Australians"
+9e159a44-a263-4331-8727-f24494108c34,2025-04-17 10:32:51.421270+00:00,google,gemini-2.0-flash-thinking-exp,0,5272,325,2,4,5,1,3
+aa55102c-4247-4a2f-b25e-e3f7de3215cc,2025-04-17 10:33:11.727251+00:00,google,gemini-2.0-flash-thinking-exp,0,4885,130,4,3,1,5,2
+ab099676-b61a-4ab2-9fc5-b35d272c32f3,2025-04-17 10:33:31.688771+00:00,google,gemini-2.0-flash-thinking-exp,0,5270,323,2,5,3,1,4
+237fe87d-0b0a-4281-a1e9-ebc80d88e311,2025-04-17 10:33:53.585202+00:00,google,gemini-2.0-flash-thinking-exp,0,4904,143,1,2,4,5,3
+fee95fa3-870e-4ccc-a3c9-7bfb950f09ae,2025-04-17 10:37:47.042722+00:00,google,gemini-2.0-flash-thinking-exp,0,5272,325,4,2,1,5,3
+24419333-5529-4a84-81a2-367ec10e3060,2025-04-17 10:38:07.813797+00:00,google,gemini-2.0-flash-thinking-exp,0,5272,326,1,4,3,5,2
+04d184db-f577-4c1e-91ae-2bf95f031438,2025-04-17 10:38:25.358010+00:00,google,gemini-2.0-flash-thinking-exp,0,5274,322,1,3,5,2,4
+1f03f689-114c-43de-9fcb-456364fd16fd,2025-04-17 10:38:40.285924+00:00,google,gemini-2.0-flash-thinking-exp,0,5268,322,5,3,1,2,4
+0cb04a79-5755-478e-8bf8-8d63cb7aee9b,2025-04-17 10:39:01.918508+00:00,google,gemini-2.0-flash-thinking-exp,0,5264,317,2,4,3,5,1

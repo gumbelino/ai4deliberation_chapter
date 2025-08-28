@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+59a15eba-a52e-4343-9954-84b0b7e201ec,2025-04-01 13:57:34.452906+00:00,openai,o3-mini,0,4541,6070,Ratings reflect preference for integrated adaptive ecology-centered forest treatment with local input.
+9515b62d-380c-40cd-8366-7e38868b0439,2025-04-01 13:58:34.041305+00:00,openai,o3-mini,0,4541,7216,Rankings favor comprehensive forest treatments integrating ecological restoration with social values.
+b6c48f90-0794-4e87-875f-f62f87b80d11,2025-04-01 13:59:44.832016+00:00,openai,o3-mini,0,4541,5552,Ratings reflect balanced views weighing hazard reduction ecological restoration and local benefits.
+1e63b469-15e7-43d5-b3de-032e0a9c68d9,2025-04-01 14:00:33.469835+00:00,openai,o3-mini,0,4541,5617,I prioritized policies that integrate ecological restoration with public safety and local needs.
+edac2a1c-cb5d-471f-a749-fe11df8dba8d,2025-04-01 14:01:28.864109+00:00,openai,o3-mini,0,4539,5231,Rankings balance forest restoration community input and fire risk management

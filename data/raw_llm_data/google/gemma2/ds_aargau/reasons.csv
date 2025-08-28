@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+1e060153-e39f-49d9-bfb7-a875914b1e27,2025-03-21 07:33:12.340695+00:00,google,gemma2,0,0,0,"Prioritize adaptation, new technologies, and community action over drastic emission cuts or purely economic growth."
+fefbf333-8a35-47fd-a474-48168cdcf8d5,2025-03-21 07:33:31.566113+00:00,google,gemma2,0,0,0,"Prioritize local action, adaptation, and gradual emissions reduction over drastic cuts or economic growth at the expense of climate change."
+c5b17ef0-0c57-4aa3-91f2-1b3393e9aa22,2025-03-21 07:33:50.310896+00:00,google,gemma2,0,0,0,"Moderate emissions cuts, resilience building, local action favored over drastic change or pure economic growth."
+f444f1b9-c6fe-4b78-b92a-b7d2e308d8c6,2025-03-21 07:34:08.917219+00:00,google,gemma2,0,0,0,"Prioritize adaptation, moderate emissions cuts, and community action over drastic reductions."
+aa3aaaa7-738b-4edf-836d-468b6cecb160,2025-03-21 07:34:27.452776+00:00,google,gemma2,0,0,0,"Prioritize adaptation over drastic emission cuts, supporting local action and resilience building."
+35d415f2-87b4-4d17-b9d4-91f357117318,2025-03-21 07:34:45.982610+00:00,google,gemma2,0,0,0,"Prioritize moderate emissions cuts, adaptation planning and community action over economic growth at the expense of climate."
+11cee3f6-d032-4115-8322-0222358731ec,2025-03-21 07:35:04.596009+00:00,google,gemma2,0,0,0,"Prioritize adaptation, moderate emission cuts, and community action over drastic measures."
+56fcce22-9fc7-4795-8a1e-5e0060cfafe4,2025-03-21 07:35:40.190019+00:00,google,gemma2,0,0,0,"Prioritize adaptation with tech, planning, and community action over strict emissions cuts or economic growth at climate's expense."
+de5a278d-cb38-4d0e-9521-521268a4d69b,2025-03-21 07:35:58.930059+00:00,google,gemma2,0,0,0,"Prioritize local action, gradual emissions cuts, and adaptation strategies over drastic measures."

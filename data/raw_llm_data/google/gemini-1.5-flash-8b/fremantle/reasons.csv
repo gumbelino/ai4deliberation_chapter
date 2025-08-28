@@ -1,0 +1,70 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d7f01bfe-5783-4c79-94b8-1e91ae64871f,2025-03-20 12:13:21.068542+00:00,google,gemini-1.5-flash-8b,0,3941,258,Preferring a new bridge with improved access and retaining some heritage aspects.
+133ca41a-3960-4855-8765-92d5ce51a0ff,2025-03-20 12:13:25.552382+00:00,google,gemini-1.5-flash-8b,0,3941,261,"Preferring phased improvements over complete replacement, prioritizing heritage while addressing safety and traffic flow."
+31234b4b-3665-4664-a610-5075c47be05c,2025-03-20 12:13:29.876270+00:00,google,gemini-1.5-flash-8b,0,3949,265,"Preferring a combination of preservation and upgrade, with a focus on safety and functionality."
+a91fafa8-77f6-4785-a901-b927475247f9,2025-03-20 12:13:34.362014+00:00,google,gemini-1.5-flash-8b,0,3955,267,"Preferring a phased approach with minimal new construction, prioritizing navigation and structural integrity."
+2470080d-b502-4ea6-bb96-2a2dfdfee19c,2025-03-20 12:13:38.755398+00:00,google,gemini-1.5-flash-8b,0,3945,257,"Preferring phased approach, preserving heritage while improving function."
+db77fefb-5bc8-4e38-af54-9348da954a87,2025-03-20 12:13:43.165927+00:00,google,gemini-1.5-flash-8b,0,3953,262,Preferring a phased approach with minimal demolition and retaining heritage.
+e040d80b-0d9d-4114-831a-3f4806008d23,2025-03-20 12:13:47.470859+00:00,google,gemini-1.5-flash-8b,0,3939,255,Preferring a phased approach with minimal demolition and maintaining heritage.
+b7cd2c3f-03fb-4308-98bc-16811b51ea89,2025-03-20 12:13:52.004212+00:00,google,gemini-1.5-flash-8b,0,3949,259,"Preferring new bridge alongside existing, with heritage preservation."
+0b834ef0-aee7-4033-8d96-3fa6f6878444,2025-03-20 12:13:56.571577+00:00,google,gemini-1.5-flash-8b,0,3933,254,"Preferring a minimally invasive approach, with prioritized safety and heritage preservation."
+251e37fb-446f-436e-ae99-25e020bfd70c,2025-03-20 12:14:01.188788+00:00,google,gemini-1.5-flash-8b,0,3949,270,"Preferring a heritage/recreation aspect alongside a new bridge, with a new bridge as the primary option."
+a5382ddd-0f5d-4807-abe6-df8360714ec5,2025-03-25 10:28:50.111539+00:00,google,gemini-1.5-flash-8b,0,3941,258,"Preferring a new bridge with heritage preservation, but with practical considerations."
+28230f2d-213f-41e5-b5a9-6f83c5e39efc,2025-03-25 10:28:53.574062+00:00,google,gemini-1.5-flash-8b,0,3949,261,"Preferring heritage preservation with modern improvements, prioritizing safety and accessibility."
+55d0873e-fe2e-486e-9ffb-99297cee57fb,2025-03-25 10:28:57.060252+00:00,google,gemini-1.5-flash-8b,0,3937,260,"Preferring phased repairs/replacements over complete rebuilds, prioritizing navigation and safety improvements."
+165f7f10-87c3-42b1-abb7-be23010fe665,2025-03-25 10:29:00.641056+00:00,google,gemini-1.5-flash-8b,0,3937,255,"Preferring a new bridge alongside the old, with heritage preservation."
+929ca609-1037-4187-82d3-0869d1395510,2025-03-25 10:29:04.429483+00:00,google,gemini-1.5-flash-8b,0,3943,258,"Preferring a new bridge alongside the old, with heritage preservation."
+4ff805b2-9ca2-4874-907f-5374c7680b17,2025-03-27 09:34:59.429515+00:00,google,gemini-1.5-flash-8b,0,3937,260,"Preferring a renovated bridge with navigation improvements, followed by new bridge options with heritage aspects."
+0ec18b95-e125-4086-871c-7c8ba23da928,2025-03-27 09:35:02.880938+00:00,google,gemini-1.5-flash-8b,0,3947,259,"Preferring minimal change, prioritizing heritage, and safety concerns."
+621878bc-96a3-4c30-8511-f7f176b37321,2025-03-27 09:35:06.296074+00:00,google,gemini-1.5-flash-8b,0,3943,255,"Preferring minimal changes, prioritizing safety and heritage."
+e09e1a76-9641-4401-a830-d176d2592f44,2025-03-27 09:35:09.475741+00:00,google,gemini-1.5-flash-8b,0,3937,258,"Preferring a balance of heritage and functionality, with a focus on navigation improvements."
+4e74e36a-08c5-4ff1-99da-b2f34354f194,2025-03-27 09:35:12.743380+00:00,google,gemini-1.5-flash-8b,0,3935,255,"Preferring a new bridge alongside heritage preservation, with practical improvements prioritized."
+d30af060-5e9e-4479-a288-24b618eed793,2025-03-27 09:35:16.097244+00:00,google,gemini-1.5-flash-8b,0,3941,256,Preferring a phased approach with minimal demolition and maintaining heritage.
+1f77c31f-1150-4829-bd30-ee8b4781fe55,2025-03-27 09:35:19.455082+00:00,google,gemini-1.5-flash-8b,0,3947,262,"Prioritizing bridge safety and heritage, with phased improvements preferred over complete replacement."
+461861a7-1499-48d0-9f4d-290da2caa4a1,2025-03-27 09:35:22.668337+00:00,google,gemini-1.5-flash-8b,0,3945,259,"Preferring preservation with improvements, new bridge options less appealing."
+c3c6f34d-b8bb-4fa8-8229-bf667bcb2402,2025-03-27 09:35:26.128632+00:00,google,gemini-1.5-flash-8b,0,3949,263,"Preferring minimal change and navigation improvements, with heritage preservation a secondary concern."
+c43b3f7e-1705-4e32-bea7-f992367d178f,2025-03-27 09:35:29.406548+00:00,google,gemini-1.5-flash-8b,0,3947,260,Preferring a phased approach with minimal demolition and preservation of heritage.
+d4a45eab-8440-4190-a59f-bb36d3c596b3,2025-03-27 09:35:32.784043+00:00,google,gemini-1.5-flash-8b,0,3943,262,"Preferring a combination of preservation and improvement, with a focus on navigation and safety."
+bdcf919e-8cc9-4886-9e0b-186fd5650ab8,2025-03-27 09:35:36.096379+00:00,google,gemini-1.5-flash-8b,0,3937,255,Preferring a renovated bridge with improved features over entirely new constructions.
+21925fe2-2d9a-4954-b8cf-cec77588eb29,2025-03-27 09:35:39.433529+00:00,google,gemini-1.5-flash-8b,0,3943,273,"Prefer new bridge with heritage aspect, then a new bridge alongside, then a two-lane bridge. Least prefer retaining existing bridge only."
+ac5bc26e-2aa3-4799-9d47-3d2c7d559cab,2025-03-27 09:35:42.656129+00:00,google,gemini-1.5-flash-8b,0,3945,263,"Preferring phased repairs/replacements over complete rebuilds, prioritizing heritage and safety."
+5fa3e0ad-da85-4226-a2f2-772f13529da5,2025-03-27 09:35:46.094858+00:00,google,gemini-1.5-flash-8b,0,3939,261,"Prefered options prioritize retaining the bridge while improving it, new bridges are less favored."
+f09fbad2-442e-486e-bd56-71d9a16b1555,2025-03-27 09:35:49.861448+00:00,google,gemini-1.5-flash-8b,0,3951,263,Preferring a phased approach with minimal demolition and improved navigation/access.
+be96c91b-2eef-412d-b6f4-c47954376c49,2025-03-27 09:35:53.269320+00:00,google,gemini-1.5-flash-8b,0,3939,256,Preferring a phased approach with minimal demolition and preservation of heritage.
+5279a78f-0753-48d4-9cdc-e64d8705b10e,2025-03-27 10:10:20.620225+00:00,google,gemini-1.5-flash-8b,0,3935,255,"Prefer new bridge with heritage aspect, standard bridge options less appealing."
+42286fc4-0241-44fc-aefe-8add22fe5b18,2025-03-27 10:10:23.955904+00:00,google,gemini-1.5-flash-8b,0,3949,261,"Preferring heritage preservation with modern improvements, prioritizing safety and accessibility."
+7095c340-bc54-472a-896d-40fa4bdae4ea,2025-03-27 10:10:27.396625+00:00,google,gemini-1.5-flash-8b,0,3937,261,Preferring phased repairs/replacements over complete rebuilds. Option 2 is best.
+bc71537a-5305-4bba-b762-bd63b38c8d57,2025-03-27 10:10:31.044554+00:00,google,gemini-1.5-flash-8b,0,3943,254,Preferring a new bridge alongside heritage preservation.
+60ea6143-fb2a-4699-b545-dddfd87b5c84,2025-03-27 10:10:34.396050+00:00,google,gemini-1.5-flash-8b,0,3943,258,"Preferring a new bridge alongside the old, with heritage preservation."
+f08cd1e2-fcc7-4052-9d7a-0f34e05c8db8,2025-04-28 08:49:17.876720+00:00,google,gemini-1.5-flash-8b,1.0,3941,256,Preferring a phased approach with minimal disruption and heritage preservation.
+99f43eac-52ce-4157-823b-5d08c863147d,2025-04-28 08:49:21.341115+00:00,google,gemini-1.5-flash-8b,1.0,3945,254,Preferring heritage preservation with practical improvements.
+12583211-9a9f-41df-8b0b-f790cdefa08b,2025-04-28 08:49:24.970979+00:00,google,gemini-1.5-flash-8b,1.0,3943,253,"Prefer new bridge statements, but heritage important"
+ccf73472-a3d5-4088-a9d1-998121601eda,2025-04-28 08:49:28.650136+00:00,google,gemini-1.5-flash-8b,1.0,3951,264,"Preferring a new bridge with heritage aspect, then improved existing bridge options."
+2041fa12-b357-409c-a5f7-a3fcd53a4faf,2025-04-28 08:49:32.384724+00:00,google,gemini-1.5-flash-8b,1.0,3947,264,"Prefer new bridge with heritage aspect, new bridge options better than retaining old bridge only."
+a8c8712d-0d64-4f76-ab56-57d8578ac2fe,2025-04-28 08:49:35.854322+00:00,google,gemini-1.5-flash-8b,1.0,3941,257,"Preferring a new bridge alongside the existing, with heritage preservation."
+56291f17-c243-4e74-8756-e2b46a9b33ad,2025-04-28 08:49:39.440939+00:00,google,gemini-1.5-flash-8b,1.0,3953,268,"Prefer a new bridge with heritage element, new bridge options better than retaining with modifications."
+d450e80e-106e-43f1-8727-7f893d92b779,2025-04-28 08:49:43.024403+00:00,google,gemini-1.5-flash-8b,1.0,3951,270,"Preferring a new bridge alongside the old, with heritage preservation, and less support for full replacement."
+1fd15f11-6912-4ccf-9bbf-7f9dedd637a6,2025-04-28 08:49:46.714796+00:00,google,gemini-1.5-flash-8b,1.0,3951,265,"Preferring a new bridge with improved access, but retaining heritage elements is best."
+f76343a2-87bf-438a-bc3e-db8edc3e58e0,2025-04-28 08:49:50.174610+00:00,google,gemini-1.5-flash-8b,1.0,3939,258,Preserving the bridge's core while improving safety and access is best.
+eac7e650-9aaa-4bca-bd9a-bae070f34bc5,2025-04-28 08:49:53.620313+00:00,google,gemini-1.5-flash-8b,1.0,3949,263,"Preferring incremental upgrades to full replacement, prioritizing heritage but acknowledging safety concerns."
+f5ca5344-84e7-4830-bae4-f44c20343698,2025-04-28 08:49:57.257396+00:00,google,gemini-1.5-flash-8b,1.0,3943,256,Preferred options prioritize bridge safety and heritage while considering improvements.
+ec86faea-95c0-472b-964f-1a42fe06d281,2025-04-28 08:50:00.638365+00:00,google,gemini-1.5-flash-8b,1.0,3947,259,"Preferring options prioritizing heritage and functionality, with minor improvements."
+8fb61a5e-794b-478b-9e94-556dc96709a8,2025-04-28 08:50:04.123661+00:00,google,gemini-1.5-flash-8b,1.0,3943,259,"Preferred option prioritizes bridge integrity and functionality, with measured improvements."
+e2ae8785-f4df-404b-869a-947e94a038fb,2025-04-28 08:50:07.706501+00:00,google,gemini-1.5-flash-8b,1.0,3931,252,"Preferring incremental repairs over complete replacement, prioritizing safety and function."
+71e226e1-5eb9-4044-acff-63e06ebdcf4b,2025-04-28 08:50:11.182823+00:00,google,gemini-1.5-flash-8b,1.0,3947,263,"Preferring heritage preservation with modern improvements, prioritizing new bridge construction with heritage elements."
+dc8a2b59-58c1-4b35-a3e3-6d9efaeb10df,2025-04-28 08:50:14.716044+00:00,google,gemini-1.5-flash-8b,1.0,3933,256,"Prefers retaining core structure with improvements, prioritizes navigation and functionality."
+c9436055-26f6-4eeb-90a0-be039f26662a,2025-04-28 08:50:18.351891+00:00,google,gemini-1.5-flash-8b,1.0,3937,256,"Preferring incremental repairs over full replacement, prioritizing heritage and navigation improvements."
+eeba420a-cd01-4d30-a457-b4fc01a82c02,2025-04-28 08:50:21.978119+00:00,google,gemini-1.5-flash-8b,1.0,3949,261,"Prefer phased approach, prioritizing structural integrity and heritage preservation."
+6c605ef7-36d0-4937-a81c-3239a9bca20f,2025-04-28 08:50:25.523797+00:00,google,gemini-1.5-flash-8b,1.0,3947,263,"Preferring repairs/improvements over new construction, prioritizing heritage but acknowledging practicality."
+fe5b209e-3f54-4379-aa50-62b7343c10da,2025-04-28 08:50:29.208169+00:00,google,gemini-1.5-flash-8b,1.0,3947,260,"Preferring a new bridge alongside the old, with heritage preservation."
+ec989242-571b-4466-ba59-4d348a766b06,2025-04-28 08:50:32.796599+00:00,google,gemini-1.5-flash-8b,1.0,3955,271,"Preferring a new bridge with pedestrian/cycle improvements, followed by a new bridge with wider lanes."
+833623b5-96bc-4efc-9985-e5fca4e0dc70,2025-04-28 08:50:36.375436+00:00,google,gemini-1.5-flash-8b,1.0,3951,260,"Preferring minimal changes, prioritizing navigation & heritage preservation."
+dc144887-f017-4eb5-b1c5-44328d7ea2d9,2025-04-28 08:50:39.852470+00:00,google,gemini-1.5-flash-8b,1.0,3943,265,"Prefered retaining and upgrading the existing bridge, with a preference for navigation span replacements and structural improvements."
+f01622e8-5537-4ec9-b635-05a142b20538,2025-04-28 08:50:43.363513+00:00,google,gemini-1.5-flash-8b,1.0,3949,259,Preferring minimal intervention and prioritized navigation/safety improvements.
+d9e397c0-d022-4b9c-b950-aaee6940968c,2025-04-28 08:50:46.740016+00:00,google,gemini-1.5-flash-8b,1.0,3949,261,"Prefer new bridge with heritage element, then retaining/replacing parts."
+223e7b3d-d236-4b06-bc22-0e7e9c6eb502,2025-04-28 08:50:50.203139+00:00,google,gemini-1.5-flash-8b,1.0,3943,253,Prioritizing heritage preservation with practical upgrades.
+d19a2998-dd8d-492e-bb90-2f21f23bb864,2025-04-28 08:50:53.780747+00:00,google,gemini-1.5-flash-8b,1.0,3951,263,"Preferring preservation with necessary repairs, new bridge options less appealing."
+cf7dc385-aafe-4cdd-94cb-0aa9803f1526,2025-04-28 08:50:57.264460+00:00,google,gemini-1.5-flash-8b,1.0,3937,257,"Preferring minimal change, preserving heritage, and practical solutions."
+cced3638-1fb5-4eb0-813a-402b83f96707,2025-04-28 08:51:00.646116+00:00,google,gemini-1.5-flash-8b,1.0,3947,268,"Preferring a practical, minimal-impact repair/upgrade (1). New bridge options less appealing."
+12e8d6ca-c880-47e1-9cb1-a0eed8437254,2025-04-28 08:51:04.793598+00:00,google,gemini-1.5-flash-8b,1.0,3953,261,Preferred a phased approach with heritage preservation and improved access.
+28503347-7247-4d48-9c34-a005e88201f2,2025-04-28 08:51:08.322959+00:00,google,gemini-1.5-flash-8b,1.0,3935,256,"Prioritizing structural integrity and heritage preservation, with a preference for minimal intervention."

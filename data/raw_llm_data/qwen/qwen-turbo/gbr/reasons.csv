@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+8f0d9608-7412-49a7-aa2d-f6412f73934e,2025-03-27 16:40:08.753604+00:00,qwen,qwen-turbo,0,3756,247,Support sustainable practices and stronger reef protection while reducing reliance on coal.
+5c3b1bc3-bf33-4915-95cd-ae5fefde0095,2025-03-27 16:40:13.841916+00:00,qwen,qwen-turbo,0,3756,254,"Prioritize reef protection, support stronger regulations, and invest in sustainable practices while phasing out coal."
+a581044b-fa62-4ad6-91fc-ff2e914411fb,2025-03-27 19:42:41.324622+00:00,qwen,qwen-turbo,0,3756,247,Prioritize reef protection and sustainable practices while supporting regulated economic growth.
+6750a18e-ea76-496b-9ed5-4d3957471031,2025-03-27 19:42:46.083179+00:00,qwen,qwen-turbo,0,3756,252,Prioritize reef protection and strong regulations;反对煤炭发展，支持环保和可持续产业。
+5bb2b0ea-7063-4b07-8975-d24508926f45,2025-03-27 19:42:54.980030+00:00,qwen,qwen-turbo,0,3756,254,Prioritize reef protection and climate action; support regulated environmental policies and innovation while phasing out coal.
+1d9460fa-4830-468a-aa98-cb7bfc854294,2025-03-27 19:42:59.962046+00:00,qwen,qwen-turbo,0,3756,250,"Prioritize reef protection, support regulated growth, and phase out coal for sustainability."
+28d99015-cc81-464b-ab33-1607b87b4da3,2025-03-27 19:43:04.930075+00:00,qwen,qwen-turbo,0,3756,250,"Prioritize reef protection, support innovation, maintain current protections, reduce coal dependency."
+45acd750-3a22-46ab-91cd-0efd0883114e,2025-03-27 19:43:09.835535+00:00,qwen,qwen-turbo,0,3756,251,Prioritize reef protection and new eco-friendly industries while strengthening regulations and reducing coal reliance.
+f8460c69-66f8-4820-b1ff-2a921ccbd70c,2025-03-27 19:43:15.001271+00:00,qwen,qwen-turbo,0,3756,248,Prioritize reef protection and sustainable practices while supporting regulated industry and innovation.
+3e093cda-7cf3-48ac-a550-28603a6797c5,2025-03-27 19:43:19.977122+00:00,qwen,qwen-turbo,0,3756,249,Support strong environmental protection and reduction in coal use while investing in sustainable practices.
+cc27e4bf-9b20-4a03-879a-e75e7153df13,2025-03-27 19:43:28.464581+00:00,qwen,qwen-turbo,0,3756,250,"Prioritize reef protection, support regulated industries, and phase out coal for sustainability."
+5c92a9cd-f769-4c3a-ab2b-1751adcdab4d,2025-03-27 19:43:33.297398+00:00,qwen,qwen-turbo,0,3756,252,"Prioritize reef protection, support sustainable industries, and strengthen regulations while phasing out coal."
+9a75a6b3-af0e-45f0-b1d0-3b670d2003f8,2025-03-27 19:43:38.300382+00:00,qwen,qwen-turbo,0,3756,248,"Prioritize reef protection, support green innovation, and regulate harmful industries."
+92a341bb-5f7b-451e-a667-7038e504a8d4,2025-03-27 19:43:43.227398+00:00,qwen,qwen-turbo,0,3756,247,Prioritize reef protection and sustainable practices while phasing out coal.
+098f91f1-abe6-47a5-b34c-1917457467fc,2025-03-27 19:43:48.142830+00:00,qwen,qwen-turbo,0,3756,256,"Prioritize reef protection, support sustainable practices, and stronger regulations while opposing new coal mines and reduced environmental protections."
+7887ebb2-d2bb-4345-8a50-b8821b504a52,2025-03-27 19:44:04.655628+00:00,qwen,qwen-turbo,0,3756,254,"Prioritize reef protection, support regulations, innovation, and reduced coal reliance while maintaining some current practices."
+2e957faa-924a-4b9e-8957-02ea0f4ed353,2025-03-27 19:44:09.545484+00:00,qwen,qwen-turbo,0,3756,248,Support stronger protections and investments in sustainable practices while phasing out coal.
+07003f28-fa3b-4a96-9ff6-a3568ac9444a,2025-03-27 19:44:14.894269+00:00,qwen,qwen-turbo,0,3756,256,"Balanced approach preferring innovation, current protections, and stronger reef safeguards while opposing reduced regulations and new coal mines."
+7aa3c02f-fb19-4910-8c0c-2195a3ffe6cb,2025-03-27 19:44:23.754887+00:00,qwen,qwen-turbo,0,3756,245,Balanced approach with emphasis on environmental protection and innovation.
+4c056977-33bf-4cc1-9a4e-2779a28a2865,2025-03-27 19:44:28.547626+00:00,qwen,qwen-turbo,0,3756,268,"Prioritize环保已经过长，需要翻译或调整以符合字符限制。以下是调整后的版本： Prioritize environment, innovation, and protection; reduce coal reliance."
+bfd66c5d-364c-4de3-85f5-22c95d3f463d,2025-03-27 19:44:33.556933+00:00,qwen,qwen-turbo,0,3756,253,"Prioritize reef protection, support regulated industries, and promote sustainable practices while phasing out coal."
+867cb0e1-4de8-422a-8b73-d4c6c7c12a82,2025-03-27 19:44:38.627602+00:00,qwen,qwen-turbo,0,3756,251,"Supports balanced growth, prioritizes environment, favors innovation, and opposes weakening regulations."
+079496da-029f-4bbf-abf1-4dc6756baf11,2025-03-27 19:44:43.558391+00:00,qwen,qwen-turbo,0,3756,255,Prioritize reef protection and new eco-friendly industries while maintaining some current practices and reducing regulations hindering business.
+ded1a832-432d-4fbb-9fae-8fdb11a99c24,2025-03-27 19:44:48.638882+00:00,qwen,qwen-turbo,0,3756,249,"Prioritize reef protection, support innovation, maintain regulations, reduce coal reliance."
+7aa8aad5-9756-460c-a5d6-0f0e835a4d98,2025-03-27 20:00:53.546253+00:00,qwen,qwen-turbo,0,3756,250,Prioritize reef protection and reduced industrial impact while supporting regulated environmental practices and innovation.
+ae310555-fc81-48e5-88e1-bfd4d929d551,2025-03-27 20:00:58.794304+00:00,qwen,qwen-turbo,0,3756,252,"Prioritize reef protection, support sustainable practices, and regulate harmful industries while investing in innovation."
+c5e94c86-bb1d-4858-ba92-c725a50a4dab,2025-03-27 20:01:08.206126+00:00,qwen,qwen-turbo,0,3756,254,"Prioritize reef protection, support stronger regulations, and invest in sustainable practices while phasing out coal."
+6e3f9528-db60-472a-a37a-c98e4983fe90,2025-03-27 20:01:12.942846+00:00,qwen,qwen-turbo,0,3756,256,"Balanced approach favoring innovation, sustainability, and stronger reef protection while opposing new coal mines and reduced regulations."
+484556d8-1ae0-4fba-b31a-20f01b1a7aad,2025-03-27 20:01:17.827503+00:00,qwen,qwen-turbo,0,3756,252,"Prioritize reef protection and stronger regulations; support innovation, reduced coal, and balanced approaches."
+be6bc598-df7f-44ce-b1d1-be21e36222a1,2025-03-27 20:01:22.843718+00:00,qwen,qwen-turbo,0,3756,247,Prioritize reef protection and sustainable practices while supporting regulated economic growth.

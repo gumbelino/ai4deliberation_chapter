@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+bc21ccaf-07d7-44bf-aab8-ada9df500f87,2025-04-01 13:05:22.853730+00:00,openai,o1-mini,0,4094,1862,I prioritize strong environmental protection and sustainable investments over maintaining current industries and reducing regulations
+15614c4f-759d-426b-b705-bde782f1c62f,2025-04-01 13:05:38.726832+00:00,openai,o1-mini,0,4094,2904,"Prefer closing coal plants, strengthening regulations, investing in eco-friendly industries, reducing funding extractive sectors, maintaining protection, keeping industries mix, least supporting reducing regulations for business."
+be6a84e8-9fac-42b1-b5c3-4c84d8a7cee9,2025-04-03 14:31:38.122223+00:00,openai,o1-mini,0,4094,2570,Prioritized strengthening environmental protections and investing in eco-friendly industries over reducing regulations or supporting extractive sectors.
+0a477973-def2-4589-9da6-6a11095a6144,2025-04-03 14:32:03.764329+00:00,openai,o1-mini,0,4094,1863,"Prioritized closing coal mines and strengthening protections, supporting eco-innovation over reducing regulations."
+556368fd-f442-4bd2-b251-2a22610658c2,2025-04-03 14:32:22.841356+00:00,openai,o1-mini,0,4094,3658,"Prioritized strong environmental protections and phasing out coal, favored eco-friendly investments, opposed reducing regulations"

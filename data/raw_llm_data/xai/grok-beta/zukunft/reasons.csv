@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+8ca43257-94bb-4cff-b12e-49e65e854afd,2025-04-14 08:46:18.141205+00:00,xai,grok-beta,0,2725,165,"Prioritize increasing services, destigmatization, and socioeconomic improvements for mental health."
+04bb150a-4268-4a31-8e6a-5b902802da07,2025-04-14 08:46:22.817344+00:00,xai,grok-beta,0,2725,164,Prioritizing funding increase for mental health services to address shortages and disparities.
+be5cedeb-50f6-4317-a385-6135fea7f47e,2025-04-14 08:46:27.424616+00:00,xai,grok-beta,0,2723,165,"Prioritizing funding for services, socioeconomic improvements, and destigmatization efforts."
+1f6255cb-0b47-43fc-9026-44e7bb74579f,2025-04-14 08:46:32.409430+00:00,xai,grok-beta,0,2725,163,Prioritizing increased funding and awareness for mental health services is crucial.
+65a501fa-16ad-4839-ba0e-ee346d023b26,2025-04-14 08:46:37.091173+00:00,xai,grok-beta,0,2725,163,Prioritizing funding for mental health services and addressing disparities is crucial.
+bd0a3526-0a1f-4d9c-a889-1555c7599a96,2025-04-14 08:46:42.047705+00:00,xai,grok-beta,0,2725,163,Prioritizing socioeconomic improvements and increasing public mental health services is crucial.
+27237077-8d06-40b2-b882-74ebca2cda02,2025-04-14 08:46:47.147676+00:00,xai,grok-beta,0,2725,164,Prioritizing funding for public mental health services and socioeconomic improvements is crucial.
+2ed432a2-1aa2-44c8-84f7-4b8696bc51af,2025-04-14 08:46:51.926194+00:00,xai,grok-beta,0,2725,163,Prioritizing funding for mental health services and socioeconomic improvements is crucial.
+c13d8dc6-f037-47d2-9a12-7534debbdc71,2025-04-14 08:46:56.779356+00:00,xai,grok-beta,0,2725,164,Prioritizing destigmatization and socioeconomic improvements for better mental health access.
+981833fd-7ab4-4fde-b720-1fac607bc1c1,2025-04-14 08:47:01.571533+00:00,xai,grok-beta,0,2725,163,Prioritizing funding for mental health services and addressing disparities is crucial.
+65a07c7b-3a1c-4f52-a1e3-d57d88365ec9,2025-04-14 09:52:26.131420+00:00,xai,grok-beta,0,2723,165,Prioritizing access and destigmatization over reducing services or maintaining status quo.
+7293a1d3-bf09-4836-8926-2ee76a73298d,2025-04-14 09:52:30.874556+00:00,xai,grok-beta,0,2725,167,Prioritizing increased funding and socioeconomic improvements for better mental health access and destigmatization.
+9197e6f3-7560-4515-a2b4-892cfc7780cf,2025-04-14 09:52:35.864632+00:00,xai,grok-beta,0,2725,164,Prioritizing socioeconomic improvements and destigmatization for better mental health access.
+dbb99aab-08b1-45f3-b716-3ec8c2c11662,2025-04-14 09:52:40.978825+00:00,xai,grok-beta,0,2725,165,Prioritizing socioeconomic improvements and service expansion is key to addressing mental health disparities.
+8ab39032-6b23-4fc7-879a-40f6308fb691,2025-04-14 09:52:45.897097+00:00,xai,grok-beta,0,2725,163,Prioritizing increased funding and socioeconomic improvements for better mental health services.
+50d2e936-c918-4645-ac31-3d34b8f9a84e,2025-04-14 09:52:51.116255+00:00,xai,grok-beta,0,2725,164,Prioritizing socioeconomic improvements and destigmatization for better mental health support.
+538a3bf8-2d30-40a2-9e83-072aed165438,2025-04-14 09:52:56.035307+00:00,xai,grok-beta,0,2723,163,Prioritizing socioeconomic improvements and service expansion to address mental health disparities.
+89d6e08e-1604-46e8-9ae4-c6dc00fffbae,2025-04-14 09:53:00.594005+00:00,xai,grok-beta,0,2725,166,Prioritizing funding and socioeconomic improvements for better mental health access and destigmatization.
+476f17e3-6ca2-47be-8abd-f91f987ea957,2025-04-14 09:53:05.615320+00:00,xai,grok-beta,0,2725,165,Prioritizing funding for mental health services and destigmatization efforts is crucial.
+1cb2cc48-0d74-4282-b059-b10064e4d414,2025-04-14 09:53:10.465936+00:00,xai,grok-beta,0,2723,163,Prioritizing socioeconomic improvements and increasing mental health service funding is crucial.
+4839d349-22e8-4a52-af64-23bf1960169a,2025-04-14 09:53:15.134185+00:00,xai,grok-beta,0,2725,164,Prioritizing socioeconomic improvements and destigmatization for better mental health access.
+de5067e9-46a8-4a2a-a777-4c6343889822,2025-04-14 09:53:19.786424+00:00,xai,grok-beta,0,2725,166,Prioritizing mental health access and destigmatization is crucial for societal well-being.
+f6270dff-0faf-4ea4-b8de-3a948e735b9e,2025-04-14 09:53:24.351157+00:00,xai,grok-beta,0,2725,163,Prioritizing funding for mental health services and socioeconomic improvements is crucial.
+90c90bca-2b7b-45bd-9b07-145f7c080186,2025-04-14 09:53:28.921607+00:00,xai,grok-beta,0,2725,162,Prioritizing socioeconomic improvements and increasing mental health services is crucial.
+f8511144-dc8b-4e07-bef6-9995860fc370,2025-04-14 09:53:33.498723+00:00,xai,grok-beta,0,2725,164,Prioritizing socioeconomic improvements and destigmatization for better mental health access.
+09e04a18-163f-4f02-a13b-342225a81867,2025-04-14 09:53:38.443240+00:00,xai,grok-beta,0,2725,166,"Prioritizing funding for services, destigmatization, and socioeconomic improvements is key."
+87e4ed7d-b7a9-4d1e-ba5e-25f67253932e,2025-04-14 09:53:43.176696+00:00,xai,grok-beta,0,2725,164,Prioritizing funding for public mental health services and socioeconomic improvements is crucial.
+af658622-5e35-4970-991c-60d658b26c85,2025-04-14 09:53:47.851483+00:00,xai,grok-beta,0,2725,165,Prioritizing funding for mental health services and destigmatization efforts is crucial.
+0847d3f8-abba-4e19-9f01-07073887a0a4,2025-04-14 09:53:52.425506+00:00,xai,grok-beta,0,2725,164,Prioritizing socioeconomic improvements and destigmatization for better mental health access.
+a181f958-c2dd-443a-b4f7-dc3ef80a47fb,2025-04-14 09:53:59.320422+00:00,xai,grok-beta,0,2725,166,Prioritizing increased funding and destigmatization for better mental health access and equity.

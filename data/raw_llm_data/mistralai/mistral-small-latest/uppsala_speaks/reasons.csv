@@ -1,0 +1,40 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+3c58be4b-2815-48e8-8e21-97c52ba9b75b,2025-03-20 15:13:02.685284+00:00,mistralai,mistral-small-latest,0,3694,290,I support enforcing laws equally and addressing root causes in source countries.
+d381220d-b467-4246-b26e-d8ea5e80d3b1,2025-03-20 15:13:09.971018+00:00,mistralai,mistral-small-latest,0,3694,299,"Focus on source countries, enforce laws, and avoid deportation. Provide accommodation, but do not ban begging."
+b11b9f10-eca3-4d3d-8039-b2c4d89d0cab,2025-03-20 15:13:17.250065+00:00,mistralai,mistral-small-latest,0,3694,288,"Focus on source countries, enforce laws, avoid enabling begging."
+5ee3214d-52c8-4b61-8534-081e641525ab,2025-03-20 15:13:26.659651+00:00,mistralai,mistral-small-latest,0,3696,297,I support enforcing laws equally and addressing root causes. I do not support bans or deportations.
+101a6100-a552-44c1-89e2-7576526bcd3a,2025-03-20 15:13:33.964581+00:00,mistralai,mistral-small-latest,0,3694,295,"I prioritize enforcing laws and addressing root causes, while limiting support and banning begging."
+cfd58c4a-fb63-4c58-bb4b-994501b3bf33,2025-03-20 15:13:40.893669+00:00,mistralai,mistral-small-latest,0,3691,293,"Focus on source countries, enforce laws, ban illegal settlements, deport after three months."
+80138f97-9c29-4f49-9774-8be5e6723f54,2025-03-20 15:13:54.696920+00:00,mistralai,mistral-small-latest,0,3694,289,"Focus on source countries, enforce laws, and avoid enabling begging."
+b9be51d2-4822-4102-abe1-ba08bfd8724d,2025-03-25 14:05:06.282412+00:00,mistralai,mistral-small-latest,0,3694,290,I support enforcing laws equally and addressing root causes in source countries.
+d6f9a957-e734-4ce0-a301-82a14356d099,2025-03-25 14:05:13.675374+00:00,mistralai,mistral-small-latest,0,3694,301,"Focus on source countries, enforce laws, and avoid deportation. Accommodation and bans are less effective."
+3d37d8de-f21f-4471-9320-22da4c7b2955,2025-03-25 14:05:19.228635+00:00,mistralai,mistral-small-latest,0,3694,295,Focus on enforcement and source countries. Avoid bans and deportation. Provide accommodation.
+c091f3cf-ca58-48d0-a583-c7528e2dd01f,2025-03-25 14:05:23.233212+00:00,mistralai,mistral-small-latest,0,3696,297,I support enforcing laws equally and addressing root causes. I do not support bans or deportations.
+2b0ddc8d-32ee-47bb-9094-ec15956157d3,2025-03-25 14:05:28.674658+00:00,mistralai,mistral-small-latest,0,3694,289,Focus on source countries and enforcement. Reduce incentives for begging.
+07417d9d-8da4-43d2-9bc7-cb3af9bfe57e,2025-03-25 14:05:32.857205+00:00,mistralai,mistral-small-latest,0,3691,293,"Focus on source countries, enforce laws, ban illegal settlements, deport after three months."
+e11f2b96-4fa1-4dd5-b6a7-cd23a34208aa,2025-03-25 14:05:39.662945+00:00,mistralai,mistral-small-latest,0,3694,292,"I support enforcing laws equally, addressing root causes, and avoiding deportation."
+a9428e61-0a34-4fae-a50c-441d5eca941d,2025-03-25 14:05:47.979004+00:00,mistralai,mistral-small-latest,0,3694,289,"Focus on source countries, enforce laws, and avoid enabling begging."
+9f1958df-97c2-46ea-9fc9-db7f860e7d90,2025-03-25 14:05:52.791565+00:00,mistralai,mistral-small-latest,0,3694,304,"Focus on source countries, enforce laws, provide accommodation, ban begging, ban settlements, do not deport, do not forbid giving money."
+747b214a-c7c4-4ba9-8677-775595175848,2025-03-25 14:05:57.427753+00:00,mistralai,mistral-small-latest,0,3694,291,"Focus on source countries, enforce laws, avoid punishing beggars."
+cca39215-7d9c-4789-9f7c-aaafb8785e86,2025-03-25 14:06:02.133902+00:00,mistralai,mistral-small-latest,0,3688,297,"Focus on source countries, help beggars, enforce laws. Deporting and banning are harsh."
+2df5ee81-925e-446d-afef-e52972ee5a80,2025-03-25 14:06:08.037964+00:00,mistralai,mistral-small-latest,0,3694,291,"Focus on source countries, enforce laws, provide accommodation, ban illegal settlements."
+ea94f907-c1f1-4e29-948f-c1f7902a24b6,2025-04-01 12:53:45.210491+00:00,mistralai,mistral-small-latest,0,3694,295,"I prioritize enforcing laws and addressing root causes, while opposing bans and deportations."
+6e06dc70-eee3-4021-99a2-446c59ce728e,2025-04-01 12:53:49.429548+00:00,mistralai,mistral-small-latest,0,3694,299,"Focus on source countries, enforce laws, and avoid deportation. Provide accommodation, but do not ban begging."
+b74d807a-2b96-4016-ace3-73af8360a222,2025-04-01 12:53:54.332714+00:00,mistralai,mistral-small-latest,0,3694,295,Focus on enforcement and source countries. Avoid bans and deportation. Provide accommodation.
+8b675a20-7e17-44f7-9601-51e8b9bb3cd0,2025-04-01 12:54:02.489796+00:00,mistralai,mistral-small-latest,0,3696,297,I support enforcing laws equally and addressing root causes. I do not support bans or deportations.
+719b2681-0796-4a1d-b0d8-e42907c7ec97,2025-04-01 12:54:08.722360+00:00,mistralai,mistral-small-latest,0,3694,297,I prioritize enforcing laws and addressing root causes. I do not support banning begging or settlements.
+76abc180-832d-4be6-818a-ea119d15b67c,2025-04-01 12:54:13.404490+00:00,mistralai,mistral-small-latest,0,3691,293,"Focus on source countries, enforce laws, ban illegal settlements, deport after three months."
+416a1bb1-efb8-486f-a50f-45673f3949c7,2025-04-01 12:54:19.144373+00:00,mistralai,mistral-small-latest,0,3694,292,"I support enforcing laws equally, addressing root causes, and avoiding deportation."
+e0c3b7dc-f072-44fd-854a-f5a7b388487d,2025-04-01 12:54:31.369692+00:00,mistralai,mistral-small-latest,0,3694,289,"Focus on source countries, enforce laws, and avoid enabling begging."
+a1a13a77-4ec1-40cb-b0bb-ab4c2aa0bc63,2025-04-01 12:54:41.646809+00:00,mistralai,mistral-small-latest,0,3694,291,"Focus on source countries, enforce laws, provide accommodation, ban begging last."
+e432e201-810b-4a0c-b332-755d6ddce719,2025-04-01 12:54:46.048618+00:00,mistralai,mistral-small-latest,0,3694,291,"Focus on source countries, enforce laws, avoid punishing beggars."
+35dcbee9-b9e4-4be3-ae69-aef8e10714c9,2025-04-01 12:54:50.176723+00:00,mistralai,mistral-small-latest,0,3688,297,"Focus on source countries, help beggars, enforce laws. Deporting and banning are harsh."
+19cdca01-b33e-4964-a8fe-f66899aed427,2025-04-01 12:54:55.661670+00:00,mistralai,mistral-small-latest,0,3694,295,"Focus on source countries, provide accommodation, ban settlements. Enforce laws, deport last."
+f0ba84ed-167f-4a52-acd9-ddf6492e1c68,2025-04-01 12:54:59.995941+00:00,mistralai,mistral-small-latest,0,3694,298,"Focus on source countries, enforce laws, ban begging, then ban settlements. Avoid deportation and accommodation."
+76840d20-0f14-4512-af31-be458a82fb9e,2025-04-01 12:55:04.519189+00:00,mistralai,mistral-small-latest,0,3694,293,"Focus on source countries, enforce laws, ban illegal settlements, and avoid deportation."
+e286512c-daa4-4e0d-accf-274924d3046a,2025-04-01 12:55:09.169680+00:00,mistralai,mistral-small-latest,0,3694,293,"Focus on source countries, enforce laws, reduce begging without deporting or banning."
+81500ea2-e85c-4415-b7c0-400285a0c6ee,2025-04-01 12:55:14.425450+00:00,mistralai,mistral-small-latest,0,3696,288,"Focus on source countries, enforce laws, avoid harsh penalties."
+3f147eec-0ae2-4dc4-b54a-1312e116808c,2025-04-01 12:55:18.672406+00:00,mistralai,mistral-small-latest,0,3694,297,"Focus on source countries, avoid deportation and bans. Provide accommodation. Enforce laws."
+9e711a0a-4460-45fe-9f2e-66dd19cc7094,2025-04-01 12:55:23.371057+00:00,mistralai,mistral-small-latest,0,3694,292,"Focus on source countries, enforce laws, ban settlements, and avoid deportation."
+c942e2dc-5da3-403a-8840-99b18fc16b8f,2025-04-01 12:55:28.858600+00:00,mistralai,mistral-small-latest,0,3694,288,"Focus on source countries, enforce laws, reduce begging incentives."
+cd07d67d-c8c7-4d23-ae57-5c0857394e99,2025-04-01 12:55:32.994663+00:00,mistralai,mistral-small-latest,0,3696,302,"Focus on source countries, enforce laws, deport after time limit, ban settlements, ban giving money, ban begging, avoid accommodation."

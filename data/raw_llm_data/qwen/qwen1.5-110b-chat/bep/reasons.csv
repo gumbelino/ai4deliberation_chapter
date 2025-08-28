@@ -1,0 +1,2 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+0c7d6362-6a66-4c9e-ad54-d6377cfe269e,2025-03-27 17:06:36.645611+00:00,qwen,qwen1.5-110b-chat,0,4382,312,"Ranked policies based on support for sustainable agriculture, climate resilience, and local incentives, with preference for moderate regulations and disfavoring free trade over sustainability."

@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+0cb62c97-1d5d-4ffe-aea6-dfb79de954c5,2025-04-01 13:38:38.391307+00:00,openai,o3-mini,0,3505,6882,I support accommodation and source reforms over strict law enforcement and deportation.
+af049dd9-f473-4fbf-9a63-b7256c633ab7,2025-04-01 13:39:36.565193+00:00,openai,o3-mini,0,3505,5924,Rankings reflect a balance of social support and law enforcement with source focus.
+77c7ba60-d92e-429e-8a34-4b3e1276254c,2025-04-01 13:40:25.539028+00:00,openai,o3-mini,0,3505,6755,Rankings prioritize balanced enforcement and support over punitive measures and extreme options.
+00402734-519a-45d0-83be-58fd5f74414e,2025-04-01 13:41:35.307937+00:00,openai,o3-mini,0,3507,6946,I prioritized support through accommodation and source help over bans and deportations.
+7248bcb5-70f0-4e35-a86a-45a9476b9a03,2025-04-01 13:42:32.598841+00:00,openai,o3-mini,0,3505,7264,Ratings prioritize law enforcement fairness and resource focus in source countries.

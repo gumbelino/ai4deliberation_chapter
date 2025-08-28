@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Wind,P2. Biomass,P3. Coal with CO2 Burial,P4. Hydroelectric,P5. Natural Gas,P6. Geothermal Energy,P7. Solar Energy,P8. Nuclear Energy,P9. Coal
+3ea2d7ad-f700-40d7-9b21-f57afe4d4073,2025-04-28 10:52:20.747119+00:00,xai,grok-3-mini-beta-r=low,0,11055,284,3,1,8,2,6,5,4,7,9
+cc5e96e7-769d-4f9a-8394-28e5618f0e7b,2025-04-28 10:52:56.495693+00:00,xai,grok-3-mini-beta-r=low,0,13509,285,2,5,8,3,7,4,1,6,9
+86345fca-27b9-405e-9f7b-b967157f5b06,2025-04-28 10:53:40.013380+00:00,xai,grok-3-mini-beta-r=low,0,10052,287,4,2,8,3,7,1,5,6,9
+77f0a443-576a-47e3-b8bc-1cc9adb59a67,2025-04-28 10:54:11.801798+00:00,xai,grok-3-mini-beta-r=low,0,11733,280,2,5,8,3,7,4,1,6,9
+bcb72898-c212-410d-8b1c-dfa4c28e0b4b,2025-04-28 10:54:49.319613+00:00,xai,grok-3-mini-beta-r=low,0,11615,282,1,5,8,4,7,6,3,2,9

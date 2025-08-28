@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+4233f0a2-1397-4e17-bd20-01f442e93361,2025-05-22 13:41:09.730588+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,5880,1033,"I prioritize strong privacy protection, oversight, and public accountability over private profit."
+2dc04c16-346d-46c1-b3bf-3fbee7b0fa45,2025-05-22 14:20:27.720530+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,6705,1688,I prioritized public funding with strong regulation and privacy over private control with weak oversight.
+66a25adb-cb16-4681-a560-70a55fb8df4b,2025-05-22 14:21:00.551641+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,5936,1166,"I prioritized strong privacy protections, public funding, and robust oversight of biobanks."
+5f7c68b7-4b5d-498c-bff3-99dd092175bc,2025-05-22 14:21:23.705735+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,5958,1051,"I prioritized strong regulation, privacy protection, and public funding for ethical biobanking."
+138d024c-d3b1-4b79-967d-44ed0c7e5ddc,2025-05-22 14:21:48.222702+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,7801,2217,Prioritized public funding with strong oversight while ensuring privacy and autonomy for individuals.

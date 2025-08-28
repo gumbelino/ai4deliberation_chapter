@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+55f571fe-651c-46e8-a377-faf6265c04cc,2025-03-26 08:04:53.344473+00:00,openai,gpt-4,0,2668,152,"I prioritize socioeconomic initiatives, integrated clinics, and increased funding for mental health services."
+228e13f8-86f3-42a0-847a-489d7c51c58c,2025-04-01 10:34:39.801026+00:00,openai,gpt-4,0,2668,150,"I prioritize socioeconomic initiatives and integrated clinics, and least support reducing services."
+05a7353f-94c5-4127-8fa5-7b5b352607cb,2025-04-01 10:34:51.066443+00:00,openai,gpt-4,0,2668,151,"I prioritize socioeconomic initiatives and integrated clinics, and oppose reducing mental health services."
+74981d89-7b89-48c1-ae0a-9e5c298203fc,2025-04-01 10:35:00.191385+00:00,openai,gpt-4,0,2668,151,"I prioritize public awareness, integrated services, and socioeconomic initiatives over funding changes."
+103b4b6b-cb8b-444a-b208-4023fbee2896,2025-04-01 10:35:08.230432+00:00,openai,gpt-4,0,2668,152,"I prioritize public awareness, socioeconomic improvements, and increased funding for mental health services."
+4ed68c2e-93b3-4809-bb58-cef570604c54,2025-04-01 10:35:17.036153+00:00,openai,gpt-4,0,2668,150,I prioritize policies that address socioeconomic disparities and promote integrated mental health services.
+45745bac-b2f3-42e8-a3b7-73111f4c0803,2025-04-03 17:00:17.232453+00:00,openai,gpt-4,0,2668,150,"I prioritize socioeconomic initiatives and integrated clinics, and believe in increasing funding."
+7c9c0e8d-c8c6-40e2-b989-af082858c7b0,2025-04-03 17:00:27.166473+00:00,openai,gpt-4,0,2668,153,"I prioritize increased funding for mental health services, integrated clinics, and public awareness campaigns."
+dc9ff282-8b80-410d-8d97-b0df1c7a14d5,2025-04-03 17:00:37.301783+00:00,openai,gpt-4,0,2668,151,"I prioritize increasing mental health services, integrating diverse activities, and addressing disparities."
+75f14140-83a5-47fe-a94f-abae90a4acf8,2025-04-03 17:10:04.173225+00:00,openai,gpt-4,0,2668,152,"I prioritize socioeconomic initiatives, increased funding, integrated clinics, and public awareness campaigns."
+98754c3e-a61c-4678-bb94-4456a9b9f7a2,2025-04-08 09:43:47.218843+00:00,openai,gpt-4,0,2666,151,"I prioritize public awareness, socioeconomic initiatives, and integrated clinics over funding changes."
+5e080ece-f354-497b-9732-059eff29524e,2025-04-08 09:43:57.461712+00:00,openai,gpt-4,0,2668,152,"I prioritize increasing funding for mental health services, socioeconomic initiatives, and public awareness."
+e5c4a9e8-8d42-41fc-adf6-ce61ebe89725,2025-04-08 09:44:08.747957+00:00,openai,gpt-4,0,2668,149,I prioritize policies that address socioeconomic disparities and increase mental health services.
+21848836-5ac6-4492-947f-6a15d9b2dc6a,2025-04-08 09:44:18.803390+00:00,openai,gpt-4,0,2668,151,"I prioritize public awareness, socioeconomic initiatives, and integrated clinics for mental health."
+40aa76d8-23c7-443a-a50b-92aec905b91f,2025-04-08 09:44:28.976908+00:00,openai,gpt-4,0,2668,151,"I prioritize increasing mental health services, socioeconomic initiatives, and public awareness campaigns."
+0221209b-6276-4dfd-9437-ed1505157301,2025-04-08 09:44:38.726475+00:00,openai,gpt-4,0,2668,152,"I prioritize public awareness, integrated clinics, and increased funding for mental health services."
+63347633-6500-4571-9118-88237e04078e,2025-04-08 09:44:49.255829+00:00,openai,gpt-4,0,2666,151,"I prioritize socioeconomic initiatives, increased funding, public awareness, and integrated clinics."
+6648a85c-de39-49a0-ac81-0673b618e864,2025-04-08 09:44:57.915912+00:00,openai,gpt-4,0,2668,148,I prioritize socioeconomic initiatives and increased funding for mental health services.
+1f2bcd38-6484-4641-bc35-4ee73c0aba7e,2025-04-08 09:45:07.381134+00:00,openai,gpt-4,0,2668,151,"I prioritize comprehensive mental health services, socioeconomic initiatives, and public awareness campaigns."
+2b39b681-5e2d-4500-b923-c794d8eab7cb,2025-04-08 09:45:16.907644+00:00,openai,gpt-4,0,2666,151,"I prioritize increasing mental health services, socioeconomic initiatives, and public awareness campaigns."
+fa495fd3-148f-44ed-a78e-6731369c53e2,2025-04-08 09:45:26.793546+00:00,openai,gpt-4,0,2668,151,"I prioritize public awareness, increased funding, and socioeconomic initiatives over private clinics."
+93a7d181-14dc-4670-bc7f-8a2369693297,2025-04-08 09:45:35.497907+00:00,openai,gpt-4,0,2668,151,"I prioritize socioeconomic initiatives and integrated clinics, and oppose reducing mental health services."
+37a53799-c75a-4803-b607-c727f86e0a88,2025-04-08 09:45:44.338491+00:00,openai,gpt-4,0,2668,149,"I prioritize expanding services, public awareness, and addressing socioeconomic disparities."
+20dff14f-a117-4e0e-b805-1a81f78ef2a4,2025-04-08 09:45:52.465878+00:00,openai,gpt-4,0,2668,150,I prioritize socioeconomic initiatives and public awareness campaigns over increasing private clinic funding.
+ca35458d-dcb7-4209-b298-16216f3eac6d,2025-04-08 09:46:01.961424+00:00,openai,gpt-4,0,2668,151,"I prioritize public awareness, increased services, socioeconomic initiatives, and integrated clinics."
+6fe4a336-95f4-4dc7-800b-22fca1b706e3,2025-04-08 09:46:10.608005+00:00,openai,gpt-4,0,2668,152,I prioritize increasing mental health services and integrating diverse treatments over maintaining the status quo.
+892d7e19-ab4c-4237-a891-d1af65fa8300,2025-04-08 09:46:20.083527+00:00,openai,gpt-4,0,2668,151,"I prioritize increasing mental health services, socioeconomic initiatives, and public awareness campaigns."
+b9cec199-21dd-4695-99cc-6c8be265ee4f,2025-04-08 09:46:29.508417+00:00,openai,gpt-4,0,2668,150,"I prioritize socioeconomic initiatives and awareness campaigns, and believe in expanding services."
+d5979088-2e0f-4cf4-95b2-39ec2dfbd140,2025-04-08 09:46:38.309737+00:00,openai,gpt-4,0,2668,152,"I prioritize public awareness, socioeconomic initiatives, and increased funding for mental health services."
+9d36b54c-b39e-43e7-815a-b68c3a1f5403,2025-04-08 09:46:48.440387+00:00,openai,gpt-4,0,2668,151,"I prioritize socioeconomic initiatives and integrated clinics, and oppose reducing mental health services."

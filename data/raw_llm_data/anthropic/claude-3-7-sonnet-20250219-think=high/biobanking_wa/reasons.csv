@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+7de842db-2402-4de1-90a4-36813667b4ff,2025-05-22 19:03:09.752052+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,10885,3889,"I prioritized strong regulation, privacy protection, and public oversight over private, minimally-regulated models."
+535c104d-3834-4af0-b9ec-5167777c500a,2025-05-22 19:04:12.655340+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,10463,3607,"Prioritized privacy, consent, and strong oversight while supporting biobank development with proper regulation."
+d93f5fad-6a2d-45bd-a3ec-a622c2556715,2025-05-22 19:05:15.319906+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,11719,4343,"Strong regulation and privacy are essential, with public funding preferred over private."
+e2d814a9-810b-45c7-8735-20d43948b269,2025-05-22 19:06:21.836396+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,11645,4360,"Prioritized individual privacy, consent, and strong oversight. Public funding preferred over private."
+2723f62a-5f11-41c5-ad30-06b3c10538f0,2025-05-22 19:07:37.459369+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,11582,4465,"I prioritize strong regulation and privacy protection, favoring public ownership while allowing regulated private involvement."

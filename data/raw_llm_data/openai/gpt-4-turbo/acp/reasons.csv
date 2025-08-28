@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+94b803a3-5986-4df5-81ea-bd80af02d4c3,2025-03-26 07:52:12.974891+00:00,openai,gpt-4-turbo,0,4899,284,"Prioritized inclusive policy making and minimal changes, less support for strong leader-driven moral governance."
+03c6daba-9a5c-4948-b2fe-e8ca45018e0d,2025-03-26 07:52:24.553314+00:00,openai,gpt-4-turbo,0,4899,278,Prioritized inclusive policy making and minimal government intervention in markets.
+ba2ad8a8-97df-4d04-840b-00a0a36add8d,2025-04-01 08:10:28.226474+00:00,openai,gpt-4-turbo,0,4899,283,"Prioritized inclusive policy-making and equality, less intervention in markets, minimal changes last."
+656911f2-98e0-4e52-8427-c264e6e611a2,2025-04-01 08:10:38.856395+00:00,openai,gpt-4-turbo,0,4901,283,"Prioritized inclusive policy making and minimal changes, less support for strong intervention and bias."
+be52bef4-ac71-4586-ac2e-51176a31bd4d,2025-04-01 08:10:48.264417+00:00,openai,gpt-4-turbo,0,4899,278,Prioritized inclusive policy making and minimal government intervention in markets.
+1e8a5c28-a275-4596-b52d-5dc5ab345c98,2025-04-01 08:10:59.936394+00:00,openai,gpt-4-turbo,0,4899,278,I prioritize inclusive policy-making and less government intervention in markets.
+111ead67-dca7-4fa4-a3bc-11dd9b24f559,2025-04-01 08:11:11.123437+00:00,openai,gpt-4-turbo,0,4899,283,"I value inclusive policy making and equal influence, less so strong leadership or major changes."
+79d0af69-5c1c-463d-9382-76cbf936696e,2025-04-01 08:11:22.275495+00:00,openai,gpt-4-turbo,0,4901,283,"I value inclusive policy making and equal influence, less government intervention, and moral oversight."
+4ebb8ee6-e34c-4a52-a080-a28be5ceaadd,2025-04-01 08:11:36.722452+00:00,openai,gpt-4-turbo,0,4901,281,"Prioritized inclusive policy making and equal influence, less intervention and moral imposition."
+bbdce0af-1b8d-4d7f-9a72-c013ebd06606,2025-04-01 08:11:46.387315+00:00,openai,gpt-4-turbo,0,4901,284,"Prioritized inclusive policy making and equal influence, less support for economic focus and strong leaders."
+37c85a36-efc9-49e7-b970-30e1a8289901,2025-04-01 08:11:57.140094+00:00,openai,gpt-4-turbo,0,4899,285,"I value inclusive policy making and equal influence, less intervention in markets, and dislike strong leaders."
+8d37dbe9-925d-4514-8337-b359907b2c3e,2025-04-01 08:12:13.163246+00:00,openai,gpt-4-turbo,0,4899,278,Prioritized inclusive policy making and minimal government intervention in markets.
+410bd866-1d13-43fe-be0e-a29dda22739b,2025-04-03 11:34:46.301235+00:00,openai,gpt-4-turbo,0,4899,278,I value inclusive policy-making and minimal government intervention in markets.
+54092001-02cf-49cd-bbc6-eda270a3e4b1,2025-04-03 11:35:05.579486+00:00,openai,gpt-4-turbo,0,4899,278,I value inclusive policy making and minimal government intervention in markets.
+4c84dae3-d220-48fb-a96e-0d233cb901a3,2025-04-03 11:35:21.632206+00:00,openai,gpt-4-turbo,0,4901,284,"Prioritized inclusive policy making and equal influence, less intervention in markets, strong moral governance."
+69fd4dc2-afc7-4ed2-9376-e4a2635852d7,2025-04-03 11:35:39.467809+00:00,openai,gpt-4-turbo,0,4901,278,Prioritized inclusive policy making and minimal government intervention in markets.
+8435c246-c0b3-45e5-8a77-4c155fff8c71,2025-04-03 11:35:56.284711+00:00,openai,gpt-4-turbo,0,4899,285,"Prioritized inclusive policy making and minimal change, less support for economic focus and strong moral legislation."
+40e6a92c-990a-4c7e-939c-a1d6bacc2c97,2025-04-03 11:36:10.958503+00:00,openai,gpt-4-turbo,0,4899,278,I prioritize inclusive policy-making and minimal government intervention in markets.
+0ac21f2b-0652-416b-a838-5e4cc95e2ab9,2025-04-03 11:36:21.408007+00:00,openai,gpt-4-turbo,0,4901,283,"I value inclusive policy-making and equal influence, and am cautious of strong centralized power."
+8b738e2d-d0d1-46db-bf9b-2a091bc8f65c,2025-04-03 11:36:34.232772+00:00,openai,gpt-4-turbo,0,4901,284,"Prioritized inclusive policy making and equal influence, less intervention in markets, moral governance least."
+99333bdf-dbc9-4d76-8446-818d7ca67a39,2025-04-03 11:36:51.186470+00:00,openai,gpt-4-turbo,0,4899,278,Prioritized inclusive policy making and minimal government intervention in markets.
+831fe561-8b45-4e9a-ae14-da8370089432,2025-04-03 11:37:05.029308+00:00,openai,gpt-4-turbo,0,4901,283,"I value inclusive policy-making and equal influence, less so economic focus and moral imposition."
+444720ed-6d5d-48ff-8595-231c392751db,2025-04-03 11:37:14.580490+00:00,openai,gpt-4-turbo,0,4896,283,"I value inclusive policy making and equal influence, less so strong intervention or status quo."
+0a832497-8502-4c10-90ed-0085b46d4ef2,2025-04-03 11:37:25.459125+00:00,openai,gpt-4-turbo,0,4901,281,I value inclusive policy-making and equal influence over strong leadership or economic focus.
+eb325197-d63c-4df3-ae83-aee386aa6467,2025-04-03 11:37:40.476924+00:00,openai,gpt-4-turbo,0,4899,278,I value inclusive policy-making and minimal government intervention in markets.
+e6ad5c13-99b0-461e-83a8-5dcb8c94e973,2025-04-03 11:37:51.171831+00:00,openai,gpt-4-turbo,0,4899,278,Prioritized inclusive policy making and minimal government intervention in markets.
+a3208943-b1ac-431e-ab43-62f6c1dd0574,2025-04-03 11:38:08.869652+00:00,openai,gpt-4-turbo,0,4896,278,Prioritized inclusive policy making and minimal government intervention in markets.
+c5edfd6e-4073-4c1f-ab05-7c4d31319ede,2025-04-03 11:38:19.398049+00:00,openai,gpt-4-turbo,0,4899,278,Prioritized inclusive policy making and minimal government intervention in markets.
+c539cd95-435f-423f-8564-7982c681d917,2025-04-03 11:38:30.219835+00:00,openai,gpt-4-turbo,0,4899,278,Prioritized inclusive policy making and minimal government intervention in markets.
+4bb230e5-883b-404b-967e-b256d0fd4e83,2025-04-03 11:38:42.103201+00:00,openai,gpt-4-turbo,0,4899,278,Prioritized inclusive policy-making and minimal government intervention in markets.

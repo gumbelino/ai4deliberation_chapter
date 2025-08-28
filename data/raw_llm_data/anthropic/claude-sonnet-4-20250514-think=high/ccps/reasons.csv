@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+4b9352a6-26db-45c4-9285-1f735807092e,2025-05-29 15:47:52.858460+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,8014,3717,Favored urgent dramatic emissions cuts and government action over gradual or individual measures
+d05cf8af-5501-4a08-920f-d5071e709d98,2025-05-29 15:49:06.073446+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,6819,3307,Prioritized aggressive emissions cuts and comprehensive government adaptation over status quo
+bf27fb3e-7e95-4055-9de7-3ac6851045f0,2025-05-29 15:50:10.190421+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,7633,3520,Prioritized urgent emissions cuts and innovation over moderate action and economic growth
+115230d1-ada4-4b04-97dc-8e5358bb6d02,2025-05-29 15:51:15.732294+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,6198,3912,Ranked in original order without proper consideration of climate urgency and policy effectiveness
+51500889-97ee-451c-a461-c431a01abd27,2025-05-29 15:52:27.892178+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,7516,3305,Dramatic emissions cuts and government adaptation ranked top while economic growth over climate ranked last
+dbbf207d-cc59-4eaf-9e35-229fcde97a00,2025-05-30 11:55:57.547574+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,5023,3435,Prioritized aggressive emissions cuts and adaptation over economic growth and status quo
+fe6b2394-a69f-4c84-a4c8-1d2559349eec,2025-05-30 11:57:02.055514+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,4941,3802,"Favor achievable local action and moderate cuts over dramatic changes, reject economic priorities"
+0473cf86-6a09-423a-b855-b0f6a6612d5d,2025-05-30 11:58:14.202870+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,4958,2553,Prioritized ambitious emissions cuts and resilience tech over moderate action and status quo
+87fd810e-a949-4ebd-aec0-5d429cccc80e,2025-05-30 11:58:58.564899+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,4963,3386,Prioritized dramatic emissions cuts and technology development over status quo and economic growth
+32f59bd9-6bfc-4602-b79f-3933ae9ba36f,2025-05-30 12:00:19.912876+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,5675,3546,Prioritized practical adaptation and moderate emissions cuts over dramatic cuts or inaction

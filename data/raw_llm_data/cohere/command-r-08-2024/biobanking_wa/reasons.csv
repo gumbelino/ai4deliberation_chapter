@@ -1,0 +1,41 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+a8513da3-e8d9-4cbc-abaf-866f2510fe5e,2025-03-25 21:43:02.345823+00:00,cohere,command-r-08-2024,0,5803.0,341.0,"High privacy, cautious implementation, and strong regulation are preferred."
+04b63f1e-2863-484a-9170-8c5efa5bcb5e,2025-03-25 21:43:09.907011+00:00,cohere,command-r-08-2024,0,5879.0,383.0,"Strongly support public,regulated biobanks;least,private,unregulated."
+2372cbc2-fa11-4333-a6f5-093331e70e56,2025-03-25 21:43:21.367258+00:00,cohere,command-r-08-2024,0,5867.0,373.0,"Strongly support public, regulated biobanks; privacy paramount."
+fc47e448-1b89-4eab-8b63-de07acc13215,2025-03-25 21:43:30.561800+00:00,cohere,command-r-08-2024,0,5797.0,345.0,Strongest.privacy.and.regulation.for.publicly.funded.biobanks.
+6309d246-62b5-4b5d-be0a-df6fe756980b,2025-03-25 21:43:39.537021+00:00,cohere,command-r-08-2024,0,5863.0,380.0,"StrongestSupportForPubliclyFunded,RegulatedBiobanks;LeastSupportForMinimalRegulation."
+fd7d9cea-d824-4f64-83cb-d2bebd599f8a,2025-03-25 21:43:47.368408+00:00,cohere,command-r-08-2024,0,5855.0,381.0,High.privacy.protects.individuals.;.public.ownership.ensures.regulation.and.access.control.
+52b8e2cf-5dbb-4914-ab72-f039402b2aba,2025-03-25 21:43:57.421960+00:00,cohere,command-r-08-2024,0,5817.0,352.0,Privacy.and.public.ownership.with.regulation.is.preferred.
+45d4eca2-44a3-431f-98b3-2a0454d190b3,2025-03-25 21:44:04.713224+00:00,cohere,command-r-08-2024,0,5857.0,372.0,"Strongly support public, regulated biobanks; cautious of private, unregulated ones."
+ee1c8f04-ee5c-4204-b018-0936a8cd72d7,2025-03-25 21:44:12.468676+00:00,cohere,command-r-08-2024,0,5857.0,371.0,"Strongly support public, regulated biobanking; least support for minimal regulation."
+7ca71a86-97b9-44ce-87d8-3b176400e2c0,2025-03-25 21:44:20.846146+00:00,cohere,command-r-08-2024,0,5865.0,376.0,High.privacy.and.public.ownership.with.regulation.supported.
+e5aba67c-471b-473b-b148-6afd25ad2fc3,2025-03-25 21:44:31.889269+00:00,cohere,command-r-08-2024,0,5861.0,372.0,"StrongestSupportForHighPrivacy,LeastSupportForMinimalInputPublicResources"
+c9cecb94-9a6d-4821-a6c1-3704ea4a3680,2025-03-25 21:44:41.650439+00:00,cohere,command-r-08-2024,0,5817.0,348.0,"High privacy, cautious implementation, and strong regulation are preferred."
+a69baaee-b218-4dc3-bc91-e774c1ebf787,2025-03-25 21:44:49.720652+00:00,cohere,command-r-08-2024,0,5837.0,369.0,Strongly.prefer.publicly.funded.biobanks.with.strict.regulation.and.privacy.
+6d0daff2-52fe-4424-bc6f-2764482bb61e,2025-03-25 21:44:59.142369+00:00,cohere,command-r-08-2024,0,5837.0,361.0,Strongest.privacy.and.regulation.with.public.ownership.
+9c0efa5f-a95b-48e8-b8cc-29a946bc9f3b,2025-03-25 21:45:08.977152+00:00,cohere,command-r-08-2024,0,5813.0,356.0,Strongest.privacy.and.regulation.support.cautious.implementation.and.public.funding.
+4dfb300d-ebb1-4709-9754-de86fabbe28f,2025-03-25 21:45:18.410926+00:00,cohere,command-r-08-2024,0,5837.0,357.0,"Strongly prefer privacy, public funding, and regulation."
+b6802ae9-5381-4b7c-b274-5bf5e614c4c4,2025-03-25 21:45:27.872033+00:00,cohere,command-r-08-2024,0,5799.0,349.0,Stronger.privacy.and.regulation.needed.for.public.and.private.biobanks.
+d4151fff-74ac-4f2a-9107-4c5f65028e86,2025-03-25 21:45:36.529129+00:00,cohere,command-r-08-2024,0,5833.0,359.0,Strongest.support.for.public.ownership.and.regulation.
+614aea55-3302-4ed8-afd4-7ba0cd2d1125,2025-03-25 21:45:46.472765+00:00,cohere,command-r-08-2024,0,5841.0,367.0,High.privacy.and.public.funding.with.regulation.are.priorities.
+b3f79c2a-eed3-495d-9933-94e1410a9dca,2025-03-25 21:45:55.304444+00:00,cohere,command-r-08-2024,0,5841.0,368.0,Strongest.support.for.public.ownership.and.regulation.of.biobanks.
+22917643-dab0-47c0-8e16-976dc4bad779,2025-03-27 10:48:52.330462+00:00,cohere,command-r-08-2024,0,5859.0,369.0,"Strongly prefer public, regulated biobanks with high privacy."
+e5664a74-6fa9-4b28-b036-7c72baa1a19a,2025-03-27 10:49:01.773109+00:00,cohere,command-r-08-2024,0,5851.0,368.0,Strongest.privacy.and.regulation.with.public.funding.
+584ad841-1ba5-499e-915a-321455fcb97d,2025-03-27 10:49:09.587181+00:00,cohere,command-r-08-2024,0,5859.0,373.0,High.privacy.and.public.funding.with.regulation.preferred.
+04424ea7-275f-42ee-87d6-31c48db183ad,2025-03-27 10:49:18.621413+00:00,cohere,command-r-08-2024,0,5859.0,380.0,"High-privacy,strong-regulation,public-ownership,cautious-implementation,minimal-government-input."
+440eb96d-16e1-4a26-8950-824d9aa6bb93,2025-03-27 10:49:27.223452+00:00,cohere,command-r-08-2024,0,5847.0,365.0,"Strongest support for cautious, public, and high-privacy approaches."
+7f7ddf80-7a34-49f8-8c39-84a24958ab58,2025-03-27 10:49:35.105292+00:00,cohere,command-r-08-2024,0,5817.0,356.0,Strongest.support.for.public.ownership.and.regulation.of.biobanks.
+ed6fd557-86b4-48e7-a7a3-70d27e5e4791,2025-03-27 10:49:42.887243+00:00,cohere,command-r-08-2024,0,5869.0,380.0,"StrongestSupportForPubliclyFunded,Regulated,PrivacyFocusedBiobankingSystems."
+bbe76a2a-262d-4591-8967-d21f07266303,2025-03-27 10:49:51.285994+00:00,cohere,command-r-08-2024,0,5847.0,366.0,Strongest.privacy.and.regulation.with.public.funding.
+ee098a1c-4149-405a-9997-870a322971bb,2025-03-27 10:49:59.375595+00:00,cohere,command-r-08-2024,0,5851.0,371.0,Strongest.support.for.public.ownership.and.privacy.protections.
+09a5d399-3dce-45db-a10f-647b74e1216e,2025-03-27 10:50:07.656700+00:00,cohere,command-r-08-2024,0,5831.0,354.0,"Strongly prefer public funding, privacy, and regulation."
+817c0156-fd8c-4210-9460-0f82bcc28edb,2025-03-27 11:14:32.921576+00:00,cohere,command-r-08-2024,0,5865.0,377.0,Strongly.prefer.public.ownership.and.regulation.over.private.
+509a6791-5e6d-4d47-990f-a664bb31220e,2025-03-27 11:14:41.084311+00:00,cohere,command-r-08-2024,0,5851.0,374.0,Strongest.privacy.and.regulation.with.public.funding.or.private.funding.
+96447211-0fec-43c1-afd4-c2c4a4263106,2025-03-27 11:14:48.717189+00:00,cohere,command-r-08-2024,0,5789.0,347.0,High.privacy.and.cautious.implementation.prioritised.over.public.or.private.funding.
+cbb81911-d4c8-4dbe-a0ab-afcabeb11340,2025-03-27 11:14:56.549060+00:00,cohere,command-r-08-2024,0,5861.0,373.0,High.privacy.and.strong.regulation.are.priorities.
+c88f6172-b8fe-4f88-86e3-264d13fb755f,2025-03-27 11:15:06.373467+00:00,cohere,command-r-08-2024,0,5847.0,371.0,Strongest.support.for.public.ownership.and.regulation.of.biobanks.
+f7c0abb3-6455-4896-b5ec-d7a2c75b88a8,2025-03-27 11:15:14.047919+00:00,cohere,command-r-08-2024,0,5813.0,354.0,Strongest.support.for.public.ownership.and.regulation.of.biobanks.
+64056817-2396-4d3c-8d49-e0a0a50708b1,2025-03-27 11:15:21.631812+00:00,cohere,command-r-08-2024,0,5869.0,378.0,"Strongly support public,regulated biobanks;oppose private,unregulated ones."
+748b58ae-c68c-4e47-a035-910b6f907463,2025-03-27 11:15:29.919605+00:00,cohere,command-r-08-2024,0,5835.0,364.0,High.privacy.and.public.funding.with.regulation.are.priorities.
+7c611f99-eb2c-4489-848b-35918f689da4,2025-03-27 11:15:38.012662+00:00,cohere,command-r-08-2024,0,5853.0,374.0,Strongest.support.for.public.ownership.and.regulation.of.biobanks.
+d26812ce-74e5-4e06-81a1-f45e37a2cd1d,2025-03-27 11:15:46.713974+00:00,cohere,command-r-08-2024,0,5809.0,347.0,Strongest.privacy.and.regulation.with.public.ownership.

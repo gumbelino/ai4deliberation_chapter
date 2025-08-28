@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Ban Begging within Sweden,P2. Deport any immigrants found begging on the streets who have stayed in Sweden longer than three months,P3. Enforce existing laws without special consideration for beggars,P4. Forbid giving money to beggars,P5. Focus resources on addressing the the problem in source countries such as Romania,P6. Ban Illegal Settlements,P7. Provide accommodation for beggars (more)
+105b053e-b056-403e-a181-9d22b9f9c0e4,2025-04-17 10:24:57.142075+00:00,google,gemini-2.0-flash-thinking-exp,0,3720,283,3,7,2,6,1,5,4
+484627a3-4cb3-484d-972d-07bdc61696d0,2025-04-17 10:25:24.557427+00:00,google,gemini-2.0-flash-thinking-exp,0,3402,125,4,7,5,1,2,6,3
+e06e28ee-330c-4e62-b334-ee51eb94cdce,2025-04-17 10:25:44.627739+00:00,google,gemini-2.0-flash-thinking-exp,0,3720,288,3,1,2,4,7,6,5
+48ff25a4-fb27-4d45-999b-0c687b209919,2025-04-17 10:26:06.697721+00:00,google,gemini-2.0-flash-thinking-exp,0,3402,127,2,5,4,6,1,3,7
+3ad9c7fa-f115-432a-b1da-595af0b10f75,2025-04-17 10:26:23.024871+00:00,google,gemini-2.0-flash-thinking-exp,0,3720,288,4,6,2,7,1,3,5
+699e659e-2ec3-4bc2-b767-9dae1946e14a,2025-04-17 10:26:43.715791+00:00,google,gemini-2.0-flash-thinking-exp,0,3720,287,4,7,5,6,1,2,3
+a2acf08c-640c-45bb-972b-103d822b9c17,2025-04-17 10:27:00.645745+00:00,google,gemini-2.0-flash-thinking-exp,0,3402,132,6,5,1,3,7,4,2
+71fe5782-4605-422a-8975-f4443d43fcf1,2025-04-17 10:27:18.304503+00:00,google,gemini-2.0-flash-thinking-exp,0,3720,282,7,4,2,5,1,3,6
+5bbd1dc1-084d-4965-b6e5-fabbe9747cfa,2025-04-17 10:27:39.201508+00:00,google,gemini-2.0-flash-thinking-exp,0,3720,283,6,2,1,5,4,7,3
+b16f4ab8-dec4-4fa2-b711-ba5040515fce,2025-04-17 10:28:05.830094+00:00,google,gemini-2.0-flash-thinking-exp,0,3720,287,1,7,2,3,6,5,4

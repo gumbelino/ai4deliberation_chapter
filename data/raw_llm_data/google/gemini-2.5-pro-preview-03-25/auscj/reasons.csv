@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+35dc170b-e6ca-4f58-9c04-39bbaca0c796,2025-04-14 17:25:45.226906+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,4450,"High concern for equity, safety, slippery slope; support restricted non-heritable therapy."
+cd1f4379-b963-4e99-8f1c-2e2d98be7669,2025-04-14 17:26:33.316654+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,6305,"Prioritize safety/equity; support regulated non-heritable therapy, oppose enhancement."
+621ec725-2792-4678-ad5f-91196444d0f6,2025-04-14 17:27:43.045493+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,7523,"Support regulated medical use; high caution on heritable edits, equity, safety."
+3e687d35-657a-416b-87e9-8397fa1c6e16,2025-04-14 17:29:03.941548+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,6062,Support non-heritable therapy w/ oversight; cautious on heritable edits & equity.
+a5c37698-3b9a-4956-9dea-42410248b553,2025-04-14 17:30:17.668984+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,5259,Value therapy if safe/fair; reject heritable/enhancement due to ethical/safety risks.
+88ec6574-1175-4ef5-b6d0-bff6ac8ad9be,2025-04-14 17:31:17.568811+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,6368,"Support non-heritable therapy; cautious on heritable edits, equity, safety."
+a7c05f6c-1b9f-495a-949c-caaa6a2bffbe,2025-04-14 17:32:27.103622+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,6761,"Prioritize safe, non-heritable therapy; concerned about heritable changes, equity, and misuse."
+c43d223e-6dc8-467b-950b-4009fd352cac,2025-04-14 17:33:38.181661+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,4468,Support non-heritable therapy; oppose heritable/enhancement due to risks & ethics.
+78467b91-0e7f-4314-b0cb-ead719d04752,2025-04-14 17:34:34.022732+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,4508,Wary of heritable/enhancement uses; support non-heritable therapy with strict oversight.
+d12c724d-893b-4c87-9261-7cf61e97b103,2025-04-14 17:35:20.764648+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,6225,Support non-heritable cures if safe/equitable; oppose heritable/enhancement uses.
+cb29ce40-462a-43bf-80f2-c2de84e547c6,2025-04-15 07:19:50.789000+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,5716,"Support safe, equitable non-heritable medical use; cautious on heritable/enhancement."
+bbc4b5b4-002e-48ff-b996-a70dd69d7507,2025-04-17 09:58:54.398609+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,5988,Favor non-heritable medical editing if safe/equitable; oppose heritable/enhancement uses.
+83a1de68-13f6-4547-80ff-3be73d6ef497,2025-04-17 09:59:56.875639+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,5064,"Support ethical, equitable medical HGE; reject heritable/enhancement uses."
+33588c81-22c8-46f7-a034-65c609404593,2025-04-17 10:00:48.731903+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,5925,"Support safe, non-heritable medical uses; concerned about heritable changes & societal risks."
+ad90ceee-d64b-419b-baad-42f5c89acbd9,2025-04-17 10:01:49.641962+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,5821,"Cautious support for medical gene editing; strong concerns about safety, equity, non-medical use."
+e3692b64-5d98-473a-8acc-69f1bdd736fb,2025-04-17 10:02:50.157625+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,4347,"Favor careful therapeutic use; concerned about equity, heritability, misuse."
+4f114a8a-5574-4499-82c1-234e1cd23c94,2025-04-17 10:03:38.800522+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,4791,Support non-heritable medical editing; oppose heritable/enhancement due to risks/equity.
+a0c35d28-166e-4c96-b0fd-4880bf5ebbec,2025-04-17 10:04:31.721349+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,4885,"Support safe non-heritable therapy; concerned about equity, heritable changes, enhancement."
+4c5634a9-7703-4a49-9dfc-d82739f34ea6,2025-04-17 10:05:27.618002+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,7078,Ratings show risk awareness but favor broad access & progress over strict bans.
+d4012a77-5e1a-453c-b9c3-2cde3128c175,2025-04-17 10:06:39.586246+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,4610,"Prioritize safe, equitable, non-heritable therapeutic use; wary of heritable/enhancement."
+d7ae6da1-7e60-4f9a-80b8-64dfb78c6c11,2025-04-17 10:07:31.626976+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,5435,"Prioritize safe, non-heritable medical use; concerned about equity & heritable changes."
+6bfc3165-0e2d-467b-b55c-1f992281a7ac,2025-04-17 10:08:27.470918+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,6279,"Support non-heritable cures; worry about safety, equity, heritable edits."
+1c804797-40bc-4eaf-87c3-146e649c66ba,2025-04-17 10:09:34.913006+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,6249,"Favor safe, non-heritable medical uses; wary of heritable changes & inequality."
+f7cb6c59-b41c-4984-a941-fddf56c3ef7c,2025-04-17 10:10:39.713293+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,5291,"Prioritize safe, equitable medical uses; wary of heritable changes & enhancement."
+939ae62c-ceaf-4215-bad8-5a981f30d676,2025-04-17 10:11:38.398445+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,5795,Support safe non-heritable therapy; very cautious about heritable/enhancement risks.
+9f32816b-a780-42c1-9e07-56edd5f30a8f,2025-04-17 10:12:40.926886+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,4237,Wary of heritable changes; support non-heritable for disease if safe & equitable.
+5aa2ef8c-3390-457f-8d8e-c874a66029a5,2025-04-17 10:13:25.436276+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,7382,"Prioritize safe, equitable therapy via oversight; concerned about enhancement & heritable edits."
+5b0b788b-c6c3-4bd3-ad61-723e1eea5e42,2025-04-17 10:14:43.926630+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,6302,Cautious support for non-heritable therapy; strong concerns about heritable editing & misuse.
+f5f659bc-bcdc-4685-b98f-b4a304d381df,2025-04-17 10:15:45.599924+00:00,google,gemini-2.5-pro-preview-03-25,0,4593,4027,Allow non-heritable medical editing if safe & fair; reject heritable/enhancement uses.
+b0f26964-3fb4-4a32-bb5a-94d64d8f0c3c,2025-04-17 10:16:29.833078+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,5562,"Prioritize safe, equitable medical use; wary of heritable edits/enhancement."
+87af8aba-0854-4cfd-893e-ff0298a360d5,2025-04-17 10:17:29.281448+00:00,google,gemini-2.5-pro-preview-03-25,0,4617,6201,Support safe therapeutic use/research; oppose heritable/enhancement editing.

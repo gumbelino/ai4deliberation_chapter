@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+e4024460-97ef-4b3f-ac35-700234e0e2ed,2025-04-01 14:45:48.630934+00:00,openai,o3-mini,0,4142,6503,I prioritized policies with immediate adaptation and balanced regulation over radical deregulation.
+07ebe55a-1243-4320-a388-32f1b4f8aa5a,2025-04-01 14:46:25.911169+00:00,openai,o3-mini,0,4145,5480,I prioritized resilient innovation and local support while opposing deregulation and radical rules.
+18214e11-1b88-405a-accf-ff0ca66a72cc,2025-04-01 14:47:22.481009+00:00,openai,o3-mini,0,4142,6056,Support for local sustainable food and adaptive measures over radical deregulation and status quo
+6f0ddd9f-903c-4a27-8177-2beb617731aa,2025-04-01 14:48:13.008385+00:00,openai,o3-mini,0,4145,5861,I prioritized local sustainable production and climate resilience over deregulation.
+ba8997f0-871a-44af-897b-a11c753e2c0b,2025-04-01 14:49:05.062665+00:00,openai,o3-mini,0,4145,6760,I prioritized climate resilient adaptation and local support over deregulation and inaction.

@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+cf6706a3-a0a4-4cf5-9b2b-b7cfe0dbb51f,2025-03-21 20:29:48.399091+00:00,openai,gpt-4o-mini,0,4544,276,"I prioritize ecological and social values, followed by economic gain and local harvesting."
+7c45c48f-07bd-43da-a065-aabfc8f8385e,2025-03-21 20:29:55.475626+00:00,openai,gpt-4o-mini,0,4544,275,I prioritize ecological and community values while supporting local harvesting and fuel reduction.
+8d67f386-3db8-412d-a01f-da2e4630bec3,2025-03-21 20:30:02.917764+00:00,openai,gpt-4o-mini,0,4544,273,I prioritize ecological and social values while supporting sustainable management practices.
+e1d41d1d-7a58-42cf-ad92-58f9eb15a224,2025-03-21 20:30:08.763987+00:00,openai,gpt-4o-mini,0,4544,275,I prioritize ecological balance and community needs over aggressive management or economic gain.
+c6e77829-61fb-49fd-83f7-3440110daf48,2025-03-21 20:30:15.888698+00:00,openai,gpt-4o-mini,0,4544,276,I prioritize ecological balance and community needs over aggressive fuel reduction and no management.
+617870bb-40df-4123-a74d-19170d026414,2025-03-21 20:30:23.494731+00:00,openai,gpt-4o-mini,0,4544,276,I prioritize ecological and community values over aggressive management and presettlement restoration.
+4090a97d-547a-419f-a6bd-a4ac59172721,2025-03-21 20:30:30.161124+00:00,openai,gpt-4o-mini,0,4542,275,I prioritized ecological balance and community needs over aggressive management and economic gain.
+1fd8da8e-568e-4940-88c3-571ecfc31f35,2025-03-21 20:30:37.023608+00:00,openai,gpt-4o-mini,0,4544,275,I prioritize ecological and social values while opposing aggressive and non-managed approaches.
+d7c80241-a4fe-4c17-9695-2a09ee0b9252,2025-03-21 20:30:47.037923+00:00,openai,gpt-4o-mini,0,4542,277,I prioritized ecological and community values while opposing no management and presettlement focus.
+633eed1a-a9c7-4bbd-b56d-6e7d600bcf73,2025-03-21 20:30:52.021460+00:00,openai,gpt-4o-mini,0,4544,275,I prioritize ecological and social values while opposing aggressive and non-managed approaches.
+9249e749-9544-47c3-94d2-cd8e234539c0,2025-03-21 20:30:59.927041+00:00,openai,gpt-4o-mini,0,4544,276,"I prioritize ecological and social values, followed by wildlife protection and local harvesting."
+e6510fb9-ee26-40c1-90c4-aa398f64832b,2025-03-21 20:31:07.016633+00:00,openai,gpt-4o-mini,0,4544,275,I prioritized ecological values and community needs over aggressive management and no action.
+a454c563-2554-423b-9483-59527ca544f4,2025-03-21 20:31:12.890628+00:00,openai,gpt-4o-mini,0,4544,274,I prioritize ecological and social values while supporting restoration and local harvesting.
+31a8cf5e-80a4-43fe-b85d-28a8c806bf32,2025-03-21 20:31:19.697091+00:00,openai,gpt-4o-mini,0,4544,275,I prioritized ecological and community values while opposing extreme management and no action.
+22fdddb3-58b2-44b7-afdd-766dff8a7aa1,2025-03-21 20:31:26.294848+00:00,openai,gpt-4o-mini,0,4544,275,I prioritize ecological and community values over aggressive fuel reduction and economic gain.
+3bb6b502-fbd5-412e-84bf-fa330aa48f15,2025-03-21 20:31:32.821769+00:00,openai,gpt-4o-mini,0,4544,275,I prioritized ecological and community values while opposing extreme management and no action.
+7f52d9da-a63b-48e9-b43c-ee653cabeb29,2025-03-21 20:31:39.071159+00:00,openai,gpt-4o-mini,0,4544,276,I prioritized ecological and community values while opposing unmanaged forests and aggressive fuel reduction.
+caa8b032-b27f-48bb-864a-916406189953,2025-03-21 20:31:46.650588+00:00,openai,gpt-4o-mini,0,4544,274,I prioritize ecological and social values while supporting restoration and local management.
+1713fc19-4461-465f-963d-b07402a48c26,2025-03-21 20:31:53.100824+00:00,openai,gpt-4o-mini,0,4544,277,I prioritized ecological and community values while opposing no management and presettlement focus.
+4db0defe-5c29-4a30-b08d-beca469dd59a,2025-03-21 20:31:58.418174+00:00,openai,gpt-4o-mini,0,4542,275,I prioritized ecological balance and community needs over aggressive management and economic gain.
+3545ee92-9444-40f0-89d1-6a87077d740e,2025-03-28 06:44:02.187477+00:00,openai,gpt-4o-mini,0,4542,274,I prioritize ecological and community values over aggressive management and economic gain.
+699468bb-e8b6-4ba8-bf06-e8d3bdb40339,2025-03-28 06:44:08.749106+00:00,openai,gpt-4o-mini,0,4544,277,I prioritized ecological and community values while opposing no management and presettlement focus.
+677c7522-9db2-47c9-82f5-107d445f53da,2025-03-28 06:44:15.989019+00:00,openai,gpt-4o-mini,0,4544,275,I prioritized ecological and community values over economic gain and strict restoration methods.
+53cd2fb0-ba12-4d8d-a608-24026807210f,2025-03-28 06:44:22.872383+00:00,openai,gpt-4o-mini,0,4544,275,I prioritized ecological balance and community needs over aggressive management and economic gain.
+0d15b301-fd63-429f-8662-0f0b102268dc,2025-03-28 06:44:30.346660+00:00,openai,gpt-4o-mini,0,4542,276,I prioritized ecological and community values while opposing no management and aggressive fuel reduction.
+2914a349-40b9-4b9a-a349-31f49ce8afc8,2025-03-28 06:44:38.846523+00:00,openai,gpt-4o-mini,0,4544,277,I prioritized ecological and community values while opposing no management and presettlement restoration.
+959b4be4-b210-400c-a2cc-31296f2c5204,2025-03-28 06:44:45.820783+00:00,openai,gpt-4o-mini,0,4544,277,I prioritize ecological and social values while opposing no management and presettlement restoration.
+6d369538-80e0-48e7-a352-71b0b05efc96,2025-03-28 06:44:53.362634+00:00,openai,gpt-4o-mini,0,4544,273,I prioritize ecological and community values while supporting sustainable management practices.
+0fb157ea-5038-413e-9f2f-4b352fb54a92,2025-03-28 06:45:01.246157+00:00,openai,gpt-4o-mini,0,4544,275,I prioritize ecological balance and community needs over aggressive or no management approaches.
+b92a6b2c-798f-46bf-a6cb-7b1d664543df,2025-03-28 06:45:09.068684+00:00,openai,gpt-4o-mini,0,4544,275,I prioritized ecological and community values while opposing extreme management and no action.
+120cbcfd-cba6-4bc6-a393-2061022b3827,2025-03-28 06:45:16.713673+00:00,openai,gpt-4o-mini,0,4544,276,"I prioritize ecological and social values, followed by wildlife protection and local harvesting."
+128c54e0-38c4-4c6b-b205-4d1badd6a652,2025-03-28 06:45:25.053735+00:00,openai,gpt-4o-mini,0,4544,276,"I prioritize balanced management that integrates ecological, social, and economic values effectively."

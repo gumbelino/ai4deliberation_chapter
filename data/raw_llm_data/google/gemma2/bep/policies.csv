@@ -1,0 +1,9 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Leave the policy settings as they are.,"P2. Policies that emphasise fewer regulations (e.g., policies that promote free trade agreements by reducing food regulation)","P3. Policies that involve a moderate sustainable regulations (e.g., banning certain types of pesticides, incentivising organic agriculture)","P4. Policies that involve a radical sustainable food regulation (e.g., banning all pesticides, banning the importation of food related product that employ non-sustanable approaches, exclusively incentivising organic agriculture)","P5. Policies that create incentives for local producers to produce sustainable food (e.g., subsidies or tax breaks for local farmers who produce organic products)",P6. Adaptation policies and expenditure. Planning controls and emergency response programs.,P7. Preparing for climate risk for food production through the development of new approaches and technologies that enhance resilience to the impacts of climate variability or change.
+43e54449-19ae-4d41-841f-c70100d916eb,2025-03-21 07:42:52.551185+00:00,google,gemma2,0,0,0,5,7,3,4,1,2,6
+294c7498-1ce9-4442-83e5-99ab0d111c18,2025-03-21 07:43:15.431889+00:00,google,gemma2,0,0,0,7,2,6,3,5,4,1
+63ef81c5-1e07-4282-9526-8e5d5d620bfc,2025-03-21 07:43:38.250523+00:00,google,gemma2,0,0,0,5,6,4,7,1,2,3
+cc285b43-1631-4ce9-918b-9540aa52a825,2025-03-21 07:44:01.240194+00:00,google,gemma2,0,0,0,3,6,1,7,5,4,2
+f2c76a4f-442f-471f-9441-bc4f5f088911,2025-03-21 07:44:24.661308+00:00,google,gemma2,0,0,0,6,7,1,5,3,2,4
+02ade539-45c7-4e06-8f4e-4e619d487c23,2025-03-21 07:44:47.520671+00:00,google,gemma2,0,0,0,3,5,1,7,4,2,6
+6557cd88-8c1a-40a5-bdde-a12355e007cc,2025-03-21 07:45:10.527659+00:00,google,gemma2,0,0,0,7,3,5,2,4,6,1
+62cea9aa-a857-4fc9-bf96-42b7e5f51d67,2025-03-21 07:46:40.618109+00:00,google,gemma2,0,0,0,7,5,1,4,2,3,6

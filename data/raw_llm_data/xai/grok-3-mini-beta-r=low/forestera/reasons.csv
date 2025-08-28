@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+656c69a0-a62d-4308-8810-c7db41ec7123,2025-04-28 09:54:59.911912+00:00,xai,grok-3-mini-beta-r=low,0,4517,275,I prioritize fire reduction and ecological restoration over economic gains and no management.
+18467256-6b84-49b2-b48d-ccf049019e72,2025-04-28 09:55:34.242512+00:00,xai,grok-3-mini-beta-r=low,0,4517,278,"I prioritize ecological restoration, fuel reduction, and balanced values over harvesting or no management."
+cef87974-6e8c-4542-83a0-eeb56dd05852,2025-04-28 09:56:11.413259+00:00,xai,grok-3-mini-beta-r=low,0,4517,276,"I prioritize ecological and social values, supporting active management while opposing no intervention."
+3f1db489-9369-48ff-bfac-866ac2277089,2025-04-28 09:56:46.420627+00:00,xai,grok-3-mini-beta-r=low,0,4517,281,"I ranked policies prioritizing ecological-social balance, fire reduction, and wildlife over unmanaged or economic-focused ones."
+1add8849-4edc-4d89-a72e-8c319f98ce91,2025-04-28 10:21:07.522921+00:00,xai,grok-3-mini-beta-r=low,0,11850,278,"Prioritized policies balancing ecology, safety, and wildlife over economic gain or no management."
+522ada80-5085-477d-823f-3f874e693af9,2025-04-28 10:21:49.067911+00:00,xai,grok-3-mini-beta-r=low,0,9623,282,"Ranked based on support for fuel reduction, ecological values, and wildlife protection over economic focus and inaction."
+aa2aa58f-242c-4075-8567-188bd7d077a5,2025-04-28 10:22:19.478096+00:00,xai,grok-3-mini-beta-r=low,0,11212,279,"Prioritized policies balancing ecology, social values, and fire management over economic focus or inaction."
+fcc95bd6-9c18-48db-83fe-48e9664c739a,2025-04-28 10:22:57.732241+00:00,xai,grok-3-mini-beta-r=low,0,11163,274,"Prioritized ecological balance, social values, and fire risk reduction."
+010d23e3-e319-43b9-b6c8-c00db0dc375d,2025-04-28 10:23:36.174869+00:00,xai,grok-3-mini-beta-r=low,0,11537,274,"Prioritized wildlife, balance, restoration over economics and no action."

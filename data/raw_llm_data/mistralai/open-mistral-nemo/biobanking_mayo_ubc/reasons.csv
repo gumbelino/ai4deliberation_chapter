@@ -1,0 +1,35 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+40717786-447a-4f91-957b-bdff6b4f5e23,2025-03-20 16:53:39.620975+00:00,mistralai,open-mistral-nemo,0,3860,268,"Prioritize societal benefit, then individual consent and oversight"
+2628b9a4-1dff-48a0-8bfa-52fc2449670c,2025-03-20 16:53:49.598859+00:00,mistralai,open-mistral-nemo,0,3864,272,"Prioritize oversight, respect privacy, prevent discrimination, ensure benefits"
+e6598747-c47c-423e-ab04-77a9fa5f2307,2025-03-20 16:54:00.296371+00:00,mistralai,open-mistral-nemo,0,3864,268,"Ethics boards for all, consent for identifiable"
+69a48d95-49c6-4500-8cfa-af8d7d54aaf0,2025-03-20 16:54:12.432855+00:00,mistralai,open-mistral-nemo,0,3868,270,"Require approval for identifiable, prioritize privacy and anti-discrimination"
+24fa2b4a-0120-419f-9d6b-5d1abb8db9f3,2025-03-20 16:54:19.886410+00:00,mistralai,open-mistral-nemo,0,3858,267,"Prioritize individual consent, prevent discrimination, ensure oversight"
+931fffa5-dd3b-4439-9a6a-ff7b0d7a0d66,2025-04-02 16:11:07.485755+00:00,mistralai,open-mistral-nemo,0,3870,273,Societal benefit > consent > prevent discrimination > ethics board
+741d255b-6c8b-41ab-9c3e-b74d7a94bda6,2025-04-02 16:11:11.210973+00:00,mistralai,open-mistral-nemo,0,3860,265,"Prioritize individual consent, prevent discrimination"
+aa2d7a1a-5d25-493e-9583-b667608e0d07,2025-04-02 16:11:15.489923+00:00,mistralai,open-mistral-nemo,0,3870,273,"Governing body approval always, individual consent when identifiable"
+695ba56d-a172-498f-8258-50be11df64ac,2025-04-02 16:11:19.905897+00:00,mistralai,open-mistral-nemo,0,3872,274,"Prioritize individual consent, then governance, then benefits"
+51e58a70-bb81-493a-bb29-9ead24bacc36,2025-04-02 16:11:27.458239+00:00,mistralai,open-mistral-nemo,0,3866,270,"Balanced oversight, prevent discrimination, prioritize benefits"
+d78b4188-fad2-4d1c-8aa3-82a803d6a128,2025-04-02 16:11:31.506775+00:00,mistralai,open-mistral-nemo,0,3866,271,"Prioritize individual consent, prevent discrimination"
+705f7785-2b62-45a5-a542-22d2d2b1014e,2025-04-02 16:11:36.002232+00:00,mistralai,open-mistral-nemo,0,3864,267,"Prioritize individual consent, prevent discrimination"
+f9f94237-6419-4028-8ed8-6bbf350c7c04,2025-04-02 16:11:39.699768+00:00,mistralai,open-mistral-nemo,0,3862,270,Prioritize individual consent and anti-discrimination
+12abc1a6-b332-4291-aa31-719f3c33c497,2025-04-02 16:11:44.034457+00:00,mistralai,open-mistral-nemo,0,3864,272,"Prioritize informed consent, oversight, and benefits"
+dd9ca8f7-2c1d-4518-ae91-88341a936267,2025-04-02 16:11:49.981306+00:00,mistralai,open-mistral-nemo,0,3860,273,"Prioritize individual consent, prevent discrimination, balance with societal benefits"
+910b6c7d-3fbb-4b1b-a81c-97ec94a1379d,2025-04-02 16:11:54.295296+00:00,mistralai,open-mistral-nemo,0,3864,275,"Prioritize individual consent, prevent discrimination, balance with societal benefits"
+566edda9-65a5-466f-acca-8eecff1f2f1e,2025-04-02 16:11:58.390915+00:00,mistralai,open-mistral-nemo,0,3864,273,"Prioritize preventing discrimination, require authorization for identifiable data"
+a4f0968f-bf47-485d-8eb1-092299cece81,2025-04-02 16:12:02.119035+00:00,mistralai,open-mistral-nemo,0,3876,276,"Prioritize individual consent, then oversight, then benefits"
+4eb43447-901f-4162-83b7-b4a121580a19,2025-04-02 16:12:06.061863+00:00,mistralai,open-mistral-nemo,0,3858,273,"Ethics boards for identifiable, consent for identifiable, ethics boards for all"
+6c4bb43c-6f28-4972-8fdf-4b929f9e480a,2025-04-02 16:12:10.738089+00:00,mistralai,open-mistral-nemo,0,3864,273,"Governing body approval always, individual consent when identifiable"
+30b66c06-1521-46f8-939f-fd7a86649678,2025-04-02 16:12:14.660198+00:00,mistralai,open-mistral-nemo,0,3878,276,"Governing body approval key, individual consent varies"
+14949160-1c34-42ed-a8bc-5e4277cbd6b4,2025-04-02 16:12:18.561895+00:00,mistralai,open-mistral-nemo,0,3868,269,Balanced consent & oversight
+98bee8c8-8d9c-4060-9911-5cdb7a0847d7,2025-04-02 16:12:23.310230+00:00,mistralai,open-mistral-nemo,0,3860,267,"Prioritize oversight, prevent discrimination"
+6050173e-8c9b-4734-93e9-8f5ca5dd798d,2025-04-02 16:12:27.060055+00:00,mistralai,open-mistral-nemo,0,3866,268,"Balanced privacy, oversight, and benefit"
+d89090a6-3c0c-4bc3-82ef-a75ac818f201,2025-04-02 16:12:30.770304+00:00,mistralai,open-mistral-nemo,0,3866,274,"Governing body approval always, individual consent when identifiable"
+3df79c58-f798-4119-9dde-25593ac5daac,2025-04-02 16:12:34.891312+00:00,mistralai,open-mistral-nemo,0,3860,273,"Prioritize individual consent, prevent discrimination, balance with societal benefits"
+a0155e9a-5417-41ae-a2fd-5e5b3d2f4583,2025-04-02 16:12:38.836874+00:00,mistralai,open-mistral-nemo,0,3870,269,Prioritize individual consent and oversight
+bf69660d-0ae5-4ddf-bc90-70f47672ae22,2025-04-02 16:12:42.669929+00:00,mistralai,open-mistral-nemo,0,3868,274,"Prioritize individual consent, prevent discrimination, balance with societal benefits"
+81efd97f-b3fb-42f9-8822-421da0bbb69a,2025-04-02 16:12:46.510169+00:00,mistralai,open-mistral-nemo,0,3864,281,"Individual consent for identifiable use, governing body approval for non-identifiable use, prevent discrimination, prioritize benefits"
+b83c408a-e034-4588-98ca-ebd0d7d4465c,2025-04-02 16:12:50.510294+00:00,mistralai,open-mistral-nemo,0,3870,271,Societal benefit > Ethics board > Prevent discrimination
+cb2b4929-3648-4e2e-ae59-782417dd663a,2025-04-02 16:12:54.428863+00:00,mistralai,open-mistral-nemo,0,3870,273,"Prioritize individual consent, prevent discrimination"
+8a431ef0-6f76-4b1f-b2ec-7cae9b6a2eb3,2025-04-02 16:13:00.099224+00:00,mistralai,open-mistral-nemo,0,3860,268,"Prefer oversight for identifiable, community benefits"
+43d5541a-c5ce-4e54-9348-236f7f76f759,2025-04-02 16:13:03.938835+00:00,mistralai,open-mistral-nemo,0,3872,279,"Prioritize preventing discrimination, require authorization for identifiable use, and govern all uses"
+91c24c6e-0d1d-4792-b91b-68da87d2b500,2025-04-02 16:13:08.274719+00:00,mistralai,open-mistral-nemo,0,3870,268,Balanced individual consent and oversight

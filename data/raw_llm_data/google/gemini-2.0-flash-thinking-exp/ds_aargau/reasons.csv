@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+9f8381b7-f879-404b-a7d2-fb72b5d0f327,2025-04-17 11:06:28.912435+00:00,google,gemini-2.0-flash-thinking-exp,0,3373,111,Prioritize strong climate action adaptation tech dislike inaction economy over climate
+42383481-4c4a-4123-a437-895f52cbcf88,2025-04-17 11:06:45.450885+00:00,google,gemini-2.0-flash-thinking-exp,0,3619,234,"Pro climate action, favoring mitigation and adaptation, acknowledging urgency."
+5d8c5bea-58f9-49a7-b02e-9fc79c7d7e3c,2025-04-17 11:07:01.664495+00:00,google,gemini-2.0-flash-thinking-exp,0,3619,231,Adaptation is key strong action moderate emission cuts
+3dcbed51-308f-471a-b0ca-8b384001e503,2025-04-17 11:07:16.879177+00:00,google,gemini-2.0-flash-thinking-exp,0,3373,110,Prioritize adaptation resilience and practical solutions over drastic emissions cuts
+e88a4937-907f-4b62-a959-1e7a5daa7005,2025-04-17 11:07:34.670798+00:00,google,gemini-2.0-flash-thinking-exp,0,3373,113,"Adaptation focus, tech solutions, climate real, individual impact low."

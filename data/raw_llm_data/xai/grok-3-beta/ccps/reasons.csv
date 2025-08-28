@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+e18f7c25-ca69-4110-b769-129839bb0b67,2025-04-11 09:33:21.030183+00:00,xai,grok-3-beta,0,3212,218,Prioritized strong CO2 cuts and resilience over economic growth or minimal action.
+f9bd4bd0-ef1e-48ad-85e0-33d771f66976,2025-04-11 09:33:25.781764+00:00,xai,grok-3-beta,0,3212,217,Prioritized strong CO2 cuts and adaptation over economic growth or inaction.
+f21b5545-5061-43b3-8495-bf34f5260bde,2025-04-11 09:33:32.463453+00:00,xai,grok-3-beta,0,3212,216,Prioritized strong CO2 cuts and community adaptation over economic growth.
+3e350d21-9364-450b-9707-3dd40c78992f,2025-04-11 09:33:37.758640+00:00,xai,grok-3-beta,0,3212,215,Prioritized strong CO2 cuts and adaptation over economic growth.
+2993166b-c609-423a-af3f-5b912c6656a7,2025-04-11 09:33:42.161582+00:00,xai,grok-3-beta,0,3212,217,Prioritized significant CO2 cuts and resilience over inaction or economic focus.
+ae1a8cb6-75a2-4c23-b6c1-8c971b16a745,2025-04-11 09:33:46.772175+00:00,xai,grok-3-beta,0,3212,219,Prioritized strong CO2 cuts and community adaptation over economic growth or status quo.
+15c24a9b-8f53-41ab-a834-b8c74191ed5d,2025-04-11 09:33:51.205946+00:00,xai,grok-3-beta,0,3212,215,Prioritized strong emission cuts and community adaptation over economic growth.
+4269a246-961f-4df5-b914-ae1ec56bbeba,2025-04-11 09:33:55.370189+00:00,xai,grok-3-beta,0,3212,216,Prioritized strong CO2 cuts and community adaptation over economic growth.
+62952ef0-09c6-4343-8b09-d7751cf1580e,2025-04-11 09:33:59.727602+00:00,xai,grok-3-beta,0,3212,216,"Prioritized impactful, balanced climate actions over economic focus or inaction."
+3f8e0ed8-6d5d-4668-8e8f-1fd570eaab40,2025-04-11 09:34:04.059479+00:00,xai,grok-3-beta,0,3212,215,Prioritized strong emission cuts and community adaptation over economic growth.
+9b6825c1-58d1-47dc-9a12-839543c3ec20,2025-04-14 08:06:05.677536+00:00,xai,grok-3-beta,0,3212,216,Prioritized strong emission cuts and resilience over economic growth or inaction.
+df858f94-8ce8-41b8-bda9-933bff4e67db,2025-04-14 08:06:09.952767+00:00,xai,grok-3-beta,0,3212,216,Prioritized strong CO2 cuts and resilience tech over economic growth.
+c8ae47e1-f596-47f6-95a1-d1b7c0ce7907,2025-04-14 08:06:14.241887+00:00,xai,grok-3-beta,0,3212,216,Prioritized strong CO2 cuts and community adaptation over economic growth.
+9d4e7506-92c0-4bcd-9644-63b0ac8e5242,2025-04-14 08:06:18.566255+00:00,xai,grok-3-beta,0,3212,215,Prioritized adaptation and moderate cuts over drastic measures or inaction.
+3fc29c3c-d359-4889-828c-898a26384739,2025-04-14 08:06:23.048237+00:00,xai,grok-3-beta,0,3212,214,Prioritized strong emission cuts and resilience over economic growth.
+0e63899e-12c3-4b2d-8f0c-503e396a6dfd,2025-04-14 08:06:27.243450+00:00,xai,grok-3-beta,0,3212,216,Prioritized strong CO2 cuts and community adaptation over economic growth.
+3ddbc1ae-161a-47c0-963f-d4c80643faad,2025-04-14 08:06:32.316567+00:00,xai,grok-3-beta,0,3212,215,Prioritized aggressive CO2 cuts and adaptation over economic growth.
+70467056-02a5-41bd-8620-c52dc2384416,2025-04-14 08:06:36.674378+00:00,xai,grok-3-beta,0,3212,215,Prioritized strong CO2 cuts and adaptation over economic growth.
+7a52a8e4-72ec-4e24-94bd-0676698a8bc7,2025-04-14 08:06:41.077253+00:00,xai,grok-3-beta,0,3212,217,Prioritized adaptation and moderate emission cuts over economic growth or drastic measures.
+95569281-b674-4fb7-be18-fe92c3b20c60,2025-04-14 08:06:45.230854+00:00,xai,grok-3-beta,0,3212,215,Prioritized adaptation and resilience over economic growth or drastic cuts.
+f6ced3a4-940f-4df8-a095-8d5fa161c836,2025-04-14 08:06:49.054833+00:00,xai,grok-3-beta,0,3212,216,Prioritized significant CO2 cuts and community adaptation over economic growth.
+5bdf964c-43b5-45ab-9db0-3707d0a96c19,2025-04-14 08:06:53.097626+00:00,xai,grok-3-beta,0,3212,216,Prioritized community action and moderate cuts over economic focus or inaction.
+fe3b7912-6f29-495f-8d70-b30f7efccc75,2025-04-14 08:06:57.036884+00:00,xai,grok-3-beta,0,3212,216,"Prioritized impactful, community-focused policies over economic growth or inaction."
+5c01e265-010e-4af9-8454-273c2f90bae1,2025-04-14 08:07:01.102994+00:00,xai,grok-3-beta,0,3212,216,Prioritized moderate cuts and community actions over drastic cuts or inaction.
+5446635e-0f1b-4190-95c4-42d0d3522eba,2025-04-14 08:07:05.313067+00:00,xai,grok-3-beta,0,3212,214,Prioritized strong emission cuts and adaptation over economic growth.
+7b2ff44f-59cc-42b0-afc9-7b85e434749e,2025-04-14 08:07:10.569188+00:00,xai,grok-3-beta,0,3212,217,Prioritized strong emission cuts and resilience over status quo or economic focus.
+319f7423-3934-40de-9ea9-07f9dd195502,2025-04-14 08:07:14.662680+00:00,xai,grok-3-beta,0,3212,219,Prioritized strong CO2 cuts and resilience tech over economic focus or minimal action.
+f1bb5900-e906-49e2-8b1c-9275034fd3a0,2025-04-14 08:07:19.107791+00:00,xai,grok-3-beta,0,3212,217,Prioritized significant CO2 cuts and resilience over economic growth or inaction.
+ed61616c-2457-4572-9c35-397c3032b333,2025-04-14 08:07:23.577240+00:00,xai,grok-3-beta,0,3212,215,Prioritized adaptation and resilience over economic growth or minimal action.
+4251e16b-ac6f-4959-8a80-8bc2c6002d0f,2025-04-14 08:07:28.464657+00:00,xai,grok-3-beta,0,3212,215,Prioritized adaptation and resilience over economic growth or drastic cuts.

@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+aa58c062-092d-4024-92ae-d9ecd309ad09,2025-03-20 17:47:15.910683+00:00,openai,gpt-4o,0,2720,168,"Support for universal access, financial support, and efficiency over deregulation or status quo."
+4771b03c-9f48-4ae3-9b95-6d01ef8de173,2025-03-20 17:47:24.023779+00:00,openai,gpt-4o,0,2723,168,"Support universal access, efficiency, and financial support; oppose abolishing insurance."
+da28e58a-9212-4269-b934-a5df651f370c,2025-03-20 17:47:31.904160+00:00,openai,gpt-4o,0,2720,162,Universal access and financial support are prioritized for equitable healthcare.
+68296929-3c30-4006-a0d2-2b06fc2d71b1,2025-03-20 17:47:39.587511+00:00,openai,gpt-4o,0,2723,167,Universal access and support for those in need are prioritized over deregulation.
+f6f26b56-32ee-4cce-8f87-1638fe2c4f4b,2025-03-20 17:47:46.978022+00:00,openai,gpt-4o,0,2723,169,"Support for universal access, financial support, and fixing inefficiencies over deregulation."
+ecfd4f5c-36a4-4da3-a02e-fd46a435d6a8,2025-03-20 17:47:54.348114+00:00,openai,gpt-4o,0,2723,166,"Support for universal access, efficiency, and financial fairness in healthcare."
+cc0e0f62-cbe7-4642-9ce4-7b2caae16694,2025-03-20 17:48:01.907868+00:00,openai,gpt-4o,0,2723,167,"Support for universal access, financial support, and efficiency over deregulation."
+917bf3a3-237a-44fd-8c06-55a5ad71b4a9,2025-03-20 17:48:09.647047+00:00,openai,gpt-4o,0,2723,166,"Support for universal access, efficiency, and financial fairness in healthcare."
+7fa35901-2d67-47c3-b071-56b8dc341e30,2025-03-20 17:48:17.531943+00:00,openai,gpt-4o,0,2723,168,"Support universal access, government control, and fixing inefficiencies over deregulation."
+b723fb1f-c2f2-4df7-9dc4-fd43de70201f,2025-03-20 17:48:25.713841+00:00,openai,gpt-4o,0,2723,167,"Support for universal access, efficiency, and financial fairness in healthcare policies."
+b962b58e-3849-4b26-9e0b-b1949726b704,2025-04-01 10:16:08.502823+00:00,openai,gpt-4o,0,2720,167,"Support for universal access, government control, and fixing inefficiencies over deregulation."
+c73034ea-bbb8-4b52-a1e2-9f740d9e10f1,2025-04-01 10:16:13.270731+00:00,openai,gpt-4o,0,2720,168,"Support for universal access, financial support, and efficiency over deregulation or status quo."
+0d7ffb48-ab8d-4525-ab2a-a703d6482916,2025-04-01 10:16:20.172285+00:00,openai,gpt-4o,0,2720,164,"Support for universal access, efficiency, and financial fairness in healthcare."
+2d3479d8-cb23-44cc-be55-432ada7d1023,2025-04-01 10:16:25.300135+00:00,openai,gpt-4o,0,2723,169,"Support for universal access, financial support, and fixing inefficiencies over deregulation."
+7b89587a-2846-41a7-80a5-92b40120481e,2025-04-01 10:16:29.287394+00:00,openai,gpt-4o,0,2723,170,"Support for universal access, financial support, and efficiency over deregulation and high costs."
+e138c4f8-49bf-4bf0-96ff-6c55ebe8a7a5,2025-04-01 10:16:33.490995+00:00,openai,gpt-4o,0,2720,162,Universal access and income-based contributions ensure fairness and efficiency.
+a0111fcc-0ee6-4aad-9c18-0dfde4699463,2025-04-01 10:16:37.299983+00:00,openai,gpt-4o,0,2723,165,Universal access and efficiency prioritized over deregulation and status quo.
+701ac5fb-5b6f-497c-b33a-98b643f8d0fd,2025-04-01 10:16:41.618847+00:00,openai,gpt-4o,0,2723,169,"Support for universal access, government control, and fixing inefficiencies over deregulation."
+faadaf88-2104-485b-93b6-3f4a057a8f91,2025-04-01 10:16:46.066549+00:00,openai,gpt-4o,0,2723,167,Universal access and financial support are prioritized over deregulation and status quo.
+e01e22ec-05d8-4834-b311-22df3ca9bf5f,2025-04-01 10:16:50.959605+00:00,openai,gpt-4o,0,2720,168,"Support for universal access, financial support, and efficiency over deregulation or status quo."
+ba3a188e-f367-4eb9-bbd9-1adf38f3bed9,2025-04-01 10:16:55.014062+00:00,openai,gpt-4o,0,2723,167,Universal access and financial support are prioritized over deregulation and personal costs.
+ccb42cf5-5265-49bb-bf8b-c1fef5a9bab1,2025-04-01 10:16:59.094637+00:00,openai,gpt-4o,0,2723,166,"Support for universal access, efficiency, and financial fairness in healthcare."
+d04bb5a1-a9dd-4f5b-90bb-43950cb89bcc,2025-04-01 10:17:03.385211+00:00,openai,gpt-4o,0,2723,170,"Support for universal access, financial support, and efficiency over deregulation or status quo."
+58833dfd-18ec-43f7-a6c8-ef43568f3bdd,2025-04-01 10:17:07.629017+00:00,openai,gpt-4o,0,2723,167,Universal access and financial support are prioritized over deregulation and status quo.
+fccf54a6-5e24-4b2b-90e2-d1804b0a94bc,2025-04-01 10:17:12.404558+00:00,openai,gpt-4o,0,2723,166,"Support for universal access, efficiency, and financial fairness in healthcare."
+289c26a1-bfe9-4684-906a-962efb5a09c5,2025-04-01 10:17:17.838081+00:00,openai,gpt-4o,0,2720,165,"Support for universal access, financial support, and efficiency over deregulation."
+cf8e872e-21ca-4d3c-b94f-f05e10d8b042,2025-04-01 10:17:21.863407+00:00,openai,gpt-4o,0,2720,165,Efficiency and fairness in healthcare are prioritized over deregulation and status quo.
+b0cf35bf-2a50-437e-8840-d8034d55c5d9,2025-04-01 10:17:25.849073+00:00,openai,gpt-4o,0,2723,167,"Prioritize universal access, financial support, and efficiency over deregulation."
+a89ddddd-fdca-400a-a40d-df6df7959cbb,2025-04-01 10:17:30.021290+00:00,openai,gpt-4o,0,2723,170,"Prioritize universal access, financial support, and efficiency over deregulation and status quo."
+f018a0c3-d690-409e-ad9d-22db754e1b35,2025-04-01 10:17:34.970247+00:00,openai,gpt-4o,0,2720,165,Universal access and support for those in need are prioritized over deregulation.

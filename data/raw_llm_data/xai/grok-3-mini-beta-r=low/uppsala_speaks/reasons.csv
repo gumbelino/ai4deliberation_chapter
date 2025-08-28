@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c3746788-2f1b-4af6-9f08-539c8d25de9c,2025-04-28 09:41:42.368599+00:00,xai,grok-3-mini-beta-r=low,0,3475,262,I prioritize addressing root causes in home countries over direct aid to avoid encouraging migration.
+b80fa149-ad59-4b84-9117-266789de423f,2025-04-28 09:42:18.554922+00:00,xai,grok-3-mini-beta-r=low,0,3475,262,Prioritize addressing root causes in source countries over enabling or restricting begging in Sweden.
+d9fda515-a253-4341-a89f-fa231e9a84f8,2025-04-28 09:43:00.261926+00:00,xai,grok-3-mini-beta-r=low,0,3475,265,"I support policies aiding beggars and tackling root causes most, while opposing bans and deportations."
+9966e3a6-fd0e-44fa-a596-a51a49ac56c4,2025-04-28 09:43:38.815310+00:00,xai,grok-3-mini-beta-r=low,0,3477,260,Prioritize addressing root causes in source countries over punitive or enabling policies.
+e07729de-b5ee-4db3-a145-2be455f897eb,2025-04-28 09:44:19.607082+00:00,xai,grok-3-mini-beta-r=low,0,3475,261,"Prioritize aid in source countries, enforce laws, and avoid encouraging migration."
+97b66099-1cd3-4f28-9648-c6b314be356c,2025-04-28 10:09:09.319883+00:00,xai,grok-3-mini-beta-r=low,0,10500,263,"Ranked policies by alignment with considerations, prioritizing law enforcement and source aid over restrictions."
+b0badece-721a-4943-a98b-fbdce81fe5ae,2025-04-28 10:09:50.310325+00:00,xai,grok-3-mini-beta-r=low,0,11266,260,Prioritized helping source countries and providing support while opposing deportation and bans.
+5b7b48ff-fec5-4cb0-83ce-3fd660aa71bb,2025-04-28 10:10:31.655110+00:00,xai,grok-3-mini-beta-r=low,0,7817,260,"I prioritize policies aiding beggars, like accommodation, over punitive measures."
+7b89e938-e503-4fe4-a102-f122df7f2fd7,2025-04-28 10:10:57.929562+00:00,xai,grok-3-mini-beta-r=low,0,9989,259,Prioritized aid in source countries and law enforcement over punitive measures.
+aba8854e-1ab0-4a38-b60c-c6bab4b67663,2025-04-28 10:11:30.686947+00:00,xai,grok-3-mini-beta-r=low,0,9793,264,"I support policies aiding beggars most, like providing accommodation, and least those restricting them."

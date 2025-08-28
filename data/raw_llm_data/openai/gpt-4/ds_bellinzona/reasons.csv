@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+9d92323a-1511-4715-90b0-3f003f39bf0b,2025-03-26 08:03:46.057058+00:00,openai,gpt-4,0,3354,210,I prioritize radical emission reduction and resilience-enhancing technologies over economic growth.
+0808d0d3-3ffa-433b-b12b-ac2786cab335,2025-04-01 10:32:01.522574+00:00,openai,gpt-4,0,3356,214,"I prioritize climate risk preparation, CO2 reduction, and community-based actions over economic growth."
+62f9a29f-15a9-43fc-9936-4a3b27e259a9,2025-04-01 10:32:11.366772+00:00,openai,gpt-4,0,3356,211,I prioritize radical emission reduction and adaptation policies over economic growth or status quo.
+5fa122cc-3e60-47d5-b6a7-7284a033d785,2025-04-01 10:32:20.830322+00:00,openai,gpt-4,0,3356,212,"I prioritize adaptation and mitigation efforts, with a focus on community actions and resilience."
+0892ed87-f797-4405-8399-227f1640aad6,2025-04-01 10:32:31.552025+00:00,openai,gpt-4,0,3354,208,I prioritize radical emission reduction and resilience enhancement over economic growth.
+01f53bba-2374-46a2-ba52-a1bd803ae9e3,2025-04-01 10:32:42.193002+00:00,openai,gpt-4,0,3356,210,"I prioritize radical emission reduction, resilience enhancement, and community-based actions."
+e54cc495-2b6d-45e1-ab49-eb72ae2cbcf3,2025-04-03 16:57:59.920306+00:00,openai,gpt-4,0,3356,210,I prioritize adaptation and moderate emission reduction over economic growth or status quo.
+61e26f55-7fbb-48c1-8b16-6afbecc7927d,2025-04-03 16:58:10.081673+00:00,openai,gpt-4,0,3356,211,"I prioritize resilience and adaptation, moderate emission reduction, and emergency response programs."
+107d1821-3fc4-4a50-b930-79bdf167ccdf,2025-04-03 16:58:19.859296+00:00,openai,gpt-4,0,3354,210,I prioritize radical emission reduction and adaptation policies over maintaining the status quo.
+79310d63-bb7d-4bde-b725-799ece661f5e,2025-04-03 16:58:32.058746+00:00,openai,gpt-4,0,3354,211,I prioritize resilience and radical emission reduction over maintaining current policies or economic growth.
+6283e50b-c3f7-4510-8e00-69d4a86415d9,2025-04-08 09:31:12.865020+00:00,openai,gpt-4,0,3354,211,"I prioritize radical emission reduction, adaptation policies, and resilience-enhancing technologies."
+1e01c814-3097-4c88-ad66-df39102aed3c,2025-04-08 09:31:27.428568+00:00,openai,gpt-4,0,3354,211,I prioritize radical emission reduction and resilience enhancement over moderate measures and status quo.
+859581ff-2b74-41ec-b231-814282d44844,2025-04-08 09:31:40.607809+00:00,openai,gpt-4,0,3356,211,I prioritize radical CO2 reduction and resilience-enhancing technologies over economic growth.
+f1378bb3-40a3-4ffa-971f-c8c1c7739efc,2025-04-08 09:31:51.152394+00:00,openai,gpt-4,0,3356,214,"I prioritize policies that focus on climate resilience, CO2 reduction, and community-based actions."
+a00c0018-57e5-4094-915f-9e222c0e308e,2025-04-08 09:32:02.413774+00:00,openai,gpt-4,0,3356,215,"I prioritize radical emission reduction and adaptation, while de-emphasizing status quo and economic growth."
+e8566e18-98fe-4cdc-bd2c-6d30fc340b8a,2025-04-08 09:32:15.916886+00:00,openai,gpt-4,0,3356,211,I prioritize policies that reduce CO₂ emissions and enhance resilience to climate impacts.
+358fe82e-5d24-4a43-a424-362f25f0a675,2025-04-08 09:32:28.521704+00:00,openai,gpt-4,0,3354,215,"I prioritize radical CO2 reduction and resilience enhancement, while de-emphasizing status quo policies."
+24e55ef2-8f34-441a-b0e3-4f9186082f5b,2025-04-08 09:32:41.531428+00:00,openai,gpt-4,0,3356,209,I prioritize radical emission reduction and community-based adaptation over economic growth.
+98d0cf7c-b1d0-47e2-9f69-36c42c49f2e3,2025-04-08 09:32:54.563529+00:00,openai,gpt-4,0,3356,211,"I prioritize climate resilience and adaptation, moderate emission reduction, and community actions."
+70919f2c-110d-44a1-83ab-72461c7ef394,2025-04-08 09:33:08.234002+00:00,openai,gpt-4,0,3356,211,I prioritize policies that focus on reducing emissions and enhancing resilience to climate change.
+0ebb7123-47f4-4512-b9f3-79e92ab99988,2025-04-08 09:33:20.869455+00:00,openai,gpt-4,0,3356,210,I prioritize aggressive emission reduction and resilience-enhancing technologies over economic growth.
+59801fee-d191-4305-ab37-9846e4159768,2025-04-08 09:33:34.776620+00:00,openai,gpt-4,0,3356,209,"I prioritize resilience and adaptation strategies, followed by radical emission reductions."
+be420e80-96d0-4ca9-9ac6-0eb21b830711,2025-04-08 09:33:48.369114+00:00,openai,gpt-4,0,3356,212,I prioritize policies that enhance resilience and support community-based actions over radical emission cuts.
+60b88b20-23de-4360-abc2-a7073eb51315,2025-04-08 09:34:01.130042+00:00,openai,gpt-4,0,3354,212,"I prioritize radical emission reduction and resilience enhancement, but economic growth is important too."
+06ada1c0-c8e9-4539-96e5-6479c2a1687a,2025-04-08 09:34:14.043719+00:00,openai,gpt-4,0,3356,208,I prioritize policies that focus on reducing emissions and adaptation measures.
+f940ea88-3705-4e41-9066-141829f01e1a,2025-04-08 09:34:25.394433+00:00,openai,gpt-4,0,3356,210,I prioritize radical emission reduction and resilience-enhancing technologies over economic growth.
+113fad1f-bdf4-4d94-a6f8-86ffdfe7eb42,2025-04-08 09:34:36.695793+00:00,openai,gpt-4,0,3356,209,I prioritize radical emission reduction and resilience-building over maintaining current policies.
+a571276b-a249-4b76-905a-e8796597c63b,2025-04-08 09:34:47.920948+00:00,openai,gpt-4,0,3354,210,I prioritize radical emission reduction and resilience-enhancing technologies over economic growth.
+2232a707-48e7-484e-8e27-0f77b291444b,2025-04-08 09:34:58.593155+00:00,openai,gpt-4,0,3354,210,I prioritize radical emission reduction and community-based adaptation over maintaining current policies.
+ca4b095f-2fa3-4700-9293-1a7b22dbf049,2025-04-08 09:35:10.140527+00:00,openai,gpt-4,0,3356,211,"I prioritize adaptation and resilience, moderate emission reduction, and community-based actions."

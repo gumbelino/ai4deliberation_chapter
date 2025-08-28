@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+3f6fb550-9a0d-42ec-b32a-5844251c453e,2025-04-02 09:55:23.501353+00:00,qwen,qwq-plus,0,3501,4276,"Prioritize dramatic CO2 cuts and resilience tech; support adaptation, oppose economy-over-climate policies."
+7e3088db-c6ac-40be-bdb5-d0c02fb463b7,2025-04-02 09:56:52.019210+00:00,qwen,qwq-plus,0,3501,5168,"Prioritize adaptation, strong emission cuts, community actions; reject economy-over-climate policies."
+49a3efcd-1c61-40bb-800d-805fb3e61022,2025-04-02 09:58:39.448399+00:00,qwen,qwq-plus,0,3501,5281,"Prioritize adaptation, innovation, community actions; cautious on drastic cuts; oppose economy over climate."
+dbfd86fa-3c42-4ef9-a901-d9186f6d2e33,2025-04-02 10:00:29.335618+00:00,qwen,qwq-plus,0,3501,5406,"Support current policies, moderate emissions cuts, and resilience over extreme measures."
+ef6d659a-01e9-4ba3-af05-afa5e6fcba57,2025-04-02 10:02:21.464359+00:00,qwen,qwq-plus,0,3501,4916,Prioritize drastic emissions cuts and adaptation over economic growth.
+75d5ac97-f081-4467-8433-7633bc02e042,2025-04-02 17:21:38.954572+00:00,qwen,qwq-plus,0,3501,5549,"Prioritize adaptation, resilience, and community actions; support moderate emission cuts; oppose growth-over-climate policies."
+9a129d57-123d-4d9b-8ee2-4735d0102b9e,2025-04-02 17:23:33.465170+00:00,qwen,qwq-plus,0,3501,4412,"Prioritize adaptation, resilience, and moderate emission cuts; oppose inaction and growth-over-climate policies."
+64a9dd0c-2cdf-4069-a99f-1cbec9d23bb9,2025-04-02 17:25:04.989798+00:00,qwen,qwq-plus,0,3501,3631,"Prioritize aggressive emissions cuts and resilience, reject inaction and growth-over-climate policies."
+bd1d6db9-3e42-45c1-8631-a8bdc9deee8c,2025-04-02 17:26:20.803686+00:00,qwen,qwq-plus,0,3501,3023,Prioritizes economic growth but supports adaptation and moderate emission reductions.
+3d2abe6a-87a4-4101-adbe-8dbb1023d80a,2025-04-02 17:27:24.165201+00:00,qwen,qwq-plus,0,3501,3524,"Prioritize adaptation, tech resilience, community actions, moderate emissions cuts over economic growth."
+4c2e7968-6618-4510-8554-f790b54db3f4,2025-04-02 17:28:38.127499+00:00,qwen,qwq-plus,0,3501,4033,"Prioritize adaptation, moderate emission cuts; distrust in current policies and growth-over-climate approaches."
+48b7725a-a851-4ba7-93e7-b0470af81a0d,2025-04-02 17:30:01.922511+00:00,qwen,qwq-plus,0,3501,4359,Prioritize emission cuts and resilience; support adaptation but reject inaction and economic over climate.
+08ba7b95-398f-458e-923b-5f8b87a9be27,2025-04-02 18:36:26.090320+00:00,qwen,qwq-plus,0,3501,4655,"Prioritize adaptation, resilience tech, and community actions over moderate emissions cuts and economic growth focus."
+be806d59-1f85-4139-99cf-3b6da1f65191,2025-04-02 18:38:03.221167+00:00,qwen,qwq-plus,0,3501,3479,"Prioritize adaptation, moderate emissions cuts, and community actions over economic growth."
+9a0230f8-49e5-4e4a-a617-bf5a05d1aa50,2025-04-03 10:03:03.620905+00:00,qwen,qwq-plus,0,3501,5250,"Prioritize adaptation, resilience tech, and emissions cuts over economic growth-focused policies."
+cacf4cfd-8f19-4967-99c8-5a81a5d6bd23,2025-04-03 10:04:52.555325+00:00,qwen,qwq-plus,0,3501,3409,Prioritize drastic emission cuts and adaptation; oppose inaction.
+91cbcf1b-0c51-452e-9fbc-ccfde2132473,2025-04-03 10:06:03.876142+00:00,qwen,qwq-plus,0,3501,4639,"Prioritize adaptation, tech, and emissions cuts; reject inaction and growth-over-climate policies."
+e9c34560-e9c8-4fd8-b8b9-b0992ded7e90,2025-04-03 10:07:40.633920+00:00,qwen,qwq-plus,0,3501,4500,Supports aggressive emission cuts and adaptation over economic growth prioritization and inaction.
+a29f280f-d034-4648-b3c9-0dd9bd51825d,2025-04-03 10:09:14.417571+00:00,qwen,qwq-plus,0,3501,5411,Prioritizes emission cuts and innovation over inaction and economic growth focus.
+9285041c-5301-4196-84d1-99eab6c561ff,2025-04-03 10:11:06.848877+00:00,qwen,qwq-plus,0,3501,5688,Prioritize economic growth and resilience; moderate emission cuts over drastic measures.
+08c33329-1963-4af3-8767-16540452d63d,2025-04-03 10:13:04.635756+00:00,qwen,qwq-plus,0,3501,5394,Prioritize emissions cuts and adaptation; reject inaction and growth-over-climate policies.
+b45fbf30-0598-405c-afee-c68d035e226e,2025-04-03 10:14:56.887424+00:00,qwen,qwq-plus,0,3501,8008,Prioritize adaptation and community actions over growth-focused or inaction.
+f999e4c3-a6ec-411c-8cc8-dff90ea4ead0,2025-04-03 10:17:42.122755+00:00,qwen,qwq-plus,0,3501,5927,Prioritize emissions cuts and adaptation; reject growth-over-climate or inaction.
+3e979474-fdae-406c-8de8-03bee41e30e9,2025-04-03 10:19:44.505849+00:00,qwen,qwq-plus,0,3501,3982,"Prioritize adaptation, tech innovation, and moderate emission cuts over extreme measures or growth-focused policies."
+ca9c1640-6c62-468a-b898-d772f4680ae9,2025-04-03 10:21:07.216512+00:00,qwen,qwq-plus,0,3501,3251,Prioritize adaptation and resilience; oppose prioritizing economic growth over climate action.
+310c8a0c-e27e-46dc-a0ab-63ad8f9f37ea,2025-04-03 10:22:15.421965+00:00,qwen,qwq-plus,0,3501,5016,"Prioritize strong emission cuts and adaptation, reject inaction and growth-over-climate policies."
+8fa742a8-a19b-403e-b540-4e0e18ee928c,2025-04-03 15:47:50.247835+00:00,qwen,qwq-plus,0,3501,4213,Prioritize-strong-emission-cuts-and-adaptation-over-weak-measures-or-inaction.
+822893b6-f71a-4b1b-b2fd-b51b6e845ff0,2025-04-03 15:49:23.430705+00:00,qwen,qwq-plus,0,3501,4784,Support strong CO2 cuts but prioritize economy over climate adaptation.
+429928c4-840b-4e92-8559-ae883879483f,2025-04-03 15:51:07.083652+00:00,qwen,qwq-plus,0,3501,3744,"Prioritize drastic emission cuts and adaptation, distrust economic growth over climate."
+e173af54-a752-4a5f-a0d4-7035b8343d63,2025-04-03 15:52:25.799244+00:00,qwen,qwq-plus,0,3501,3756,Prioritize aggressive emissions cuts and resilience; oppose economy-over-climate policies and inaction.

@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c0893aed-68d9-4cb9-9dc3-2f39a38c2b30,2025-04-14 15:59:08.471507+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4184,"Climate change is real; focus on adaptation, resilience tech, community action, global view."
+9791fb43-4e31-40d6-a5ae-a3cfd7f4c97a,2025-04-14 15:59:57.683385+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4189,"Adaptation, resilience, CO2 cuts vital. Reject inaction & economy-first."
+7911a9cb-7995-4366-834c-9d99183266dd,2025-04-14 16:00:45.391200+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,3424,"Prioritize adaptation, resilience, vulnerable groups, tech, and emission reduction."
+3b97480f-2f5a-45e5-b3b6-dd01ac7fc023,2025-04-14 16:01:27.280026+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4564,"Act urgently on climate: radical cuts, adaptation, tech, support vulnerable. Reject denial."
+53506463-2ac2-4dd0-8ac8-46a26f6a1cf1,2025-04-14 16:02:13.038131+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4790,"Prioritize adaptation, resilience tech, deep CO2 cuts; climate change is urgent/systemic."
+401618c0-428b-464c-8929-8d4623301281,2025-04-14 16:03:07.538133+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4976,Prioritize radical CO2 cuts & adaptation; reject status quo & denial.
+c22b8a34-3d16-411e-8c4c-d4335900da2c,2025-04-14 16:04:18.400607+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4463,"Believe in climate change, support adaptation, resilience, moderate action."
+f258eef4-a758-45cb-92e9-de9c7d537755,2025-04-14 16:05:09.900328+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,3881,"Urgent adaptation, resilience, tech needed; moderate emission cuts; involve society."
+5fa4b83f-c532-48bb-9410-cd002606336c,2025-04-14 16:05:54.115784+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,6182,Focus on immediate adaptation/response & strong CO2 cuts; reject status quo/economy focus.
+88b91ea6-38c9-4e43-bb5d-5f0571534397,2025-04-14 16:07:00.597801+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4786,"Prioritize adaptation, resilience tech & societal action; climate change is real & urgent."
+3264fe0f-93c5-4cfc-a2c5-050c2c85eb9e,2025-04-14 19:17:14.221387+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4277,"Agree climate change is real, human-caused. Prioritize adaptation, resilience tech, community action."
+eedf0407-ad5f-41dc-a042-32fb12d83d89,2025-04-14 19:18:00.590776+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,3866,"Prioritize adaptation, resilience, disaster prep. Climate change is real & needs urgent action."
+8201b96e-a2b2-44c9-8c7d-93337a5204bf,2025-04-14 19:18:45.642640+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,3424,"Prioritize adaptation, resilience, vulnerable groups, tech, and emission reduction."
+324c3e8f-4f80-4b66-abe3-cc645b4e1b85,2025-04-14 19:19:20.464987+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4564,"Act urgently on climate: radical cuts, adaptation, tech, support vulnerable. Reject denial."
+99b6f9c8-ef78-4bed-9a2e-eb7968be76c9,2025-04-14 19:20:00.381785+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,5028,"Climate change is real; need adaptation, strong CO2 cuts, and systemic planning."
+dca3d491-b16e-403b-881e-fa18ca5d6b2a,2025-04-14 19:20:54.974007+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4342,"Climate change is real; need strong mitigation, adaptation, and support for vulnerable."
+22573e1a-0d19-4259-82e3-e8660bf7f28b,2025-04-14 19:21:46.362519+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4463,"Believe in climate change, support adaptation, resilience, moderate action."
+a3595ca2-a920-4690-a57e-cc7c3328ea61,2025-04-14 19:22:36.405493+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,3947,"Urgent need for adaptation, resilience, disaster prep, and societal involvement."
+bed8b486-70df-4ea2-a7eb-609beb123c1c,2025-04-14 19:23:17.926515+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,6041,Climate change is real; prioritize broad adaptation & moderate mitigation over inaction/economy.
+2569bf47-fd76-4d48-a2c6-a87becb3d45e,2025-04-14 19:24:21.330144+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4926,"Urgent need for adaptation, resilience tech, disaster prep & major CO2 cuts. Reject inaction."
+e294ef77-4d2c-4106-8fa7-3a57ef07585b,2025-04-15 07:12:15.750942+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4425,"Support strong climate action: adaptation, resilience, emission cuts, global effort."
+0dbb197c-e132-4fe6-b633-ff42da42797c,2025-04-17 13:14:38.290828+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4558,"Prioritize adaptation, resilience, and support for vulnerable groups; moderate mitigation needed."
+76c6bf6b-9e2f-4268-87d0-efec5dcccbea,2025-04-17 13:15:28.257177+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4235,"Climate change is real; need radical cuts, adaptation, reject inaction."
+c0ef0a27-e011-453f-aa67-d5d0ce32faf0,2025-04-17 13:16:15.974725+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,3789,"Prioritize resilience tech, moderate cuts, adaptation; reject inaction & economy over climate."
+acb375d9-de4f-4add-9603-cc82f298c7b9,2025-04-17 13:16:59.039788+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4779,"Prioritize radical CO2 cuts, adaptation, resilience tech, and supporting vulnerable groups."
+ffffc5fb-a427-47e6-934a-b4325b83b5c8,2025-04-17 13:17:49.675585+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4129,"Ratings favor strong climate action, adaptation, science, equity; reject inaction/delay."
+a6992f78-dcb4-4652-b9ff-84aaa0197f4a,2025-04-17 13:18:34.040633+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,3842,Urgent climate action needed: radical cuts & adaptation prioritized.
+2ceec274-6758-4e7c-b380-1bdf458c86da,2025-04-17 13:19:12.802094+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4269,"Climate action is urgent: prioritize adaptation, resilience, emission cuts, equity."
+c3dc1693-2778-4496-8122-08486a95e0af,2025-04-17 13:19:56.577220+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,3879,"Urgent need for radical CO2 cuts & adaptation; support vulnerable, reject inaction."
+e6dec438-65fa-4562-868f-7bbd37796ec8,2025-04-17 13:20:34.232600+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4193,"Strong support for climate action, adaptation, science; reject denial and inaction."
+74f14fd4-f903-44bd-9f1b-705dc643c885,2025-04-17 13:21:16.154727+00:00,google,gemini-2.5-pro-preview-03-25,0,3625,4474,"Climate change is real; prioritize adaptation, disaster response & strong emission cuts."

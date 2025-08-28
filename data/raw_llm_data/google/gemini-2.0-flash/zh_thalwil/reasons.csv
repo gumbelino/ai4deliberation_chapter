@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+464b33b9-7eaa-43da-a64f-0b9d83bbe5ee,2025-03-20 10:58:18.700493+00:00,google,gemini-2.0-flash,0,3508,231,"Aggressive emissions cuts are vital; adaptation is needed, but not at the expense of mitigation."
+e61fb08e-b428-4a08-b9c2-a9a9f3cec48b,2025-03-20 10:58:22.765202+00:00,google,gemini-2.0-flash,0,3508,226,"Adaptation and emissions cuts are key, but dramatic cuts are unrealistic."
+cb1c2f2f-c724-4def-9a35-926876fd0633,2025-03-20 10:58:27.477016+00:00,google,gemini-2.0-flash,0,3508,232,"Local action and resilience are key; emissions cuts are important, but growth over climate is unacceptable."
+379e5d98-8aa8-47ff-8d96-2af249697c4f,2025-03-20 10:58:32.080186+00:00,google,gemini-2.0-flash,0,3508,226,Adaptation and moderate emissions cuts are preferred over economic growth or inaction.
+933fbd57-1525-4c42-ab14-33187fc7ccde,2025-03-20 10:58:36.584287+00:00,google,gemini-2.0-flash,0,3508,231,"Adaptation is key, dramatic cuts are needed, economic growth shouldn't trump climate action."
+9a1499a0-930b-4726-a5f2-641871c66911,2025-03-20 10:58:40.584014+00:00,google,gemini-2.0-flash,0,3508,232,"Aggressive emissions cuts are vital, adaptation is needed, but economic growth shouldn't be prioritized."
+adcace26-2105-4c57-9c29-36fd0fb9a18c,2025-03-20 10:58:44.973097+00:00,google,gemini-2.0-flash,0,3508,229,Aggressive action and adaptation are key; economic growth shouldn't trump climate action.
+e7d06f4f-55b3-4319-a248-305e62e3619f,2025-03-20 10:58:48.880508+00:00,google,gemini-2.0-flash,0,3508,227,Adaptation and emissions cuts are key; economic growth over climate is unacceptable.
+0260f2e4-2484-4ab0-8349-4818e094a0f8,2025-03-20 10:58:53.279609+00:00,google,gemini-2.0-flash,0,3508,230,Aggressive emissions cuts and local adaptation are key; economic growth at all costs is unacceptable.
+1713681c-4257-4f9b-a73d-8918ca19de6c,2025-03-20 10:58:57.787238+00:00,google,gemini-2.0-flash,0,3508,229,Adaptation and moderate emissions cuts are preferred; economic growth over climate is least preferred.
+938e98cd-226d-4192-aa40-f73075401c8c,2025-03-25 13:52:39.719764+00:00,google,gemini-2.0-flash,0,3508,229,Adaptation and moderate emissions cuts are preferred; economic growth over climate is least preferred.
+7302ad5b-b2db-4e87-bab1-0b0de0a4ec44,2025-03-25 13:52:42.983837+00:00,google,gemini-2.0-flash,0,3508,232,"Aggressive emissions cuts are vital; adaptation is also key, but not at the expense of mitigation."
+a61a62b0-bbbc-4dfc-8104-2f7ebc991467,2025-03-25 13:52:46.452663+00:00,google,gemini-2.0-flash,0,3508,228,Local action and resilience are key; economic growth over climate is least desirable.
+36614828-4cee-4bb4-b144-363c8c6fe2f1,2025-03-25 13:52:49.925014+00:00,google,gemini-2.0-flash,0,3508,229,"Adaptation is key, but not at the expense of emissions reductions or economic growth."
+c02580d5-3bf5-4d5c-8fe3-f603fc28bee2,2025-03-25 13:52:53.760266+00:00,google,gemini-2.0-flash,0,3508,231,Aggressive emissions cuts and community adaptation are top priorities; status quo and economic growth are least.
+d5c9bde4-a746-4980-9ed9-084c0fdcc10a,2025-03-25 13:52:56.937574+00:00,google,gemini-2.0-flash,0,3508,231,"Aggressive emissions cuts are vital, then adaptation, tech, and avoiding inaction/economic focus."
+378bf0ea-7d42-4285-b895-9e9f633503a3,2025-03-25 13:53:00.386111+00:00,google,gemini-2.0-flash,0,3508,230,Aggressive emissions cuts and adaptation are vital; economic growth shouldn't trump climate action.
+2114008b-bd1a-47b7-9ab7-c0bc13c0190e,2025-03-25 13:53:03.370161+00:00,google,gemini-2.0-flash,0,3508,227,Adaptation and emissions cuts are key; economic growth over climate is unacceptable.
+781afbf7-7b71-4f3c-9648-7f9a48417cef,2025-03-25 13:53:06.733740+00:00,google,gemini-2.0-flash,0,3508,230,Aggressive emissions cuts and local adaptation are key; economic growth at all costs is unacceptable.
+6d09ec4a-0afb-483f-856a-f34f5371b3b6,2025-03-25 13:53:10.201605+00:00,google,gemini-2.0-flash,0,3508,230,Aggressive CO2 cuts and adaptation are key; economic growth over climate is least important.
+383e859e-4eb4-462e-86c3-9461df31d373,2025-03-27 09:29:33.781813+00:00,google,gemini-2.0-flash,0,3508,235,"Aggressive CO2 cuts are vital; adaptation is needed, but not over mitigation. Economic growth is least important."
+91c28345-5b2c-4355-b0f8-7b4de840a84a,2025-03-27 09:29:36.861437+00:00,google,gemini-2.0-flash,0,3508,232,"Aggressive emissions cuts are vital; adaptation is also key, but not at the expense of mitigation."
+9e728f3c-85ec-4f03-b78b-d39adc8e2aea,2025-03-27 09:29:40.424641+00:00,google,gemini-2.0-flash,0,3508,228,Local action and resilience are key; economic growth over climate is least desirable.
+382215cf-f7a3-4f94-8cfd-2675521ab7fc,2025-03-27 09:29:43.860251+00:00,google,gemini-2.0-flash,0,3508,231,Adaptation is key; economic growth shouldn't trump climate action; emissions cuts are important.
+e5e7ba97-70c2-4d1d-afc9-4f33a9d34480,2025-03-27 09:29:47.552663+00:00,google,gemini-2.0-flash,0,3508,231,"Aggressive emissions cuts and community adaptation are top priorities, status quo and economic growth are least."
+a9b0a7fd-574e-4195-81fe-831e6cd5a479,2025-03-27 09:29:50.579017+00:00,google,gemini-2.0-flash,0,3508,232,"Aggressive emissions cuts are vital, adaptation is needed, but economic growth shouldn't be prioritized."
+08e20091-5285-4676-8aca-b1d08633ee4f,2025-03-27 09:29:54.088827+00:00,google,gemini-2.0-flash,0,3508,229,Aggressive action and adaptation are key; economic growth shouldn't trump climate action.
+b666a035-083e-4561-832b-e17d8aea5d1f,2025-03-27 09:29:57.061456+00:00,google,gemini-2.0-flash,0,3508,227,Adaptation and emissions cuts are key; economic growth over climate is unacceptable.
+b136cbe4-0540-490b-8ab8-ce42d0ba9044,2025-03-27 09:30:00.440976+00:00,google,gemini-2.0-flash,0,3508,230,Aggressive emissions cuts and local adaptation are key; economic growth at all costs is unacceptable.
+6677947c-8a83-4b04-8bab-917972376889,2025-03-27 09:30:03.817754+00:00,google,gemini-2.0-flash,0,3508,229,Adaptation and moderate emissions cuts are preferred; economic growth over climate is least preferred.

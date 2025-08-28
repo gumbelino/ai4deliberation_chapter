@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+ebf9cfc1-314c-4f7e-99d0-68f4d58a4b6c,2025-03-26 08:03:27.022937+00:00,openai,gpt-4,0,3041,198,"I prioritize research and local incentives, and moderate regulation over radical measures or status quo."
+71de4033-1fb7-4b72-89e2-3b57806b5cb4,2025-04-01 10:31:08.580107+00:00,openai,gpt-4,0,3041,197,"I support policies that encourage local, sustainable farming and invest in research for sustainability."
+bc49be9f-b2d7-4b9e-8ce5-cd2ba9914719,2025-04-01 10:31:18.808139+00:00,openai,gpt-4,0,3041,196,I prioritize incentives for local sustainable production and research over radical or no regulation.
+f6212c46-9f58-4c88-ae93-a7c4d811bbde,2025-04-01 10:31:31.445105+00:00,openai,gpt-4,0,3044,197,"I support moderate regulation and incentives for sustainable farming, and research in this area."
+e03bbbba-c283-4746-b82a-cf4ac7997c2b,2025-04-01 10:31:40.660108+00:00,openai,gpt-4,0,3041,195,I prioritize local and sustainable food production with moderate regulation and research investment.
+6c38717a-d8b1-417e-b6cd-50d45028ab11,2025-04-01 10:31:49.558923+00:00,openai,gpt-4,0,3041,196,"I support moderate regulation and incentives for sustainable local production, and research investment."
+0900e336-ad4b-4992-9ca1-14f6f09327c8,2025-04-03 16:57:16.064304+00:00,openai,gpt-4,0,3041,197,I prioritize sustainable farming practices and local production over deregulation or maintaining status quo.
+3b94ef6d-544e-46e5-9407-4a8c3362defd,2025-04-03 16:57:27.230097+00:00,openai,gpt-4,0,3041,195,"I prioritize research, moderate regulation, and incentives for local sustainable production."
+bc1a2633-9c3b-4ddb-8e50-4d49aa542e48,2025-04-03 16:57:36.599658+00:00,openai,gpt-4,0,3041,194,I support incentives for local sustainable production and research into sustainable techniques.
+d0311d2f-2498-421b-9a9a-0476c6b03355,2025-04-03 16:57:46.724968+00:00,openai,gpt-4,0,3044,195,I support moderate regulation and research investment for sustainable agriculture over radical measures.
+9f0bbc05-0cb2-4063-88dc-1cf3cc6d0d45,2025-04-08 09:27:15.543285+00:00,openai,gpt-4,0,3041,195,I support policies that incentivize sustainable local production and invest in research.
+6ba2e7d2-ad9f-46c7-bd75-afa80a5b31a3,2025-04-08 09:27:26.063696+00:00,openai,gpt-4,0,3041,195,I support moderate regulation and research investment for sustainable agriculture over radical measures.
+cccbbf51-5591-4177-b43e-944678b6b6fb,2025-04-08 09:27:37.613901+00:00,openai,gpt-4,0,3041,195,"I support incentives for local, sustainable production and research into sustainable techniques."
+db6608cc-1aa7-4d8f-8063-13df4088df5f,2025-04-08 09:27:51.318864+00:00,openai,gpt-4,0,3041,200,"I prioritize local and sustainable farming, moderate regulation, and research over radical measures or status quo."
+604a4f0e-9bd9-405c-bc93-6a8e14be57bf,2025-04-08 09:28:01.146365+00:00,openai,gpt-4,0,3041,195,I prioritize sustainable agriculture and moderate regulation over radical measures or status quo.
+02373893-8ef9-43c8-a145-78914f31db9a,2025-04-08 09:28:12.863957+00:00,openai,gpt-4,0,3041,195,I prioritize sustainable agriculture and local production over deregulation and status quo.
+93ec5a2e-a541-419b-b28a-e37f025724de,2025-04-08 09:28:23.548007+00:00,openai,gpt-4,0,3041,199,"I prioritize research and local incentives, moderate regulation, and am least supportive of status quo."
+d0497bca-9a0c-4863-9fd9-2e09a2379bde,2025-04-08 09:28:35.524046+00:00,openai,gpt-4,0,3041,198,I support policies that promote sustainable and local food production over radical regulation or status quo.
+2c5630c0-0f61-45d1-9d6f-1a54585cd398,2025-04-08 09:28:47.506404+00:00,openai,gpt-4,0,3041,192,I prioritize research and moderate regulation for sustainable food production.
+e2d79d26-9e6c-449d-a60e-7f50857328c6,2025-04-08 09:29:01.298889+00:00,openai,gpt-4,0,3044,195,I prioritize research and moderate regulation for sustainable food production and local incentives.
+4a16cabc-00ab-46fc-a9fc-3d8a7e0c02fa,2025-04-08 09:29:14.416748+00:00,openai,gpt-4,0,3041,197,"I prioritize local, sustainable production and moderate regulation over radical measures or status quo."
+f0198c1b-2a72-4d8d-8d4a-134278b95000,2025-04-08 09:29:26.293711+00:00,openai,gpt-4,0,3044,195,"I prioritize incentives for local, sustainable production and research into sustainable techniques."
+80cbe6cf-5d3e-46ce-95bc-02c83a9b994e,2025-04-08 09:29:37.279239+00:00,openai,gpt-4,0,3041,196,"I support moderate regulation and incentives for local, sustainable production over radical measures."
+80c16ba2-2c3c-4ab1-9ed9-03d7b7f12867,2025-04-08 09:29:48.646342+00:00,openai,gpt-4,0,3041,196,"I support moderate regulation, research investment, and incentives for local sustainable production."
+eab55bae-9921-464d-b3ba-689d3b8b6197,2025-04-08 09:30:01.250242+00:00,openai,gpt-4,0,3041,196,I prioritize research and local incentives for sustainability over radical regulation or status quo.
+c3cdb8f3-5929-40b6-b4d9-dbec0d80a22e,2025-04-08 09:30:14.907807+00:00,openai,gpt-4,0,3044,195,I prioritize research and incentives for sustainable practices over radical or moderate regulation.
+01812a55-621f-43be-b7d1-5360024e22c1,2025-04-08 09:30:26.520874+00:00,openai,gpt-4,0,3041,194,I support incentives for local sustainable production and research into sustainable techniques.
+bdca6813-d6bf-465e-849d-668c8ca9ee24,2025-04-08 09:30:38.535955+00:00,openai,gpt-4,0,3041,197,I support measures that encourage sustainable local production and invest in research for sustainable techniques.
+365907d8-e7f6-4648-946e-5b20a79e6829,2025-04-08 09:30:49.671813+00:00,openai,gpt-4,0,3041,195,I support policies that promote sustainable agriculture and local production over radical regulation.
+cae9a82e-090c-4554-83ba-dbc61efe20c5,2025-04-08 09:31:01.002778+00:00,openai,gpt-4,0,3041,194,I support policies that encourage sustainable and local food production and research.

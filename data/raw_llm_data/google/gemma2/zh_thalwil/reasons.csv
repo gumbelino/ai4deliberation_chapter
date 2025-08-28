@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+5c201ab7-6434-4905-b1f8-9fcb35023e66,2025-03-21 06:21:31.576836+00:00,google,gemma2,0,0,0,Prefer gradual emissions cuts and adaptation policies over drastic changes.
+283ab3f1-d414-4905-8308-9369e6c2831c,2025-03-21 06:21:48.794626+00:00,google,gemma2,0,0,0,"Prioritize localized adaptation, new technologies, and moderate emissions cuts over drastic changes."
+7e422ce7-1f0a-47f3-ac63-2651101cc4ee,2025-03-21 06:22:06.496043+00:00,google,gemma2,0,0,0,"Prioritizing adaptation, targeted individual action, and moderate emissions cuts over drastic measures."
+804eb449-cede-41c2-8d8a-1b0ea738339d,2025-03-21 06:22:24.087578+00:00,google,gemma2,0,0,0,Prioritize adaptation and moderate emissions cuts over drastic action and economic growth at the expense of climate.
+98dc92c0-7213-4f5b-9bcb-acb6758618a7,2025-03-21 06:22:41.784079+00:00,google,gemma2,0,0,0,"Moderate emissions cuts, adaptation policies, and local action are prioritized."
+4074ab44-1673-4fdb-903a-8e40189406c4,2025-03-21 06:40:38.013679+00:00,google,gemma2,0,0,0,"Prioritize adaptation and moderate emission cuts, with technological solutions for resilience."
+7aba02e3-bf71-44a6-96f2-b879b3aadeff,2025-03-21 06:40:55.297743+00:00,google,gemma2,0,0,0,Prioritize adaptation and gradual emissions reductions over radical changes.
+26f13a81-2f2f-4041-a61b-734e75de213b,2025-03-21 06:41:12.473859+00:00,google,gemma2,0,0,0,"Favor local action, moderate emission cuts, and adaptation over growth at all costs."
+7fc2fa2f-468e-4b22-ba80-74503386977b,2025-03-21 06:56:36.397923+00:00,google,gemma2,0,0,0,Prioritize adaptation and targeted action over drastic emission cuts.

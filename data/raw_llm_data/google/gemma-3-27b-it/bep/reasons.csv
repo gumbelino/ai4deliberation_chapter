@@ -1,0 +1,2 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+9f4999f8-0e01-4576-9a9b-f738111f0661,2025-04-17 11:18:27.116729+00:00,google,gemma-3-27b-it,0,4486,296,"Strongly favor proactive, sustainable policies & adaptation over inaction or deregulation."

@@ -1,0 +1,1561 @@
+provider,model,api,survey,completions,min_iterations,completions_left,done,last_updated
+anthropic,claude-3-5-haiku-20241022,Anthropic API,uppsala_speaks,31,30,-1,True,2025-04-02 09:22:47.154715+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,fnqcj,32,30,-2,True,2025-04-02 09:25:15.481688+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,acp,32,30,-2,True,2025-04-02 09:27:48.038351+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,ccps,32,30,-2,True,2025-04-02 09:30:03.155699+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,forestera,32,30,-2,True,2025-04-02 09:32:35.826772+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,biobanking_mayo_ubc,32,30,-2,True,2025-04-02 09:34:55.014114+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,zh_uster,30,30,0,True,2025-04-02 09:37:05.881877+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,zh_thalwil,31,30,-1,True,2025-04-02 09:39:16.249379+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,zh_winterthur,32,30,-2,True,2025-04-02 09:41:25.189602+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,ds_bellinzona,30,30,0,True,2025-04-02 10:26:13.065368+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,ds_aargau,30,30,0,True,2025-04-02 10:24:55.526825+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,fremantle,32,30,-2,True,2025-04-02 09:48:16.275054+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,zukunft,30,30,0,True,2025-04-02 10:24:14.216081+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,bep,30,30,0,True,2025-04-02 09:52:52.001369+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,energy_futures,30,30,0,True,2025-04-02 10:26:41.918702+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,valsamoggia,32,30,-2,True,2025-04-02 09:57:46.419452+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,gbr,30,30,0,True,2025-04-02 10:22:52.666895+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,auscj,32,30,-2,True,2025-04-02 10:02:11.731022+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,swiss_health,30,30,0,True,2025-04-02 10:04:10.643182+00:00
+anthropic,claude-3-5-haiku-20241022,Anthropic API,biobanking_wa,32,30,-2,True,2025-04-02 10:06:41.010608+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,uppsala_speaks,36,30,-6,True,2025-04-02 09:23:27.013576+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,fnqcj,36,30,-6,True,2025-04-02 09:26:02.243239+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,acp,36,30,-6,True,2025-04-02 09:28:11.280881+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,ccps,34,30,-4,True,2025-04-02 09:30:48.731356+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,forestera,35,30,-5,True,2025-04-02 09:34:17.021789+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,biobanking_mayo_ubc,33,30,-3,True,2025-04-02 09:36:31.763312+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,zh_uster,31,30,-1,True,2025-04-02 09:39:05.309428+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,zh_thalwil,31,30,-1,True,2025-04-02 09:42:18.200819+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,zh_winterthur,31,30,-1,True,2025-04-02 09:44:22.577353+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,ds_bellinzona,31,30,-1,True,2025-04-02 09:46:43.422197+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,ds_aargau,31,30,-1,True,2025-04-02 09:48:53.957328+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,fremantle,31,30,-1,True,2025-04-02 09:51:24.142427+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,zukunft,31,30,-1,True,2025-04-02 09:53:10.402796+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,bep,31,30,-1,True,2025-04-02 09:55:03.961924+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,energy_futures,30,30,0,True,2025-04-02 10:24:58.460498+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,valsamoggia,31,30,-1,True,2025-04-02 09:59:03.375953+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,gbr,30,30,0,True,2025-04-02 10:00:48.311698+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,auscj,31,30,-1,True,2025-04-02 10:02:49.426109+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,swiss_health,31,30,-1,True,2025-04-02 10:04:45.837077+00:00
+anthropic,claude-3-5-sonnet-20241022,Anthropic API,biobanking_wa,31,30,-1,True,2025-04-02 10:06:45.448422+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,uppsala_speaks,42,30,-12,True,2025-04-02 10:31:08.190511+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,fnqcj,42,30,-12,True,2025-04-02 10:32:27.936055+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,acp,42,30,-12,True,2025-04-02 10:33:51.749742+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,ccps,42,30,-12,True,2025-04-02 10:35:08.538708+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,forestera,40,30,-10,True,2025-04-02 10:36:31.609797+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,biobanking_mayo_ubc,32,30,-2,True,2025-04-02 10:37:46.890338+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,zh_uster,32,30,-2,True,2025-04-02 10:39:01.026355+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,zh_thalwil,32,30,-2,True,2025-04-02 10:40:16.981643+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,zh_winterthur,32,30,-2,True,2025-04-02 10:41:32.752116+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,ds_bellinzona,32,30,-2,True,2025-04-02 10:42:49.130952+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,ds_aargau,32,30,-2,True,2025-04-02 10:44:07.810688+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,fremantle,32,30,-2,True,2025-04-02 10:45:27.817399+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,zukunft,32,30,-2,True,2025-04-02 10:46:34.454922+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,bep,32,30,-2,True,2025-04-02 10:47:57.156528+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,energy_futures,30,30,0,True,2025-04-02 10:49:23.262040+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,valsamoggia,32,30,-2,True,2025-04-02 10:50:43.461207+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,gbr,31,30,-1,True,2025-04-02 10:52:00.930946+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,auscj,32,30,-2,True,2025-04-02 10:53:23.457028+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,swiss_health,32,30,-2,True,2025-04-02 10:54:33.753000+00:00
+anthropic,claude-3-7-sonnet-20250219,Anthropic API,biobanking_wa,32,30,-2,True,2025-04-02 10:55:59.626953+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,uppsala_speaks,5,5,0,True,2025-05-22 19:51:43.483853+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,fnqcj,5,5,0,True,2025-05-22 17:15:11.581477+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,acp,5,5,0,True,2025-05-22 17:21:24.812112+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,ccps,5,5,0,True,2025-05-22 19:53:15.714317+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,forestera,5,5,0,True,2025-05-22 17:33:32.275115+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,biobanking_mayo_ubc,5,5,0,True,2025-05-22 17:39:49.829167+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,zh_uster,5,5,0,True,2025-05-22 17:45:33.352634+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,zh_thalwil,5,5,0,True,2025-05-22 17:51:11.912783+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,zh_winterthur,5,5,0,True,2025-05-22 17:56:36.108208+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,ds_bellinzona,5,5,0,True,2025-05-22 18:02:28.278776+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,ds_aargau,5,5,0,True,2025-05-22 18:08:05.887491+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,fremantle,5,5,0,True,2025-05-22 18:18:57.564046+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,zukunft,5,5,0,True,2025-05-22 18:23:58.083117+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,bep,5,5,0,True,2025-05-22 18:29:39.040256+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,energy_futures,5,5,0,True,2025-05-22 18:35:48.797014+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,valsamoggia,5,5,0,True,2025-05-22 19:54:28.345895+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,gbr,5,5,0,True,2025-05-22 18:51:31.523308+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,auscj,5,5,0,True,2025-05-22 18:57:13.242688+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,swiss_health,5,5,0,True,2025-05-22 19:02:16.953188+00:00
+anthropic,claude-3-7-sonnet-20250219-think=high,Anthropic API,biobanking_wa,5,5,0,True,2025-05-22 19:07:37.459369+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,uppsala_speaks,5,5,0,True,2025-05-22 13:44:51.810604+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,fnqcj,5,5,0,True,2025-05-22 13:46:43.091838+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,acp,5,5,0,True,2025-05-22 13:48:33.107092+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,ccps,5,5,0,True,2025-05-22 13:50:26.158986+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,forestera,5,5,0,True,2025-05-22 13:52:43.261166+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,biobanking_mayo_ubc,5,5,0,True,2025-05-22 13:54:31.792753+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,zh_uster,5,5,0,True,2025-05-22 13:56:35.167181+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,zh_thalwil,5,5,0,True,2025-05-22 13:58:38.092773+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,zh_winterthur,5,5,0,True,2025-05-22 14:00:40.259607+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,ds_bellinzona,5,5,0,True,2025-05-22 14:02:48.357108+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,ds_aargau,5,5,0,True,2025-05-22 14:04:43.967176+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,fremantle,5,5,0,True,2025-05-22 14:06:27.184602+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,zukunft,5,5,0,True,2025-05-22 14:08:14.706499+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,bep,7,5,-2,True,2025-05-22 14:09:59.764842+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,energy_futures,5,5,0,True,2025-05-22 14:11:57.977582+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,valsamoggia,5,5,0,True,2025-05-22 14:13:54.566112+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,gbr,5,5,0,True,2025-05-22 14:25:59.583403+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,auscj,5,5,0,True,2025-05-22 14:25:05.920435+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,swiss_health,5,5,0,True,2025-05-22 14:19:56.304438+00:00
+anthropic,claude-3-7-sonnet-20250219-think=low,Anthropic API,biobanking_wa,5,5,0,True,2025-05-22 14:21:48.222702+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,uppsala_speaks,34,30,-4,True,2025-04-02 09:57:36.120115+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,fnqcj,34,30,-4,True,2025-04-02 09:57:51.138634+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,acp,34,30,-4,True,2025-04-02 09:58:05.464639+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,ccps,34,30,-4,True,2025-04-02 09:58:19.464581+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,forestera,33,30,-3,True,2025-04-02 09:58:33.543400+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,biobanking_mayo_ubc,34,30,-4,True,2025-04-02 09:58:46.763954+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,zh_uster,32,30,-2,True,2025-04-02 09:58:59.886361+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,zh_thalwil,32,30,-2,True,2025-04-02 09:59:12.300088+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,zh_winterthur,34,30,-4,True,2025-04-02 09:59:26.109829+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,ds_bellinzona,34,30,-4,True,2025-04-02 09:59:39.418753+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,ds_aargau,32,30,-2,True,2025-04-02 09:59:53.122507+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,fremantle,34,30,-4,True,2025-04-02 10:00:06.231528+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,zukunft,32,30,-2,True,2025-04-02 10:00:19.773036+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,bep,31,30,-1,True,2025-04-02 10:00:33.687863+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,energy_futures,34,30,-4,True,2025-04-02 10:00:48.112020+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,valsamoggia,34,30,-4,True,2025-04-02 10:01:02.818962+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,gbr,32,30,-2,True,2025-04-02 10:01:18.286720+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,auscj,33,30,-3,True,2025-04-02 10:01:33.347650+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,swiss_health,34,30,-4,True,2025-04-02 10:01:46.604169+00:00
+anthropic,claude-3-haiku-20240307,Anthropic API,biobanking_wa,34,30,-4,True,2025-04-02 10:02:00.241145+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,uppsala_speaks,30,30,0,True,2025-04-03 08:09:13.849931+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,fnqcj,30,30,0,True,2025-04-03 08:12:30.107146+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,acp,30,30,0,True,2025-04-03 11:23:57.253926+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,ccps,30,30,0,True,2025-04-03 08:18:38.702801+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,forestera,30,30,0,True,2025-04-03 08:21:54.830231+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,biobanking_mayo_ubc,30,30,0,True,2025-04-03 08:24:51.279313+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,zh_uster,30,30,0,True,2025-04-03 08:27:40.333468+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,zh_thalwil,30,30,0,True,2025-04-03 08:30:27.639730+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,zh_winterthur,30,30,0,True,2025-04-03 08:33:08.852497+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,ds_bellinzona,30,30,0,True,2025-04-03 08:35:51.004240+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,ds_aargau,30,30,0,True,2025-04-03 08:38:48.003815+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,fremantle,30,30,0,True,2025-04-03 08:41:39.244551+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,zukunft,30,30,0,True,2025-04-03 08:44:02.397688+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,bep,30,30,0,True,2025-04-03 08:47:22.658073+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,energy_futures,30,30,0,True,2025-04-03 08:50:42.292065+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,valsamoggia,30,30,0,True,2025-04-03 08:53:33.759297+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,gbr,30,30,0,True,2025-04-03 11:24:40.040701+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,auscj,30,30,0,True,2025-04-03 11:22:04.408814+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,swiss_health,30,30,0,True,2025-04-03 11:23:18.525930+00:00
+anthropic,claude-3-opus-20240229,Anthropic API,biobanking_wa,30,30,0,True,2025-04-03 11:18:58.056251+00:00
+anthropic,claude-3-sonnet-20240229,Anthropic API,uppsala_speaks,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,fnqcj,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,acp,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,ccps,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,forestera,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,biobanking_mayo_ubc,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,zh_uster,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,zh_thalwil,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,zh_winterthur,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,ds_bellinzona,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,ds_aargau,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,fremantle,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,zukunft,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,bep,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,energy_futures,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,valsamoggia,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,gbr,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,auscj,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,swiss_health,0,30,30,False,
+anthropic,claude-3-sonnet-20240229,Anthropic API,biobanking_wa,0,30,30,False,
+anthropic,claude-sonnet-4-20250514,Anthropic API,uppsala_speaks,5,5,0,True,2025-05-29 15:28:30.976030+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,fnqcj,5,5,0,True,2025-05-29 15:29:30.449693+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,acp,5,5,0,True,2025-05-29 15:30:29.458455+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,ccps,5,5,0,True,2025-05-29 15:31:24.244735+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,forestera,5,5,0,True,2025-05-29 15:32:23.273990+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,biobanking_mayo_ubc,5,5,0,True,2025-05-29 15:33:20.533294+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,zh_uster,5,5,0,True,2025-05-29 15:34:17.799692+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,zh_thalwil,5,5,0,True,2025-05-29 15:35:10.601752+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,zh_winterthur,5,5,0,True,2025-05-29 15:36:02.669247+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,ds_bellinzona,5,5,0,True,2025-05-29 15:36:55.742118+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,ds_aargau,5,5,0,True,2025-05-29 15:37:49.909871+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,fremantle,5,5,0,True,2025-05-29 15:38:42.812014+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,zukunft,5,5,0,True,2025-05-29 15:39:30.485466+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,bep,5,5,0,True,2025-05-30 11:36:55.977709+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,energy_futures,5,5,0,True,2025-05-30 11:36:07.945753+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,valsamoggia,5,5,0,True,2025-05-29 15:42:18.730718+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,gbr,5,5,0,True,2025-05-29 15:43:13.668085+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,auscj,5,5,0,True,2025-05-29 15:44:14.546995+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,swiss_health,5,5,0,True,2025-05-29 15:45:08.624819+00:00
+anthropic,claude-sonnet-4-20250514,Anthropic API,biobanking_wa,5,5,0,True,2025-05-29 15:46:09.722370+00:00
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,uppsala_speaks,7,5,-2,True,2025-05-30 11:39:13.168141+00:00
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,fnqcj,10,5,-5,True,2025-05-30 11:46:06.587052+00:00
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,acp,10,5,-5,True,2025-05-30 11:54:04.966824+00:00
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,ccps,10,5,-5,True,2025-05-30 12:00:19.912876+00:00
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,forestera,6,5,-1,True,2025-05-30 12:08:05.794136+00:00
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,biobanking_mayo_ubc,5,5,0,True,2025-05-30 12:14:10.404114+00:00
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,zh_uster,3,5,2,False,2025-05-30 12:17:15.448201+00:00
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,zh_thalwil,0,5,5,False,
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,zh_winterthur,0,5,5,False,
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,ds_bellinzona,0,5,5,False,
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,ds_aargau,0,5,5,False,
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,fremantle,0,5,5,False,
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,zukunft,0,5,5,False,
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,bep,3,5,2,False,2025-06-02 02:47:29.643277+00:00
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,energy_futures,4,5,1,False,2025-06-02 02:30:44.473282+00:00
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,valsamoggia,0,5,5,False,
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,gbr,0,5,5,False,
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,auscj,0,5,5,False,
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,swiss_health,0,5,5,False,
+anthropic,claude-sonnet-4-20250514-think=high,Anthropic API,biobanking_wa,5,5,0,True,2025-06-02 02:37:19.578166+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,uppsala_speaks,5,5,0,True,2025-05-29 14:12:31.777968+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,fnqcj,5,5,0,True,2025-05-29 14:16:06.409968+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,acp,5,5,0,True,2025-05-29 14:19:59.269590+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,ccps,4,5,1,False,2025-05-29 14:24:32.074795+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,forestera,4,5,1,False,2025-05-29 14:28:40.637346+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,biobanking_mayo_ubc,4,5,1,False,2025-05-29 14:33:31.182472+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,zh_uster,5,5,0,True,2025-05-29 14:37:36.337863+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,zh_thalwil,5,5,0,True,2025-05-29 14:41:36.649740+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,zh_winterthur,4,5,1,False,2025-05-29 14:45:23.117448+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,ds_bellinzona,5,5,0,True,2025-05-29 14:49:40.908507+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,ds_aargau,5,5,0,True,2025-05-29 14:53:52.575480+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,fremantle,5,5,0,True,2025-05-29 14:57:02.608725+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,zukunft,5,5,0,True,2025-05-29 15:00:38.917803+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,bep,4,5,1,False,2025-06-02 04:10:03.297305+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,energy_futures,5,5,0,True,2025-06-02 04:07:26.535077+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,valsamoggia,5,5,0,True,2025-05-29 15:11:28.298925+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,gbr,5,5,0,True,2025-05-29 15:15:20.335262+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,auscj,4,5,1,False,2025-05-29 15:18:41.254154+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,swiss_health,4,5,1,False,2025-05-29 15:22:30.226948+00:00
+anthropic,claude-sonnet-4-20250514-think=low,Anthropic API,biobanking_wa,4,5,1,False,2025-06-02 03:50:07.613862+00:00
+cohere,command,Cohere API,uppsala_speaks,33,30,-3,True,2025-03-27 11:40:48.190628+00:00
+cohere,command,Cohere API,fnqcj,34,30,-4,True,2025-03-27 11:43:56.287732+00:00
+cohere,command,Cohere API,acp,35,30,-5,True,2025-03-27 11:47:17.954059+00:00
+cohere,command,Cohere API,ccps,30,30,0,True,2025-03-27 12:49:36.897184+00:00
+cohere,command,Cohere API,forestera,34,30,-4,True,2025-03-27 11:53:32.198622+00:00
+cohere,command,Cohere API,biobanking_mayo_ubc,33,30,-3,True,2025-03-27 11:56:33.261198+00:00
+cohere,command,Cohere API,zh_uster,33,30,-3,True,2025-03-27 11:59:16.083897+00:00
+cohere,command,Cohere API,zh_thalwil,30,30,0,True,2025-03-27 12:02:04.125291+00:00
+cohere,command,Cohere API,zh_winterthur,34,30,-4,True,2025-03-27 12:04:45.178236+00:00
+cohere,command,Cohere API,ds_bellinzona,32,30,-2,True,2025-03-27 12:07:14.389692+00:00
+cohere,command,Cohere API,ds_aargau,30,30,0,True,2025-03-27 12:50:16.647248+00:00
+cohere,command,Cohere API,fremantle,32,30,-2,True,2025-03-27 12:43:47.200330+00:00
+cohere,command,Cohere API,zukunft,30,30,0,True,2025-03-27 12:48:51.135570+00:00
+cohere,command,Cohere API,bep,30,30,0,True,2025-03-27 12:17:33.305277+00:00
+cohere,command,Cohere API,energy_futures,32,30,-2,True,2025-03-27 12:20:55.606846+00:00
+cohere,command,Cohere API,valsamoggia,31,30,-1,True,2025-03-27 12:41:25.162332+00:00
+cohere,command,Cohere API,gbr,32,30,-2,True,2025-03-27 12:26:51.500754+00:00
+cohere,command,Cohere API,auscj,35,30,-5,True,2025-03-27 12:29:56.844833+00:00
+cohere,command,Cohere API,swiss_health,35,30,-5,True,2025-03-27 12:32:32.320438+00:00
+cohere,command,Cohere API,biobanking_wa,31,30,-1,True,2025-03-27 12:36:33.888713+00:00
+cohere,command-a-03-2025,Cohere API,uppsala_speaks,30,30,0,True,2025-04-10 16:09:37.684803+00:00
+cohere,command-a-03-2025,Cohere API,fnqcj,30,30,0,True,2025-04-10 16:14:35.545802+00:00
+cohere,command-a-03-2025,Cohere API,acp,30,30,0,True,2025-04-10 16:19:35.131947+00:00
+cohere,command-a-03-2025,Cohere API,ccps,30,30,0,True,2025-04-10 16:23:33.885475+00:00
+cohere,command-a-03-2025,Cohere API,forestera,30,30,0,True,2025-04-10 16:28:22.758981+00:00
+cohere,command-a-03-2025,Cohere API,biobanking_mayo_ubc,30,30,0,True,2025-04-10 16:32:32.593444+00:00
+cohere,command-a-03-2025,Cohere API,zh_uster,30,30,0,True,2025-04-10 16:36:12.307908+00:00
+cohere,command-a-03-2025,Cohere API,zh_thalwil,30,30,0,True,2025-04-10 16:39:56.590367+00:00
+cohere,command-a-03-2025,Cohere API,zh_winterthur,30,30,0,True,2025-04-10 16:43:23.184153+00:00
+cohere,command-a-03-2025,Cohere API,ds_bellinzona,30,30,0,True,2025-04-10 16:47:10.591614+00:00
+cohere,command-a-03-2025,Cohere API,ds_aargau,30,30,0,True,2025-04-10 16:51:03.925855+00:00
+cohere,command-a-03-2025,Cohere API,fremantle,30,30,0,True,2025-04-10 16:55:07.118555+00:00
+cohere,command-a-03-2025,Cohere API,zukunft,30,30,0,True,2025-04-10 16:58:07.543320+00:00
+cohere,command-a-03-2025,Cohere API,bep,31,30,-1,True,2025-04-10 17:02:36.904319+00:00
+cohere,command-a-03-2025,Cohere API,energy_futures,30,30,0,True,2025-04-10 17:07:31.476329+00:00
+cohere,command-a-03-2025,Cohere API,valsamoggia,30,30,0,True,2025-04-10 17:11:47.408456+00:00
+cohere,command-a-03-2025,Cohere API,gbr,30,30,0,True,2025-04-10 17:15:44.569597+00:00
+cohere,command-a-03-2025,Cohere API,auscj,30,30,0,True,2025-04-10 17:20:32.992307+00:00
+cohere,command-a-03-2025,Cohere API,swiss_health,30,30,0,True,2025-04-10 17:23:44.626374+00:00
+cohere,command-a-03-2025,Cohere API,biobanking_wa,30,30,0,True,2025-04-10 17:28:44.273052+00:00
+cohere,command-r-08-2024,Cohere API,uppsala_speaks,40,30,-10,True,2025-03-27 10:22:32.666017+00:00
+cohere,command-r-08-2024,Cohere API,fnqcj,40,30,-10,True,2025-03-27 10:27:49.478757+00:00
+cohere,command-r-08-2024,Cohere API,acp,40,30,-10,True,2025-03-27 10:33:43.472092+00:00
+cohere,command-r-08-2024,Cohere API,ccps,40,30,-10,True,2025-03-27 10:39:21.525584+00:00
+cohere,command-r-08-2024,Cohere API,forestera,40,30,-10,True,2025-03-27 10:40:48.353444+00:00
+cohere,command-r-08-2024,Cohere API,biobanking_mayo_ubc,40,30,-10,True,2025-03-27 10:42:09.957779+00:00
+cohere,command-r-08-2024,Cohere API,zh_uster,40,30,-10,True,2025-03-27 10:43:18.171120+00:00
+cohere,command-r-08-2024,Cohere API,zh_thalwil,40,30,-10,True,2025-03-27 10:44:44.919751+00:00
+cohere,command-r-08-2024,Cohere API,zh_winterthur,39,30,-9,True,2025-03-27 10:51:09.530771+00:00
+cohere,command-r-08-2024,Cohere API,ds_bellinzona,40,30,-10,True,2025-03-27 10:52:12.380620+00:00
+cohere,command-r-08-2024,Cohere API,ds_aargau,40,30,-10,True,2025-03-27 10:53:11.782478+00:00
+cohere,command-r-08-2024,Cohere API,fremantle,40,30,-10,True,2025-03-27 10:54:27.231119+00:00
+cohere,command-r-08-2024,Cohere API,zukunft,40,30,-10,True,2025-03-27 10:55:17.126891+00:00
+cohere,command-r-08-2024,Cohere API,bep,39,30,-9,True,2025-03-27 11:07:07.339772+00:00
+cohere,command-r-08-2024,Cohere API,energy_futures,40,30,-10,True,2025-03-27 11:09:48.137130+00:00
+cohere,command-r-08-2024,Cohere API,valsamoggia,40,30,-10,True,2025-03-27 11:11:03.301007+00:00
+cohere,command-r-08-2024,Cohere API,gbr,40,30,-10,True,2025-03-27 11:12:08.797998+00:00
+cohere,command-r-08-2024,Cohere API,auscj,40,30,-10,True,2025-03-27 11:13:29.394198+00:00
+cohere,command-r-08-2024,Cohere API,swiss_health,40,30,-10,True,2025-03-27 11:14:27.408042+00:00
+cohere,command-r-08-2024,Cohere API,biobanking_wa,40,30,-10,True,2025-03-27 11:15:46.713974+00:00
+cohere,command-r-plus-08-2024,Cohere API,uppsala_speaks,51,30,-21,True,2025-03-27 14:34:43.947325+00:00
+cohere,command-r-plus-08-2024,Cohere API,fnqcj,39,30,-9,True,2025-03-27 14:45:57.014135+00:00
+cohere,command-r-plus-08-2024,Cohere API,acp,40,30,-10,True,2025-03-27 14:47:31.918020+00:00
+cohere,command-r-plus-08-2024,Cohere API,ccps,32,30,-2,True,2025-03-27 14:48:46.472735+00:00
+cohere,command-r-plus-08-2024,Cohere API,forestera,33,30,-3,True,2025-03-27 14:50:09.507217+00:00
+cohere,command-r-plus-08-2024,Cohere API,biobanking_mayo_ubc,30,30,0,True,2025-03-27 14:51:04.407731+00:00
+cohere,command-r-plus-08-2024,Cohere API,zh_uster,33,30,-3,True,2025-03-27 14:52:17.119801+00:00
+cohere,command-r-plus-08-2024,Cohere API,zh_thalwil,33,30,-3,True,2025-03-27 14:55:38.088412+00:00
+cohere,command-r-plus-08-2024,Cohere API,zh_winterthur,33,30,-3,True,2025-03-27 14:56:37.633163+00:00
+cohere,command-r-plus-08-2024,Cohere API,ds_bellinzona,33,30,-3,True,2025-03-27 14:57:39.914593+00:00
+cohere,command-r-plus-08-2024,Cohere API,ds_aargau,33,30,-3,True,2025-03-27 14:58:45.113457+00:00
+cohere,command-r-plus-08-2024,Cohere API,fremantle,30,30,0,True,2025-03-27 14:59:54.557573+00:00
+cohere,command-r-plus-08-2024,Cohere API,zukunft,32,30,-2,True,2025-03-27 15:00:47.777795+00:00
+cohere,command-r-plus-08-2024,Cohere API,bep,30,30,0,True,2025-03-27 15:48:29.161704+00:00
+cohere,command-r-plus-08-2024,Cohere API,energy_futures,30,30,0,True,2025-03-27 15:47:35.740981+00:00
+cohere,command-r-plus-08-2024,Cohere API,valsamoggia,32,30,-2,True,2025-03-27 15:11:23.524307+00:00
+cohere,command-r-plus-08-2024,Cohere API,gbr,30,30,0,True,2025-03-27 15:48:15.051746+00:00
+cohere,command-r-plus-08-2024,Cohere API,auscj,31,30,-1,True,2025-03-27 15:26:52.823347+00:00
+cohere,command-r-plus-08-2024,Cohere API,swiss_health,33,30,-3,True,2025-03-27 15:30:46.045025+00:00
+cohere,command-r-plus-08-2024,Cohere API,biobanking_wa,32,30,-2,True,2025-03-27 15:32:06.080517+00:00
+cohere,command-r7b-12-2024,Cohere API,uppsala_speaks,41,30,-11,True,2025-04-22 09:05:17.136110+00:00
+cohere,command-r7b-12-2024,Cohere API,fnqcj,39,30,-9,True,2025-04-22 09:08:05.388062+00:00
+cohere,command-r7b-12-2024,Cohere API,acp,35,30,-5,True,2025-04-22 09:09:37.523588+00:00
+cohere,command-r7b-12-2024,Cohere API,ccps,30,30,0,True,2025-03-26 09:08:21.675667+00:00
+cohere,command-r7b-12-2024,Cohere API,forestera,30,30,0,True,2025-03-26 09:10:15.945491+00:00
+cohere,command-r7b-12-2024,Cohere API,biobanking_mayo_ubc,30,30,0,True,2025-03-26 09:12:00.864012+00:00
+cohere,command-r7b-12-2024,Cohere API,zh_uster,30,30,0,True,2025-03-27 10:20:47.363724+00:00
+cohere,command-r7b-12-2024,Cohere API,zh_thalwil,30,30,0,True,2025-03-26 09:15:12.592271+00:00
+cohere,command-r7b-12-2024,Cohere API,zh_winterthur,30,30,0,True,2025-03-26 09:16:46.982465+00:00
+cohere,command-r7b-12-2024,Cohere API,ds_bellinzona,30,30,0,True,2025-03-26 09:18:24.766652+00:00
+cohere,command-r7b-12-2024,Cohere API,ds_aargau,30,30,0,True,2025-03-26 09:20:02.909649+00:00
+cohere,command-r7b-12-2024,Cohere API,fremantle,30,30,0,True,2025-03-26 09:21:44.588720+00:00
+cohere,command-r7b-12-2024,Cohere API,zukunft,30,30,0,True,2025-03-26 09:23:10.102911+00:00
+cohere,command-r7b-12-2024,Cohere API,bep,30,30,0,True,2025-03-26 09:24:58.765966+00:00
+cohere,command-r7b-12-2024,Cohere API,energy_futures,30,30,0,True,2025-03-26 09:26:55.113992+00:00
+cohere,command-r7b-12-2024,Cohere API,valsamoggia,30,30,0,True,2025-03-26 09:28:36.763906+00:00
+cohere,command-r7b-12-2024,Cohere API,gbr,30,30,0,True,2025-03-26 09:30:17.539908+00:00
+cohere,command-r7b-12-2024,Cohere API,auscj,30,30,0,True,2025-03-26 09:32:11.015038+00:00
+cohere,command-r7b-12-2024,Cohere API,swiss_health,30,30,0,True,2025-03-26 09:33:39.906221+00:00
+cohere,command-r7b-12-2024,Cohere API,biobanking_wa,30,30,0,True,2025-03-26 09:35:36.808749+00:00
+deepseek,deepseek-chat,DeepSeek API,uppsala_speaks,32,30,-2,True,2025-03-27 08:19:45.416409+00:00
+deepseek,deepseek-chat,DeepSeek API,fnqcj,32,30,-2,True,2025-03-27 08:20:38.972104+00:00
+deepseek,deepseek-chat,DeepSeek API,acp,32,30,-2,True,2025-03-27 08:21:33.246233+00:00
+deepseek,deepseek-chat,DeepSeek API,ccps,32,30,-2,True,2025-03-27 08:22:23.604806+00:00
+deepseek,deepseek-chat,DeepSeek API,forestera,32,30,-2,True,2025-03-27 08:23:14.825886+00:00
+deepseek,deepseek-chat,DeepSeek API,biobanking_mayo_ubc,32,30,-2,True,2025-03-27 08:24:08.268471+00:00
+deepseek,deepseek-chat,DeepSeek API,zh_uster,32,30,-2,True,2025-03-27 08:24:58.588818+00:00
+deepseek,deepseek-chat,DeepSeek API,zh_thalwil,32,30,-2,True,2025-03-27 08:25:49.444560+00:00
+deepseek,deepseek-chat,DeepSeek API,zh_winterthur,32,30,-2,True,2025-03-27 08:26:37.098442+00:00
+deepseek,deepseek-chat,DeepSeek API,ds_bellinzona,32,30,-2,True,2025-03-27 08:27:25.893771+00:00
+deepseek,deepseek-chat,DeepSeek API,ds_aargau,32,30,-2,True,2025-03-27 08:28:13.410965+00:00
+deepseek,deepseek-chat,DeepSeek API,fremantle,32,30,-2,True,2025-03-27 08:29:05.388765+00:00
+deepseek,deepseek-chat,DeepSeek API,zukunft,32,30,-2,True,2025-03-27 08:29:49.870748+00:00
+deepseek,deepseek-chat,DeepSeek API,bep,32,30,-2,True,2025-03-27 08:30:38.507687+00:00
+deepseek,deepseek-chat,DeepSeek API,energy_futures,32,30,-2,True,2025-03-27 08:31:35.163053+00:00
+deepseek,deepseek-chat,DeepSeek API,valsamoggia,32,30,-2,True,2025-03-27 08:32:26.399008+00:00
+deepseek,deepseek-chat,DeepSeek API,gbr,31,30,-1,True,2025-03-27 08:33:14.293356+00:00
+deepseek,deepseek-chat,DeepSeek API,auscj,32,30,-2,True,2025-03-27 08:34:07.616103+00:00
+deepseek,deepseek-chat,DeepSeek API,swiss_health,32,30,-2,True,2025-03-27 08:34:58.096078+00:00
+deepseek,deepseek-chat,DeepSeek API,biobanking_wa,32,30,-2,True,2025-03-27 08:35:47.430982+00:00
+deepseek,deepseek-reasoner,DeepSeek API,uppsala_speaks,31,5,-26,True,2025-03-26 21:01:30.219146+00:00
+deepseek,deepseek-reasoner,DeepSeek API,fnqcj,31,5,-26,True,2025-03-26 21:21:51.594523+00:00
+deepseek,deepseek-reasoner,DeepSeek API,acp,31,5,-26,True,2025-03-26 21:48:43.265726+00:00
+deepseek,deepseek-reasoner,DeepSeek API,ccps,31,5,-26,True,2025-03-26 22:06:18.108147+00:00
+deepseek,deepseek-reasoner,DeepSeek API,forestera,31,5,-26,True,2025-03-26 22:24:12.786734+00:00
+deepseek,deepseek-reasoner,DeepSeek API,biobanking_mayo_ubc,31,5,-26,True,2025-03-26 22:44:03.687735+00:00
+deepseek,deepseek-reasoner,DeepSeek API,zh_uster,31,5,-26,True,2025-03-26 23:04:03.444064+00:00
+deepseek,deepseek-reasoner,DeepSeek API,zh_thalwil,31,5,-26,True,2025-03-26 23:24:58.539121+00:00
+deepseek,deepseek-reasoner,DeepSeek API,zh_winterthur,31,5,-26,True,2025-03-26 23:44:29.387287+00:00
+deepseek,deepseek-reasoner,DeepSeek API,ds_bellinzona,31,5,-26,True,2025-03-27 00:09:11.015740+00:00
+deepseek,deepseek-reasoner,DeepSeek API,ds_aargau,31,5,-26,True,2025-03-27 00:33:04.732756+00:00
+deepseek,deepseek-reasoner,DeepSeek API,fremantle,31,5,-26,True,2025-03-27 01:31:40.880596+00:00
+deepseek,deepseek-reasoner,DeepSeek API,zukunft,31,5,-26,True,2025-03-27 02:00:48.053958+00:00
+deepseek,deepseek-reasoner,DeepSeek API,bep,31,5,-26,True,2025-03-27 02:32:31.003451+00:00
+deepseek,deepseek-reasoner,DeepSeek API,energy_futures,31,5,-26,True,2025-03-27 03:08:39.730290+00:00
+deepseek,deepseek-reasoner,DeepSeek API,valsamoggia,30,5,-25,True,2025-03-27 04:21:27.300732+00:00
+deepseek,deepseek-reasoner,DeepSeek API,gbr,31,5,-26,True,2025-03-27 04:47:35.551324+00:00
+deepseek,deepseek-reasoner,DeepSeek API,auscj,31,5,-26,True,2025-03-27 05:20:19.655979+00:00
+deepseek,deepseek-reasoner,DeepSeek API,swiss_health,31,5,-26,True,2025-03-27 05:42:47.631129+00:00
+deepseek,deepseek-reasoner,DeepSeek API,biobanking_wa,31,5,-26,True,2025-03-27 06:13:28.578226+00:00
+deepseek,deepseek-v2,ollama,uppsala_speaks,0,30,30,False,
+deepseek,deepseek-v2,ollama,fnqcj,0,30,30,False,
+deepseek,deepseek-v2,ollama,acp,0,30,30,False,
+deepseek,deepseek-v2,ollama,ccps,1,30,29,False,2025-04-03 17:05:43.358531+00:00
+deepseek,deepseek-v2,ollama,forestera,0,30,30,False,
+deepseek,deepseek-v2,ollama,biobanking_mayo_ubc,0,30,30,False,
+deepseek,deepseek-v2,ollama,zh_uster,0,30,30,False,
+deepseek,deepseek-v2,ollama,zh_thalwil,0,30,30,False,
+deepseek,deepseek-v2,ollama,zh_winterthur,2,30,28,False,2025-04-03 17:09:15.033569+00:00
+deepseek,deepseek-v2,ollama,ds_bellinzona,0,30,30,False,
+deepseek,deepseek-v2,ollama,ds_aargau,0,30,30,False,
+deepseek,deepseek-v2,ollama,fremantle,1,30,29,False,2025-04-03 17:10:39.211561+00:00
+deepseek,deepseek-v2,ollama,zukunft,2,30,28,False,2025-04-03 17:11:46.729262+00:00
+deepseek,deepseek-v2,ollama,bep,0,30,30,False,
+deepseek,deepseek-v2,ollama,energy_futures,0,30,30,False,
+deepseek,deepseek-v2,ollama,valsamoggia,0,30,30,False,
+deepseek,deepseek-v2,ollama,gbr,0,30,30,False,
+deepseek,deepseek-v2,ollama,auscj,0,30,30,False,
+deepseek,deepseek-v2,ollama,swiss_health,0,30,30,False,
+deepseek,deepseek-v2,ollama,biobanking_wa,0,30,30,False,
+deepseek,deepseek-v2.5,,uppsala_speaks,0,30,30,False,2025-07-03 11:55:33.690535+00:00
+deepseek,deepseek-v2.5,,fnqcj,0,30,30,False,2025-07-03 11:55:33.692090+00:00
+deepseek,deepseek-v2.5,,acp,0,30,30,False,2025-07-03 11:55:33.692495+00:00
+deepseek,deepseek-v2.5,,ccps,0,30,30,False,2025-07-03 11:55:33.692851+00:00
+deepseek,deepseek-v2.5,,forestera,0,30,30,False,2025-07-03 11:55:33.693200+00:00
+deepseek,deepseek-v2.5,,biobanking_mayo_ubc,0,30,30,False,2025-07-03 11:55:33.693548+00:00
+deepseek,deepseek-v2.5,,zh_uster,0,30,30,False,2025-07-03 11:55:33.693897+00:00
+deepseek,deepseek-v2.5,,zh_thalwil,0,30,30,False,2025-07-03 11:55:33.694242+00:00
+deepseek,deepseek-v2.5,,zh_winterthur,0,30,30,False,2025-07-03 11:55:33.694589+00:00
+deepseek,deepseek-v2.5,,ds_bellinzona,0,30,30,False,2025-07-03 11:55:33.694931+00:00
+deepseek,deepseek-v2.5,,ds_aargau,0,30,30,False,2025-07-03 11:55:33.695271+00:00
+deepseek,deepseek-v2.5,,fremantle,0,30,30,False,2025-07-03 11:55:33.695615+00:00
+deepseek,deepseek-v2.5,,zukunft,0,30,30,False,2025-07-03 11:55:33.695956+00:00
+deepseek,deepseek-v2.5,,bep,0,30,30,False,2025-07-03 11:55:33.696302+00:00
+deepseek,deepseek-v2.5,,energy_futures,0,30,30,False,2025-07-03 11:55:33.696641+00:00
+deepseek,deepseek-v2.5,,valsamoggia,0,30,30,False,2025-07-03 11:55:33.696983+00:00
+deepseek,deepseek-v2.5,,gbr,0,30,30,False,2025-07-03 11:55:33.697325+00:00
+deepseek,deepseek-v2.5,,auscj,0,30,30,False,2025-07-03 11:55:33.697666+00:00
+deepseek,deepseek-v2.5,,swiss_health,0,30,30,False,2025-07-03 11:55:33.698017+00:00
+deepseek,deepseek-v2.5,,biobanking_wa,0,30,30,False,2025-07-03 11:55:33.698384+00:00
+google,gemini-1.5-flash,Google Could,uppsala_speaks,89,30,-59,True,2025-03-21 13:51:56.448391+00:00
+google,gemini-1.5-flash,Google Could,fnqcj,100,30,-70,True,2025-03-21 13:53:20.379004+00:00
+google,gemini-1.5-flash,Google Could,acp,100,30,-70,True,2025-03-21 13:54:50.549545+00:00
+google,gemini-1.5-flash,Google Could,ccps,93,30,-63,True,2025-03-21 13:56:06.409042+00:00
+google,gemini-1.5-flash,Google Could,forestera,99,30,-69,True,2025-03-21 13:57:33.545443+00:00
+google,gemini-1.5-flash,Google Could,biobanking_mayo_ubc,100,30,-70,True,2025-03-21 13:58:56.389843+00:00
+google,gemini-1.5-flash,Google Could,zh_uster,92,30,-62,True,2025-03-21 14:00:11.219105+00:00
+google,gemini-1.5-flash,Google Could,zh_thalwil,95,30,-65,True,2025-03-21 14:01:27.148507+00:00
+google,gemini-1.5-flash,Google Could,zh_winterthur,98,30,-68,True,2025-03-21 14:02:40.538011+00:00
+google,gemini-1.5-flash,Google Could,ds_bellinzona,62,30,-32,True,2025-03-21 14:03:48.870986+00:00
+google,gemini-1.5-flash,Google Could,ds_aargau,47,30,-17,True,2025-03-21 14:05:05.485034+00:00
+google,gemini-1.5-flash,Google Could,fremantle,50,30,-20,True,2025-03-21 14:06:23.017973+00:00
+google,gemini-1.5-flash,Google Could,zukunft,43,30,-13,True,2025-03-21 14:07:24.646876+00:00
+google,gemini-1.5-flash,Google Could,bep,47,30,-17,True,2025-03-21 14:08:45.846576+00:00
+google,gemini-1.5-flash,Google Could,energy_futures,50,30,-20,True,2025-03-21 14:10:15.348634+00:00
+google,gemini-1.5-flash,Google Could,valsamoggia,50,30,-20,True,2025-03-21 14:11:32.284521+00:00
+google,gemini-1.5-flash,Google Could,gbr,49,30,-19,True,2025-03-21 14:12:49.767511+00:00
+google,gemini-1.5-flash,Google Could,auscj,50,30,-20,True,2025-03-21 14:14:14.454917+00:00
+google,gemini-1.5-flash,Google Could,swiss_health,50,30,-20,True,2025-03-21 14:15:24.147614+00:00
+google,gemini-1.5-flash,Google Could,biobanking_wa,50,30,-20,True,2025-03-21 14:16:52.462069+00:00
+google,gemini-1.5-flash-8b,Google Could,uppsala_speaks,51,30,-21,True,2025-03-27 10:07:30.749625+00:00
+google,gemini-1.5-flash-8b,Google Could,fnqcj,52,30,-22,True,2025-03-27 10:07:48.117564+00:00
+google,gemini-1.5-flash-8b,Google Could,acp,52,30,-22,True,2025-03-27 10:08:05.948748+00:00
+google,gemini-1.5-flash-8b,Google Could,ccps,50,30,-20,True,2025-03-27 10:08:23.052762+00:00
+google,gemini-1.5-flash-8b,Google Could,forestera,47,30,-17,True,2025-03-27 10:08:40.920911+00:00
+google,gemini-1.5-flash-8b,Google Could,biobanking_mayo_ubc,47,30,-17,True,2025-03-27 10:08:58.133663+00:00
+google,gemini-1.5-flash-8b,Google Could,zh_uster,35,30,-5,True,2025-03-27 10:09:13.559259+00:00
+google,gemini-1.5-flash-8b,Google Could,zh_thalwil,41,30,-11,True,2025-03-27 10:09:28.686018+00:00
+google,gemini-1.5-flash-8b,Google Could,zh_winterthur,46,30,-16,True,2025-03-27 10:09:45.013258+00:00
+google,gemini-1.5-flash-8b,Google Could,ds_bellinzona,40,30,-10,True,2025-03-27 10:10:01.063050+00:00
+google,gemini-1.5-flash-8b,Google Could,ds_aargau,33,30,-3,True,2025-03-27 10:10:17.426392+00:00
+google,gemini-1.5-flash-8b,Google Could,fremantle,37,30,-7,True,2025-03-27 10:10:34.396050+00:00
+google,gemini-1.5-flash-8b,Google Could,zukunft,32,30,-2,True,2025-03-27 10:10:48.195728+00:00
+google,gemini-1.5-flash-8b,Google Could,bep,32,30,-2,True,2025-03-27 10:11:05.137225+00:00
+google,gemini-1.5-flash-8b,Google Could,energy_futures,37,30,-7,True,2025-03-27 10:11:23.469459+00:00
+google,gemini-1.5-flash-8b,Google Could,valsamoggia,37,30,-7,True,2025-03-27 10:11:40.294750+00:00
+google,gemini-1.5-flash-8b,Google Could,gbr,33,30,-3,True,2025-03-27 10:11:57.249739+00:00
+google,gemini-1.5-flash-8b,Google Could,auscj,37,30,-7,True,2025-03-27 10:12:14.473504+00:00
+google,gemini-1.5-flash-8b,Google Could,swiss_health,37,30,-7,True,2025-03-27 10:12:30.439721+00:00
+google,gemini-1.5-flash-8b,Google Could,biobanking_wa,35,30,-5,True,2025-03-27 10:12:48.256718+00:00
+google,gemini-1.5-pro,Google Could,uppsala_speaks,38,30,-8,True,2025-03-28 10:13:55.474502+00:00
+google,gemini-1.5-pro,Google Could,fnqcj,38,30,-8,True,2025-03-28 10:14:07.989681+00:00
+google,gemini-1.5-pro,Google Could,acp,38,30,-8,True,2025-03-28 10:14:21.105923+00:00
+google,gemini-1.5-pro,Google Could,ccps,37,30,-7,True,2025-03-28 10:14:33.694902+00:00
+google,gemini-1.5-pro,Google Could,forestera,38,30,-8,True,2025-03-28 10:14:46.088988+00:00
+google,gemini-1.5-pro,Google Could,biobanking_mayo_ubc,38,30,-8,True,2025-03-28 10:14:58.934592+00:00
+google,gemini-1.5-pro,Google Could,zh_uster,32,30,-2,True,2025-03-28 10:15:10.088694+00:00
+google,gemini-1.5-pro,Google Could,zh_thalwil,34,30,-4,True,2025-03-28 10:15:15.601682+00:00
+google,gemini-1.5-pro,Google Could,zh_winterthur,38,30,-8,True,2025-03-28 10:15:30.650010+00:00
+google,gemini-1.5-pro,Google Could,ds_bellinzona,34,30,-4,True,2025-03-28 10:15:40.444000+00:00
+google,gemini-1.5-pro,Google Could,ds_aargau,38,30,-8,True,2025-03-28 10:15:51.414563+00:00
+google,gemini-1.5-pro,Google Could,fremantle,38,30,-8,True,2025-03-28 10:16:02.684187+00:00
+google,gemini-1.5-pro,Google Could,zukunft,35,30,-5,True,2025-03-28 10:16:13.150823+00:00
+google,gemini-1.5-pro,Google Could,bep,36,30,-6,True,2025-03-28 10:16:23.982016+00:00
+google,gemini-1.5-pro,Google Could,energy_futures,37,30,-7,True,2025-03-28 10:16:30.165406+00:00
+google,gemini-1.5-pro,Google Could,valsamoggia,38,30,-8,True,2025-03-28 10:16:48.764178+00:00
+google,gemini-1.5-pro,Google Could,gbr,37,30,-7,True,2025-03-28 10:16:59.965240+00:00
+google,gemini-1.5-pro,Google Could,auscj,38,30,-8,True,2025-03-28 10:17:12.525436+00:00
+google,gemini-1.5-pro,Google Could,swiss_health,38,30,-8,True,2025-03-28 10:17:24.190832+00:00
+google,gemini-1.5-pro,Google Could,biobanking_wa,38,30,-8,True,2025-03-28 10:17:36.279455+00:00
+google,gemini-2.0-flash,Google Could,uppsala_speaks,30,30,0,True,2025-03-27 09:25:41.001559+00:00
+google,gemini-2.0-flash,Google Could,fnqcj,30,30,0,True,2025-03-27 09:26:17.936765+00:00
+google,gemini-2.0-flash,Google Could,acp,30,30,0,True,2025-03-27 09:26:57.025787+00:00
+google,gemini-2.0-flash,Google Could,ccps,30,30,0,True,2025-03-27 09:27:31.765934+00:00
+google,gemini-2.0-flash,Google Could,forestera,30,30,0,True,2025-03-27 09:28:09.671751+00:00
+google,gemini-2.0-flash,Google Could,biobanking_mayo_ubc,30,30,0,True,2025-03-27 09:28:57.783251+00:00
+google,gemini-2.0-flash,Google Could,zh_uster,30,30,0,True,2025-03-27 09:29:30.773291+00:00
+google,gemini-2.0-flash,Google Could,zh_thalwil,30,30,0,True,2025-03-27 09:30:03.817754+00:00
+google,gemini-2.0-flash,Google Could,zh_winterthur,30,30,0,True,2025-03-27 09:30:36.584212+00:00
+google,gemini-2.0-flash,Google Could,ds_bellinzona,30,30,0,True,2025-03-27 09:31:09.864389+00:00
+google,gemini-2.0-flash,Google Could,ds_aargau,30,30,0,True,2025-03-27 09:31:44.665782+00:00
+google,gemini-2.0-flash,Google Could,fremantle,30,30,0,True,2025-03-27 09:32:20.494331+00:00
+google,gemini-2.0-flash,Google Could,zukunft,30,30,0,True,2025-03-27 09:32:51.526595+00:00
+google,gemini-2.0-flash,Google Could,bep,30,30,0,True,2025-03-27 09:33:28.027993+00:00
+google,gemini-2.0-flash,Google Could,energy_futures,30,30,0,True,2025-03-27 09:34:07.072215+00:00
+google,gemini-2.0-flash,Google Could,valsamoggia,30,30,0,True,2025-03-27 09:34:42.201262+00:00
+google,gemini-2.0-flash,Google Could,gbr,30,30,0,True,2025-03-27 09:35:17.630410+00:00
+google,gemini-2.0-flash,Google Could,auscj,30,30,0,True,2025-03-27 09:35:56.582346+00:00
+google,gemini-2.0-flash,Google Could,swiss_health,30,30,0,True,2025-03-27 09:36:28.860968+00:00
+google,gemini-2.0-flash,Google Could,biobanking_wa,30,30,0,True,2025-03-27 09:37:07.401367+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,uppsala_speaks,10,30,20,False,2025-04-17 10:28:05.830094+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,fnqcj,10,30,20,False,2025-04-17 10:32:34.234698+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,acp,9,30,21,False,2025-04-17 10:39:01.918508+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,ccps,9,30,21,False,2025-04-17 10:45:00.047297+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,forestera,10,30,20,False,2025-04-17 10:48:28.563140+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,biobanking_mayo_ubc,9,30,21,False,2025-04-17 10:55:02.064394+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,zh_uster,10,30,20,False,2025-04-17 10:58:04.454223+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,zh_thalwil,10,30,20,False,2025-04-17 11:00:53.537584+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,zh_winterthur,6,30,24,False,2025-04-17 11:02:34.764987+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,ds_bellinzona,9,30,21,False,2025-04-17 12:39:11.827275+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,ds_aargau,5,30,25,False,2025-04-17 11:07:34.670798+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,fremantle,8,30,22,False,2025-04-17 11:19:45.429332+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,zukunft,6,30,24,False,2025-04-17 11:21:35.813685+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,bep,1,30,29,False,2025-04-17 10:19:33.329654+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,energy_futures,0,30,30,False,
+google,gemini-2.0-flash-thinking-exp,Google Could,valsamoggia,0,30,30,False,
+google,gemini-2.0-flash-thinking-exp,Google Could,gbr,4,30,26,False,2025-04-22 08:26:26.981893+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,auscj,18,30,12,False,2025-04-22 08:24:29.230751+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,swiss_health,4,30,26,False,2025-04-17 11:22:51.741465+00:00
+google,gemini-2.0-flash-thinking-exp,Google Could,biobanking_wa,9,30,21,False,2025-04-17 11:25:49.815548+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,uppsala_speaks,32,30,-2,True,2025-04-15 08:09:44.886076+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,fnqcj,31,30,-1,True,2025-04-15 08:20:19.806926+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,acp,32,30,-2,True,2025-04-15 08:34:07.755261+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,ccps,32,30,-2,True,2025-04-15 08:43:34.341615+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,forestera,30,30,0,True,2025-04-15 08:55:00.410063+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,biobanking_mayo_ubc,31,30,-1,True,2025-04-15 09:05:43.905005+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,zh_uster,31,30,-1,True,2025-04-15 09:14:49.459538+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,zh_thalwil,31,30,-1,True,2025-04-15 09:22:45.541452+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,zh_winterthur,30,30,0,True,2025-04-17 14:42:35.024465+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,ds_bellinzona,31,30,-1,True,2025-04-17 13:21:16.154727+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,ds_aargau,31,30,-1,True,2025-04-17 13:39:17.759309+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,fremantle,31,30,-1,True,2025-04-17 13:50:50.704646+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,zukunft,30,30,0,True,2025-04-17 12:38:34.933224+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,bep,30,30,0,True,2025-04-17 11:35:44.986950+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,energy_futures,30,30,0,True,2025-04-15 12:38:28.337700+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,valsamoggia,30,30,0,True,2025-04-17 14:40:33.577616+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,gbr,30,30,0,True,2025-04-17 10:42:59.011604+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,auscj,31,30,-1,True,2025-04-17 10:17:29.281448+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,swiss_health,30,30,0,True,2025-04-17 11:23:25.000639+00:00
+google,gemini-2.5-pro-preview-03-25,Google Could,biobanking_wa,31,30,-1,True,2025-04-15 13:13:47.354229+00:00
+google,gemma,ollama,uppsala_speaks,32,30,-2,True,2025-04-03 08:02:04.564710+00:00
+google,gemma,ollama,fnqcj,32,30,-2,True,2025-04-03 08:09:47.058751+00:00
+google,gemma,ollama,acp,32,30,-2,True,2025-04-03 08:19:01.793411+00:00
+google,gemma,ollama,ccps,31,30,-1,True,2025-04-03 08:25:29.329557+00:00
+google,gemma,ollama,forestera,32,30,-2,True,2025-04-03 08:33:42.362370+00:00
+google,gemma,ollama,biobanking_mayo_ubc,32,30,-2,True,2025-04-03 08:40:53.692552+00:00
+google,gemma,ollama,zh_uster,32,30,-2,True,2025-04-03 08:47:11.739382+00:00
+google,gemma,ollama,zh_thalwil,32,30,-2,True,2025-04-03 08:53:25.056755+00:00
+google,gemma,ollama,zh_winterthur,32,30,-2,True,2025-04-03 11:06:11.470323+00:00
+google,gemma,ollama,ds_bellinzona,32,30,-2,True,2025-04-03 09:05:09.958408+00:00
+google,gemma,ollama,ds_aargau,32,30,-2,True,2025-04-03 09:11:34.243388+00:00
+google,gemma,ollama,fremantle,33,30,-3,True,2025-04-03 11:03:39.144254+00:00
+google,gemma,ollama,zukunft,31,30,-1,True,2025-04-03 09:22:00.582646+00:00
+google,gemma,ollama,bep,33,30,-3,True,2025-04-03 09:29:47.823375+00:00
+google,gemma,ollama,energy_futures,30,30,0,True,2025-04-03 09:38:36.073037+00:00
+google,gemma,ollama,valsamoggia,32,30,-2,True,2025-04-03 09:45:49.657878+00:00
+google,gemma,ollama,gbr,32,30,-2,True,2025-04-03 09:52:38.039974+00:00
+google,gemma,ollama,auscj,32,30,-2,True,2025-04-03 10:00:56.242598+00:00
+google,gemma,ollama,swiss_health,32,30,-2,True,2025-04-03 10:06:13.882357+00:00
+google,gemma,ollama,biobanking_wa,32,30,-2,True,2025-04-03 10:16:18.483560+00:00
+google,gemma-3-27b-it,Google Could,uppsala_speaks,2,30,28,False,2025-04-17 11:20:34.390453+00:00
+google,gemma-3-27b-it,Google Could,fnqcj,1,30,29,False,2025-04-17 11:20:44.409497+00:00
+google,gemma-3-27b-it,Google Could,acp,0,30,30,False,
+google,gemma-3-27b-it,Google Could,ccps,0,30,30,False,
+google,gemma-3-27b-it,Google Could,forestera,0,30,30,False,
+google,gemma-3-27b-it,Google Could,biobanking_mayo_ubc,0,30,30,False,
+google,gemma-3-27b-it,Google Could,zh_uster,0,30,30,False,
+google,gemma-3-27b-it,Google Could,zh_thalwil,0,30,30,False,
+google,gemma-3-27b-it,Google Could,zh_winterthur,0,30,30,False,
+google,gemma-3-27b-it,Google Could,ds_bellinzona,0,30,30,False,
+google,gemma-3-27b-it,Google Could,ds_aargau,0,30,30,False,
+google,gemma-3-27b-it,Google Could,fremantle,0,30,30,False,
+google,gemma-3-27b-it,Google Could,zukunft,0,30,30,False,
+google,gemma-3-27b-it,Google Could,bep,1,30,29,False,2025-04-17 11:18:27.116729+00:00
+google,gemma-3-27b-it,Google Could,energy_futures,0,30,30,False,
+google,gemma-3-27b-it,Google Could,valsamoggia,0,30,30,False,
+google,gemma-3-27b-it,Google Could,gbr,0,30,30,False,
+google,gemma-3-27b-it,Google Could,auscj,0,30,30,False,
+google,gemma-3-27b-it,Google Could,swiss_health,0,30,30,False,
+google,gemma-3-27b-it,Google Could,biobanking_wa,0,30,30,False,
+google,gemma2:27b,Together AI,uppsala_speaks,30,30,0,True,2025-04-02 10:41:23.035490+00:00
+google,gemma2:27b,Together AI,fnqcj,30,30,0,True,2025-04-02 10:45:53.500048+00:00
+google,gemma2:27b,Together AI,acp,30,30,0,True,2025-04-02 10:50:43.993549+00:00
+google,gemma2:27b,Together AI,ccps,30,30,0,True,2025-04-02 10:54:40.869491+00:00
+google,gemma2:27b,Together AI,forestera,30,30,0,True,2025-04-02 10:59:20.577786+00:00
+google,gemma2:27b,Together AI,biobanking_mayo_ubc,30,30,0,True,2025-04-02 11:03:49.995290+00:00
+google,gemma2:27b,Together AI,zh_uster,30,30,0,True,2025-04-02 11:07:43.330862+00:00
+google,gemma2:27b,Together AI,zh_thalwil,30,30,0,True,2025-04-02 11:11:23.573091+00:00
+google,gemma2:27b,Together AI,zh_winterthur,30,30,0,True,2025-04-02 11:15:03.565430+00:00
+google,gemma2:27b,Together AI,ds_bellinzona,30,30,0,True,2025-04-02 15:28:05.136714+00:00
+google,gemma2:27b,Together AI,ds_aargau,30,30,0,True,2025-04-02 15:28:50.229880+00:00
+google,gemma2:27b,Together AI,fremantle,30,30,0,True,2025-04-02 11:27:01.977187+00:00
+google,gemma2:27b,Together AI,zukunft,30,30,0,True,2025-04-02 15:27:47.552492+00:00
+google,gemma2:27b,Together AI,bep,30,30,0,True,2025-04-02 11:34:47.162671+00:00
+google,gemma2:27b,Together AI,energy_futures,30,30,0,True,2025-04-02 11:39:41.558075+00:00
+google,gemma2:27b,Together AI,valsamoggia,30,30,0,True,2025-04-02 11:43:57.717913+00:00
+google,gemma2:27b,Together AI,gbr,30,30,0,True,2025-04-02 15:27:02.503994+00:00
+google,gemma2:27b,Together AI,auscj,30,30,0,True,2025-04-02 11:52:41.410385+00:00
+google,gemma2:27b,Together AI,swiss_health,30,30,0,True,2025-04-02 11:56:04.677737+00:00
+google,gemma2:27b,Together AI,biobanking_wa,30,30,0,True,2025-04-02 12:01:17.992983+00:00
+google,gemma3:12b,ollama,uppsala_speaks,30,30,0,True,2025-04-03 16:33:37.632438+00:00
+google,gemma3:12b,ollama,fnqcj,30,30,0,True,2025-04-03 16:37:07.027106+00:00
+google,gemma3:12b,ollama,acp,31,30,-1,True,2025-04-03 13:22:30.686621+00:00
+google,gemma3:12b,ollama,ccps,32,30,-2,True,2025-04-03 13:31:31.845416+00:00
+google,gemma3:12b,ollama,forestera,30,30,0,True,2025-04-03 16:41:09.952401+00:00
+google,gemma3:12b,ollama,biobanking_mayo_ubc,31,30,-1,True,2025-04-03 13:52:59.700792+00:00
+google,gemma3:12b,ollama,zh_uster,32,30,-2,True,2025-04-03 14:01:39.219665+00:00
+google,gemma3:12b,ollama,zh_thalwil,32,30,-2,True,2025-04-03 14:10:08.708106+00:00
+google,gemma3:12b,ollama,zh_winterthur,32,30,-2,True,2025-04-03 14:18:11.146436+00:00
+google,gemma3:12b,ollama,ds_bellinzona,32,30,-2,True,2025-04-03 14:26:58.265214+00:00
+google,gemma3:12b,ollama,ds_aargau,32,30,-2,True,2025-04-03 14:35:49.707569+00:00
+google,gemma3:12b,ollama,fremantle,32,30,-2,True,2025-04-03 14:45:08.704867+00:00
+google,gemma3:12b,ollama,zukunft,32,30,-2,True,2025-04-03 14:51:43.598442+00:00
+google,gemma3:12b,ollama,bep,33,30,-3,True,2025-04-03 15:02:39.449123+00:00
+google,gemma3:12b,ollama,energy_futures,32,30,-2,True,2025-04-03 15:14:41.919534+00:00
+google,gemma3:12b,ollama,valsamoggia,31,30,-1,True,2025-04-03 15:24:45.838536+00:00
+google,gemma3:12b,ollama,gbr,32,30,-2,True,2025-04-03 15:35:23.001748+00:00
+google,gemma3:12b,ollama,auscj,31,30,-1,True,2025-04-03 15:47:36.087306+00:00
+google,gemma3:12b,ollama,swiss_health,32,30,-2,True,2025-04-03 15:55:15.302254+00:00
+google,gemma3:12b,ollama,biobanking_wa,31,30,-1,True,2025-04-03 16:08:28.173930+00:00
+openai,gpt-3.5-turbo,OpenAI API,uppsala_speaks,34,30,-4,True,2025-03-28 06:40:15.853305+00:00
+openai,gpt-3.5-turbo,OpenAI API,fnqcj,33,30,-3,True,2025-03-28 06:41:38.764208+00:00
+openai,gpt-3.5-turbo,OpenAI API,acp,35,30,-5,True,2025-03-28 06:43:14.618702+00:00
+openai,gpt-3.5-turbo,OpenAI API,ccps,36,30,-6,True,2025-03-28 06:44:36.538868+00:00
+openai,gpt-3.5-turbo,OpenAI API,forestera,30,30,0,True,2025-03-28 07:16:10.934777+00:00
+openai,gpt-3.5-turbo,OpenAI API,biobanking_mayo_ubc,36,30,-6,True,2025-03-28 06:48:37.009065+00:00
+openai,gpt-3.5-turbo,OpenAI API,zh_uster,35,30,-5,True,2025-03-28 06:49:52.277016+00:00
+openai,gpt-3.5-turbo,OpenAI API,zh_thalwil,36,30,-6,True,2025-03-28 06:51:18.323039+00:00
+openai,gpt-3.5-turbo,OpenAI API,zh_winterthur,36,30,-6,True,2025-03-28 06:52:33.760720+00:00
+openai,gpt-3.5-turbo,OpenAI API,ds_bellinzona,35,30,-5,True,2025-03-28 06:53:51.450056+00:00
+openai,gpt-3.5-turbo,OpenAI API,ds_aargau,35,30,-5,True,2025-03-28 06:55:14.268716+00:00
+openai,gpt-3.5-turbo,OpenAI API,fremantle,33,30,-3,True,2025-03-28 06:56:32.865370+00:00
+openai,gpt-3.5-turbo,OpenAI API,zukunft,36,30,-6,True,2025-03-28 06:57:39.676117+00:00
+openai,gpt-3.5-turbo,OpenAI API,bep,35,30,-5,True,2025-03-28 06:59:00.860538+00:00
+openai,gpt-3.5-turbo,OpenAI API,energy_futures,36,30,-6,True,2025-03-28 07:00:27.842860+00:00
+openai,gpt-3.5-turbo,OpenAI API,valsamoggia,35,30,-5,True,2025-03-28 07:01:42.732443+00:00
+openai,gpt-3.5-turbo,OpenAI API,gbr,36,30,-6,True,2025-03-28 07:03:10.070149+00:00
+openai,gpt-3.5-turbo,OpenAI API,auscj,30,30,0,True,2025-03-28 07:15:57.642614+00:00
+openai,gpt-3.5-turbo,OpenAI API,swiss_health,35,30,-5,True,2025-03-28 07:05:38.148300+00:00
+openai,gpt-3.5-turbo,OpenAI API,biobanking_wa,32,30,-2,True,2025-03-28 07:07:01.205785+00:00
+openai,gpt-4,OpenAI API,uppsala_speaks,31,30,-1,True,2025-04-08 08:56:59.682206+00:00
+openai,gpt-4,OpenAI API,fnqcj,30,30,0,True,2025-04-08 09:01:10.671525+00:00
+openai,gpt-4,OpenAI API,acp,30,30,0,True,2025-04-08 09:05:50.156170+00:00
+openai,gpt-4,OpenAI API,ccps,30,30,0,True,2025-04-08 09:09:48.299042+00:00
+openai,gpt-4,OpenAI API,forestera,30,30,0,True,2025-04-08 09:14:50.986326+00:00
+openai,gpt-4,OpenAI API,biobanking_mayo_ubc,30,30,0,True,2025-04-08 09:19:10.528156+00:00
+openai,gpt-4,OpenAI API,zh_uster,30,30,0,True,2025-04-08 11:53:07.257791+00:00
+openai,gpt-4,OpenAI API,zh_thalwil,30,30,0,True,2025-04-08 09:27:02.718434+00:00
+openai,gpt-4,OpenAI API,zh_winterthur,30,30,0,True,2025-04-08 09:31:01.002778+00:00
+openai,gpt-4,OpenAI API,ds_bellinzona,30,30,0,True,2025-04-08 09:35:10.140527+00:00
+openai,gpt-4,OpenAI API,ds_aargau,30,30,0,True,2025-04-08 09:39:20.895291+00:00
+openai,gpt-4,OpenAI API,fremantle,30,30,0,True,2025-04-08 09:43:33.765004+00:00
+openai,gpt-4,OpenAI API,zukunft,30,30,0,True,2025-04-08 09:46:48.440387+00:00
+openai,gpt-4,OpenAI API,bep,30,30,0,True,2025-04-08 09:51:08.497662+00:00
+openai,gpt-4,OpenAI API,energy_futures,30,30,0,True,2025-04-08 11:54:26.874196+00:00
+openai,gpt-4,OpenAI API,valsamoggia,30,30,0,True,2025-04-08 09:59:55.818489+00:00
+openai,gpt-4,OpenAI API,gbr,30,30,0,True,2025-04-08 10:09:56.861545+00:00
+openai,gpt-4,OpenAI API,auscj,30,30,0,True,2025-04-08 10:14:36.921007+00:00
+openai,gpt-4,OpenAI API,swiss_health,30,30,0,True,2025-04-08 10:21:12.324628+00:00
+openai,gpt-4,OpenAI API,biobanking_wa,30,30,0,True,2025-04-08 10:33:51.049933+00:00
+openai,gpt-4-turbo,OpenAI API,uppsala_speaks,30,30,0,True,2025-04-03 11:30:37.418833+00:00
+openai,gpt-4-turbo,OpenAI API,fnqcj,30,30,0,True,2025-04-03 11:34:37.117379+00:00
+openai,gpt-4-turbo,OpenAI API,acp,30,30,0,True,2025-04-03 11:38:42.103201+00:00
+openai,gpt-4-turbo,OpenAI API,ccps,30,30,0,True,2025-04-03 11:41:42.736629+00:00
+openai,gpt-4-turbo,OpenAI API,forestera,30,30,0,True,2025-04-03 11:45:10.329109+00:00
+openai,gpt-4-turbo,OpenAI API,biobanking_mayo_ubc,30,30,0,True,2025-04-03 11:48:53.008963+00:00
+openai,gpt-4-turbo,OpenAI API,zh_uster,30,30,0,True,2025-04-03 11:52:25.066745+00:00
+openai,gpt-4-turbo,OpenAI API,zh_thalwil,30,30,0,True,2025-04-03 11:55:49.561958+00:00
+openai,gpt-4-turbo,OpenAI API,zh_winterthur,30,30,0,True,2025-04-03 11:58:43.179510+00:00
+openai,gpt-4-turbo,OpenAI API,ds_bellinzona,30,30,0,True,2025-04-03 12:01:47.517802+00:00
+openai,gpt-4-turbo,OpenAI API,ds_aargau,30,30,0,True,2025-04-03 12:04:47.437173+00:00
+openai,gpt-4-turbo,OpenAI API,fremantle,30,30,0,True,2025-04-03 12:08:02.971676+00:00
+openai,gpt-4-turbo,OpenAI API,zukunft,30,30,0,True,2025-04-03 12:42:15.664432+00:00
+openai,gpt-4-turbo,OpenAI API,bep,30,30,0,True,2025-04-03 12:15:15.427218+00:00
+openai,gpt-4-turbo,OpenAI API,energy_futures,30,30,0,True,2025-04-03 12:19:50.960930+00:00
+openai,gpt-4-turbo,OpenAI API,valsamoggia,30,30,0,True,2025-04-03 12:23:39.765204+00:00
+openai,gpt-4-turbo,OpenAI API,gbr,30,30,0,True,2025-04-03 12:41:48.255172+00:00
+openai,gpt-4-turbo,OpenAI API,auscj,30,30,0,True,2025-04-03 12:32:07.641958+00:00
+openai,gpt-4-turbo,OpenAI API,swiss_health,30,30,0,True,2025-04-03 12:42:38.317315+00:00
+openai,gpt-4-turbo,OpenAI API,biobanking_wa,30,30,0,True,2025-04-03 12:40:27.178768+00:00
+openai,gpt-4.5-preview,OpenAI API,uppsala_speaks,10,10,0,True,2025-04-10 07:57:54.663489+00:00
+openai,gpt-4.5-preview,OpenAI API,fnqcj,10,10,0,True,2025-04-10 07:59:18.274973+00:00
+openai,gpt-4.5-preview,OpenAI API,acp,10,10,0,True,2025-04-10 08:00:54.179492+00:00
+openai,gpt-4.5-preview,OpenAI API,ccps,10,10,0,True,2025-04-10 08:01:56.497778+00:00
+openai,gpt-4.5-preview,OpenAI API,forestera,10,10,0,True,2025-04-10 08:03:28.564123+00:00
+openai,gpt-4.5-preview,OpenAI API,biobanking_mayo_ubc,10,10,0,True,2025-04-10 08:05:02.184438+00:00
+openai,gpt-4.5-preview,OpenAI API,zh_uster,10,10,0,True,2025-04-10 08:06:03.770221+00:00
+openai,gpt-4.5-preview,OpenAI API,zh_thalwil,10,10,0,True,2025-04-10 08:07:00.576941+00:00
+openai,gpt-4.5-preview,OpenAI API,zh_winterthur,10,10,0,True,2025-04-10 08:08:03.185836+00:00
+openai,gpt-4.5-preview,OpenAI API,ds_bellinzona,10,10,0,True,2025-04-10 08:09:13.364660+00:00
+openai,gpt-4.5-preview,OpenAI API,ds_aargau,10,10,0,True,2025-04-10 08:10:16.342874+00:00
+openai,gpt-4.5-preview,OpenAI API,fremantle,10,10,0,True,2025-04-10 08:11:24.421671+00:00
+openai,gpt-4.5-preview,OpenAI API,zukunft,10,10,0,True,2025-04-10 08:12:18.626511+00:00
+openai,gpt-4.5-preview,OpenAI API,bep,11,10,-1,True,2025-04-10 08:13:22.717520+00:00
+openai,gpt-4.5-preview,OpenAI API,energy_futures,10,10,0,True,2025-04-10 08:14:47.711495+00:00
+openai,gpt-4.5-preview,OpenAI API,valsamoggia,10,10,0,True,2025-04-10 08:16:03.268097+00:00
+openai,gpt-4.5-preview,OpenAI API,gbr,10,10,0,True,2025-04-10 08:17:14.528976+00:00
+openai,gpt-4.5-preview,OpenAI API,auscj,10,10,0,True,2025-04-10 08:18:43.738889+00:00
+openai,gpt-4.5-preview,OpenAI API,swiss_health,10,10,0,True,2025-04-10 08:19:49.881040+00:00
+openai,gpt-4.5-preview,OpenAI API,biobanking_wa,10,10,0,True,2025-04-10 08:21:06.291718+00:00
+openai,gpt-4o,OpenAI API,uppsala_speaks,30,30,0,True,2025-04-01 09:35:40.827884+00:00
+openai,gpt-4o,OpenAI API,fnqcj,30,30,0,True,2025-04-01 09:37:59.333063+00:00
+openai,gpt-4o,OpenAI API,acp,30,30,0,True,2025-04-01 09:40:24.129149+00:00
+openai,gpt-4o,OpenAI API,ccps,30,30,0,True,2025-04-01 09:42:30.163454+00:00
+openai,gpt-4o,OpenAI API,forestera,30,30,0,True,2025-04-01 09:47:49.837003+00:00
+openai,gpt-4o,OpenAI API,biobanking_mayo_ubc,30,30,0,True,2025-04-01 09:49:49.405609+00:00
+openai,gpt-4o,OpenAI API,zh_uster,30,30,0,True,2025-04-01 09:51:47.979305+00:00
+openai,gpt-4o,OpenAI API,zh_thalwil,30,30,0,True,2025-04-01 09:53:54.045229+00:00
+openai,gpt-4o,OpenAI API,zh_winterthur,30,30,0,True,2025-04-01 09:56:22.773080+00:00
+openai,gpt-4o,OpenAI API,ds_bellinzona,30,30,0,True,2025-04-01 09:58:21.545009+00:00
+openai,gpt-4o,OpenAI API,ds_aargau,30,30,0,True,2025-04-01 10:00:19.184215+00:00
+openai,gpt-4o,OpenAI API,fremantle,30,30,0,True,2025-04-01 10:02:32.413409+00:00
+openai,gpt-4o,OpenAI API,zukunft,30,30,0,True,2025-04-01 10:20:43.550770+00:00
+openai,gpt-4o,OpenAI API,bep,31,30,-1,True,2025-04-01 12:36:46.520676+00:00
+openai,gpt-4o,OpenAI API,energy_futures,30,30,0,True,2025-04-01 10:09:53.486529+00:00
+openai,gpt-4o,OpenAI API,valsamoggia,30,30,0,True,2025-04-01 10:11:56.904158+00:00
+openai,gpt-4o,OpenAI API,gbr,30,30,0,True,2025-04-01 10:13:54.224223+00:00
+openai,gpt-4o,OpenAI API,auscj,30,30,0,True,2025-04-01 10:16:01.702368+00:00
+openai,gpt-4o,OpenAI API,swiss_health,30,30,0,True,2025-04-01 10:17:34.970247+00:00
+openai,gpt-4o,OpenAI API,biobanking_wa,30,30,0,True,2025-04-01 10:20:02.180132+00:00
+openai,gpt-4o-mini,OpenAI API,uppsala_speaks,32,30,-2,True,2025-03-28 06:39:53.117716+00:00
+openai,gpt-4o-mini,OpenAI API,fnqcj,32,30,-2,True,2025-03-28 06:41:15.711912+00:00
+openai,gpt-4o-mini,OpenAI API,acp,32,30,-2,True,2025-03-28 06:42:43.136749+00:00
+openai,gpt-4o-mini,OpenAI API,ccps,32,30,-2,True,2025-03-28 06:43:57.261364+00:00
+openai,gpt-4o-mini,OpenAI API,forestera,32,30,-2,True,2025-03-28 06:45:25.053735+00:00
+openai,gpt-4o-mini,OpenAI API,biobanking_mayo_ubc,32,30,-2,True,2025-03-28 06:46:34.902311+00:00
+openai,gpt-4o-mini,OpenAI API,zh_uster,30,30,0,True,2025-03-28 06:47:44.375599+00:00
+openai,gpt-4o-mini,OpenAI API,zh_thalwil,31,30,-1,True,2025-03-28 06:49:00.216126+00:00
+openai,gpt-4o-mini,OpenAI API,zh_winterthur,32,30,-2,True,2025-03-28 06:50:10.446978+00:00
+openai,gpt-4o-mini,OpenAI API,ds_bellinzona,31,30,-1,True,2025-03-28 06:51:25.770297+00:00
+openai,gpt-4o-mini,OpenAI API,ds_aargau,32,30,-2,True,2025-03-28 06:52:42.758619+00:00
+openai,gpt-4o-mini,OpenAI API,fremantle,32,30,-2,True,2025-03-28 06:54:05.918682+00:00
+openai,gpt-4o-mini,OpenAI API,zukunft,32,30,-2,True,2025-03-28 06:55:12.489265+00:00
+openai,gpt-4o-mini,OpenAI API,bep,32,30,-2,True,2025-03-28 06:56:38.500973+00:00
+openai,gpt-4o-mini,OpenAI API,energy_futures,32,30,-2,True,2025-03-28 06:58:17.711220+00:00
+openai,gpt-4o-mini,OpenAI API,valsamoggia,32,30,-2,True,2025-03-28 06:59:35.858256+00:00
+openai,gpt-4o-mini,OpenAI API,gbr,32,30,-2,True,2025-03-28 07:00:55.166566+00:00
+openai,gpt-4o-mini,OpenAI API,auscj,32,30,-2,True,2025-03-28 07:02:38.956395+00:00
+openai,gpt-4o-mini,OpenAI API,swiss_health,32,30,-2,True,2025-03-28 07:03:46.877194+00:00
+openai,gpt-4o-mini,OpenAI API,biobanking_wa,32,30,-2,True,2025-03-28 07:05:24.058328+00:00
+ibm,granite3.3,ollama,uppsala_speaks,31,30,-1,True,2025-04-28 10:15:51.059179+00:00
+ibm,granite3.3,ollama,fnqcj,32,30,-2,True,2025-04-17 16:04:17.104998+00:00
+ibm,granite3.3,ollama,acp,30,30,0,True,2025-04-17 16:18:46.283280+00:00
+ibm,granite3.3,ollama,ccps,30,30,0,True,2025-04-28 11:38:58.395250+00:00
+ibm,granite3.3,ollama,forestera,32,30,-2,True,2025-04-17 16:44:09.183804+00:00
+ibm,granite3.3,ollama,biobanking_mayo_ubc,32,30,-2,True,2025-04-17 16:55:11.609140+00:00
+ibm,granite3.3,ollama,zh_uster,32,30,-2,True,2025-04-28 11:44:40.363210+00:00
+ibm,granite3.3,ollama,zh_thalwil,33,30,-3,True,2025-04-28 10:43:11.141311+00:00
+ibm,granite3.3,ollama,zh_winterthur,32,30,-2,True,2025-04-17 17:24:24.867053+00:00
+ibm,granite3.3,ollama,ds_bellinzona,32,30,-2,True,2025-04-28 11:36:42.628313+00:00
+ibm,granite3.3,ollama,ds_aargau,33,30,-3,True,2025-04-28 09:59:39.628382+00:00
+ibm,granite3.3,ollama,fremantle,33,30,-3,True,2025-04-17 17:55:45.875244+00:00
+ibm,granite3.3,ollama,zukunft,30,30,0,True,2025-04-17 18:03:46.389367+00:00
+ibm,granite3.3,ollama,bep,32,30,-2,True,2025-04-17 18:16:55.612103+00:00
+ibm,granite3.3,ollama,energy_futures,34,30,-4,True,2025-04-17 18:32:03.039286+00:00
+ibm,granite3.3,ollama,valsamoggia,32,30,-2,True,2025-04-17 18:42:34.619923+00:00
+ibm,granite3.3,ollama,gbr,32,30,-2,True,2025-04-28 10:55:17.727112+00:00
+ibm,granite3.3,ollama,auscj,30,30,0,True,2025-04-17 19:07:06.361816+00:00
+ibm,granite3.3,ollama,swiss_health,33,30,-3,True,2025-04-17 19:15:48.390078+00:00
+ibm,granite3.3,ollama,biobanking_wa,35,30,-5,True,2025-04-17 19:30:43.490819+00:00
+xai,grok-2-1212,xAI API,uppsala_speaks,30,30,0,True,2025-04-08 10:30:28.622744+00:00
+xai,grok-2-1212,xAI API,fnqcj,30,30,0,True,2025-04-08 10:34:04.203721+00:00
+xai,grok-2-1212,xAI API,acp,30,30,0,True,2025-04-08 10:38:00.501055+00:00
+xai,grok-2-1212,xAI API,ccps,30,30,0,True,2025-04-08 10:41:13.425489+00:00
+xai,grok-2-1212,xAI API,forestera,30,30,0,True,2025-04-08 10:45:04.331229+00:00
+xai,grok-2-1212,xAI API,biobanking_mayo_ubc,30,30,0,True,2025-04-08 10:48:47.944692+00:00
+xai,grok-2-1212,xAI API,zh_uster,30,30,0,True,2025-04-08 10:52:03.387136+00:00
+xai,grok-2-1212,xAI API,zh_thalwil,30,30,0,True,2025-04-08 10:55:03.484054+00:00
+xai,grok-2-1212,xAI API,zh_winterthur,30,30,0,True,2025-04-08 10:58:02.786487+00:00
+xai,grok-2-1212,xAI API,ds_bellinzona,30,30,0,True,2025-04-08 11:01:10.273429+00:00
+xai,grok-2-1212,xAI API,ds_aargau,30,30,0,True,2025-04-08 11:04:29.422643+00:00
+xai,grok-2-1212,xAI API,fremantle,30,30,0,True,2025-04-08 11:07:51.995471+00:00
+xai,grok-2-1212,xAI API,zukunft,30,30,0,True,2025-04-08 11:10:26.906154+00:00
+xai,grok-2-1212,xAI API,bep,31,30,-1,True,2025-04-08 11:14:18.172015+00:00
+xai,grok-2-1212,xAI API,energy_futures,30,30,0,True,2025-04-08 11:18:08.067589+00:00
+xai,grok-2-1212,xAI API,valsamoggia,30,30,0,True,2025-04-08 11:21:23.223894+00:00
+xai,grok-2-1212,xAI API,gbr,30,30,0,True,2025-04-08 11:24:39.815116+00:00
+xai,grok-2-1212,xAI API,auscj,30,30,0,True,2025-04-08 11:28:32.799200+00:00
+xai,grok-2-1212,xAI API,swiss_health,30,30,0,True,2025-04-08 11:31:16.653141+00:00
+xai,grok-2-1212,xAI API,biobanking_wa,30,30,0,True,2025-04-08 11:35:18.833602+00:00
+xai,grok-3-beta,xAI API,uppsala_speaks,30,30,0,True,2025-04-14 08:02:47.567119+00:00
+xai,grok-3-beta,xAI API,fnqcj,30,30,0,True,2025-04-14 08:04:22.511133+00:00
+xai,grok-3-beta,xAI API,acp,30,30,0,True,2025-04-14 08:06:00.829726+00:00
+xai,grok-3-beta,xAI API,ccps,30,30,0,True,2025-04-14 08:07:28.464657+00:00
+xai,grok-3-beta,xAI API,forestera,30,30,0,True,2025-04-14 08:09:08.352450+00:00
+xai,grok-3-beta,xAI API,biobanking_mayo_ubc,30,30,0,True,2025-04-14 08:10:37.911857+00:00
+xai,grok-3-beta,xAI API,zh_uster,30,30,0,True,2025-04-14 08:12:08.002606+00:00
+xai,grok-3-beta,xAI API,zh_thalwil,30,30,0,True,2025-04-14 08:13:43.260073+00:00
+xai,grok-3-beta,xAI API,zh_winterthur,30,30,0,True,2025-04-14 08:15:32.516840+00:00
+xai,grok-3-beta,xAI API,ds_bellinzona,30,30,0,True,2025-04-14 08:17:24.204968+00:00
+xai,grok-3-beta,xAI API,ds_aargau,30,30,0,True,2025-04-14 08:19:03.259817+00:00
+xai,grok-3-beta,xAI API,fremantle,30,30,0,True,2025-04-14 08:20:57.819684+00:00
+xai,grok-3-beta,xAI API,zukunft,30,30,0,True,2025-04-14 08:22:25.299633+00:00
+xai,grok-3-beta,xAI API,bep,31,30,-1,True,2025-04-14 08:24:02.838389+00:00
+xai,grok-3-beta,xAI API,energy_futures,30,30,0,True,2025-04-14 08:25:42.250449+00:00
+xai,grok-3-beta,xAI API,valsamoggia,30,30,0,True,2025-04-14 08:27:09.028424+00:00
+xai,grok-3-beta,xAI API,gbr,30,30,0,True,2025-04-14 08:37:00.068769+00:00
+xai,grok-3-beta,xAI API,auscj,30,30,0,True,2025-04-14 08:34:00.715779+00:00
+xai,grok-3-beta,xAI API,swiss_health,30,30,0,True,2025-04-14 08:35:46.592537+00:00
+xai,grok-3-beta,xAI API,biobanking_wa,30,30,0,True,2025-04-14 08:31:52.040483+00:00
+xai,grok-3-mini-beta,xAI API,uppsala_speaks,30,30,0,True,2025-04-14 07:50:15.226720+00:00
+xai,grok-3-mini-beta,xAI API,fnqcj,30,30,0,True,2025-04-11 12:42:10.315666+00:00
+xai,grok-3-mini-beta,xAI API,acp,30,30,0,True,2025-04-11 12:53:26.835367+00:00
+xai,grok-3-mini-beta,xAI API,ccps,30,30,0,True,2025-04-11 13:04:04.028274+00:00
+xai,grok-3-mini-beta,xAI API,forestera,30,30,0,True,2025-04-11 13:15:24.312578+00:00
+xai,grok-3-mini-beta,xAI API,biobanking_mayo_ubc,30,30,0,True,2025-04-11 13:27:28.436569+00:00
+xai,grok-3-mini-beta,xAI API,zh_uster,30,30,0,True,2025-04-11 13:38:41.411955+00:00
+xai,grok-3-mini-beta,xAI API,zh_thalwil,30,30,0,True,2025-04-11 13:50:44.213487+00:00
+xai,grok-3-mini-beta,xAI API,zh_winterthur,30,30,0,True,2025-04-11 14:02:37.201672+00:00
+xai,grok-3-mini-beta,xAI API,ds_bellinzona,30,30,0,True,2025-04-11 14:13:57.956473+00:00
+xai,grok-3-mini-beta,xAI API,ds_aargau,30,30,0,True,2025-04-14 07:52:05.747410+00:00
+xai,grok-3-mini-beta,xAI API,fremantle,30,30,0,True,2025-04-14 07:50:58.161279+00:00
+xai,grok-3-mini-beta,xAI API,zukunft,30,30,0,True,2025-04-11 14:49:46.206327+00:00
+xai,grok-3-mini-beta,xAI API,bep,31,30,-1,True,2025-04-11 15:02:26.688270+00:00
+xai,grok-3-mini-beta,xAI API,energy_futures,30,30,0,True,2025-04-11 15:14:22.080483+00:00
+xai,grok-3-mini-beta,xAI API,valsamoggia,30,30,0,True,2025-04-11 15:27:56.175020+00:00
+xai,grok-3-mini-beta,xAI API,gbr,30,30,0,True,2025-04-11 15:40:07.825335+00:00
+xai,grok-3-mini-beta,xAI API,auscj,30,30,0,True,2025-04-11 15:53:58.622822+00:00
+xai,grok-3-mini-beta,xAI API,swiss_health,30,30,0,True,2025-04-11 16:04:04.436213+00:00
+xai,grok-3-mini-beta,xAI API,biobanking_wa,30,30,0,True,2025-04-11 16:15:32.362345+00:00
+xai,grok-3-mini-beta-r=high,xAI API,uppsala_speaks,5,5,0,True,2025-04-28 11:37:45.116191+00:00
+xai,grok-3-mini-beta-r=high,xAI API,fnqcj,5,5,0,True,2025-04-28 11:40:31.399600+00:00
+xai,grok-3-mini-beta-r=high,xAI API,acp,5,5,0,True,2025-04-28 11:43:16.951609+00:00
+xai,grok-3-mini-beta-r=high,xAI API,ccps,5,5,0,True,2025-04-28 11:45:46.567393+00:00
+xai,grok-3-mini-beta-r=high,xAI API,forestera,5,5,0,True,2025-04-28 11:48:29.554349+00:00
+xai,grok-3-mini-beta-r=high,xAI API,biobanking_mayo_ubc,5,5,0,True,2025-04-28 11:51:10.006534+00:00
+xai,grok-3-mini-beta-r=high,xAI API,zh_uster,5,5,0,True,2025-04-28 11:54:03.540986+00:00
+xai,grok-3-mini-beta-r=high,xAI API,zh_thalwil,5,5,0,True,2025-04-28 11:56:47.528620+00:00
+xai,grok-3-mini-beta-r=high,xAI API,zh_winterthur,5,5,0,True,2025-04-28 11:59:15.802451+00:00
+xai,grok-3-mini-beta-r=high,xAI API,ds_bellinzona,5,5,0,True,2025-04-28 12:02:15.135107+00:00
+xai,grok-3-mini-beta-r=high,xAI API,ds_aargau,5,5,0,True,2025-04-28 12:05:14.233947+00:00
+xai,grok-3-mini-beta-r=high,xAI API,fremantle,5,5,0,True,2025-04-28 12:11:02.861528+00:00
+xai,grok-3-mini-beta-r=high,xAI API,zukunft,5,5,0,True,2025-04-28 12:14:46.219863+00:00
+xai,grok-3-mini-beta-r=high,xAI API,bep,5,5,0,True,2025-04-28 12:17:37.477498+00:00
+xai,grok-3-mini-beta-r=high,xAI API,energy_futures,5,5,0,True,2025-04-28 12:21:25.129412+00:00
+xai,grok-3-mini-beta-r=high,xAI API,valsamoggia,5,5,0,True,2025-04-28 12:27:30.251461+00:00
+xai,grok-3-mini-beta-r=high,xAI API,gbr,5,5,0,True,2025-04-28 12:30:44.560573+00:00
+xai,grok-3-mini-beta-r=high,xAI API,auscj,5,5,0,True,2025-04-28 12:34:13.925338+00:00
+xai,grok-3-mini-beta-r=high,xAI API,swiss_health,5,5,0,True,2025-04-28 12:37:31.821685+00:00
+xai,grok-3-mini-beta-r=high,xAI API,biobanking_wa,5,5,0,True,2025-04-28 12:41:34.552801+00:00
+xai,grok-3-mini-beta-r=low,xAI API,uppsala_speaks,10,5,-5,True,2025-04-28 10:11:30.686947+00:00
+xai,grok-3-mini-beta-r=low,xAI API,fnqcj,10,5,-5,True,2025-04-28 10:14:31.035292+00:00
+xai,grok-3-mini-beta-r=low,xAI API,acp,10,5,-5,True,2025-04-28 10:17:25.196522+00:00
+xai,grok-3-mini-beta-r=low,xAI API,ccps,10,5,-5,True,2025-04-28 10:20:24.950739+00:00
+xai,grok-3-mini-beta-r=low,xAI API,forestera,9,5,-4,True,2025-04-28 10:23:36.174869+00:00
+xai,grok-3-mini-beta-r=low,xAI API,biobanking_mayo_ubc,5,5,0,True,2025-04-28 10:26:51.744060+00:00
+xai,grok-3-mini-beta-r=low,xAI API,zh_uster,5,5,0,True,2025-04-28 10:30:20.415204+00:00
+xai,grok-3-mini-beta-r=low,xAI API,zh_thalwil,5,5,0,True,2025-04-28 10:33:22.594377+00:00
+xai,grok-3-mini-beta-r=low,xAI API,zh_winterthur,5,5,0,True,2025-04-28 10:36:05.396478+00:00
+xai,grok-3-mini-beta-r=low,xAI API,ds_bellinzona,5,5,0,True,2025-04-28 10:38:57.214821+00:00
+xai,grok-3-mini-beta-r=low,xAI API,ds_aargau,5,5,0,True,2025-04-28 10:41:59.807640+00:00
+xai,grok-3-mini-beta-r=low,xAI API,fremantle,5,5,0,True,2025-04-28 10:45:58.996336+00:00
+xai,grok-3-mini-beta-r=low,xAI API,zukunft,5,5,0,True,2025-04-28 10:48:54.525940+00:00
+xai,grok-3-mini-beta-r=low,xAI API,bep,5,5,0,True,2025-04-28 10:51:40.874172+00:00
+xai,grok-3-mini-beta-r=low,xAI API,energy_futures,5,5,0,True,2025-04-28 10:54:49.319613+00:00
+xai,grok-3-mini-beta-r=low,xAI API,valsamoggia,5,5,0,True,2025-04-28 10:58:48.336455+00:00
+xai,grok-3-mini-beta-r=low,xAI API,gbr,5,5,0,True,2025-04-28 11:01:33.291706+00:00
+xai,grok-3-mini-beta-r=low,xAI API,auscj,5,5,0,True,2025-04-28 11:04:42.347824+00:00
+xai,grok-3-mini-beta-r=low,xAI API,swiss_health,5,5,0,True,2025-04-28 11:07:35.567619+00:00
+xai,grok-3-mini-beta-r=low,xAI API,biobanking_wa,5,5,0,True,2025-04-28 11:10:33.170020+00:00
+xai,grok-3-mini-fast-beta,xAI API,uppsala_speaks,5,5,0,True,2025-05-22 16:42:34.948781+00:00
+xai,grok-3-mini-fast-beta,xAI API,fnqcj,5,5,0,True,2025-05-22 16:44:27.885620+00:00
+xai,grok-3-mini-fast-beta,xAI API,acp,5,5,0,True,2025-05-22 16:46:15.349909+00:00
+xai,grok-3-mini-fast-beta,xAI API,ccps,5,5,0,True,2025-05-22 16:48:05.223415+00:00
+xai,grok-3-mini-fast-beta,xAI API,forestera,5,5,0,True,2025-05-22 16:49:54.839780+00:00
+xai,grok-3-mini-fast-beta,xAI API,biobanking_mayo_ubc,5,5,0,True,2025-05-22 16:51:40.415636+00:00
+xai,grok-3-mini-fast-beta,xAI API,zh_uster,5,5,0,True,2025-05-22 16:53:27.540232+00:00
+xai,grok-3-mini-fast-beta,xAI API,zh_thalwil,5,5,0,True,2025-05-22 16:55:10.819101+00:00
+xai,grok-3-mini-fast-beta,xAI API,zh_winterthur,5,5,0,True,2025-05-22 16:56:50.194227+00:00
+xai,grok-3-mini-fast-beta,xAI API,ds_bellinzona,5,5,0,True,2025-05-22 16:58:32.859618+00:00
+xai,grok-3-mini-fast-beta,xAI API,ds_aargau,5,5,0,True,2025-05-22 17:01:43.710332+00:00
+xai,grok-3-mini-fast-beta,xAI API,fremantle,5,5,0,True,2025-05-22 17:06:00.804034+00:00
+xai,grok-3-mini-fast-beta,xAI API,zukunft,5,5,0,True,2025-05-22 17:07:53.811041+00:00
+xai,grok-3-mini-fast-beta,xAI API,bep,5,5,0,True,2025-05-22 17:09:47.382694+00:00
+xai,grok-3-mini-fast-beta,xAI API,energy_futures,5,5,0,True,2025-05-22 17:11:44.587570+00:00
+xai,grok-3-mini-fast-beta,xAI API,valsamoggia,5,5,0,True,2025-05-22 17:13:52.692967+00:00
+xai,grok-3-mini-fast-beta,xAI API,gbr,5,5,0,True,2025-05-22 17:15:46.790074+00:00
+xai,grok-3-mini-fast-beta,xAI API,auscj,5,5,0,True,2025-05-22 17:18:17.525025+00:00
+xai,grok-3-mini-fast-beta,xAI API,swiss_health,5,5,0,True,2025-05-22 17:21:42.999819+00:00
+xai,grok-3-mini-fast-beta,xAI API,biobanking_wa,5,5,0,True,2025-05-22 17:24:29.857508+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,uppsala_speaks,5,5,0,True,2025-05-21 11:45:32.158709+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,fnqcj,5,5,0,True,2025-05-21 11:48:28.468665+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,acp,5,5,0,True,2025-05-21 11:51:24.792805+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,ccps,5,5,0,True,2025-05-21 11:53:59.022340+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,forestera,5,5,0,True,2025-05-21 11:56:54.129834+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,biobanking_mayo_ubc,5,5,0,True,2025-05-21 11:59:52.291030+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,zh_uster,5,5,0,True,2025-05-21 12:03:28.079416+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,zh_thalwil,5,5,0,True,2025-05-21 12:06:29.902139+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,zh_winterthur,5,5,0,True,2025-05-21 12:08:52.624020+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,ds_bellinzona,5,5,0,True,2025-05-21 12:11:30.736320+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,ds_aargau,5,5,0,True,2025-05-21 12:14:00.525085+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,fremantle,5,5,0,True,2025-05-21 12:20:22.520032+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,zukunft,5,5,0,True,2025-05-21 12:22:56.219969+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,bep,5,5,0,True,2025-05-21 12:25:22.941523+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,energy_futures,5,5,0,True,2025-05-21 12:28:01.876500+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,valsamoggia,5,5,0,True,2025-05-21 12:33:10.997879+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,gbr,5,5,0,True,2025-05-21 12:35:50.798820+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,auscj,5,5,0,True,2025-05-21 12:38:22.622287+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,swiss_health,5,5,0,True,2025-05-21 12:40:19.321861+00:00
+xai,grok-3-mini-fast-beta-r=high,xAI API,biobanking_wa,5,5,0,True,2025-05-21 12:42:38.122216+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,uppsala_speaks,5,5,0,True,2025-05-20 12:44:20.210745+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,fnqcj,5,5,0,True,2025-05-20 12:45:59.874345+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,acp,5,5,0,True,2025-05-20 12:47:52.538256+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,ccps,5,5,0,True,2025-05-20 12:49:39.590314+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,forestera,5,5,0,True,2025-05-20 12:51:20.974932+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,biobanking_mayo_ubc,5,5,0,True,2025-05-20 12:53:32.063423+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,zh_uster,5,5,0,True,2025-05-20 12:55:19.562443+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,zh_thalwil,5,5,0,True,2025-05-20 12:57:04.029386+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,zh_winterthur,5,5,0,True,2025-05-20 12:58:51.870290+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,ds_bellinzona,5,5,0,True,2025-05-20 13:00:35.284017+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,ds_aargau,5,5,0,True,2025-05-20 13:02:17.907500+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,fremantle,5,5,0,True,2025-05-20 13:04:37.990885+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,zukunft,5,5,0,True,2025-05-20 13:06:13.731897+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,bep,6,5,-1,True,2025-05-20 13:07:52.498778+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,energy_futures,5,5,0,True,2025-05-20 13:11:40.147216+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,valsamoggia,5,5,0,True,2025-05-20 13:13:59.894026+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,gbr,5,5,0,True,2025-05-20 13:15:54.402765+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,auscj,5,5,0,True,2025-05-20 13:17:53.111224+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,swiss_health,5,5,0,True,2025-05-20 13:21:17.170248+00:00
+xai,grok-3-mini-fast-beta-r=low,xAI API,biobanking_wa,5,5,0,True,2025-05-20 13:23:17.015072+00:00
+xai,grok-beta,xAI API,uppsala_speaks,30,30,0,True,2025-04-14 09:28:16.094227+00:00
+xai,grok-beta,xAI API,fnqcj,30,30,0,True,2025-04-14 09:30:36.762215+00:00
+xai,grok-beta,xAI API,acp,30,30,0,True,2025-04-14 09:33:11.749433+00:00
+xai,grok-beta,xAI API,ccps,30,30,0,True,2025-04-14 09:35:15.304669+00:00
+xai,grok-beta,xAI API,forestera,30,30,0,True,2025-04-14 09:37:45.293989+00:00
+xai,grok-beta,xAI API,biobanking_mayo_ubc,30,30,0,True,2025-04-14 09:39:58.669400+00:00
+xai,grok-beta,xAI API,zh_uster,30,30,0,True,2025-04-14 09:41:56.098692+00:00
+xai,grok-beta,xAI API,zh_thalwil,30,30,0,True,2025-04-14 09:43:57.620988+00:00
+xai,grok-beta,xAI API,zh_winterthur,30,30,0,True,2025-04-14 09:46:05.946631+00:00
+xai,grok-beta,xAI API,ds_bellinzona,30,30,0,True,2025-04-14 09:48:05.671651+00:00
+xai,grok-beta,xAI API,ds_aargau,30,30,0,True,2025-04-14 09:50:07.527229+00:00
+xai,grok-beta,xAI API,fremantle,30,30,0,True,2025-04-14 09:52:19.481899+00:00
+xai,grok-beta,xAI API,zukunft,30,30,0,True,2025-04-14 09:53:59.320422+00:00
+xai,grok-beta,xAI API,bep,31,30,-1,True,2025-04-14 09:56:23.395556+00:00
+xai,grok-beta,xAI API,energy_futures,30,30,0,True,2025-04-14 09:58:59.299048+00:00
+xai,grok-beta,xAI API,valsamoggia,30,30,0,True,2025-04-14 10:01:08.269332+00:00
+xai,grok-beta,xAI API,gbr,30,30,0,True,2025-04-14 10:03:14.629491+00:00
+xai,grok-beta,xAI API,auscj,30,30,0,True,2025-04-14 10:05:47.502930+00:00
+xai,grok-beta,xAI API,swiss_health,30,30,0,True,2025-04-14 10:07:35.129329+00:00
+xai,grok-beta,xAI API,biobanking_wa,30,30,0,True,2025-04-14 10:10:18.149167+00:00
+meta,llama2:13b,Together AI,uppsala_speaks,0,30,30,False,
+meta,llama2:13b,Together AI,fnqcj,0,30,30,False,
+meta,llama2:13b,Together AI,acp,0,30,30,False,
+meta,llama2:13b,Together AI,ccps,0,30,30,False,
+meta,llama2:13b,Together AI,forestera,0,30,30,False,
+meta,llama2:13b,Together AI,biobanking_mayo_ubc,0,30,30,False,
+meta,llama2:13b,Together AI,zh_uster,0,30,30,False,
+meta,llama2:13b,Together AI,zh_thalwil,0,30,30,False,
+meta,llama2:13b,Together AI,zh_winterthur,0,30,30,False,
+meta,llama2:13b,Together AI,ds_bellinzona,0,30,30,False,
+meta,llama2:13b,Together AI,ds_aargau,0,30,30,False,
+meta,llama2:13b,Together AI,fremantle,0,30,30,False,
+meta,llama2:13b,Together AI,zukunft,0,30,30,False,
+meta,llama2:13b,Together AI,bep,0,30,30,False,
+meta,llama2:13b,Together AI,energy_futures,0,30,30,False,
+meta,llama2:13b,Together AI,valsamoggia,0,30,30,False,
+meta,llama2:13b,Together AI,gbr,0,30,30,False,
+meta,llama2:13b,Together AI,auscj,0,30,30,False,
+meta,llama2:13b,Together AI,swiss_health,0,30,30,False,
+meta,llama2:13b,Together AI,biobanking_wa,0,30,30,False,
+meta,llama2:70b,Together AI,uppsala_speaks,0,30,30,False,2025-07-03 11:55:34.201434+00:00
+meta,llama2:70b,Together AI,fnqcj,0,30,30,False,2025-07-03 11:55:34.201846+00:00
+meta,llama2:70b,Together AI,acp,0,30,30,False,2025-07-03 11:55:34.202216+00:00
+meta,llama2:70b,Together AI,ccps,0,30,30,False,2025-07-03 11:55:34.202582+00:00
+meta,llama2:70b,Together AI,forestera,0,30,30,False,2025-07-03 11:55:34.202938+00:00
+meta,llama2:70b,Together AI,biobanking_mayo_ubc,0,30,30,False,2025-07-03 11:55:34.203280+00:00
+meta,llama2:70b,Together AI,zh_uster,0,30,30,False,2025-07-03 11:55:34.203619+00:00
+meta,llama2:70b,Together AI,zh_thalwil,0,30,30,False,2025-07-03 11:55:34.203960+00:00
+meta,llama2:70b,Together AI,zh_winterthur,0,30,30,False,2025-07-03 11:55:34.204298+00:00
+meta,llama2:70b,Together AI,ds_bellinzona,0,30,30,False,2025-07-03 11:55:34.204647+00:00
+meta,llama2:70b,Together AI,ds_aargau,0,30,30,False,2025-07-03 11:55:34.204991+00:00
+meta,llama2:70b,Together AI,fremantle,0,30,30,False,2025-07-03 11:55:34.205335+00:00
+meta,llama2:70b,Together AI,zukunft,0,30,30,False,2025-07-03 11:55:34.205674+00:00
+meta,llama2:70b,Together AI,bep,0,30,30,False,
+meta,llama2:70b,Together AI,energy_futures,0,30,30,False,2025-07-03 11:55:34.207179+00:00
+meta,llama2:70b,Together AI,valsamoggia,0,30,30,False,2025-07-03 11:55:34.207567+00:00
+meta,llama2:70b,Together AI,gbr,0,30,30,False,2025-07-03 11:55:34.207934+00:00
+meta,llama2:70b,Together AI,auscj,0,30,30,False,2025-07-03 11:55:34.208296+00:00
+meta,llama2:70b,Together AI,swiss_health,0,30,30,False,2025-07-03 11:55:34.208639+00:00
+meta,llama2:70b,Together AI,biobanking_wa,0,30,30,False,2025-07-03 11:55:34.208974+00:00
+meta,llama3.1:405B-turbo,Together AI,uppsala_speaks,31,30,-1,True,2025-04-02 11:54:02.564264+00:00
+meta,llama3.1:405B-turbo,Together AI,fnqcj,30,30,0,True,2025-04-02 11:56:47.361218+00:00
+meta,llama3.1:405B-turbo,Together AI,acp,30,30,0,True,2025-04-02 15:37:15.084914+00:00
+meta,llama3.1:405B-turbo,Together AI,ccps,31,30,-1,True,2025-04-02 12:02:17.197390+00:00
+meta,llama3.1:405B-turbo,Together AI,forestera,31,30,-1,True,2025-04-02 12:06:11.785419+00:00
+meta,llama3.1:405B-turbo,Together AI,biobanking_mayo_ubc,31,30,-1,True,2025-04-02 12:09:42.550247+00:00
+meta,llama3.1:405B-turbo,Together AI,zh_uster,31,30,-1,True,2025-04-02 12:11:59.182362+00:00
+meta,llama3.1:405B-turbo,Together AI,zh_thalwil,31,30,-1,True,2025-04-02 12:14:17.063888+00:00
+meta,llama3.1:405B-turbo,Together AI,zh_winterthur,31,30,-1,True,2025-04-02 12:16:39.292662+00:00
+meta,llama3.1:405B-turbo,Together AI,ds_bellinzona,31,30,-1,True,2025-04-02 12:18:53.024971+00:00
+meta,llama3.1:405B-turbo,Together AI,ds_aargau,31,30,-1,True,2025-04-02 12:21:49.765678+00:00
+meta,llama3.1:405B-turbo,Together AI,fremantle,31,30,-1,True,2025-04-02 12:25:58.430112+00:00
+meta,llama3.1:405B-turbo,Together AI,zukunft,30,30,0,True,2025-04-02 15:37:51.699899+00:00
+meta,llama3.1:405B-turbo,Together AI,bep,30,30,0,True,2025-04-02 15:36:49.911366+00:00
+meta,llama3.1:405B-turbo,Together AI,energy_futures,30,30,0,True,2025-04-02 15:35:38.113743+00:00
+meta,llama3.1:405B-turbo,Together AI,valsamoggia,30,30,0,True,2025-04-02 15:28:21.408031+00:00
+meta,llama3.1:405B-turbo,Together AI,gbr,30,30,0,True,2025-04-02 14:52:34.871298+00:00
+meta,llama3.1:405B-turbo,Together AI,auscj,30,30,0,True,2025-04-02 14:46:31.989950+00:00
+meta,llama3.1:405B-turbo,Together AI,swiss_health,30,30,0,True,2025-04-02 14:37:24.893742+00:00
+meta,llama3.1:405B-turbo,Together AI,biobanking_wa,30,30,0,True,2025-04-02 14:42:06.970660+00:00
+meta,llama3.2,ollama,uppsala_speaks,42,30,-12,True,2025-03-27 15:09:49.935247+00:00
+meta,llama3.2,ollama,fnqcj,47,30,-17,True,2025-03-27 15:12:44.831867+00:00
+meta,llama3.2,ollama,acp,32,30,-2,True,2025-03-27 15:15:48.382217+00:00
+meta,llama3.2,ollama,ccps,40,30,-10,True,2025-03-27 15:17:57.787779+00:00
+meta,llama3.2,ollama,forestera,36,30,-6,True,2025-03-27 15:21:12.090207+00:00
+meta,llama3.2,ollama,biobanking_mayo_ubc,50,30,-20,True,2025-03-27 15:23:57.168057+00:00
+meta,llama3.2,ollama,zh_uster,50,30,-20,True,2025-03-27 15:26:24.359784+00:00
+meta,llama3.2,ollama,zh_thalwil,31,30,-1,True,2025-03-27 16:00:36.664444+00:00
+meta,llama3.2,ollama,zh_winterthur,41,30,-11,True,2025-03-27 15:30:29.925345+00:00
+meta,llama3.2,ollama,ds_bellinzona,44,30,-14,True,2025-03-27 15:32:45.482834+00:00
+meta,llama3.2,ollama,ds_aargau,48,30,-18,True,2025-03-27 15:35:11.887022+00:00
+meta,llama3.2,ollama,fremantle,35,30,-5,True,2025-03-27 15:37:19.115772+00:00
+meta,llama3.2,ollama,zukunft,31,30,-1,True,2025-03-27 16:01:39.336968+00:00
+meta,llama3.2,ollama,bep,47,30,-17,True,2025-03-27 15:41:39.810999+00:00
+meta,llama3.2,ollama,energy_futures,31,30,-1,True,2025-03-27 15:44:32.759092+00:00
+meta,llama3.2,ollama,valsamoggia,44,30,-14,True,2025-03-27 15:47:28.288539+00:00
+meta,llama3.2,ollama,gbr,41,30,-11,True,2025-03-27 15:49:52.049008+00:00
+meta,llama3.2,ollama,auscj,11,30,19,False,2025-03-28 10:37:36.662271+00:00
+meta,llama3.2,ollama,swiss_health,36,30,-6,True,2025-03-27 15:53:10.734879+00:00
+meta,llama3.2,ollama,biobanking_wa,34,30,-4,True,2025-03-27 15:56:26.020210+00:00
+meta,llama3.3:70b,Together AI,uppsala_speaks,32,30,-2,True,2025-04-02 11:10:43.834235+00:00
+meta,llama3.3:70b,Together AI,fnqcj,32,30,-2,True,2025-04-02 11:18:39.720878+00:00
+meta,llama3.3:70b,Together AI,acp,32,30,-2,True,2025-04-02 11:26:25.014261+00:00
+meta,llama3.3:70b,Together AI,ccps,32,30,-2,True,2025-04-02 11:33:42.528255+00:00
+meta,llama3.3:70b,Together AI,forestera,32,30,-2,True,2025-04-02 11:41:19.013391+00:00
+meta,llama3.3:70b,Together AI,biobanking_mayo_ubc,32,30,-2,True,2025-04-02 11:48:36.861041+00:00
+meta,llama3.3:70b,Together AI,zh_uster,31,30,-1,True,2025-04-02 16:53:05.466383+00:00
+meta,llama3.3:70b,Together AI,zh_thalwil,30,30,0,True,2025-04-02 12:03:43.509162+00:00
+meta,llama3.3:70b,Together AI,zh_winterthur,32,30,-2,True,2025-04-02 12:10:42.637846+00:00
+meta,llama3.3:70b,Together AI,ds_bellinzona,30,30,0,True,2025-04-02 12:17:43.907853+00:00
+meta,llama3.3:70b,Together AI,ds_aargau,31,30,-1,True,2025-04-02 12:25:01.724514+00:00
+meta,llama3.3:70b,Together AI,fremantle,35,30,-5,True,2025-04-02 16:37:31.815141+00:00
+meta,llama3.3:70b,Together AI,zukunft,31,30,-1,True,2025-04-02 16:32:52.616918+00:00
+meta,llama3.3:70b,Together AI,bep,30,30,0,True,2025-04-02 16:52:12.401787+00:00
+meta,llama3.3:70b,Together AI,energy_futures,30,30,0,True,2025-04-02 16:08:39.214588+00:00
+meta,llama3.3:70b,Together AI,valsamoggia,30,30,0,True,2025-04-02 15:32:02.249743+00:00
+meta,llama3.3:70b,Together AI,gbr,30,30,0,True,2025-04-02 16:51:35.335189+00:00
+meta,llama3.3:70b,Together AI,auscj,30,30,0,True,2025-04-02 15:59:59.701122+00:00
+meta,llama3.3:70b,Together AI,swiss_health,30,30,0,True,2025-04-02 14:49:26.070326+00:00
+meta,llama3.3:70b,Together AI,biobanking_wa,31,30,-1,True,2025-04-02 16:53:43.252743+00:00
+meta,llama3:70b,Together AI,uppsala_speaks,31,30,-1,True,2025-04-01 13:56:52.248364+00:00
+meta,llama3:70b,Together AI,fnqcj,32,30,-2,True,2025-04-01 13:58:58.362432+00:00
+meta,llama3:70b,Together AI,acp,32,30,-2,True,2025-04-01 14:01:05.700082+00:00
+meta,llama3:70b,Together AI,ccps,30,30,0,True,2025-04-02 15:45:52.951209+00:00
+meta,llama3:70b,Together AI,forestera,30,30,0,True,2025-04-02 15:47:58.410495+00:00
+meta,llama3:70b,Together AI,biobanking_mayo_ubc,32,30,-2,True,2025-04-01 14:07:18.530819+00:00
+meta,llama3:70b,Together AI,zh_uster,32,30,-2,True,2025-04-01 14:09:23.260255+00:00
+meta,llama3:70b,Together AI,zh_thalwil,32,30,-2,True,2025-04-01 14:11:25.595759+00:00
+meta,llama3:70b,Together AI,zh_winterthur,30,30,0,True,2025-04-02 15:45:02.456250+00:00
+meta,llama3:70b,Together AI,ds_bellinzona,31,30,-1,True,2025-04-01 14:15:25.350559+00:00
+meta,llama3:70b,Together AI,ds_aargau,31,30,-1,True,2025-04-01 14:17:26.963781+00:00
+meta,llama3:70b,Together AI,fremantle,32,30,-2,True,2025-04-01 14:19:28.552167+00:00
+meta,llama3:70b,Together AI,zukunft,30,30,0,True,2025-04-02 15:54:35.669993+00:00
+meta,llama3:70b,Together AI,bep,32,30,-2,True,2025-04-01 14:23:26.739522+00:00
+meta,llama3:70b,Together AI,energy_futures,32,30,-2,True,2025-04-01 14:25:37.562630+00:00
+meta,llama3:70b,Together AI,valsamoggia,32,30,-2,True,2025-04-01 14:27:42.642388+00:00
+meta,llama3:70b,Together AI,gbr,31,30,-1,True,2025-04-01 14:29:44.192923+00:00
+meta,llama3:70b,Together AI,auscj,32,30,-2,True,2025-04-01 14:31:55.891619+00:00
+meta,llama3:70b,Together AI,swiss_health,30,30,0,True,2025-04-02 15:55:27.054861+00:00
+meta,llama3:70b,Together AI,biobanking_wa,32,30,-2,True,2025-04-01 14:36:17.622584+00:00
+meta,llama4-maverick,Together AI,uppsala_speaks,35,30,-5,True,2025-04-10 17:24:56.881542+00:00
+meta,llama4-maverick,Together AI,fnqcj,35,30,-5,True,2025-04-10 17:25:19.928152+00:00
+meta,llama4-maverick,Together AI,acp,35,30,-5,True,2025-04-10 17:25:46.771756+00:00
+meta,llama4-maverick,Together AI,ccps,35,30,-5,True,2025-04-10 17:26:08.905712+00:00
+meta,llama4-maverick,Together AI,forestera,35,30,-5,True,2025-04-10 17:26:33.177260+00:00
+meta,llama4-maverick,Together AI,biobanking_mayo_ubc,35,30,-5,True,2025-04-10 17:26:56.671529+00:00
+meta,llama4-maverick,Together AI,zh_uster,33,30,-3,True,2025-04-10 17:27:19.477501+00:00
+meta,llama4-maverick,Together AI,zh_thalwil,35,30,-5,True,2025-04-10 17:27:56.002308+00:00
+meta,llama4-maverick,Together AI,zh_winterthur,35,30,-5,True,2025-04-10 17:28:15.745681+00:00
+meta,llama4-maverick,Together AI,ds_bellinzona,34,30,-4,True,2025-04-10 17:28:32.176743+00:00
+meta,llama4-maverick,Together AI,ds_aargau,35,30,-5,True,2025-04-10 17:28:58.468676+00:00
+meta,llama4-maverick,Together AI,fremantle,35,30,-5,True,2025-04-10 17:29:19.940146+00:00
+meta,llama4-maverick,Together AI,zukunft,30,30,0,True,2025-04-10 17:29:41.363713+00:00
+meta,llama4-maverick,Together AI,bep,35,30,-5,True,2025-04-10 17:30:07.758785+00:00
+meta,llama4-maverick,Together AI,energy_futures,34,30,-4,True,2025-04-10 17:30:32.335717+00:00
+meta,llama4-maverick,Together AI,valsamoggia,35,30,-5,True,2025-04-10 17:30:54.986578+00:00
+meta,llama4-maverick,Together AI,gbr,32,30,-2,True,2025-04-10 17:31:19.541708+00:00
+meta,llama4-maverick,Together AI,auscj,33,30,-3,True,2025-04-10 17:31:44.054757+00:00
+meta,llama4-maverick,Together AI,swiss_health,33,30,-3,True,2025-04-10 17:32:03.675497+00:00
+meta,llama4-maverick,Together AI,biobanking_wa,34,30,-4,True,2025-04-10 17:32:28.192295+00:00
+meta,llama4-scout,Together AI,uppsala_speaks,40,30,-10,True,2025-04-10 17:25:30.323401+00:00
+meta,llama4-scout,Together AI,fnqcj,40,30,-10,True,2025-04-10 17:26:15.620938+00:00
+meta,llama4-scout,Together AI,acp,40,30,-10,True,2025-04-10 17:27:05.434135+00:00
+meta,llama4-scout,Together AI,ccps,36,30,-6,True,2025-04-10 17:27:44.949826+00:00
+meta,llama4-scout,Together AI,forestera,40,30,-10,True,2025-04-10 17:28:31.089648+00:00
+meta,llama4-scout,Together AI,biobanking_mayo_ubc,40,30,-10,True,2025-04-10 17:29:16.454139+00:00
+meta,llama4-scout,Together AI,zh_uster,30,30,0,True,2025-04-10 17:29:52.605548+00:00
+meta,llama4-scout,Together AI,zh_thalwil,30,30,0,True,2025-04-10 18:14:48.591502+00:00
+meta,llama4-scout,Together AI,zh_winterthur,37,30,-7,True,2025-04-10 17:31:14.423215+00:00
+meta,llama4-scout,Together AI,ds_bellinzona,35,30,-5,True,2025-04-10 17:31:50.465886+00:00
+meta,llama4-scout,Together AI,ds_aargau,33,30,-3,True,2025-04-10 17:32:34.351597+00:00
+meta,llama4-scout,Together AI,fremantle,40,30,-10,True,2025-04-10 17:33:15.667334+00:00
+meta,llama4-scout,Together AI,zukunft,39,30,-9,True,2025-04-10 17:33:50.328337+00:00
+meta,llama4-scout,Together AI,bep,41,30,-11,True,2025-04-10 17:34:35.365041+00:00
+meta,llama4-scout,Together AI,energy_futures,40,30,-10,True,2025-04-10 17:35:22.193512+00:00
+meta,llama4-scout,Together AI,valsamoggia,40,30,-10,True,2025-04-10 17:36:05.442739+00:00
+meta,llama4-scout,Together AI,gbr,38,30,-8,True,2025-04-10 17:36:47.120629+00:00
+meta,llama4-scout,Together AI,auscj,40,30,-10,True,2025-04-10 17:37:34.425923+00:00
+meta,llama4-scout,Together AI,swiss_health,32,30,-2,True,2025-04-10 17:38:11.288708+00:00
+meta,llama4-scout,Together AI,biobanking_wa,40,30,-10,True,2025-04-10 17:39:00.032852+00:00
+mistralai,ministral-3b-latest,Mistral AI API,uppsala_speaks,34,30,-4,True,2025-04-02 14:38:15.869410+00:00
+mistralai,ministral-3b-latest,Mistral AI API,fnqcj,36,30,-6,True,2025-04-02 14:40:50.306487+00:00
+mistralai,ministral-3b-latest,Mistral AI API,acp,32,30,-2,True,2025-04-02 14:43:40.167193+00:00
+mistralai,ministral-3b-latest,Mistral AI API,ccps,32,30,-2,True,2025-04-02 14:45:45.366826+00:00
+mistralai,ministral-3b-latest,Mistral AI API,forestera,30,30,0,True,2025-04-02 14:48:16.784963+00:00
+mistralai,ministral-3b-latest,Mistral AI API,biobanking_mayo_ubc,32,30,-2,True,2025-04-02 14:50:31.563635+00:00
+mistralai,ministral-3b-latest,Mistral AI API,zh_uster,33,30,-3,True,2025-04-02 14:52:20.853949+00:00
+mistralai,ministral-3b-latest,Mistral AI API,zh_thalwil,32,30,-2,True,2025-04-02 14:54:07.058613+00:00
+mistralai,ministral-3b-latest,Mistral AI API,zh_winterthur,35,30,-5,True,2025-04-02 14:55:49.938247+00:00
+mistralai,ministral-3b-latest,Mistral AI API,ds_bellinzona,34,30,-4,True,2025-04-02 14:58:04.373283+00:00
+mistralai,ministral-3b-latest,Mistral AI API,ds_aargau,35,30,-5,True,2025-04-02 15:00:00.729905+00:00
+mistralai,ministral-3b-latest,Mistral AI API,fremantle,32,30,-2,True,2025-04-02 15:02:40.956789+00:00
+mistralai,ministral-3b-latest,Mistral AI API,zukunft,34,30,-4,True,2025-04-02 15:04:23.417378+00:00
+mistralai,ministral-3b-latest,Mistral AI API,bep,32,30,-2,True,2025-04-02 15:06:53.470148+00:00
+mistralai,ministral-3b-latest,Mistral AI API,energy_futures,32,30,-2,True,2025-04-02 15:09:44.675164+00:00
+mistralai,ministral-3b-latest,Mistral AI API,valsamoggia,30,30,0,True,2025-04-02 15:50:25.280553+00:00
+mistralai,ministral-3b-latest,Mistral AI API,gbr,33,30,-3,True,2025-04-02 15:14:04.237060+00:00
+mistralai,ministral-3b-latest,Mistral AI API,auscj,32,30,-2,True,2025-04-02 15:17:00.797377+00:00
+mistralai,ministral-3b-latest,Mistral AI API,swiss_health,32,30,-2,True,2025-04-02 15:18:45.443525+00:00
+mistralai,ministral-3b-latest,Mistral AI API,biobanking_wa,31,30,-1,True,2025-04-02 15:21:02.720680+00:00
+mistralai,ministral-8b-latest,Mistral AI API,uppsala_speaks,30,30,0,True,2025-04-02 15:59:33.435502+00:00
+mistralai,ministral-8b-latest,Mistral AI API,fnqcj,36,30,-6,True,2025-04-02 16:00:51.096356+00:00
+mistralai,ministral-8b-latest,Mistral AI API,acp,33,30,-3,True,2025-04-02 16:01:59.270320+00:00
+mistralai,ministral-8b-latest,Mistral AI API,ccps,30,30,0,True,2025-04-03 07:12:23.626283+00:00
+mistralai,ministral-8b-latest,Mistral AI API,forestera,31,30,-1,True,2025-04-02 16:03:26.142252+00:00
+mistralai,ministral-8b-latest,Mistral AI API,biobanking_mayo_ubc,35,30,-5,True,2025-04-02 16:04:39.992914+00:00
+mistralai,ministral-8b-latest,Mistral AI API,zh_uster,34,30,-4,True,2025-04-02 16:05:47.914545+00:00
+mistralai,ministral-8b-latest,Mistral AI API,zh_thalwil,36,30,-6,True,2025-04-02 16:06:54.901059+00:00
+mistralai,ministral-8b-latest,Mistral AI API,zh_winterthur,34,30,-4,True,2025-04-02 16:07:58.154753+00:00
+mistralai,ministral-8b-latest,Mistral AI API,ds_bellinzona,38,30,-8,True,2025-04-02 16:09:05.418053+00:00
+mistralai,ministral-8b-latest,Mistral AI API,ds_aargau,31,30,-1,True,2025-04-02 16:10:13.349803+00:00
+mistralai,ministral-8b-latest,Mistral AI API,fremantle,35,30,-5,True,2025-04-02 16:11:24.816017+00:00
+mistralai,ministral-8b-latest,Mistral AI API,zukunft,30,30,0,True,2025-04-03 07:11:44.267863+00:00
+mistralai,ministral-8b-latest,Mistral AI API,bep,30,30,0,True,2025-04-02 16:13:34.505722+00:00
+mistralai,ministral-8b-latest,Mistral AI API,energy_futures,33,30,-3,True,2025-04-02 16:14:56.823688+00:00
+mistralai,ministral-8b-latest,Mistral AI API,valsamoggia,33,30,-3,True,2025-04-02 16:16:09.878900+00:00
+mistralai,ministral-8b-latest,Mistral AI API,gbr,30,30,0,True,2025-04-03 07:11:17.564159+00:00
+mistralai,ministral-8b-latest,Mistral AI API,auscj,30,30,0,True,2025-04-03 07:10:48.716658+00:00
+mistralai,ministral-8b-latest,Mistral AI API,swiss_health,32,30,-2,True,2025-04-02 16:18:27.106232+00:00
+mistralai,ministral-8b-latest,Mistral AI API,biobanking_wa,30,30,0,True,2025-04-03 07:08:50.317787+00:00
+mistralai,mistral-large-latest,Mistral AI API,uppsala_speaks,37,30,-7,True,2025-04-01 14:22:26.037047+00:00
+mistralai,mistral-large-latest,Mistral AI API,fnqcj,33,30,-3,True,2025-04-01 14:24:07.068391+00:00
+mistralai,mistral-large-latest,Mistral AI API,acp,40,30,-10,True,2025-04-01 14:25:44.076041+00:00
+mistralai,mistral-large-latest,Mistral AI API,ccps,30,30,0,True,2025-04-03 07:04:17.432273+00:00
+mistralai,mistral-large-latest,Mistral AI API,forestera,30,30,0,True,2025-04-03 07:02:30.966094+00:00
+mistralai,mistral-large-latest,Mistral AI API,biobanking_mayo_ubc,30,30,0,True,2025-04-03 07:01:28.357909+00:00
+mistralai,mistral-large-latest,Mistral AI API,zh_uster,30,30,0,True,2025-04-01 14:31:35.406208+00:00
+mistralai,mistral-large-latest,Mistral AI API,zh_thalwil,30,30,0,True,2025-04-03 07:05:10.104013+00:00
+mistralai,mistral-large-latest,Mistral AI API,zh_winterthur,30,30,0,True,2025-04-03 06:59:33.795816+00:00
+mistralai,mistral-large-latest,Mistral AI API,ds_bellinzona,31,30,-1,True,2025-04-01 14:35:10.343236+00:00
+mistralai,mistral-large-latest,Mistral AI API,ds_aargau,35,30,-5,True,2025-04-01 14:36:26.474488+00:00
+mistralai,mistral-large-latest,Mistral AI API,fremantle,30,30,0,True,2025-04-01 14:37:41.193768+00:00
+mistralai,mistral-large-latest,Mistral AI API,zukunft,30,30,0,True,2025-04-03 06:56:09.550584+00:00
+mistralai,mistral-large-latest,Mistral AI API,bep,30,30,0,True,2025-04-03 06:57:10.889762+00:00
+mistralai,mistral-large-latest,Mistral AI API,energy_futures,30,30,0,True,2025-04-03 07:05:49.523462+00:00
+mistralai,mistral-large-latest,Mistral AI API,valsamoggia,30,30,0,True,2025-04-03 06:58:22.946554+00:00
+mistralai,mistral-large-latest,Mistral AI API,gbr,30,30,0,True,2025-04-03 06:55:24.588633+00:00
+mistralai,mistral-large-latest,Mistral AI API,auscj,30,30,0,True,2025-04-03 06:53:37.280013+00:00
+mistralai,mistral-large-latest,Mistral AI API,swiss_health,30,30,0,True,2025-04-03 07:06:25.890771+00:00
+mistralai,mistral-large-latest,Mistral AI API,biobanking_wa,36,30,-6,True,2025-04-01 14:49:24.464926+00:00
+mistralai,mistral-small-latest,Mistral AI API,uppsala_speaks,39,30,-9,True,2025-04-01 12:55:32.994663+00:00
+mistralai,mistral-small-latest,Mistral AI API,fnqcj,40,30,-10,True,2025-04-01 12:57:16.159655+00:00
+mistralai,mistral-small-latest,Mistral AI API,acp,34,30,-4,True,2025-04-01 12:58:49.606099+00:00
+mistralai,mistral-small-latest,Mistral AI API,ccps,40,30,-10,True,2025-04-01 13:00:35.066922+00:00
+mistralai,mistral-small-latest,Mistral AI API,forestera,37,30,-7,True,2025-04-01 13:02:50.545296+00:00
+mistralai,mistral-small-latest,Mistral AI API,biobanking_mayo_ubc,40,30,-10,True,2025-04-01 13:04:33.946817+00:00
+mistralai,mistral-small-latest,Mistral AI API,zh_uster,31,30,-1,True,2025-04-01 13:06:02.537431+00:00
+mistralai,mistral-small-latest,Mistral AI API,zh_thalwil,36,30,-6,True,2025-04-01 13:07:27.951323+00:00
+mistralai,mistral-small-latest,Mistral AI API,zh_winterthur,32,30,-2,True,2025-04-01 13:08:47.084835+00:00
+mistralai,mistral-small-latest,Mistral AI API,ds_bellinzona,38,30,-8,True,2025-04-01 13:10:14.653301+00:00
+mistralai,mistral-small-latest,Mistral AI API,ds_aargau,36,30,-6,True,2025-04-01 13:11:40.497913+00:00
+mistralai,mistral-small-latest,Mistral AI API,fremantle,32,30,-2,True,2025-04-01 13:13:00.475728+00:00
+mistralai,mistral-small-latest,Mistral AI API,zukunft,36,30,-6,True,2025-04-01 13:14:18.389920+00:00
+mistralai,mistral-small-latest,Mistral AI API,bep,38,30,-8,True,2025-04-01 13:16:16.991730+00:00
+mistralai,mistral-small-latest,Mistral AI API,energy_futures,39,30,-9,True,2025-04-01 13:18:06.106407+00:00
+mistralai,mistral-small-latest,Mistral AI API,valsamoggia,40,30,-10,True,2025-04-01 13:19:36.463845+00:00
+mistralai,mistral-small-latest,Mistral AI API,gbr,33,30,-3,True,2025-04-01 13:21:10.619434+00:00
+mistralai,mistral-small-latest,Mistral AI API,auscj,36,30,-6,True,2025-04-01 13:23:05.705887+00:00
+mistralai,mistral-small-latest,Mistral AI API,swiss_health,35,30,-5,True,2025-04-01 13:24:16.582897+00:00
+mistralai,mistral-small-latest,Mistral AI API,biobanking_wa,38,30,-8,True,2025-04-01 13:25:51.550176+00:00
+openai,o1,OpenAI API,uppsala_speaks,5,5,0,True,2025-04-02 08:35:44.552962+00:00
+openai,o1,OpenAI API,fnqcj,5,5,0,True,2025-04-02 08:41:21.924169+00:00
+openai,o1,OpenAI API,acp,5,5,0,True,2025-04-02 08:48:33.424243+00:00
+openai,o1,OpenAI API,ccps,5,5,0,True,2025-04-02 08:54:14.539786+00:00
+openai,o1,OpenAI API,forestera,5,5,0,True,2025-04-02 09:02:21.714294+00:00
+openai,o1,OpenAI API,biobanking_mayo_ubc,5,5,0,True,2025-04-02 09:11:44.195296+00:00
+openai,o1,OpenAI API,zh_uster,5,5,0,True,2025-04-08 12:34:54.276511+00:00
+openai,o1,OpenAI API,zh_thalwil,5,5,0,True,2025-04-08 12:43:00.580140+00:00
+openai,o1,OpenAI API,zh_winterthur,5,5,0,True,2025-04-08 13:02:08.860953+00:00
+openai,o1,OpenAI API,ds_bellinzona,5,5,0,True,2025-04-08 09:55:31.828731+00:00
+openai,o1,OpenAI API,ds_aargau,5,5,0,True,2025-04-08 13:05:25.509521+00:00
+openai,o1,OpenAI API,fremantle,5,5,0,True,2025-04-08 14:22:56.419838+00:00
+openai,o1,OpenAI API,zukunft,5,5,0,True,2025-04-08 13:19:47.538286+00:00
+openai,o1,OpenAI API,bep,5,5,0,True,2025-04-08 12:26:47.417180+00:00
+openai,o1,OpenAI API,energy_futures,5,5,0,True,2025-04-08 12:19:55.860504+00:00
+openai,o1,OpenAI API,valsamoggia,5,5,0,True,2025-04-08 12:10:15.145570+00:00
+openai,o1,OpenAI API,gbr,5,5,0,True,2025-04-08 10:33:02.345125+00:00
+openai,o1,OpenAI API,auscj,5,5,0,True,2025-04-08 10:11:34.144302+00:00
+openai,o1,OpenAI API,swiss_health,5,5,0,True,2025-04-08 13:11:58.615007+00:00
+openai,o1,OpenAI API,biobanking_wa,5,5,0,True,2025-04-08 11:58:21.123564+00:00
+openai,o1-mini,OpenAI API,uppsala_speaks,0,5,5,False,
+openai,o1-mini,OpenAI API,fnqcj,5,5,0,True,2025-04-03 14:14:06.656680+00:00
+openai,o1-mini,OpenAI API,acp,3,5,2,False,2025-04-03 14:14:33.136622+00:00
+openai,o1-mini,OpenAI API,ccps,5,5,0,True,2025-04-03 14:16:04.613285+00:00
+openai,o1-mini,OpenAI API,forestera,4,5,1,False,2025-04-03 14:17:09.828861+00:00
+openai,o1-mini,OpenAI API,biobanking_mayo_ubc,5,5,0,True,2025-04-03 14:18:08.224203+00:00
+openai,o1-mini,OpenAI API,zh_uster,5,5,0,True,2025-04-03 14:19:25.109194+00:00
+openai,o1-mini,OpenAI API,zh_thalwil,5,5,0,True,2025-04-03 14:20:43.246507+00:00
+openai,o1-mini,OpenAI API,zh_winterthur,5,5,0,True,2025-04-03 14:22:05.233696+00:00
+openai,o1-mini,OpenAI API,ds_bellinzona,5,5,0,True,2025-04-03 14:23:24.257547+00:00
+openai,o1-mini,OpenAI API,ds_aargau,4,5,1,False,2025-04-03 14:24:48.099814+00:00
+openai,o1-mini,OpenAI API,fremantle,5,5,0,True,2025-04-03 14:26:10.304678+00:00
+openai,o1-mini,OpenAI API,zukunft,4,5,1,False,2025-04-03 14:27:25.079926+00:00
+openai,o1-mini,OpenAI API,bep,6,5,-1,True,2025-04-03 14:28:28.753714+00:00
+openai,o1-mini,OpenAI API,energy_futures,4,5,1,False,2025-04-03 14:29:37.097810+00:00
+openai,o1-mini,OpenAI API,valsamoggia,5,5,0,True,2025-04-03 14:31:13.629630+00:00
+openai,o1-mini,OpenAI API,gbr,5,5,0,True,2025-04-03 14:32:22.841356+00:00
+openai,o1-mini,OpenAI API,auscj,4,5,1,False,2025-04-03 14:33:42.781248+00:00
+openai,o1-mini,OpenAI API,swiss_health,5,5,0,True,2025-04-03 14:35:15.375750+00:00
+openai,o1-mini,OpenAI API,biobanking_wa,4,5,1,False,2025-04-03 14:35:57.821074+00:00
+openai,o3-mini,OpenAI API,uppsala_speaks,5,5,0,True,2025-04-01 13:42:32.598841+00:00
+openai,o3-mini,OpenAI API,fnqcj,5,5,0,True,2025-04-01 13:46:53.601727+00:00
+openai,o3-mini,OpenAI API,acp,5,5,0,True,2025-04-01 13:50:59.393920+00:00
+openai,o3-mini,OpenAI API,ccps,5,5,0,True,2025-04-01 13:56:03.379971+00:00
+openai,o3-mini,OpenAI API,forestera,5,5,0,True,2025-04-01 14:01:28.864109+00:00
+openai,o3-mini,OpenAI API,biobanking_mayo_ubc,5,5,0,True,2025-04-01 14:06:01.737813+00:00
+openai,o3-mini,OpenAI API,zh_uster,5,5,0,True,2025-04-01 14:10:11.675224+00:00
+openai,o3-mini,OpenAI API,zh_thalwil,5,5,0,True,2025-04-01 14:14:06.608998+00:00
+openai,o3-mini,OpenAI API,zh_winterthur,5,5,0,True,2025-04-01 14:18:56.602838+00:00
+openai,o3-mini,OpenAI API,ds_bellinzona,5,5,0,True,2025-04-01 14:23:08.403950+00:00
+openai,o3-mini,OpenAI API,ds_aargau,5,5,0,True,2025-04-01 14:26:40.284136+00:00
+openai,o3-mini,OpenAI API,fremantle,5,5,0,True,2025-04-01 14:40:17.654031+00:00
+openai,o3-mini,OpenAI API,zukunft,5,5,0,True,2025-04-01 14:45:05.750406+00:00
+openai,o3-mini,OpenAI API,bep,5,5,0,True,2025-04-01 14:49:05.062665+00:00
+openai,o3-mini,OpenAI API,energy_futures,5,5,0,True,2025-04-01 14:54:13.848430+00:00
+openai,o3-mini,OpenAI API,valsamoggia,5,5,0,True,2025-04-01 15:02:21.249135+00:00
+openai,o3-mini,OpenAI API,gbr,5,5,0,True,2025-04-01 15:06:34.396721+00:00
+openai,o3-mini,OpenAI API,auscj,5,5,0,True,2025-04-01 15:11:23.709727+00:00
+openai,o3-mini,OpenAI API,swiss_health,5,5,0,True,2025-04-01 15:15:32.584866+00:00
+openai,o3-mini,OpenAI API,biobanking_wa,5,5,0,True,2025-04-01 15:20:02.764202+00:00
+mistralai,open-mistral-7b,Mistral AI API,uppsala_speaks,10,30,20,False,2025-04-04 12:55:45.148840+00:00
+mistralai,open-mistral-7b,Mistral AI API,fnqcj,34,30,-4,True,2025-04-04 12:56:58.489086+00:00
+mistralai,open-mistral-7b,Mistral AI API,acp,21,30,9,False,2025-04-04 12:57:44.098365+00:00
+mistralai,open-mistral-7b,Mistral AI API,ccps,68,30,-38,True,2025-04-04 12:59:11.440481+00:00
+mistralai,open-mistral-7b,Mistral AI API,forestera,19,30,11,False,2025-04-04 12:59:52.124752+00:00
+mistralai,open-mistral-7b,Mistral AI API,biobanking_mayo_ubc,70,30,-40,True,2025-04-04 13:07:26.448981+00:00
+mistralai,open-mistral-7b,Mistral AI API,zh_uster,73,30,-43,True,2025-04-04 13:08:49.637120+00:00
+mistralai,open-mistral-7b,Mistral AI API,zh_thalwil,66,30,-36,True,2025-04-04 13:10:10.024671+00:00
+mistralai,open-mistral-7b,Mistral AI API,zh_winterthur,70,30,-40,True,2025-04-04 13:11:28.485197+00:00
+mistralai,open-mistral-7b,Mistral AI API,ds_bellinzona,74,30,-44,True,2025-04-04 13:12:55.145963+00:00
+mistralai,open-mistral-7b,Mistral AI API,ds_aargau,73,30,-43,True,2025-04-04 13:14:27.871670+00:00
+mistralai,open-mistral-7b,Mistral AI API,fremantle,58,30,-28,True,2025-04-04 13:15:49.309654+00:00
+mistralai,open-mistral-7b,Mistral AI API,zukunft,60,30,-30,True,2025-04-04 13:17:10.780159+00:00
+mistralai,open-mistral-7b,Mistral AI API,bep,48,30,-18,True,2025-04-04 13:18:35.385374+00:00
+mistralai,open-mistral-7b,Mistral AI API,energy_futures,25,30,5,False,2025-04-04 13:19:51.669578+00:00
+mistralai,open-mistral-7b,Mistral AI API,valsamoggia,18,30,12,False,2025-04-04 13:20:12.032891+00:00
+mistralai,open-mistral-7b,Mistral AI API,gbr,11,30,19,False,2025-04-03 08:58:26.445150+00:00
+mistralai,open-mistral-7b,Mistral AI API,auscj,8,30,22,False,2025-04-04 13:20:42.377600+00:00
+mistralai,open-mistral-7b,Mistral AI API,swiss_health,47,30,-17,True,2025-04-04 13:21:58.940537+00:00
+mistralai,open-mistral-7b,Mistral AI API,biobanking_wa,9,30,21,False,2025-04-04 13:22:12.249269+00:00
+mistralai,open-mistral-nemo,Mistral AI API,uppsala_speaks,31,30,-1,True,2025-04-02 16:01:15.335677+00:00
+mistralai,open-mistral-nemo,Mistral AI API,fnqcj,32,30,-2,True,2025-04-02 16:03:17.665787+00:00
+mistralai,open-mistral-nemo,Mistral AI API,acp,35,30,-5,True,2025-04-02 16:05:47.977787+00:00
+mistralai,open-mistral-nemo,Mistral AI API,ccps,31,30,-1,True,2025-04-02 16:08:06.996020+00:00
+mistralai,open-mistral-nemo,Mistral AI API,forestera,39,30,-9,True,2025-04-02 16:10:58.034600+00:00
+mistralai,open-mistral-nemo,Mistral AI API,biobanking_mayo_ubc,34,30,-4,True,2025-04-02 16:13:08.274719+00:00
+mistralai,open-mistral-nemo,Mistral AI API,zh_uster,34,30,-4,True,2025-04-02 16:15:08.441861+00:00
+mistralai,open-mistral-nemo,Mistral AI API,zh_thalwil,35,30,-5,True,2025-04-02 16:16:55.911565+00:00
+mistralai,open-mistral-nemo,Mistral AI API,zh_winterthur,30,30,0,True,2025-04-02 16:46:08.985988+00:00
+mistralai,open-mistral-nemo,Mistral AI API,ds_bellinzona,30,30,0,True,2025-04-02 16:42:41.322697+00:00
+mistralai,open-mistral-nemo,Mistral AI API,ds_aargau,30,30,0,True,2025-04-02 16:46:42.536811+00:00
+mistralai,open-mistral-nemo,Mistral AI API,fremantle,33,30,-3,True,2025-04-02 16:22:18.097005+00:00
+mistralai,open-mistral-nemo,Mistral AI API,zukunft,31,30,-1,True,2025-04-02 16:23:46.845915+00:00
+mistralai,open-mistral-nemo,Mistral AI API,bep,31,30,-1,True,2025-04-02 16:25:56.482139+00:00
+mistralai,open-mistral-nemo,Mistral AI API,energy_futures,38,30,-8,True,2025-04-02 16:28:12.670299+00:00
+mistralai,open-mistral-nemo,Mistral AI API,valsamoggia,34,30,-4,True,2025-04-02 16:30:01.469024+00:00
+mistralai,open-mistral-nemo,Mistral AI API,gbr,30,30,0,True,2025-04-02 16:47:31.531445+00:00
+mistralai,open-mistral-nemo,Mistral AI API,auscj,32,30,-2,True,2025-04-02 16:48:30.085167+00:00
+mistralai,open-mistral-nemo,Mistral AI API,swiss_health,34,30,-4,True,2025-04-02 16:35:14.309768+00:00
+mistralai,open-mistral-nemo,Mistral AI API,biobanking_wa,35,30,-5,True,2025-04-02 16:37:31.055638+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,uppsala_speaks,37,30,-7,True,2025-03-27 11:40:07.124658+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,fnqcj,31,30,-1,True,2025-03-27 11:40:49.012538+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,acp,34,30,-4,True,2025-03-27 11:41:28.941966+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,ccps,32,30,-2,True,2025-03-27 11:42:04.589174+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,forestera,35,30,-5,True,2025-03-27 11:42:46.687074+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,biobanking_mayo_ubc,36,30,-6,True,2025-03-27 11:43:26.302148+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,zh_uster,31,30,-1,True,2025-03-27 11:43:58.326670+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,zh_thalwil,31,30,-1,True,2025-03-27 11:44:30.074194+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,zh_winterthur,32,30,-2,True,2025-03-27 11:45:01.954220+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,ds_bellinzona,34,30,-4,True,2025-03-27 11:45:36.961502+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,ds_aargau,34,30,-4,True,2025-03-27 11:46:11.807106+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,fremantle,33,30,-3,True,2025-03-27 11:46:52.273330+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,zukunft,33,30,-3,True,2025-03-27 11:47:19.437116+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,bep,31,30,-1,True,2025-03-27 11:47:57.751323+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,energy_futures,35,30,-5,True,2025-03-27 11:48:42.139085+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,valsamoggia,31,30,-1,True,2025-03-27 11:49:21.293749+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,gbr,30,30,0,True,2025-03-27 12:47:08.625839+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,auscj,35,30,-5,True,2025-03-27 11:50:36.762054+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,swiss_health,34,30,-4,True,2025-03-27 11:51:11.123790+00:00
+mistralai,open-mixtral-8x22b,Mistral AI API,biobanking_wa,36,30,-6,True,2025-03-27 11:51:53.031656+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,uppsala_speaks,35,30,-5,True,2025-03-27 11:55:11.280389+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,fnqcj,37,30,-7,True,2025-03-27 11:57:32.506904+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,acp,35,30,-5,True,2025-03-27 11:59:48.139657+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,ccps,32,30,-2,True,2025-04-03 07:31:25.138265+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,forestera,41,30,-11,True,2025-03-27 12:04:31.989252+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,biobanking_mayo_ubc,38,30,-8,True,2025-03-27 12:06:38.045137+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,zh_uster,33,30,-3,True,2025-03-27 12:08:19.221715+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,zh_thalwil,36,30,-6,True,2025-03-27 12:10:14.316700+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,zh_winterthur,30,30,0,True,2025-03-27 12:11:49.036880+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,ds_bellinzona,37,30,-7,True,2025-03-27 12:13:35.641529+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,ds_aargau,32,30,-2,True,2025-03-27 12:15:11.486340+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,fremantle,6,30,24,False,2025-04-03 07:34:41.602723+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,zukunft,32,30,-2,True,2025-03-27 12:18:20.623013+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,bep,46,30,-16,True,2025-03-27 12:20:41.401235+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,energy_futures,31,30,-1,True,2025-04-03 07:23:44.379890+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,valsamoggia,32,30,-2,True,2025-03-27 12:24:58.675062+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,gbr,47,30,-17,True,2025-03-27 12:27:19.092468+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,auscj,40,30,-10,True,2025-03-27 12:29:47.178003+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,swiss_health,43,30,-13,True,2025-03-27 12:31:33.203781+00:00
+mistralai,open-mixtral-8x7b,Mistral AI API,biobanking_wa,46,30,-16,True,2025-03-27 12:42:09.614652+00:00
+microsoft,phi,ollama,uppsala_speaks,0,30,30,False,
+microsoft,phi,ollama,fnqcj,0,30,30,False,
+microsoft,phi,ollama,acp,0,30,30,False,
+microsoft,phi,ollama,ccps,0,30,30,False,
+microsoft,phi,ollama,forestera,0,30,30,False,
+microsoft,phi,ollama,biobanking_mayo_ubc,0,30,30,False,
+microsoft,phi,ollama,zh_uster,0,30,30,False,
+microsoft,phi,ollama,zh_thalwil,0,30,30,False,
+microsoft,phi,ollama,zh_winterthur,0,30,30,False,
+microsoft,phi,ollama,ds_bellinzona,0,30,30,False,
+microsoft,phi,ollama,ds_aargau,0,30,30,False,
+microsoft,phi,ollama,fremantle,0,30,30,False,
+microsoft,phi,ollama,zukunft,0,30,30,False,
+microsoft,phi,ollama,bep,0,30,30,False,
+microsoft,phi,ollama,energy_futures,0,30,30,False,
+microsoft,phi,ollama,valsamoggia,0,30,30,False,
+microsoft,phi,ollama,gbr,0,30,30,False,
+microsoft,phi,ollama,auscj,0,30,30,False,
+microsoft,phi,ollama,swiss_health,0,30,30,False,
+microsoft,phi,ollama,biobanking_wa,0,30,30,False,
+microsoft,phi2,ollama,uppsala_speaks,0,30,30,False,2025-07-03 11:55:34.539193+00:00
+microsoft,phi2,ollama,fnqcj,0,30,30,False,2025-07-03 11:55:34.539595+00:00
+microsoft,phi2,ollama,acp,0,30,30,False,2025-07-03 11:55:34.539970+00:00
+microsoft,phi2,ollama,ccps,0,30,30,False,2025-07-03 11:55:34.540331+00:00
+microsoft,phi2,ollama,forestera,0,30,30,False,2025-07-03 11:55:34.540688+00:00
+microsoft,phi2,ollama,biobanking_mayo_ubc,0,30,30,False,2025-07-03 11:55:34.541037+00:00
+microsoft,phi2,ollama,zh_uster,0,30,30,False,2025-07-03 11:55:34.541381+00:00
+microsoft,phi2,ollama,zh_thalwil,0,30,30,False,2025-07-03 11:55:34.541726+00:00
+microsoft,phi2,ollama,zh_winterthur,0,30,30,False,2025-07-03 11:55:34.542072+00:00
+microsoft,phi2,ollama,ds_bellinzona,0,30,30,False,2025-07-03 11:55:34.542413+00:00
+microsoft,phi2,ollama,ds_aargau,0,30,30,False,2025-07-03 11:55:34.542777+00:00
+microsoft,phi2,ollama,fremantle,0,30,30,False,2025-07-03 11:55:34.543155+00:00
+microsoft,phi2,ollama,zukunft,0,30,30,False,2025-07-03 11:55:34.543497+00:00
+microsoft,phi2,ollama,bep,0,30,30,False,2025-07-03 11:55:34.543839+00:00
+microsoft,phi2,ollama,energy_futures,0,30,30,False,2025-07-03 11:55:34.544180+00:00
+microsoft,phi2,ollama,valsamoggia,0,30,30,False,2025-07-03 11:55:34.544525+00:00
+microsoft,phi2,ollama,gbr,0,30,30,False,2025-07-03 11:55:34.544869+00:00
+microsoft,phi2,ollama,auscj,0,30,30,False,2025-07-03 11:55:34.545221+00:00
+microsoft,phi2,ollama,swiss_health,0,30,30,False,2025-07-03 11:55:34.545571+00:00
+microsoft,phi2,ollama,biobanking_wa,0,30,30,False,2025-07-03 11:55:34.545923+00:00
+microsoft,phi3,ollama,uppsala_speaks,0,30,30,False,
+microsoft,phi3,ollama,fnqcj,0,30,30,False,
+microsoft,phi3,ollama,acp,0,30,30,False,
+microsoft,phi3,ollama,ccps,0,30,30,False,
+microsoft,phi3,ollama,forestera,0,30,30,False,
+microsoft,phi3,ollama,biobanking_mayo_ubc,0,30,30,False,
+microsoft,phi3,ollama,zh_uster,0,30,30,False,
+microsoft,phi3,ollama,zh_thalwil,0,30,30,False,
+microsoft,phi3,ollama,zh_winterthur,0,30,30,False,
+microsoft,phi3,ollama,ds_bellinzona,0,30,30,False,
+microsoft,phi3,ollama,ds_aargau,0,30,30,False,
+microsoft,phi3,ollama,fremantle,0,30,30,False,
+microsoft,phi3,ollama,zukunft,0,30,30,False,
+microsoft,phi3,ollama,bep,0,30,30,False,
+microsoft,phi3,ollama,energy_futures,0,30,30,False,
+microsoft,phi3,ollama,valsamoggia,0,30,30,False,
+microsoft,phi3,ollama,gbr,0,30,30,False,
+microsoft,phi3,ollama,auscj,0,30,30,False,
+microsoft,phi3,ollama,swiss_health,0,30,30,False,
+microsoft,phi3,ollama,biobanking_wa,0,30,30,False,
+microsoft,phi3.5,ollama,uppsala_speaks,18,30,12,False,2025-04-04 12:59:24.734010+00:00
+microsoft,phi3.5,ollama,fnqcj,33,30,-3,True,2025-04-04 13:10:00.253410+00:00
+microsoft,phi3.5,ollama,acp,27,30,3,False,2025-04-04 13:20:20.541573+00:00
+microsoft,phi3.5,ollama,ccps,31,30,-1,True,2025-04-04 13:24:25.079133+00:00
+microsoft,phi3.5,ollama,forestera,24,30,6,False,2025-04-04 13:40:20.689312+00:00
+microsoft,phi3.5,ollama,biobanking_mayo_ubc,35,30,-5,True,2025-04-04 13:44:30.856643+00:00
+microsoft,phi3.5,ollama,zh_uster,18,30,12,False,2025-04-04 13:53:39.189061+00:00
+microsoft,phi3.5,ollama,zh_thalwil,19,30,11,False,2025-04-04 13:57:54.399314+00:00
+microsoft,phi3.5,ollama,zh_winterthur,19,30,11,False,2025-04-04 14:08:55.482063+00:00
+microsoft,phi3.5,ollama,ds_bellinzona,8,30,22,False,2025-04-04 14:24:34.206573+00:00
+microsoft,phi3.5,ollama,ds_aargau,11,30,19,False,2025-04-04 14:41:03.881185+00:00
+microsoft,phi3.5,ollama,fremantle,20,30,10,False,2025-04-04 14:45:22.710788+00:00
+microsoft,phi3.5,ollama,zukunft,17,30,13,False,2025-04-04 14:49:26.991032+00:00
+microsoft,phi3.5,ollama,bep,8,30,22,False,2025-04-04 15:08:09.612388+00:00
+microsoft,phi3.5,ollama,energy_futures,18,30,12,False,2025-04-04 15:18:23.422065+00:00
+microsoft,phi3.5,ollama,valsamoggia,41,30,-11,True,2025-04-04 15:29:17.569022+00:00
+microsoft,phi3.5,ollama,gbr,21,30,9,False,2025-04-04 15:40:35.185136+00:00
+microsoft,phi3.5,ollama,auscj,7,30,23,False,2025-04-04 15:51:49.315848+00:00
+microsoft,phi3.5,ollama,swiss_health,19,30,11,False,2025-04-04 16:08:27.510072+00:00
+microsoft,phi3.5,ollama,biobanking_wa,5,30,25,False,2025-04-04 16:10:31.483296+00:00
+microsoft,phi4,ollama,uppsala_speaks,36,30,-6,True,2025-03-27 23:44:19.744930+00:00
+microsoft,phi4,ollama,fnqcj,36,30,-6,True,2025-03-27 23:55:41.387539+00:00
+microsoft,phi4,ollama,acp,36,30,-6,True,2025-03-28 00:06:25.590723+00:00
+microsoft,phi4,ollama,ccps,35,30,-5,True,2025-03-28 00:13:43.776566+00:00
+microsoft,phi4,ollama,forestera,35,30,-5,True,2025-03-28 00:23:49.315437+00:00
+microsoft,phi4,ollama,biobanking_mayo_ubc,35,30,-5,True,2025-03-28 00:33:09.119169+00:00
+microsoft,phi4,ollama,zh_uster,36,30,-6,True,2025-03-28 00:40:52.024898+00:00
+microsoft,phi4,ollama,zh_thalwil,36,30,-6,True,2025-03-28 00:48:00.774222+00:00
+microsoft,phi4,ollama,zh_winterthur,33,30,-3,True,2025-03-28 00:54:34.394167+00:00
+microsoft,phi4,ollama,ds_bellinzona,32,30,-2,True,2025-03-28 01:01:18.280946+00:00
+microsoft,phi4,ollama,ds_aargau,35,30,-5,True,2025-03-28 01:08:37.503900+00:00
+microsoft,phi4,ollama,fremantle,36,30,-6,True,2025-03-28 01:16:38.230463+00:00
+microsoft,phi4,ollama,zukunft,35,30,-5,True,2025-03-28 01:22:24.934987+00:00
+microsoft,phi4,ollama,bep,31,30,-1,True,2025-03-28 01:31:19.827563+00:00
+microsoft,phi4,ollama,energy_futures,34,30,-4,True,2025-03-28 01:46:01.391502+00:00
+microsoft,phi4,ollama,valsamoggia,36,30,-6,True,2025-03-28 01:55:32.910965+00:00
+microsoft,phi4,ollama,gbr,36,30,-6,True,2025-03-28 02:03:24.853074+00:00
+microsoft,phi4,ollama,auscj,34,30,-4,True,2025-03-28 02:15:15.882450+00:00
+microsoft,phi4,ollama,swiss_health,35,30,-5,True,2025-03-28 02:22:31.054810+00:00
+microsoft,phi4,ollama,biobanking_wa,35,30,-5,True,2025-03-28 02:33:55.038128+00:00
+qwen,qwen-max,Alibaba Cloud,uppsala_speaks,31,30,-1,True,2025-03-27 23:31:24.834475+00:00
+qwen,qwen-max,Alibaba Cloud,fnqcj,31,30,-1,True,2025-03-27 23:34:53.438389+00:00
+qwen,qwen-max,Alibaba Cloud,acp,31,30,-1,True,2025-03-27 23:38:44.008456+00:00
+qwen,qwen-max,Alibaba Cloud,ccps,31,30,-1,True,2025-03-27 23:41:55.338970+00:00
+qwen,qwen-max,Alibaba Cloud,forestera,31,30,-1,True,2025-03-27 23:45:39.147457+00:00
+qwen,qwen-max,Alibaba Cloud,biobanking_mayo_ubc,31,30,-1,True,2025-03-27 23:49:03.181755+00:00
+qwen,qwen-max,Alibaba Cloud,zh_uster,31,30,-1,True,2025-03-27 23:52:02.575857+00:00
+qwen,qwen-max,Alibaba Cloud,zh_thalwil,31,30,-1,True,2025-03-27 23:55:01.044987+00:00
+qwen,qwen-max,Alibaba Cloud,zh_winterthur,31,30,-1,True,2025-03-27 23:57:52.538351+00:00
+qwen,qwen-max,Alibaba Cloud,ds_bellinzona,31,30,-1,True,2025-03-28 00:00:55.323469+00:00
+qwen,qwen-max,Alibaba Cloud,ds_aargau,31,30,-1,True,2025-03-28 00:04:01.661640+00:00
+qwen,qwen-max,Alibaba Cloud,fremantle,31,30,-1,True,2025-03-28 00:07:15.593661+00:00
+qwen,qwen-max,Alibaba Cloud,zukunft,31,30,-1,True,2025-03-28 00:09:40.550499+00:00
+qwen,qwen-max,Alibaba Cloud,bep,32,30,-2,True,2025-03-28 00:13:10.975767+00:00
+qwen,qwen-max,Alibaba Cloud,energy_futures,31,30,-1,True,2025-03-28 00:17:02.289242+00:00
+qwen,qwen-max,Alibaba Cloud,valsamoggia,31,30,-1,True,2025-03-28 00:20:13.699273+00:00
+qwen,qwen-max,Alibaba Cloud,gbr,31,30,-1,True,2025-03-28 00:23:23.546519+00:00
+qwen,qwen-max,Alibaba Cloud,auscj,31,30,-1,True,2025-03-28 00:27:06.851218+00:00
+qwen,qwen-max,Alibaba Cloud,swiss_health,31,30,-1,True,2025-03-28 00:29:43.417228+00:00
+qwen,qwen-max,Alibaba Cloud,biobanking_wa,31,30,-1,True,2025-03-28 00:33:37.712618+00:00
+qwen,qwen-plus,Alibaba Cloud,uppsala_speaks,31,30,-1,True,2025-03-27 20:10:45.534405+00:00
+qwen,qwen-plus,Alibaba Cloud,fnqcj,30,30,0,True,2025-03-27 22:43:05.955218+00:00
+qwen,qwen-plus,Alibaba Cloud,acp,31,30,-1,True,2025-03-27 20:20:04.180996+00:00
+qwen,qwen-plus,Alibaba Cloud,ccps,31,30,-1,True,2025-03-27 20:24:25.838878+00:00
+qwen,qwen-plus,Alibaba Cloud,forestera,31,30,-1,True,2025-03-27 20:29:35.380332+00:00
+qwen,qwen-plus,Alibaba Cloud,biobanking_mayo_ubc,31,30,-1,True,2025-03-27 20:34:11.115070+00:00
+qwen,qwen-plus,Alibaba Cloud,zh_uster,30,30,0,True,2025-03-27 20:38:00.922116+00:00
+qwen,qwen-plus,Alibaba Cloud,zh_thalwil,30,30,0,True,2025-03-27 20:42:14.575737+00:00
+qwen,qwen-plus,Alibaba Cloud,zh_winterthur,31,30,-1,True,2025-03-27 20:46:04.278838+00:00
+qwen,qwen-plus,Alibaba Cloud,ds_bellinzona,31,30,-1,True,2025-03-27 20:50:10.111859+00:00
+qwen,qwen-plus,Alibaba Cloud,ds_aargau,30,30,0,True,2025-03-27 20:54:06.210263+00:00
+qwen,qwen-plus,Alibaba Cloud,fremantle,35,30,-5,True,2025-03-27 23:24:56.749624+00:00
+qwen,qwen-plus,Alibaba Cloud,zukunft,30,30,0,True,2025-03-27 23:25:48.444825+00:00
+qwen,qwen-plus,Alibaba Cloud,bep,30,30,0,True,2025-03-27 21:05:21.473065+00:00
+qwen,qwen-plus,Alibaba Cloud,energy_futures,31,30,-1,True,2025-03-27 21:10:50.568914+00:00
+qwen,qwen-plus,Alibaba Cloud,valsamoggia,30,30,0,True,2025-03-27 23:26:47.024086+00:00
+qwen,qwen-plus,Alibaba Cloud,gbr,31,30,-1,True,2025-03-27 21:18:02.855912+00:00
+qwen,qwen-plus,Alibaba Cloud,auscj,31,30,-1,True,2025-03-27 21:23:17.726162+00:00
+qwen,qwen-plus,Alibaba Cloud,swiss_health,31,30,-1,True,2025-03-27 21:26:48.410225+00:00
+qwen,qwen-plus,Alibaba Cloud,biobanking_wa,31,30,-1,True,2025-03-27 21:32:30.962947+00:00
+qwen,qwen-turbo,Alibaba Cloud,uppsala_speaks,30,30,0,True,2025-03-27 19:06:51.845565+00:00
+qwen,qwen-turbo,Alibaba Cloud,fnqcj,30,30,0,True,2025-03-27 19:09:27.571757+00:00
+qwen,qwen-turbo,Alibaba Cloud,acp,30,30,0,True,2025-03-27 19:12:08.886530+00:00
+qwen,qwen-turbo,Alibaba Cloud,ccps,30,30,0,True,2025-03-27 19:14:27.284146+00:00
+qwen,qwen-turbo,Alibaba Cloud,forestera,30,30,0,True,2025-03-27 19:17:03.518885+00:00
+qwen,qwen-turbo,Alibaba Cloud,biobanking_mayo_ubc,30,30,0,True,2025-03-27 19:19:39.061086+00:00
+qwen,qwen-turbo,Alibaba Cloud,zh_uster,30,30,0,True,2025-03-27 20:02:25.852165+00:00
+qwen,qwen-turbo,Alibaba Cloud,zh_thalwil,30,30,0,True,2025-03-27 19:24:09.311692+00:00
+qwen,qwen-turbo,Alibaba Cloud,zh_winterthur,30,30,0,True,2025-03-27 19:26:19.556091+00:00
+qwen,qwen-turbo,Alibaba Cloud,ds_bellinzona,30,30,0,True,2025-03-27 20:03:01.504317+00:00
+qwen,qwen-turbo,Alibaba Cloud,ds_aargau,30,30,0,True,2025-03-27 20:02:49.297076+00:00
+qwen,qwen-turbo,Alibaba Cloud,fremantle,30,30,0,True,2025-03-27 19:33:14.692260+00:00
+qwen,qwen-turbo,Alibaba Cloud,zukunft,30,30,0,True,2025-03-27 20:01:56.991322+00:00
+qwen,qwen-turbo,Alibaba Cloud,bep,30,30,0,True,2025-03-27 20:03:32.686646+00:00
+qwen,qwen-turbo,Alibaba Cloud,energy_futures,30,30,0,True,2025-03-27 20:03:14.247054+00:00
+qwen,qwen-turbo,Alibaba Cloud,valsamoggia,30,30,0,True,2025-03-27 19:42:36.315538+00:00
+qwen,qwen-turbo,Alibaba Cloud,gbr,30,30,0,True,2025-03-27 20:01:22.843718+00:00
+qwen,qwen-turbo,Alibaba Cloud,auscj,30,30,0,True,2025-03-27 19:47:34.824591+00:00
+qwen,qwen-turbo,Alibaba Cloud,swiss_health,30,30,0,True,2025-03-27 19:49:37.600170+00:00
+qwen,qwen-turbo,Alibaba Cloud,biobanking_wa,30,30,0,True,2025-03-27 19:52:27.722984+00:00
+qwen,qwen1.5-110b-chat,Alibaba Cloud,uppsala_speaks,1,30,29,False,2025-03-27 17:56:25.126952+00:00
+qwen,qwen1.5-110b-chat,Alibaba Cloud,fnqcj,1,30,29,False,2025-03-27 17:56:59.958757+00:00
+qwen,qwen1.5-110b-chat,Alibaba Cloud,acp,0,30,30,False,
+qwen,qwen1.5-110b-chat,Alibaba Cloud,ccps,0,30,30,False,
+qwen,qwen1.5-110b-chat,Alibaba Cloud,forestera,1,30,29,False,2025-03-27 17:57:58.628559+00:00
+qwen,qwen1.5-110b-chat,Alibaba Cloud,biobanking_mayo_ubc,0,30,30,False,
+qwen,qwen1.5-110b-chat,Alibaba Cloud,zh_uster,0,30,30,False,
+qwen,qwen1.5-110b-chat,Alibaba Cloud,zh_thalwil,0,30,30,False,
+qwen,qwen1.5-110b-chat,Alibaba Cloud,zh_winterthur,0,30,30,False,
+qwen,qwen1.5-110b-chat,Alibaba Cloud,ds_bellinzona,0,30,30,False,
+qwen,qwen1.5-110b-chat,Alibaba Cloud,ds_aargau,0,30,30,False,
+qwen,qwen1.5-110b-chat,Alibaba Cloud,fremantle,0,30,30,False,
+qwen,qwen1.5-110b-chat,Alibaba Cloud,zukunft,0,30,30,False,
+qwen,qwen1.5-110b-chat,Alibaba Cloud,bep,1,30,29,False,2025-03-27 17:06:36.645611+00:00
+qwen,qwen1.5-110b-chat,Alibaba Cloud,energy_futures,0,30,30,False,
+qwen,qwen1.5-110b-chat,Alibaba Cloud,valsamoggia,0,30,30,False,
+qwen,qwen1.5-110b-chat,Alibaba Cloud,gbr,0,30,30,False,
+qwen,qwen1.5-110b-chat,Alibaba Cloud,auscj,0,30,30,False,
+qwen,qwen1.5-110b-chat,Alibaba Cloud,swiss_health,0,30,30,False,
+qwen,qwen1.5-110b-chat,Alibaba Cloud,biobanking_wa,1,30,29,False,2025-03-27 18:01:58.146750+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,uppsala_speaks,30,30,0,True,2025-03-27 20:53:11.661442+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,fnqcj,32,30,-2,True,2025-03-27 19:18:58.698526+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,acp,32,30,-2,True,2025-03-27 19:24:43.098945+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,ccps,30,30,0,True,2025-03-27 20:53:31.856162+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,forestera,32,30,-2,True,2025-03-27 19:35:57.817395+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,biobanking_mayo_ubc,32,30,-2,True,2025-03-27 19:41:01.235159+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,zh_uster,32,30,-2,True,2025-03-27 19:45:25.497686+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,zh_thalwil,32,30,-2,True,2025-03-27 19:49:49.718502+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,zh_winterthur,32,30,-2,True,2025-03-27 19:54:02.159551+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,ds_bellinzona,32,30,-2,True,2025-03-27 19:58:30.223019+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,ds_aargau,31,30,-1,True,2025-03-27 20:03:01.288649+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,fremantle,32,30,-2,True,2025-03-27 20:07:49.314137+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,zukunft,32,30,-2,True,2025-03-27 20:11:21.441410+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,bep,30,30,0,True,2025-03-27 20:52:08.984609+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,energy_futures,32,30,-2,True,2025-03-27 20:24:22.054198+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,valsamoggia,32,30,-2,True,2025-03-27 20:29:09.057177+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,gbr,32,30,-2,True,2025-03-27 20:33:51.080617+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,auscj,32,30,-2,True,2025-03-27 20:39:30.076125+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,swiss_health,32,30,-2,True,2025-03-27 20:43:19.890674+00:00
+qwen,qwen1.5-72b-chat,Alibaba Cloud,biobanking_wa,32,30,-2,True,2025-03-27 20:49:15.803911+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,uppsala_speaks,45,30,-15,True,2025-03-27 20:08:51.618246+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,fnqcj,43,30,-13,True,2025-03-27 20:12:47.847658+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,acp,44,30,-14,True,2025-03-27 20:17:03.089415+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,ccps,42,30,-12,True,2025-03-27 20:20:36.184362+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,forestera,45,30,-15,True,2025-03-27 20:24:49.479206+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,biobanking_mayo_ubc,45,30,-15,True,2025-03-27 20:28:37.566027+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,zh_uster,45,30,-15,True,2025-03-27 20:31:59.153649+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,zh_thalwil,43,30,-13,True,2025-03-27 20:35:18.918331+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,zh_winterthur,45,30,-15,True,2025-03-27 20:38:30.481758+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,ds_bellinzona,44,30,-14,True,2025-03-27 20:41:54.733598+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,ds_aargau,45,30,-15,True,2025-03-27 20:45:24.092725+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,fremantle,45,30,-15,True,2025-03-27 20:49:00.827966+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,zukunft,43,30,-13,True,2025-03-27 20:51:45.200199+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,bep,45,30,-15,True,2025-03-27 20:55:41.926560+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,energy_futures,45,30,-15,True,2025-03-27 20:59:59.282812+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,valsamoggia,38,30,-8,True,2025-03-27 21:03:25.200166+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,gbr,44,30,-14,True,2025-03-27 21:06:59.302804+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,auscj,45,30,-15,True,2025-03-27 21:11:08.894451+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,swiss_health,45,30,-15,True,2025-03-27 21:14:05.078745+00:00
+qwen,qwen2-72b-instruct,Alibaba Cloud,biobanking_wa,42,30,-12,True,2025-03-27 21:18:21.346545+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,uppsala_speaks,30,30,0,True,2025-03-27 20:05:51.686919+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,fnqcj,30,30,0,True,2025-03-27 21:10:20.065907+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,acp,30,30,0,True,2025-03-27 20:08:27.866839+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,ccps,30,30,0,True,2025-03-27 20:09:37.583607+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,forestera,30,30,0,True,2025-03-27 20:10:57.627905+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,biobanking_mayo_ubc,30,30,0,True,2025-03-27 21:10:04.363439+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,zh_uster,30,30,0,True,2025-03-27 20:13:16.008698+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,zh_thalwil,30,30,0,True,2025-03-27 21:11:30.714302+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,zh_winterthur,30,30,0,True,2025-03-27 20:15:28.097947+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,ds_bellinzona,30,30,0,True,2025-03-27 21:10:39.603182+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,ds_aargau,30,30,0,True,2025-03-27 20:17:41.141828+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,fremantle,30,30,0,True,2025-03-27 21:11:18.013595+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,zukunft,30,30,0,True,2025-03-27 21:09:10.302305+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,bep,33,30,-3,True,2025-03-27 20:25:38.016167+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,energy_futures,30,30,0,True,2025-03-27 20:26:58.907455+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,valsamoggia,30,30,0,True,2025-03-27 20:59:40.033282+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,gbr,30,30,0,True,2025-03-27 20:29:01.984820+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,auscj,30,30,0,True,2025-03-27 20:30:21.059691+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,swiss_health,30,30,0,True,2025-03-27 20:31:21.673507+00:00
+qwen,qwen2.5-72b-instruct,Alibaba Cloud,biobanking_wa,30,30,0,True,2025-03-27 20:32:44.324615+00:00
+qwen,qwq-plus,Alibaba Cloud,uppsala_speaks,31,5,-26,True,2025-04-03 14:40:17.691056+00:00
+qwen,qwq-plus,Alibaba Cloud,fnqcj,31,5,-26,True,2025-04-03 14:45:51.328329+00:00
+qwen,qwq-plus,Alibaba Cloud,acp,31,5,-26,True,2025-04-03 14:53:27.017995+00:00
+qwen,qwq-plus,Alibaba Cloud,ccps,31,5,-26,True,2025-04-03 15:00:44.507964+00:00
+qwen,qwq-plus,Alibaba Cloud,forestera,30,5,-25,True,2025-04-03 15:08:49.552195+00:00
+qwen,qwq-plus,Alibaba Cloud,biobanking_mayo_ubc,31,5,-26,True,2025-04-03 15:14:58.746503+00:00
+qwen,qwq-plus,Alibaba Cloud,zh_uster,31,5,-26,True,2025-04-03 15:22:46.604556+00:00
+qwen,qwq-plus,Alibaba Cloud,zh_thalwil,31,5,-26,True,2025-04-03 15:31:05.433722+00:00
+qwen,qwq-plus,Alibaba Cloud,zh_winterthur,31,5,-26,True,2025-04-03 15:39:02.535085+00:00
+qwen,qwq-plus,Alibaba Cloud,ds_bellinzona,31,5,-26,True,2025-04-03 15:46:08.383970+00:00
+qwen,qwq-plus,Alibaba Cloud,ds_aargau,30,5,-25,True,2025-04-03 15:52:25.799244+00:00
+qwen,qwq-plus,Alibaba Cloud,fremantle,31,5,-26,True,2025-04-03 16:05:45.239180+00:00
+qwen,qwq-plus,Alibaba Cloud,zukunft,31,5,-26,True,2025-04-03 16:12:55.177488+00:00
+qwen,qwq-plus,Alibaba Cloud,bep,34,5,-29,True,2025-04-03 16:19:59.061706+00:00
+qwen,qwq-plus,Alibaba Cloud,energy_futures,30,5,-25,True,2025-04-03 16:28:16.416252+00:00
+qwen,qwq-plus,Alibaba Cloud,valsamoggia,30,5,-25,True,2025-04-03 16:43:00.924273+00:00
+qwen,qwq-plus,Alibaba Cloud,gbr,31,5,-26,True,2025-04-03 16:52:02.655763+00:00
+qwen,qwq-plus,Alibaba Cloud,auscj,31,5,-26,True,2025-04-03 17:00:03.256775+00:00
+qwen,qwq-plus,Alibaba Cloud,swiss_health,31,5,-26,True,2025-04-03 17:06:29.814440+00:00
+qwen,qwq-plus,Alibaba Cloud,biobanking_wa,31,5,-26,True,2025-04-03 17:13:42.850551+00:00

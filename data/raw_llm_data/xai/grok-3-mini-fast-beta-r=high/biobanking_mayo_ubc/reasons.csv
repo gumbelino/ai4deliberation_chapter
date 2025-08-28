@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d3c8e114-6660-4231-80e3-0607ef4152d6,2025-05-21 11:57:27.250745+00:00,xai,grok-3-mini-fast-beta-r=high,0,14833,238,Prioritized strong consent and oversight to protect privacy and ethics.
+7a93cdbc-486d-484a-9229-5e7df4f973b1,2025-05-21 11:58:04.768355+00:00,xai,grok-3-mini-fast-beta-r=high,0,12621,241,Prioritized ethical oversight and balanced consent in rankings based on prior ethical agreements.
+bae2f51e-23c0-4e0d-9551-aa1cccc7c854,2025-05-21 11:58:31.865973+00:00,xai,grok-3-mini-fast-beta-r=high,0,14433,244,Ranked policies prioritizing individual consent and ethical oversight to protect privacy over benefits or discrimination risks.
+febfb00f-4b11-43e0-88d4-b2f5ef3020cd,2025-05-21 11:59:11.290255+00:00,xai,grok-3-mini-fast-beta-r=high,0,15376,239,Prioritized oversight and consent to protect privacy and ethics in research.
+956ce6f9-ff16-4ae2-8ba8-cff67cc5f91b,2025-05-21 11:59:52.291030+00:00,xai,grok-3-mini-fast-beta-r=high,0,14070,239,Prioritized ethics boards and consent to safeguard privacy and prevent harm.

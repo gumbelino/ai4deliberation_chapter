@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+03355e0e-6d83-44ee-8e61-019ddba5d7c3,2025-05-22 13:31:04.436964+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,5574,1010,Stabilizing trouble spots balances environmental protection with necessary access while limiting development.
+c8b0d01a-77be-4184-ba26-4aafc75a0496,2025-05-22 13:45:17.967406+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,5517,1067,Balancing access needs while minimizing environmental impact; avoiding development-inducing upgrades.
+57f2d576-c24f-4572-a15c-9f2f55b2be2f,2025-05-22 13:45:40.039752+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,7731,2174,Prioritize minimal intervention that prevents erosion while limiting development and access.
+64f1fa0f-821d-47ef-8d8c-172a20d630e0,2025-05-22 13:46:21.405987+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,5640,1080,Environmental protection prioritized over development; minimizing human impact on fragile ecosystems.
+d33ffeec-6e8b-446c-b51e-cef3f4117fac,2025-05-22 13:46:43.091838+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,6488,1513,Balancing environmental protection with limited access; avoiding development while fixing erosion.

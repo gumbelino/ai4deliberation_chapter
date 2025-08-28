@@ -1,0 +1,35 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+2b06c099-cf6e-441c-8bc9-83ae4bd392a7,2025-03-27 17:39:52.257908+00:00,qwen,qwq-plus,0,4382,5200,"Prioritizes moderate sustainability, adaptation, and current policies while avoiding extremes."
+1fc7d425-ce5d-4602-91eb-b86356ab52cf,2025-03-27 17:46:22.960635+00:00,qwen,qwq-plus,0,4382,4487,"prioritizegradualadaptation,maintaincurrentpolicieswhilepreparingforclimaterisks."
+ddc569b2-246e-4f5f-a2d1-eab124f2016a,2025-03-27 17:49:25.357194+00:00,qwen,qwq-plus,0,4382,4466,"Supports sustainable incentives, adaptation, and moderate regulations over extremes or deregulation."
+aa909557-eb31-433f-a96e-e2d5196b00a6,2025-04-02 10:33:17.752635+00:00,qwen,qwq-plus,0,4379,4340,Prioritize climate resilience and moderate sustainable regulations over inaction or deregulation.
+ffdcf000-9d30-4f0c-baa7-cf56a3c100f5,2025-04-02 10:34:47.635083+00:00,qwen,qwq-plus,0,4382,3653,"Prioritize incentives for sustainable local producers and moderate regulations, oppose lax policies."
+bf0ecde9-0cee-479e-a613-24f68770eaba,2025-04-02 10:36:03.766439+00:00,qwen,qwq-plus,0,4379,5679,"Prioritize sustainable incentives and moderate regulations, oppose lax regulations, support adaptation."
+4c91a835-566d-4801-a3ba-5918070f1bfa,2025-04-02 10:38:00.947045+00:00,qwen,qwq-plus,0,4382,3322,Prioritize-local-sustainability-incentives-and-adaptation-over-radical-or-static-policies.
+67dc9f76-e2a1-496e-9f87-d128abb699d5,2025-04-02 10:39:11.047661+00:00,qwen,qwq-plus,0,4382,4467,"Prioritize sustainable incentives over deregulation, moderate regulations preferred."
+fb22a3c6-7566-4f32-bd80-8eca45954d37,2025-04-02 19:34:12.021101+00:00,qwen,qwq-plus,0,4382,5706,Prioritize sustainable incentives and adaptation over deregulation and inaction.
+bc833eed-e95d-4e71-b87b-f235a43ef905,2025-04-02 19:36:10.112043+00:00,qwen,qwq-plus,0,4382,3130,Prioritize sustainable incentives and moderate regulations over laissez-faire policies.
+a54b2301-928e-414e-ae3a-9dae042219ed,2025-04-02 19:37:15.895403+00:00,qwen,qwq-plus,0,4382,3033,"Prioritize adaptation and moderate regulations, support tech resilience; oppose extreme bans and deregulation."
+e92d7719-c7ce-409d-ae11-ae688a0bc13e,2025-04-02 19:38:19.791488+00:00,qwen,qwq-plus,0,4382,4936,"Prioritize local sustainability incentives, moderate regulations; oppose deregulation and status quo."
+0ccd9e44-a4ea-44f9-9f57-49a7702a9e85,2025-04-02 19:40:02.544071+00:00,qwen,qwq-plus,0,4382,4656,Prioritize moderate sustainable incentives and local support while maintaining resilience and rejecting extreme or no action.
+ac345c4c-7a3a-4764-b04e-f511fe1383cb,2025-04-02 19:41:39.086518+00:00,qwen,qwq-plus,0,4379,4679,Prioritizes sustainable regulations and local support over lax policies or inaction.
+7b1720d5-3f5b-43d7-a220-5a5c5994eeb5,2025-04-02 19:43:16.668949+00:00,qwen,qwq-plus,0,4382,5240,"Prioritize moderate regulations, local incentives, and adaptation; oppose lax or status quo policies."
+f27327ae-777d-48e9-90ec-3cca45f5961c,2025-04-02 19:45:05.209729+00:00,qwen,qwq-plus,0,4382,5398,"Supports moderate sustainability, adaptation, and tech; opposes radical bans and inaction."
+e604f913-225f-4949-ae63-06cc888a1f6d,2025-04-02 19:46:57.583397+00:00,qwen,qwq-plus,0,4382,6266,Prioritize sustainable incentives and moderate regulations over inaction/deregulation.
+ad1c4989-bb83-4b96-a20e-c61eaf4f6831,2025-04-02 19:49:07.943856+00:00,qwen,qwq-plus,0,4382,3436,Prioritize maintaining current policies and free trade over strict sustainability regulations.
+d5d972b3-8ea3-4497-a9e5-bc2730e866d4,2025-04-03 11:27:37.226410+00:00,qwen,qwq-plus,0,4382,3230,"Prioritizes climate resilience, local sustainability incentives, moderate over extreme regulations."
+4c05a357-7b58-4418-8f6e-c75e05142fb3,2025-04-03 11:28:45.526670+00:00,qwen,qwq-plus,0,4382,5225,Prioritizes climate resilience and local sustainable incentives over strict or lax regulations.
+e593ef69-fb0b-4b72-9317-b6ba5b2920bc,2025-04-03 11:30:34.569032+00:00,qwen,qwq-plus,0,4379,4299,Prioritize sustainable incentives and climate adaptation over inaction or deregulation.
+021a60f3-eccf-4641-9e8f-6b2a37817dac,2025-04-03 11:32:04.504226+00:00,qwen,qwq-plus,0,4382,4094,"Prioritize sustainable incentives, moderate regulations, tech prep; oppose reduced regulations."
+457abf2d-62a4-4f82-8ba6-c1dea0784a03,2025-04-03 11:33:30.262484+00:00,qwen,qwq-plus,0,4382,3335,Prioritizes tech adaptation and moderate sustainability incentives over extreme regulations or inaction.
+0fb41960-4c2e-412e-8712-2dcdc91a4c90,2025-04-03 11:34:40.694166+00:00,qwen,qwq-plus,0,4382,3278,Prioritizes maintaining current policies and moderate regulations over radical or tech-focused approaches.
+52522e6c-2750-4d1b-b3af-cf2a36c6d0b3,2025-04-03 11:35:49.882796+00:00,qwen,qwq-plus,0,4382,5215,"Prioritize moderate sustainable policies, adaptation, and local incentives while rejecting deregulation."
+8a37584a-9085-4a6e-b156-85acf9a68a61,2025-04-03 11:37:38.406591+00:00,qwen,qwq-plus,0,4382,5252,Prioritize sustainable incentives and moderate regulations while preparing for climate risks; oppose deregulation and maintaining current policies.
+976d3d75-b5a8-4f38-bc0f-74fdcd1b03a9,2025-04-03 11:39:27.398579+00:00,qwen,qwq-plus,0,4382,5948,"Supports sustainable incentives, adaptation, and tech; cautious on radical policies; opposes reduced regulation and status quo."
+2f0dfa38-c682-4765-b82c-bbeba4411063,2025-04-03 11:41:31.245271+00:00,qwen,qwq-plus,0,4382,3613,Support sustainable incentives/regulations; oppose extreme or reduced regulations.
+4563c962-c983-43ba-9586-c951f6cd1530,2025-04-03 11:42:47.150353+00:00,qwen,qwq-plus,0,4382,3079,Prioritize moderate sustainability and local incentives while avoiding extreme regulations.
+49d919b3-b991-424c-940c-8a5c71c37596,2025-04-03 11:43:52.297808+00:00,qwen,qwq-plus,0,4372,5183,"Prioritize incentives and moderate regulations, oppose radical bans or inaction."
+7bcdd286-19ec-41b2-b5cf-243898ad70ad,2025-04-03 16:14:43.273684+00:00,qwen,qwq-plus,0,4382,4344,Prioritize sustainability incentives and adaptation over maintaining policies or reducing regulations.
+abfc22c2-04d1-49a2-af66-3d53c3d3679d,2025-04-03 16:16:14.232726+00:00,qwen,qwq-plus,0,4382,4716,"Support climate resilience, adaptation, and moderate regulations; oppose radical or reduced regulations."
+de938be4-699c-4656-beb5-54f348f898eb,2025-04-03 16:17:55.551192+00:00,qwen,qwq-plus,0,4382,5950,"Prioritize local incentives, tech resilience; moderate regulations; oppose deregulation, status quo."
+56fdfda6-c0a0-4d4b-9dcf-522d72309ed2,2025-04-03 16:19:59.061706+00:00,qwen,qwq-plus,0,4379,4985,"Support moderate sustainability policies, local incentives, and adaptation over radical or lax approaches."

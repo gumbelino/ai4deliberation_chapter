@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Permit all uses of human genome editing and mitochondrial donation only if not for profit,"P2. Prohibit all forms of human genome editing for now, except for research purposes.",P3.  Permit only non-heritable human genome editing in both research and in clinics.,"P4. Permit only non-heritable human genome editing for clinical treatments, and mitochondrial donation.",P5.  Permit both heritable and non-heritable uses of genome editing for any purpose with minimal restrictions to ensure safety and compliance with ethical standards.,"P6. Permit non-heritable and heritable human genome editing (including mitochondrial donation), but only for clinical purposes, and if there is strong oversight, regular community input and (re)approval.",P7. Prohibit all uses of human genome editing and mitochondrial donation.,P8. Permit only non-heritable human genome editing in both research and in clinics and mitochondrial donation only if not for profit.
+f2c4344e-8f9b-484e-afaa-5dc0f45f79ea,2025-03-24 22:18:32.207655+00:00,cohere,command-r,0,4785.0,317.0,6,1,5,7,8,2,4,3
+d11e550a-135d-4780-b6c9-7602ad0f5bd1,2025-03-24 22:18:37.304801+00:00,cohere,command-r,0,4788.0,321.0,1,2,4,6,7,5,8,3
+f508a49e-42a2-4ec7-8162-45e0a31f0a3e,2025-03-24 22:18:42.392180+00:00,cohere,command-r,0,4785.0,317.0,6,4,3,5,7,2,8,1
+0cea4512-6362-4af7-9113-4f6532704a00,2025-03-24 22:18:47.481053+00:00,cohere,command-r,0,4788.0,317.0,2,7,3,5,4,1,8,6
+5fa58544-e12c-4bea-b1c7-f610cafe0ba6,2025-03-24 22:18:52.601079+00:00,cohere,command-r,0,4785.0,320.0,6,7,8,1,3,2,4,5
+4468e8d4-270a-495d-868d-8bfc2398ea70,2025-03-24 22:18:57.547662+00:00,cohere,command-r,0,4785.0,326.0,1,7,6,5,4,2,8,3
+df218311-47ca-4dfc-96a5-043954fae1e2,2025-03-24 22:19:02.569313+00:00,cohere,command-r,0,4785.0,320.0,5,8,6,4,1,3,2,7
+d8de56f7-0388-4ef7-aeb8-2f0ae03d8b2d,2025-03-24 22:19:07.633605+00:00,cohere,command-r,0,4785.0,324.0,5,8,1,6,7,2,3,4
+45afd4e0-fdef-4b37-8989-e7f41437b1d1,2025-03-24 22:19:12.768894+00:00,cohere,command-r,0,4785.0,320.0,5,8,1,4,7,2,6,3
+443ba2bb-5485-4258-abff-a92254c7ddc8,2025-03-24 22:19:17.810748+00:00,cohere,command-r,0,4788.0,317.0,8,7,3,5,6,2,1,4

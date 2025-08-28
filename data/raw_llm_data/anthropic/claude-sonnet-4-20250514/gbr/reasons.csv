@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+3285ec2d-8491-4cfc-94c9-c033c55f720a,2025-05-29 15:42:29.304274+00:00,anthropic,claude-sonnet-4-20250514,0,3974,235,Prioritized strong climate action and reef protection over economic interests and current practices.
+d3d9deb1-ebae-4f2b-af00-d90bd3149dff,2025-05-29 15:42:39.631920+00:00,anthropic,claude-sonnet-4-20250514,0,3974,234,Prioritized green innovation and environmental protection over maintaining status quo or reducing regulations
+bbd99e27-1982-4c9e-9aca-fc82a3a125dc,2025-05-29 15:42:50.192416+00:00,anthropic,claude-sonnet-4-20250514,0,3974,252,"Prioritize green innovation first, then strengthen regulations, reduce fossil fuel funding, phase out coal, maintain current protection, keep current mix, avoid deregulation."
+9c7f457d-4562-4701-b2fb-c7864b68a12c,2025-05-29 15:43:02.226442+00:00,anthropic,claude-sonnet-4-20250514,0,3974,236,Prioritize green innovation and stronger environmental protection over maintaining status quo or reducing regulations.
+3bea76a7-4aa8-4b69-b92e-3635b0039341,2025-05-29 15:43:13.668085+00:00,anthropic,claude-sonnet-4-20250514,0,3974,240,Prioritized environmental innovation and protection over maintaining status quo or reducing regulations to address climate threats to reef.

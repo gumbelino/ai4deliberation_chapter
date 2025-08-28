@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+32810c52-b0a9-4027-855a-058a44564e9c,2025-03-26 08:02:22.002047+00:00,openai,gpt-4,0,3658,244,"I prioritize societal benefits, privacy, and oversight by governing bodies in biobanking research."
+b93f662d-6452-48ea-b88e-63d641c89f48,2025-04-01 10:28:25.555096+00:00,openai,gpt-4,0,3658,240,"I prioritize societal benefits and proper oversight, while also considering individual authorization."
+787ec375-2b8f-4ba0-8ea9-6cb473333101,2025-04-01 10:28:38.310334+00:00,openai,gpt-4,0,3658,238,I prioritize preventing discrimination and ensuring societal benefits over individual authorization.
+1816b4bb-f78c-499b-aac1-b16515afe2cc,2025-04-01 10:28:48.055442+00:00,openai,gpt-4,0,3658,241,"I prioritize ethical oversight, societal benefits, and prevention of discrimination in research."
+04c2088e-6c3e-4969-b388-e7c092dc7b7b,2025-04-01 10:29:01.223141+00:00,openai,gpt-4,0,3658,241,"I prioritize societal benefits, ethical oversight, and individual authorization to prevent discrimination."
+4c4434b9-0f3a-458d-bfa2-4fc34383a0fc,2025-04-01 10:29:13.025430+00:00,openai,gpt-4,0,3658,239,"I prioritize individual consent, ethical oversight, and prevention of discrimination."
+24513396-e1e1-4422-8b95-a73f26ebc3b3,2025-04-03 16:54:54.335747+00:00,openai,gpt-4,0,3658,243,"I prioritize individual consent, ethical oversight, and societal benefits in biobanking policies."
+e3c420c8-3161-4b74-809d-5c030d694f31,2025-04-03 16:55:06.580218+00:00,openai,gpt-4,0,3658,239,"I prioritize societal benefits, individual authorization, and prevention of discrimination."
+82da2146-0f6c-4096-a612-55b149c7023d,2025-04-03 16:55:18.793414+00:00,openai,gpt-4,0,3658,246,"I value privacy, non-discrimination, and societal benefits in the use of biological samples for research."
+3349d5a1-d00e-4ce4-8687-81298fe88a8c,2025-04-03 16:55:33.297389+00:00,openai,gpt-4,0,3658,241,"I prioritize societal benefits, ethical oversight, and prevention of discrimination in research."
+e3cd1c31-03c6-4055-8973-c71372f0e47d,2025-04-08 09:15:05.959628+00:00,openai,gpt-4,0,3658,239,"I prioritize individual authorization, ethical oversight, and prevention of discrimination."
+e2c35078-2b5d-446d-89f1-759ae3ae7cfa,2025-04-08 09:15:19.369763+00:00,openai,gpt-4,0,3658,239,"I prioritize ethical oversight, individual authorization, and prevention of discrimination."
+3228dd45-ecbf-49c9-a05a-2bf41b93d938,2025-04-08 09:15:31.456822+00:00,openai,gpt-4,0,3658,241,"I prioritize ethical oversight, societal benefits, and individual authorization for identifiable data."
+6c715453-1728-4a1f-87f0-e7fb44f809ec,2025-04-08 09:15:43.696336+00:00,openai,gpt-4,0,3658,243,"I prioritize individual consent and societal benefits, while also considering privacy and non-discrimination."
+f9e8aaa1-c215-4259-8051-174256b92444,2025-04-08 09:15:56.393683+00:00,openai,gpt-4,0,3658,241,I prioritize societal benefits and proper authorization for research use of data and samples.
+c4379764-5aaa-4ee5-b53c-145ae9cb2512,2025-04-08 09:16:08.409093+00:00,openai,gpt-4,0,3658,241,I value individual consent and oversight by governing bodies in research using biological samples.
+07f837ed-98e6-42ae-8424-8ff16e7c821c,2025-04-08 09:16:20.706381+00:00,openai,gpt-4,0,3658,240,I prioritize preventing discrimination and ensuring societal benefits from biobank research.
+763472b7-716b-4bd8-b929-6f4642e7ac22,2025-04-08 09:16:33.674738+00:00,openai,gpt-4,0,3658,237,I prioritize preventing discrimination and ensuring ethical oversight in research.
+58b9728e-9f95-4737-b5df-65851f99ffbb,2025-04-08 09:16:45.944830+00:00,openai,gpt-4,0,3658,242,"I prioritize individual consent and societal benefits, and believe in the importance of oversight."
+7237b6f0-3aca-4b90-9f20-dd139b135d56,2025-04-08 09:16:59.069888+00:00,openai,gpt-4,0,3658,243,"I value community benefits, individual consent, and preventing discrimination in biobanking research."
+afd69c5c-0b29-4f06-955b-31fd7f448b2e,2025-04-08 09:17:11.525692+00:00,openai,gpt-4,0,3658,242,"I prioritize privacy, oversight, and preventing discrimination in the use of biological samples."
+bd341362-4523-46a7-8004-ad1a6d5d6b83,2025-04-08 09:17:26.001225+00:00,openai,gpt-4,0,3658,242,"I prioritize ethical oversight and individual consent in research, while also considering societal benefits."
+692a057c-9474-4329-802c-85d3d294d36d,2025-04-08 09:17:39.518614+00:00,openai,gpt-4,0,3658,243,"I prioritize individual consent, ethical oversight, and societal benefits in biobanking policies."
+5d593631-575e-46eb-9277-baf8137b7e13,2025-04-08 09:17:52.260332+00:00,openai,gpt-4,0,3658,241,"I prioritize individual consent, societal benefits, and prevention of discrimination in research."
+49fc7b24-2c5f-41ee-bd61-85d622b8cf6e,2025-04-08 09:18:05.196663+00:00,openai,gpt-4,0,3658,241,"I value privacy, oversight, and preventing discrimination in research using biological samples."
+e0f1bb99-05f9-4f61-9fa2-1801c498377a,2025-04-08 09:18:18.767869+00:00,openai,gpt-4,0,3658,242,"I prioritize societal benefits, privacy, and preventing discrimination in biobanking research."
+ebc89f66-aab2-4af8-ac8a-842c2cdc157b,2025-04-08 09:18:32.809678+00:00,openai,gpt-4,0,3658,239,"I prioritize privacy, oversight, and societal benefits while preventing discrimination."
+5f4dfdbf-e7d2-430a-a8a3-23ed5521b32f,2025-04-08 09:18:46.259010+00:00,openai,gpt-4,0,3658,243,"I prioritize societal benefits, ethical oversight, and individual consent in biobanking policies."
+0d229645-35cf-455d-947f-fcd05366eab7,2025-04-08 09:18:59.120852+00:00,openai,gpt-4,0,3658,241,"I prioritize ethical oversight, prevention of discrimination, and societal benefits in research."
+44a9fc12-cab2-4c31-ad91-c04c7e069e9a,2025-04-08 09:19:10.528156+00:00,openai,gpt-4,0,3658,246,"I value privacy, non-discrimination, and societal benefits in the use of biobank data."

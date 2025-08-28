@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+a3a043ea-912c-4a0a-a4a0-b20b2b74863c,2025-04-02 10:32:36.555730+00:00,meta,llama3.3:70b,0,3356,209,Prioritizing climate action over economic growth
+b169be1f-c7a5-4ecf-a0e4-2fcb92617ee9,2025-04-02 10:32:45.035471+00:00,meta,llama3.3:70b,0,3356,208,Prioritizing emission cuts and adaptation
+1583bae3-2c1b-4f0d-8a37-870fabf0a2d7,2025-04-02 11:26:48.306506+00:00,meta,llama3.3:70b,0,3354,208,Prioritizing emission cuts and adaptation
+61bbe81d-613a-4a75-ac2a-67547098821d,2025-04-02 11:26:57.450400+00:00,meta,llama3.3:70b,0,3356,209,Prioritizing climate action over economic growth
+ee429921-c65a-4f4c-a129-8e4b9b910b41,2025-04-02 11:27:15.759323+00:00,meta,llama3.3:70b,0,3356,208,Prioritizing emission cuts and adaptation
+26c1e7e7-307a-49cf-879c-47b123c63969,2025-04-02 11:27:26.420663+00:00,meta,llama3.3:70b,0,3356,208,Prioritizing emission cuts and adaptation
+53cafc38-3390-4159-a89d-a2e44a1a5934,2025-04-02 11:27:40.721931+00:00,meta,llama3.3:70b,0,3354,208,Prioritizing emission cuts and adaptation
+fd4fa25a-bc36-4d41-a0bc-7a731ada4ff6,2025-04-02 11:27:53.848233+00:00,meta,llama3.3:70b,0,3354,208,Prioritizing emission cuts and adaptation
+cdcb88da-b482-4356-8b7f-340d2cc99e1a,2025-04-02 11:28:08.924979+00:00,meta,llama3.3:70b,0,3356,208,Prioritizing emission cuts and adaptation
+6c474944-736f-4783-8990-9522c04a9325,2025-04-02 11:28:19.428459+00:00,meta,llama3.3:70b,0,3353,209,Prioritizing climate action over economic growth
+80cfb3d1-a754-4ddf-9c62-b39a131446b6,2025-04-02 11:28:30.964953+00:00,meta,llama3.3:70b,0,3356,208,Prioritizing emission cuts and adaptation
+08aaf3fd-c57c-4f50-a76b-1a836edd3c7a,2025-04-02 11:28:47.347436+00:00,meta,llama3.3:70b,0,3356,208,Prioritizing climate action and adaptation
+a5d30ff7-75cd-4bc8-b25d-0581ec9c8bd3,2025-04-02 11:29:02.720919+00:00,meta,llama3.3:70b,0,3356,209,Prioritizing climate action over economic growth
+1dbd58a0-3fae-44e9-88d4-34b05d6d7bc3,2025-04-02 11:29:17.755178+00:00,meta,llama3.3:70b,0,3356,208,Prioritizing emission cuts and adaptation
+8edef4d2-20ba-424e-b6de-55362e189e46,2025-04-02 11:29:37.186376+00:00,meta,llama3.3:70b,0,3354,208,Prioritizing emission cuts and adaptation
+ec7cc10b-efaf-4759-810a-2db8eee1efa4,2025-04-02 11:29:46.733676+00:00,meta,llama3.3:70b,0,3356,208,Prioritizing emission cuts and adaptation
+cabba2f7-6eb7-43e2-b73e-5b1d842432ad,2025-04-02 11:30:01.517014+00:00,meta,llama3.3:70b,0,3356,208,Prioritizing climate action and resilience
+46057d6d-3446-48d5-b25f-ee07a613fdfd,2025-04-02 11:30:18.612442+00:00,meta,llama3.3:70b,0,3356,209,Prioritizing emission cuts and adaptation.
+5f548dc5-76d5-47b3-bb76-637b1dbec082,2025-04-02 11:30:34.664442+00:00,meta,llama3.3:70b,0,3356,209,Prioritizing climate action over economic growth
+ae786d36-9096-485b-a2b7-adf962af934c,2025-04-02 11:30:45.064015+00:00,meta,llama3.3:70b,0,3356,207,Prioritizing drastic emission cuts
+05968391-559d-4675-a7af-e483d05ba989,2025-04-02 11:31:02.648421+00:00,meta,llama3.3:70b,0,3356,208,Prioritizing emission cuts and adaptation
+ec6f7d6f-ce7b-4a83-8297-f12ca97014d8,2025-04-02 11:31:11.462750+00:00,meta,llama3.3:70b,0,3354,211,Prioritizing emission cuts and adaptation over economic growth
+4cb628fd-aa2e-499e-aa0e-788ee817ab79,2025-04-02 11:31:24.744339+00:00,meta,llama3.3:70b,0,3356,208,Prioritizing emission cuts and adaptation
+cff8e3ea-5713-42b6-bcfe-b6e6320dfc99,2025-04-02 11:31:35.075613+00:00,meta,llama3.3:70b,0,3356,208,Prioritizing emission cuts and adaptation
+557485f2-b9e1-437c-8622-ecb3c0db5df5,2025-04-02 11:31:54.776831+00:00,meta,llama3.3:70b,0,3354,208,Prioritizing climate action and resilience
+1c693b9d-73ac-44c2-9d55-d13e217bc0f8,2025-04-02 11:32:10.952711+00:00,meta,llama3.3:70b,0,3354,208,Prioritizing emission cuts and adaptation
+4bf33137-972a-4a5c-a096-be98a75e349c,2025-04-02 11:32:27.364744+00:00,meta,llama3.3:70b,0,3356,209,Prioritizing climate action over economic growth
+456bf46a-082a-4b82-8878-6084ea7dc8dd,2025-04-02 11:32:43.267173+00:00,meta,llama3.3:70b,0,3356,208,Prioritizing emission cuts and adaptation
+460bf0bf-81f5-44c7-acb2-a038c464a67d,2025-04-02 11:32:55.525937+00:00,meta,llama3.3:70b,0,3354,209,Prioritizing emission cuts and adaptation.
+93d9dde9-3ca6-4ebf-af33-e46fce8b68a1,2025-04-02 11:33:14.069173+00:00,meta,llama3.3:70b,0,3354,208,Prioritizing emission cuts and adaptation
+cc8d3da6-2554-4e6e-b3a6-5c472a8eaf71,2025-04-02 11:33:24.599533+00:00,meta,llama3.3:70b,0,3354,206,Prioritizing climate action
+6c2e8466-b21d-4179-b185-6231d07b73e9,2025-04-02 11:33:42.528255+00:00,meta,llama3.3:70b,0,3356,208,Prioritizing emission cuts and adaptation

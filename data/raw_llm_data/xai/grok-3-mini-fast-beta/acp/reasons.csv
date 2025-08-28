@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+df5a0cf8-6f4a-4cfc-a933-dec1400b115b,2025-05-22 16:44:47.062516+00:00,xai,grok-3-mini-fast-beta,0,4817,285,"I support policy 2 most for its emphasis on equality and minority inclusion, per my ratings."
+01bbe67c-794a-456a-b4bb-f2c18b80dfc2,2025-05-22 16:45:10.526105+00:00,xai,grok-3-mini-fast-beta,0,4817,282,Prioritized inclusion of minorities and free markets over moral enforcement and maintaining status quo.
+1e74bcf7-93f0-4471-972a-ab08a0e24585,2025-05-22 16:45:32.067070+00:00,xai,grok-3-mini-fast-beta,0,4819,281,Prioritized inclusive governance for minorities as it aligns with equality and representation values.
+62205a3f-b961-4ef5-9b1f-54af87fb916d,2025-05-22 16:45:54.172361+00:00,xai,grok-3-mini-fast-beta,0,4817,291,"I ranked policy 4 highest for inclusivity and equality, then 5 for stability, as they align with democratic principles."
+6aefab20-e76b-4298-b4bd-373b88c3c5c7,2025-05-22 16:46:15.349909+00:00,xai,grok-3-mini-fast-beta,0,4817,283,Ranked policies by prioritizing equality and free markets over moral enforcement and minority favoritism.

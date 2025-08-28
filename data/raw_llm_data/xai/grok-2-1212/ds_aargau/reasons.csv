@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c5510c13-5d37-459d-81d0-60f8775eb782,2025-04-08 11:01:17.133927+00:00,xai,grok-2-1212,0,3471,243,"Strongest support for significant CO2 cuts, followed by adaptation and resilience measures."
+8be027a2-9f52-4a2c-9725-31f508f0f8cc,2025-04-08 11:01:23.959099+00:00,xai,grok-2-1212,0,3471,249,"Strongest support for aggressive CO2 cuts, then community actions; least for status quo and growth-focused policies."
+7e082fb8-c85b-43bf-8151-9b075bbf89d9,2025-04-08 11:01:31.374522+00:00,xai,grok-2-1212,0,3471,241,Prioritized aggressive emission cuts and comprehensive adaptation strategies over economic growth focus.
+ffa757ab-f1bf-4bd2-be92-8d734e94824f,2025-04-08 11:01:38.434917+00:00,xai,grok-2-1212,0,3471,240,Strongest support for aggressive emission cuts and community-based adaptation actions.
+a029a1e6-6cce-4e96-a613-9ce4ed4a735e,2025-04-08 11:01:45.825763+00:00,xai,grok-2-1212,0,3471,242,Prioritized aggressive CO2 cuts and comprehensive adaptation over economic growth and inaction.
+e0007966-31b5-474c-92d2-c93b8b6f97b2,2025-04-08 11:01:52.023434+00:00,xai,grok-2-1212,0,3471,242,Strong CO2 cuts are crucial; economic growth over climate is least supported.
+3e1c6638-2fb4-4b92-b5dd-43a5ccbd8917,2025-04-08 11:01:58.411435+00:00,xai,grok-2-1212,0,3471,240,Prioritized aggressive emission cuts and comprehensive adaptation for effective climate action.
+845941d8-5fd7-4fed-8488-84ade1b51107,2025-04-08 11:02:04.487765+00:00,xai,grok-2-1212,0,3471,241,Prioritized aggressive emission cuts and community-based adaptation for effective climate action.
+94c20aae-c695-41e4-a51c-cbf7eff54ba8,2025-04-08 11:02:11.529095+00:00,xai,grok-2-1212,0,3471,243,Prioritized aggressive CO2 cuts and community-based actions for effective climate change response.
+a24fcb89-dd31-42ca-882d-915b6ab6611c,2025-04-08 11:02:18.511684+00:00,xai,grok-2-1212,0,3471,241,Prioritized strong emission cuts and comprehensive adaptation planning over economic growth focus.
+112ef16d-f91f-4db4-a60c-ae8fd32c3d8f,2025-04-08 11:02:24.710209+00:00,xai,grok-2-1212,0,3471,241,Prioritized aggressive CO2 cuts and comprehensive adaptation for effective climate action.
+6a26399d-f47b-4ccb-88ef-2b70f6d03a4e,2025-04-08 11:02:30.970633+00:00,xai,grok-2-1212,0,3471,246,"Strongest support for aggressive emission cuts and adaptation, least for status quo and growth-focused policies."
+e229ac42-220d-4ad3-9fa0-35098592024a,2025-04-08 11:02:37.214957+00:00,xai,grok-2-1212,0,3471,238,Strong support for aggressive emission cuts and comprehensive adaptation strategies.
+07a650cb-07a0-4740-80e5-723b427144e7,2025-04-08 11:02:43.289134+00:00,xai,grok-2-1212,0,3471,240,Prioritized aggressive emission cuts and comprehensive adaptation for effective climate action.
+8a29797f-07e0-45bf-bae9-789482ca0cbb,2025-04-08 11:02:49.668966+00:00,xai,grok-2-1212,0,3471,243,Prioritized aggressive CO2 cuts and community-based actions for effective climate change response.
+8bb86c7c-1f88-48fa-b70b-5ab258fabf68,2025-04-08 11:02:55.746951+00:00,xai,grok-2-1212,0,3471,240,Prioritized aggressive emission cuts and resilience tech for effective climate action.
+5f8eb119-08b8-4ce9-b05b-ff91d255b211,2025-04-08 11:03:01.854321+00:00,xai,grok-2-1212,0,3471,248,"Strongest support for aggressive CO2 cuts, then targeted adaptations, least for status quo or growth focus."
+b51de822-8e9f-4e5a-b19f-65d91177cee6,2025-04-08 11:03:08.248753+00:00,xai,grok-2-1212,0,3471,241,Strong CO2 cuts and adaptation policies are crucial for effective climate action.
+86e2ddf8-b1cc-4da4-943d-9f34af41c640,2025-04-08 11:03:15.309762+00:00,xai,grok-2-1212,0,3471,242,Prioritized aggressive CO2 cuts and adaptation measures over economic growth and inaction.
+17e03bbb-6b31-4fbf-a982-bacd241bdcc2,2025-04-08 11:03:21.572217+00:00,xai,grok-2-1212,0,3471,250,"Strongest support for aggressive CO2 cuts, then adaptation and tech resilience, least for status quo and growth focus."
+03da496c-95f4-4765-b699-8f9cfbe2fff4,2025-04-08 11:03:28.342913+00:00,xai,grok-2-1212,0,3471,247,"Strongest support for aggressive CO2 cuts, then tech resilience, moderate cuts, and adaptation measures."
+5413e7f4-fad3-4797-a595-bd1c44e31b45,2025-04-08 11:03:34.629884+00:00,xai,grok-2-1212,0,3471,240,Prioritized aggressive emission cuts and comprehensive adaptation for effective climate action.
+614334c4-eb1f-4dfc-a963-47d70f9b8f0a,2025-04-08 11:03:42.549084+00:00,xai,grok-2-1212,0,3471,242,Prioritized aggressive CO2 cuts and comprehensive adaptation for resilience and community support.
+c61251c3-f52c-4ba7-8b7f-ea78d2846f85,2025-04-08 11:03:50.008532+00:00,xai,grok-2-1212,0,3471,239,Prioritized aggressive emission cuts and comprehensive adaptation for climate resilience.
+bb0494ac-5c37-437c-80bb-4c78571032cb,2025-04-08 11:03:55.759590+00:00,xai,grok-2-1212,0,3471,243,"Strongest support for aggressive CO2 cuts, followed by adaptation and resilience measures."
+1556846c-1d9c-420b-805d-df7c760ff3e9,2025-04-08 11:04:02.273829+00:00,xai,grok-2-1212,0,3471,241,Prioritized aggressive CO2 cuts and comprehensive adaptation for effective climate action.
+db581435-2448-40be-a3fc-22eef73a3d29,2025-04-08 11:04:09.024028+00:00,xai,grok-2-1212,0,3471,245,"Strongest support for aggressive emission cuts and adaptation, least for economic growth over climate action."
+14542c6b-e493-4445-8d38-5982efe33761,2025-04-08 11:04:16.030621+00:00,xai,grok-2-1212,0,3471,249,"Strongest support for aggressive CO2 cuts, then moderate cuts, adaptation, and least for economic growth focus."
+ac9c8401-47bf-4a8f-ac99-52c49c3db9e7,2025-04-08 11:04:23.198351+00:00,xai,grok-2-1212,0,3471,240,Prioritized aggressive emission cuts and comprehensive adaptation for effective climate action.
+e8b70bc8-aa74-48bf-8e86-2480fe2d4614,2025-04-08 11:04:29.422643+00:00,xai,grok-2-1212,0,3471,246,"Prioritized aggressive CO2 cuts and adaptation, de-emphasized economic growth over climate action."

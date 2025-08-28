@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+dcd8e50f-a7a3-4ada-8a6d-ec0549f73eb6,2025-03-27 16:39:18.270685+00:00,qwen,qwen-turbo,0,3940,263,"New bridge for modern needs, retain old for heritage and alternative use; improvements should balance various user needs and safety."
+50c8501f-73a9-4cc5-80c9-9e23914c512d,2025-03-27 16:39:23.181283+00:00,qwen,qwen-turbo,0,3942,253,Retain existing bridge with improvements; new bridges lack character.
+4bbf861a-5ca2-499c-bbb9-9bad45157c70,2025-03-27 19:30:59.124789+00:00,qwen,qwen-turbo,0,3934,250,Retain existing bridge with improvements; new bridges lack heritage value.
+fb0be6b9-20bc-4efe-bac3-3f9216d46353,2025-03-27 19:31:04.042787+00:00,qwen,qwen-turbo,0,3942,258,"New bridge for traffic, retain old for pedestrians; prefer heritage preservation with functional updates."
+ed6f56af-b944-4134-9211-afe86948e787,2025-03-27 19:31:09.039124+00:00,qwen,qwen-turbo,0,3942,262,"Retain existing with improvements, new bridge as backup; prioritize heritage, safety, and multi-use facilities."
+66bc25cd-ab9d-4795-85e1-7a1a166af186,2025-03-27 19:31:14.571460+00:00,qwen,qwen-turbo,0,3938,251,Preference for preserving heritage with some updates and minimal new construction.
+b30a7926-4ced-49be-bf75-c2466ac3b0d2,2025-03-27 19:31:19.541482+00:00,qwen,qwen-turbo,0,3936,256,"Retain existing bridge with upgrades, prioritize heritage and safety; new bridges for traffic relief."
+7fb273f6-9882-434c-a3eb-7e7c8d38b0b2,2025-03-27 19:31:24.513037+00:00,qwen,qwen-turbo,0,3946,265,New bridge as main entry with heritage section favored; retained bridge with improvements for pedestrians/cyclists most supported.
+465c6ad8-ac9b-4ec2-9662-35032b84dfaa,2025-03-27 19:31:30.008395+00:00,qwen,qwen-turbo,0,3946,262,"Retain existing bridge with upgrades, prefer new bridge as major entry statement for Fremantle."
+bf362dc1-6a73-4fff-829e-8b47c5876796,2025-03-27 19:31:34.952798+00:00,qwen,qwen-turbo,0,3938,259,Retain and improve existing bridge with enhanced pedestrian/cyclist facilities; new bridges lack heritage value.
+4a2291c8-3ecb-4dc2-91f3-d6b3d09eefc1,2025-03-27 19:31:39.935583+00:00,qwen,qwen-turbo,0,3942,263,"Retain existing with improvements, prioritize heritage, safety, and multimodal use while managing costs and environmental impact."
+0e6ce31b-7765-42df-b1f3-b4dce234a89a,2025-03-27 19:31:44.792813+00:00,qwen,qwen-turbo,0,3937,256,"Retain existing with upgrades, new bridge as alternative, prioritize heritage and safety."
+631e4757-6c95-4d51-8f91-0399930a05fb,2025-03-27 19:31:49.799881+00:00,qwen,qwen-turbo,0,3942,254,New bridge as entry statement preferred; heritage preservation key; minimal改动
+933d46ea-46e2-4864-b844-f2672ed7cd14,2025-03-27 19:31:54.715370+00:00,qwen,qwen-turbo,0,3948,261,"Prioritize heritage, safety, and multi-use; new bridges should complement existing structures."
+785f8f2f-0392-457c-9d27-fe6b8152b19b,2025-03-27 19:31:59.833211+00:00,qwen,qwen-turbo,0,3954,264,"Retain existing bridge with replacements, prioritize heritage and safety while improving multi-use facilities."
+4743afe9-493b-41d2-a703-1a22d52f8f26,2025-03-27 19:32:04.853851+00:00,qwen,qwen-turbo,0,3942,264,"Retain existing bridge with improvements; new bridges should complement heritage; prioritize safety, tourism, and multimodal access."
+df7474fd-c4e9-45d7-bd5e-d293bc019478,2025-03-27 19:32:09.878938+00:00,qwen,qwen-turbo,0,3938,260,"Retain existing bridge with improvements; new bridges should complement heritage; prioritize safety, economy, and environment."
+551bb04b-6fa1-4ba8-8fce-9ea263aedeb4,2025-03-27 19:32:14.884896+00:00,qwen,qwen-turbo,0,3938,251,Preference for minimal changes preserving heritage and enhancing multi-use functionality.
+b48a3b07-add5-4d14-807f-75df94f7e3b9,2025-03-27 19:32:19.891075+00:00,qwen,qwen-turbo,0,3936,262,"Retain existing with improvements, prioritize safety, heritage, and multimodal use. New bridges should complement, not dominate."
+5a0fba27-bfa9-4cbc-8fef-64817f40ed57,2025-03-27 19:32:24.780455+00:00,qwen,qwen-turbo,0,3950,263,"Preference for dual use bridges with improvements, supporting heritage, and prioritizing safety and economics."
+52265b90-b078-410c-ac3d-2de492a778b1,2025-03-27 19:32:29.737974+00:00,qwen,qwen-turbo,0,3932,253,"Retain existing with minimal changes, prioritize heritage, pedestrians, cyclists, and safety."
+99738313-d10c-4c95-b6cb-11c82abc58b0,2025-03-27 19:32:34.778979+00:00,qwen,qwen-turbo,0,3937,261,"Retain existing bridge with improvements; new bridges should complement heritage; prioritize safety, economy, and environment."
+6a50af10-161f-4437-80f8-f4d598fff334,2025-03-27 19:32:39.674900+00:00,qwen,qwen-turbo,0,3936,259,"Retain existing with improvements, new bridges disrupt heritage; wider bridge safer, new bridges costly and unnecessary."
+2dddf8ce-265e-40c7-a181-428c151d7b53,2025-03-27 19:32:44.544204+00:00,qwen,qwen-turbo,0,3939,264,"Retain existing bridge with improvements; new bridges should complement heritage; prioritize safety, tourism, and multimodal use."
+76911341-eebf-40c4-9045-dda3da6587c0,2025-03-27 19:32:49.602107+00:00,qwen,qwen-turbo,0,3944,259,"Retain existing with replacements, new bridges detract from heritage value and town center."
+40d0b811-7a0d-485c-9869-f801746f76bc,2025-03-27 19:32:54.723443+00:00,qwen,qwen-turbo,0,3936,257,"Retain existing with upgrades, new bridge next to it, and focus on heritage and safety."
+99bf449e-7128-4974-bef0-ee91d15c5538,2025-03-27 19:32:59.712392+00:00,qwen,qwen-turbo,0,3942,253,"New bridge for functionality, retain old for heritage; minimal改动"
+2e1010f2-7ad6-46d9-b40a-c0c2e9d06f27,2025-03-27 19:33:04.609312+00:00,qwen,qwen-turbo,0,3938,259,"Retain existing with upgrades, new bridge for future, prioritize heritage and safety, consider indigenous impacts."
+a2bb31a3-80f4-40cc-b9bc-4c7e0328c80a,2025-03-27 19:33:09.775191+00:00,qwen,qwen-turbo,0,3938,258,Preference for preserving existing bridge with improvements and enhancing heritage value while ensuring safety and multimodal functionality.
+5d2d350b-e587-4ed1-89e7-1ce0ba94b6e8,2025-03-27 19:33:14.692260+00:00,qwen,qwen-turbo,0,3941,261,"Retain existing with replacements, new bridge options are costly but some could work for future needs."

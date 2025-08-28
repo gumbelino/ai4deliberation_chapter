@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+3529f27c-0682-48f9-904b-65213ac1b7b7,2025-03-20 17:38:58.599808+00:00,meta,llama3.2,0,0,0,Strong leaders and minimal government intervention align with individual freedoms.
+3dec3dc6-f542-4cfd-bdd2-32667dccb9cb,2025-03-20 17:39:18.707538+00:00,meta,llama3.2,0,0,0,"Strong leader and minimal government intervention appealed most, followed by inclusive approach then others."
+d33ca7f1-dfcc-4df1-952a-ac4bdc46d3d2,2025-03-20 17:39:29.648348+00:00,meta,llama3.2,0,0,0,Conservative economic markets with minimal government intervention ranks highest
+facc4d97-32a6-48b5-91c0-e02797c0b573,2025-03-20 17:39:40.549015+00:00,meta,llama3.2,0,0,0,Strong leaders with morality and minority involvement are preferred over minimal market intervention.
+850a5a09-f9dc-4f14-a045-eb59f4ce8232,2025-03-20 17:40:00.533804+00:00,meta,llama3.2,0,0,0,Strong leader with minority groups involved and economic markets prioritized.
+0ceb4e3a-99ab-4a98-9971-e7e728f9f7bb,2025-03-20 17:40:29.295080+00:00,meta,llama3.2,0,0,0,Strongest support for conservative economic rules and weak minority representation.
+71ddcbd7-edb6-4ca8-a412-011d384e8a04,2025-03-20 17:48:02.375099+00:00,meta,llama3.2,0,0,0,Strong leadership and equal influence for all Australians were prioritized over economic market rules.
+bf4fc834-c150-4ecb-9f51-8c4391fa3f54,2025-03-20 17:48:37.027138+00:00,meta,llama3.2,0,0,0,Strong leaders with moral principles over individual freedoms and minority representation.
+f4127fed-d1e5-4c27-aa50-b29362eb7445,2025-03-20 17:48:54.138262+00:00,meta,llama3.2,0,0,0,Conservative policies on individual freedoms and minimal government intervention are preferred over strong social group involvement.
+f99e7098-3b00-4eb9-a333-41d193c7f3d6,2025-03-20 17:49:11.293400+00:00,meta,llama3.2,0,0,0,Stronger moral principles and minority group involvement are preferable to minimal government intervention.
+be552e87-0584-4c44-b3be-c129a090a113,2025-03-20 17:49:51.900332+00:00,meta,llama3.2,0,0,0,Ratings reflect support for strong minority representation and minimal government intervention.
+826d7e3c-aaae-4d20-a8ea-ff96444c2710,2025-03-20 17:50:46.560213+00:00,meta,llama3.2,0,0,0,Strong leaders and moral principles are most important to me then minority representation is.
+b883be66-710b-4c84-9c77-919513b3e9de,2025-03-27 14:37:28.426453+00:00,meta,llama3.2,0,0,0,I ranked policies based on democratic participation and morality emphasis.
+e0319e6a-674b-44db-8273-148d6c9d695a,2025-03-27 14:37:47.477367+00:00,meta,llama3.2,0,0,0,Strong leaders and economic freedom are preferred over strict morality and minority influence.
+d3769b50-d328-4152-8904-9876a5c888d4,2025-03-27 14:37:57.357873+00:00,meta,llama3.2,0,0,0,"Strongest support for gradual change over market-driven rule, strong leaders with moral principles, followed by social equality and citizen involvement."
+a9d46ddc-ab44-4167-84cd-d221a4b97e0b,2025-03-27 14:38:07.543608+00:00,meta,llama3.2,0,0,0,Strong leaders with moral principles outweighs major party influence and equal rights for all.
+c082c101-ae23-47ed-ac77-e904b03fbe25,2025-03-27 14:38:26.393265+00:00,meta,llama3.2,0,0,0,Strongest support for equal influence and minimal government intervention
+fbc61ad5-a432-4f7d-a592-794697de763e,2025-03-27 14:38:53.898329+00:00,meta,llama3.2,0,0,0,"Stronger social group involvement ranks high, equal influence for all Australian citizens is preferred over minority benefits."
+c56a5619-7d43-43a5-957d-e6df1ee4be9d,2025-03-27 15:12:53.713049+00:00,meta,llama3.2,0,0,0,Supports strong leaders with moral principles over individual freedoms and economic market dominance.
+4db245a5-d368-433e-8993-764678b5cec4,2025-03-27 15:13:03.786685+00:00,meta,llama3.2,0,0,0,"Stronger social justice policy appeals most, then minimal change is preferred over radical reform."
+d73a114b-c428-43ad-896e-78b9f0002264,2025-03-27 15:13:13.860223+00:00,meta,llama3.2,0,0,0,Strong leaders and moral principles are prioritized over equal influence and economic markets.
+40b4c492-2df8-4566-9cc3-83ccd653af4c,2025-03-27 15:13:23.846725+00:00,meta,llama3.2,0,0,0,Strong leaders and moral principles are preferred over economic freedom and minority representation.
+6669babb-8d41-4814-88d2-1b6104e8a658,2025-03-27 15:13:42.696803+00:00,meta,llama3.2,0,0,0,Strong leaders and morals are less preferred than minimal government intervention with rules.
+133b2d77-159c-429e-9267-4f687d594b37,2025-03-27 15:13:52.551586+00:00,meta,llama3.2,0,0,0,"Strong leaders prioritize morals, minority groups have voice, no benefits for minorities, minimal change desired, markets over morality."
+62899390-3a35-49ca-b7d8-3c3783494b93,2025-03-27 15:14:02.790907+00:00,meta,llama3.2,0,0,0,Strong leaders and minimal interference with economy are preferred.
+6ac2a7ba-e536-469e-90d8-d6979526d0d5,2025-03-27 15:14:12.652035+00:00,meta,llama3.2,0,0,0,"Strong leaders and inclusive policies ranked high, strict morality and equal influence for all ranked low."
+915ab343-27aa-4fdf-990a-fb9a444f3ad1,2025-03-27 15:14:40.835578+00:00,meta,llama3.2,0,0,0,"Strong leaders and moral principles are least supported, while equal influence for all is most supported."
+4acc27e6-dace-420b-a2bb-3468cbe6158a,2025-03-27 15:14:59.626721+00:00,meta,llama3.2,0,0,0,"Strongest support for inclusive minority representation, then balanced markets."
+b048cf4e-b5aa-41fd-b455-11b15175a51d,2025-03-27 15:15:09.462332+00:00,meta,llama3.2,0,0,0,Strong leaders with moral principles win over equal influence for all and free markets.
+b583962b-1b02-4f76-8f96-9902b41bf1b8,2025-03-27 15:15:28.533757+00:00,meta,llama3.2,0,0,0,Strongest support for free market economic policies and equal influence for all Australians
+38476203-c085-4637-b8b9-fd7fa69ecd69,2025-03-27 15:15:38.418390+00:00,meta,llama3.2,0,0,0,Strong leaders and moral principles are important but equality for all Australians is most crucial.
+3fd2c434-78d8-40f7-895c-d9f78457e87a,2025-03-27 15:15:48.382217+00:00,meta,llama3.2,0,0,0,"Strong leadership over equality and markets, with little change preferred."

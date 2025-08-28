@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+307cd3c5-a8c2-4f14-a090-dd8684997515,2025-04-01 15:12:30.116770+00:00,openai,o3-mini,0,2717,4922,I ranked universal access first for equality then cost savings and market stability.
+8d1b6745-6c90-4481-841a-5a0c57107bd8,2025-04-01 15:13:24.172043+00:00,openai,o3-mini,0,2717,4097,Rankings favor public income based healthcare and efficient government intervention.
+3bdce926-c0bd-498b-9c17-7b7c34697b77,2025-04-01 15:13:56.162965+00:00,openai,o3-mini,0,2717,5317,"I prioritized cost containment, income fairness, and targeted reforms over broad deregulation."
+7c51f947-d1af-4967-9a6f-f3f7bd09eaf0,2025-04-01 15:14:41.934620+00:00,openai,o3-mini,0,2717,4869,I ranked universal healthcare first and deregulated policies last to balance access and efficiency.
+ff785984-8304-4dcd-80a5-2c4bd3f4a6a9,2025-04-01 15:15:32.584866+00:00,openai,o3-mini,0,2717,4547,I prioritized balanced reforms over radical changes based on efficiency and equity.

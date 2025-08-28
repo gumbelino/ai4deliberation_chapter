@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Leave the policy settings as they are.,P2. Policies that emphasise economic growth over climate change adaptation or mitigation.,P3. Policies that involve a moderate cut in CO2 emissions (at least 25% in over the next 10 years).,P4. Policies that involve a dramatic cut back in CO2 emissions (at least 50% in the next 10 years).,P5. Adaptation policies and expenditure. Planning controls and emergency response programs.,"P6. Adaptation policies that target individual, small business or community-based actions (e.g., support the installation of alternative energy generators, insulation, water use efficiency)",P7. Preparing for climate risk through the development of new approaches and technologies that enhance resilience to the impacts of climate variability or change.
+1e4a7003-f81c-43ab-9bed-ec9d6666f276,2025-04-08 14:37:30.382456+00:00,openai,gpt-4.5-preview,0,3282,207,1,4,7,5,6,2,3
+700cc720-a6bc-4de2-af7f-c12b7d028ca0,2025-04-08 14:38:01.279918+00:00,openai,gpt-4.5-preview,0,3282,208,6,7,4,1,5,2,3
+856c48c9-509f-49b9-b9fa-fb1033576f5f,2025-04-08 14:38:36.197131+00:00,openai,gpt-4.5-preview,0,3282,207,7,2,1,5,6,3,4
+933533df-3dbc-4645-bf97-9d7dc8db90dc,2025-04-08 14:39:05.379266+00:00,openai,gpt-4.5-preview,0,3282,208,5,6,2,4,1,7,3
+162a90ca-e085-4514-ac25-b27accfdba20,2025-04-08 14:39:33.973583+00:00,openai,gpt-4.5-preview,0,3282,208,5,6,2,1,7,3,4
+932c71f3-d389-49a5-8d00-882f335d9b62,2025-04-10 08:05:16.544157+00:00,openai,gpt-4.5-preview,0,3282,208,7,5,4,6,3,2,1
+d3b71259-f69f-4127-8c79-a0a88bc9c806,2025-04-10 08:05:25.331801+00:00,openai,gpt-4.5-preview,0,3282,207,6,7,4,1,5,2,3
+ceba554c-84d8-432f-90f7-d72ec375be92,2025-04-10 08:05:40.159988+00:00,openai,gpt-4.5-preview,0,3282,208,7,2,1,5,6,3,4
+19559f50-c2e8-466b-8a21-94fa7ef9bc81,2025-04-10 08:05:48.669856+00:00,openai,gpt-4.5-preview,0,3282,208,5,6,2,4,1,7,3
+d276addf-0e20-40c1-85fa-6a9e356877fc,2025-04-10 08:06:03.770221+00:00,openai,gpt-4.5-preview,0,3282,208,6,5,2,1,7,3,4

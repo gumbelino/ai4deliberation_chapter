@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+de4880cc-8e5f-4812-8b71-00eea9d70213,2025-03-27 16:37:25.714014+00:00,qwen,qwen-turbo,0,3717,290,Support helping beggars but prioritize local issues and address root causes abroad.
+3e290dd3-e5a4-4929-8880-c0fe084cb13d,2025-03-27 16:37:31.448553+00:00,qwen,qwen-turbo,0,3717,295,"Prioritize local issues, support accommodation, focus on source countries, avoid bans and deportations."
+8c321c46-abfe-4809-a7cc-bd0c9714fd9d,2025-03-27 19:04:13.099587+00:00,qwen,qwen-turbo,0,3717,299,Support assistance and accommodation for beggars while focusing on源头没找到，请问您能提供下全文链接吗？
+4cdb796e-0cab-4644-94fc-650b796353b4,2025-03-27 19:04:18.754771+00:00,qwen,qwen-turbo,0,3717,293,"Prioritize local issues, support beggars mildly, focus on源头没给定指令"
+6793c864-60be-4ce2-83f3-f49d204489d4,2025-03-27 19:04:24.029847+00:00,qwen,qwen-turbo,0,3717,293,"Support helping beggars but prioritize source countries, enforce laws, and avoid deportations."
+48484eb2-ba1a-4727-b4d9-59138a27c0fb,2025-03-27 19:04:29.576427+00:00,qwen,qwen-turbo,0,3719,300,"Prioritize helping in home countries, enforce laws, provide accommodation, ban giving money, and deport long-term beggars."
+74e817ca-700d-4c97-b802-d5d26abbe9af,2025-03-27 19:04:34.948090+00:00,qwen,qwen-turbo,0,3717,284,Prioritize source country solutions;谨慎输入
+adf0913f-9a20-4c7a-9729-86671c9a9996,2025-03-27 19:04:40.059764+00:00,qwen,qwen-turbo,0,3714,291,"Support assistance in source countries, prioritize Swedish needs, and regulate begging laws."
+fcff162e-16ba-4b20-bc6f-74575a90cbc3,2025-03-27 19:04:45.308715+00:00,qwen,qwen-turbo,0,3717,289,Prioritize policies addressing root causes; support limited assistance and enforcement.
+1189291b-b575-4ca6-a382-dfe1119b81d1,2025-03-27 19:04:51.061802+00:00,qwen,qwen-turbo,0,3717,304,Deport long-term beggars; enforce laws; ban illegal settlements; aid source countries; limit direct aid; discourage cash; ban begging.
+4f2fb977-cf94-48ab-ac75-4e0ec45ed947,2025-03-27 19:04:56.370660+00:00,qwen,qwen-turbo,0,3717,296,"Prioritize local needs, enforce laws, address root causes, avoid deportations, and regulate accommodations."
+33ef3179-5906-4e23-a945-b57693305781,2025-03-27 19:05:01.525809+00:00,qwen,qwen-turbo,0,3717,294,"Focus on source countries, enforce laws, provide aid, avoid deportation, ban illegal settlements."
+6bb9c6f5-d4e7-4a24-8bf8-eb7a5fb6c35b,2025-03-27 19:05:06.820495+00:00,qwen,qwen-turbo,0,3717,297,"Prioritize source country solutions, support accommodation, avoid special bans or deportations, focus on existing laws."
+829bbfd7-bd93-403d-be6b-fb0716b37d17,2025-03-27 19:05:13.380783+00:00,qwen,qwen-turbo,0,3717,293,"Support assistance in source countries, enforce laws, provide accommodation, focus on root causes."
+be55bd34-27da-4fd1-9919-88dcb7e48a0f,2025-03-27 19:05:18.661796+00:00,qwen,qwen-turbo,0,3717,293,"Prioritize local issues, support deportation, focus on source countries, avoid special treatments."
+ec252be6-eba4-4bf4-b4a0-7111563e265e,2025-03-27 19:05:23.979606+00:00,qwen,qwen-turbo,0,3717,291,Support helping beggars but prioritize local issues and focus on root causes abroad.
+a61ae7b6-a6a0-484d-8df2-7d889db33e7b,2025-03-27 19:05:31.191796+00:00,qwen,qwen-turbo,0,3717,292,"Prioritize help in source countries, support legal aid, and address root causes."
+78d1a41e-ee30-4d7c-90ea-caafebdabfad,2025-03-27 19:05:37.131812+00:00,qwen,qwen-turbo,0,3719,291,"Prioritize local issues, support legal enforcement, and address root causes abroad."
+ade9cf62-96a9-442d-9212-81d7f94e646c,2025-03-27 19:05:49.008076+00:00,qwen,qwen-turbo,0,3717,296,Tight border control and focusing on source countries are priorities; support basic needs but not direct aid.
+2a64b23c-375d-45fa-a5bc-129119b6e1e0,2025-03-27 19:05:54.121448+00:00,qwen,qwen-turbo,0,3717,290,Support assistance for beggars focusing on source countries and improving their conditions.
+059db9bd-7e93-40f0-baf8-6735d296e615,2025-03-27 19:05:59.355029+00:00,qwen,qwen-turbo,0,3717,291,Prioritize helping beggars while addressing illegal activities and focusing on source countries.
+73c7061e-c5f5-4e27-8996-36318bcffb2d,2025-03-27 19:06:05.738660+00:00,qwen,qwen-turbo,0,3719,289,Focus on源头处理问题，提供住宿，加强法律执行。
+b3d88824-291f-4a18-b8eb-68e91fe638c1,2025-03-27 19:06:11.318029+00:00,qwen,qwen-turbo,0,3719,296,Support helping beggars but prioritize locals; focus on root causes; enforce laws; reject special treatment.
+9c2c3ba9-9148-4fdf-a8be-aa5a19f10c31,2025-03-27 19:06:17.058777+00:00,qwen,qwen-turbo,0,3717,296,"Prioritize local issues, enforce laws, address root causes, avoid deportations, and provide support."
+850a81c0-f859-4dce-ad72-c2fa359fe73b,2025-03-27 19:06:22.764687+00:00,qwen,qwen-turbo,0,3719,293,"Prioritize source country aid, enforce laws, provide some accommodation, ban illegal settlements."
+95e8f8f6-3bb9-4040-9733-658f758fae10,2025-03-27 19:06:27.921006+00:00,qwen,qwen-turbo,0,3717,298,"Prioritize source country solutions; support limited aid, law enforcement, and deportation for long-stay beggars."
+1ac19a0d-d2e4-4576-b669-51e927a42e3b,2025-03-27 19:06:35.074670+00:00,qwen,qwen-turbo,0,3719,284,Focus on源头没给定相关信息。
+efe0f920-c390-4b8e-bcf2-42b3e10735ad,2025-03-27 19:06:40.164520+00:00,qwen,qwen-turbo,0,3717,293,"Prioritize help in source countries, enforce laws, provide accommodation, ban giving money."
+df402b25-5472-40aa-a9d8-327f2d294ae0,2025-03-27 19:06:46.210778+00:00,qwen,qwen-turbo,0,3717,293,"Focus on source countries, provide some support, enforce laws, ban settlements and begging."
+9833df25-3fc5-4834-a127-c859eb91f7ec,2025-03-27 19:06:51.845565+00:00,qwen,qwen-turbo,0,3717,287,Support assistance focusing on source countries and stronger law enforcement.

@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+387ea320-8f23-42b5-aa0b-be0d5199341b,2025-05-20 12:42:56.682643+00:00,xai,grok-3-mini-fast-beta-r=low,0,9332,262,Supported law enforcement and foreign aid most due to emphasis on responsibility and victim support.
+584ea497-9431-4332-8b70-9e2f0f2af8b0,2025-05-20 12:43:14.685698+00:00,xai,grok-3-mini-fast-beta-r=low,0,9641,257,Prioritized humanitarian aid and root causes over restrictive enforcement.
+7f98f384-2b9d-4889-9a3f-9362f1b6f511,2025-05-20 12:43:32.149858+00:00,xai,grok-3-mini-fast-beta-r=low,0,8776,257,Prioritized humanitarian aid and root causes over restrictive measures.
+2fe14fc0-b86f-4a35-a925-36985a2f0417,2025-05-20 12:43:48.862621+00:00,xai,grok-3-mini-fast-beta-r=low,0,10438,259,"Based on prior ratings, prioritized aid in source countries over deportation."
+8ad94a49-bb93-4946-a7da-00141947f25e,2025-05-20 12:44:20.210745+00:00,xai,grok-3-mini-fast-beta-r=low,0,8991,259,Prioritized aid in source countries and law enforcement per previous ratings.

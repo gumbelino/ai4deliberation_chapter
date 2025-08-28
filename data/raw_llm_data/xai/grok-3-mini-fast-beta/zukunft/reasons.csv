@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+6dbdb9d7-afd0-47b8-b992-557669a5bd8b,2025-05-22 17:06:36.054770+00:00,xai,grok-3-mini-fast-beta,0,2650,151,Prioritized socioeconomic initiatives and awareness to tackle root causes of mental health disparities.
+e4935acf-eb99-4f3d-9d8a-f27665fde55b,2025-05-22 17:06:54.417308+00:00,xai,grok-3-mini-fast-beta,0,2650,152,"I support policies increasing mental health funding and addressing disparities most, while opposing reductions."
+a97ccb88-7190-43f6-9842-801e5bb627f9,2025-05-22 17:07:12.849164+00:00,xai,grok-3-mini-fast-beta,0,2650,151,"I prioritize socioeconomic initiatives for addressing root causes, then awareness and funding increases."
+7a4c6000-8073-4b03-bcbb-0a52a6a3e3cd,2025-05-22 17:07:34.050315+00:00,xai,grok-3-mini-fast-beta,0,2650,149,I support policies addressing socioeconomic disparities and increasing mental health funding most.
+85fc4f24-b04c-48bc-8650-b2432ec4c2b5,2025-05-22 17:07:53.811041+00:00,xai,grok-3-mini-fast-beta,0,2650,152,"Prioritized socioeconomic initiatives, funding increases, and awareness for equitable mental health support."

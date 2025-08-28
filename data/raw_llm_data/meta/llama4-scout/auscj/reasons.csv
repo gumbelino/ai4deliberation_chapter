@@ -1,0 +1,41 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+4a0ffd13-aba3-47f1-8516-4926155b9321,2025-04-10 17:05:05.655816+00:00,meta,llama4-scout,0,4223,281,"Balanced regulation prioritizing safety, ethics, and accessibility guided my policy rankings."
+11b60610-e379-465e-a232-870e9577cd58,2025-04-10 17:05:10.505150+00:00,meta,llama4-scout,0,4221,279,Balanced approach prioritizes safety and ethics while allowing medical benefits.
+66d8615c-1e41-4642-8e95-4ec3c000e1bb,2025-04-10 17:05:15.618345+00:00,meta,llama4-scout,0,4223,283,Balanced regulation and non-profit use prioritized over unrestricted or completely banned genome editing.
+f6d482d7-f113-47dc-b0a5-a1efe56416c9,2025-04-10 17:05:20.438031+00:00,meta,llama4-scout,0,4223,282,"Balanced oversight and clinical purpose ranked high, unrestricted and total prohibition ranked low."
+d588f125-4fab-4c82-b09f-5d2e92c08441,2025-04-10 17:05:25.242553+00:00,meta,llama4-scout,0,4223,279,"Balanced approach with oversight ranked highest, unrestricted options ranked lowest."
+c576986b-5274-4a7f-bc43-97ec277afe3b,2025-04-10 17:05:29.967452+00:00,meta,llama4-scout,0,4223,286,"I prioritized safety, ethics, and non-profit uses, while opposing unrestricted and heritable editing."
+08256d5f-ad93-4b79-9534-1caa9e43bd8b,2025-04-10 17:05:34.773087+00:00,meta,llama4-scout,0,4223,282,"I prioritized oversight and clinical purpose, opposed blanket bans or unregulated uses."
+1f807334-fe6f-463c-9ed1-b961260ae89a,2025-04-10 17:05:39.405290+00:00,meta,llama4-scout,0,4223,280,Balanced oversight and restrictions on human genome editing for safety and ethics.
+c1b947ec-88fb-4f6b-8612-400974283fdb,2025-04-10 17:05:44.243471+00:00,meta,llama4-scout,0,4223,280,Balanced oversight and restrictions on human genome editing for safety and ethics.
+fb697632-6190-487c-ae06-8ce37897507c,2025-04-10 17:05:48.999539+00:00,meta,llama4-scout,0,4223,285,"I prioritized safe, clinical uses with oversight and restrictions on heritable and for-profit editing."
+dca9d314-a9b1-480c-be85-b9d48f7095f8,2025-04-10 17:05:53.614571+00:00,meta,llama4-scout,0,4223,281,"I prioritized oversight and clinical purpose, opposed blanket bans or minimal restrictions."
+04739a09-e061-4e37-94d7-4b56390cfe42,2025-04-10 17:05:58.153002+00:00,meta,llama4-scout,0,4223,278,"Balanced approach prioritizing safety, ethics, and medical benefits."
+d3b1d116-cbba-4dd4-9aa6-b37801dc3d76,2025-04-10 17:06:02.961371+00:00,meta,llama4-scout,0,4223,286,"I prioritized oversight and restrictions, supporting option 8 and rejecting unregulated or completely banned approaches."
+993d19a5-0fc6-4fc4-8cb6-c41b20756a8d,2025-04-10 17:06:07.541178+00:00,meta,llama4-scout,0,4221,283,Balanced regulation and non-profit use prioritized over unrestricted or completely banned genome editing.
+3a79bef8-6df7-4f4d-8063-93786ed3a0f0,2025-04-10 17:06:12.030869+00:00,meta,llama4-scout,0,4223,283,Balanced regulation and non-profit use prioritized over unrestricted or completely banned genome editing.
+45cef23c-6075-4951-831d-12897df376e5,2025-04-10 17:06:17.061470+00:00,meta,llama4-scout,0,4221,283,"Balanced oversight and non-profit use top picks, unrestricted and total bans least favored."
+cc3bd390-36a6-4c86-883a-5700ba1a99c5,2025-04-10 17:06:22.113470+00:00,meta,llama4-scout,0,4223,277,Balanced regulation and safety oversight guided my policy rankings.
+c2b2a48e-333b-40f5-8d26-42eeec498f2b,2025-04-10 17:06:27.349917+00:00,meta,llama4-scout,0,4221,278,"Balanced approach prioritizing safety, ethics, and medical benefits."
+6720a4c0-a9b4-460f-aa17-d083a655dadd,2025-04-10 17:06:33.012322+00:00,meta,llama4-scout,0,4223,281,Balanced oversight and restrictions ranked higher than absolute bans or unregulated uses.
+3cfc2202-eaab-44fe-8ff3-ce8c8dddc5d8,2025-04-10 17:06:38.158532+00:00,meta,llama4-scout,0,4223,286,"Balanced oversight and non-profit use got top ranks, while unrestricted and completely banned options ranked lower."
+1c9ba6e0-24b7-4484-8b40-67587bf15561,2025-04-10 17:06:42.800949+00:00,meta,llama4-scout,0,4223,281,"I prioritized options with oversight and restrictions, supporting clinical use with safeguards."
+663a4c55-f6ce-4565-82cc-ecee985a4371,2025-04-10 17:06:47.561577+00:00,meta,llama4-scout,0,4223,277,Balanced regulation and safety oversight guided my policy rankings.
+67a76aaf-4efc-4c94-ac53-e68bd5f97f67,2025-04-10 17:06:52.071263+00:00,meta,llama4-scout,0,4220,283,"Balanced approach with oversight ranked high, total bans or unregulated uses ranked low."
+73191ba4-3a97-4ce1-a335-30952ac84993,2025-04-10 17:06:57.328413+00:00,meta,llama4-scout,0,4223,294,"I prioritized safety, ethics, and accessibility, favoring regulated, non-heritable editing for treatment and research over broad, unrestricted applications."
+13623960-a7ac-4de6-9b18-4302f8544a2e,2025-04-10 17:07:02.625718+00:00,meta,llama4-scout,0,4223,280,Balanced oversight and restrictions on human genome editing for safety and ethics.
+248f5ffb-870d-42be-b175-1171b3d6a24f,2025-04-10 17:07:07.307786+00:00,meta,llama4-scout,0,4218,287,"Balanced regulation supporting medical use with oversight ranked highest, while unregulated or completely banned options ranked lower."
+dabfa11b-fb7c-4f98-a0c2-2f867ac1d71b,2025-04-10 17:07:12.227422+00:00,meta,llama4-scout,0,4221,278,"Balanced approach prioritizing safety, ethics, and medical benefits."
+2a644ab3-7109-44fc-b3f9-e14d2fb07529,2025-04-10 17:07:16.966756+00:00,meta,llama4-scout,0,4223,277,Balanced oversight and clinical purpose drove my supportive rankings.
+47e65b87-068e-49f9-9308-2dbfe2f52a9b,2025-04-10 17:07:21.682850+00:00,meta,llama4-scout,0,4223,285,"I prioritized options with safeguards and medical focus, while opposing blanket bans or unregulated uses."
+c92f2905-7f89-4702-8c20-d4f3fdfaad9a,2025-04-10 17:07:26.179158+00:00,meta,llama4-scout,0,4223,277,Balanced oversight and ethical considerations guided my policy rankings.
+64767d71-6fc6-4303-a360-a5a18eb76de0,2025-04-10 17:36:51.242499+00:00,meta,llama4-scout,0,4223,283,"I prioritized oversight and clinical purpose, while opposing unregulated and for-profit uses."
+ee3cff20-2191-45ea-93a4-5b4578458b9e,2025-04-10 17:36:55.923423+00:00,meta,llama4-scout,0,4223,289,"I prioritized safe, clinical, and oversight-driven genome editing, while opposing unregulated or purely profit-driven uses."
+43145764-05fe-4402-837c-834ec880974b,2025-04-10 17:37:00.670551+00:00,meta,llama4-scout,0,4223,283,"Balanced approach with oversight ranked high, total bans or unregulated uses ranked low."
+8730b7e7-90ec-4be9-8574-09c741e5765d,2025-04-10 17:37:05.202238+00:00,meta,llama4-scout,0,4223,282,"Balanced approach with oversight ranked highest, total ban or minimal restriction ranked lowest."
+eef1e41a-b588-4d46-8441-eb7f1095d091,2025-04-10 17:37:10.156464+00:00,meta,llama4-scout,0,4223,282,Balanced regulation and non-profit use prioritized over unrestricted or completely banned approaches.
+ef552b61-aa6f-4b6a-be8c-8db9b9ef0f51,2025-04-10 17:37:14.789791+00:00,meta,llama4-scout,0,4223,280,Balanced oversight and restrictions on human genome editing for safety and ethics.
+8a81c7fc-fc72-4b27-9b0e-e77baa0c9a6a,2025-04-10 17:37:20.088630+00:00,meta,llama4-scout,0,4223,277,Balanced oversight and ethical considerations guided my policy rankings.
+94e747a2-e813-4fe0-8045-d89a964c7d0c,2025-04-10 17:37:24.899787+00:00,meta,llama4-scout,0,4223,282,"Balanced approach with oversight ranked highest, total ban or minimal restrictions ranked lowest."
+4efd42da-8689-46e3-9d74-e88772d5d23f,2025-04-10 17:37:29.825386+00:00,meta,llama4-scout,0,4223,283,"Balanced oversight and restrictions ranked highest, blanket bans and unregulated uses ranked lowest."
+ea057769-75e8-42be-b58f-0cdc9a7458b0,2025-04-10 17:37:34.425923+00:00,meta,llama4-scout,0,4223,282,"Balanced oversight and non-profit use preferred, strict prohibition or unrestricted use opposed."

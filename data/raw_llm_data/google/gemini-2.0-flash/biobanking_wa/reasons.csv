@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+46e85eba-c39c-4a75-987e-a3535010323b,2025-03-20 11:07:21.240902+00:00,google,gemini-2.0-flash,0,5176,347,"Public funding with strong regulation is best, private with minimal is worst."
+6a356889-fd5d-48e9-9cbe-5b4646858e32,2025-03-20 11:07:26.267761+00:00,google,gemini-2.0-flash,0,5176,347,Public funding with strong regulation is best; private with minimal is worst.
+14d052bd-fafd-4fc4-a865-38753f34156e,2025-03-20 11:07:31.485714+00:00,google,gemini-2.0-flash,0,5172,343,Public funding with strong regulation balances progress and ethical concerns best.
+6bf1d630-69b0-49e1-b0bb-441aedbb91d3,2025-03-20 11:07:36.544388+00:00,google,gemini-2.0-flash,0,5178,346,"High privacy, strong regulation preferred; minimal government input least."
+3ecc4181-18f4-4a5b-9424-e5df9de2368b,2025-03-20 11:07:41.420883+00:00,google,gemini-2.0-flash,0,5172,344,Privacy and public oversight are key; private funding needs strong regulation.
+1e21e4b7-d836-47ea-9db1-89d6e75e5672,2025-03-20 11:07:46.461986+00:00,google,gemini-2.0-flash,0,5170,344,Public funding with strong regulation is best; private with minimal is worst.
+0de596b3-3000-4d17-8769-0f4c9b820566,2025-03-20 11:07:50.985365+00:00,google,gemini-2.0-flash,0,5182,352,"Public funding & strong regulation best, private & minimal regulation worst, privacy important."
+65e0c8eb-4d32-42ca-b98a-316ebb16a462,2025-03-20 11:07:56.018012+00:00,google,gemini-2.0-flash,0,5180,346,"Strong privacy and regulation are key, public funding preferred."
+32dec701-be33-4825-9c03-470348780737,2025-03-20 11:08:00.808920+00:00,google,gemini-2.0-flash,0,5176,347,"Publicly funded, strongly regulated biobanks with high privacy are preferred."
+2e2b061a-f65c-4b4d-a6cb-92d74048798c,2025-03-20 11:08:05.951590+00:00,google,gemini-2.0-flash,0,5178,348,Privacy and strong regulation are key; public funding is preferred over private.
+c643697b-3b35-4a25-a921-02f113f1dbfa,2025-03-25 13:59:45.950205+00:00,google,gemini-2.0-flash,0,5176,347,"Public funding with strong regulation is best, private with minimal is worst."
+f711a643-27c8-466a-9a7d-227c2e0efb7c,2025-03-25 13:59:50.016212+00:00,google,gemini-2.0-flash,0,5178,348,Public funding with strong regulation is best; private with minimal is worst.
+2b822898-a52e-4fc6-a8a1-313c4e4a49e1,2025-03-25 13:59:54.422405+00:00,google,gemini-2.0-flash,0,5172,349,Public funding with strong regulation and high privacy are most important. Private funding needs strong oversight.
+42334d0d-1275-4961-a625-ff5b7bc43840,2025-03-25 13:59:58.551273+00:00,google,gemini-2.0-flash,0,5178,350,"Strong privacy and public funding with regulation are preferred, minimal input is least preferred."
+3b7a1ab3-9b08-460a-a0cf-6afdc67d5fd9,2025-03-25 14:00:02.915312+00:00,google,gemini-2.0-flash,0,5172,344,Privacy and public oversight are key; private funding needs strong regulation.
+42333c89-effe-48e6-a59d-911a6d0c0232,2025-03-25 14:00:07.192554+00:00,google,gemini-2.0-flash,0,5170,345,"Public funding with strong regulation is best, private with minimal regulation is worst."
+0cad80f8-b9f7-4a30-82c4-38543c7db6b6,2025-03-25 14:00:10.880124+00:00,google,gemini-2.0-flash,0,5178,346,Public funding with strong regulation and high privacy are most important.
+d9c84f0b-1fdb-45d8-bb09-da3e113cbc7f,2025-03-25 14:00:15.069491+00:00,google,gemini-2.0-flash,0,5180,346,"Strong privacy and regulation are key, public funding preferred."
+354ac7f9-32e0-4913-801b-ff0d704b5726,2025-03-25 14:00:18.862546+00:00,google,gemini-2.0-flash,0,5180,353,"Publicly funded, strong regulation, high privacy are preferred; private, minimal regulation not."
+9df9ebe6-6e24-4c06-9b15-5d19c2cb5b09,2025-03-25 14:00:23.077783+00:00,google,gemini-2.0-flash,0,5178,349,"Privacy and public benefit are key, with strong regulation and public funding preferred."
+27435aa2-3dec-492c-8638-f0fb57ed37f4,2025-03-27 09:36:31.890884+00:00,google,gemini-2.0-flash,0,5176,347,"Public funding with strong regulation is best, private with minimal is worst."
+318e2add-2f4f-46f3-bff6-8193fa18bc86,2025-03-27 09:36:36.053294+00:00,google,gemini-2.0-flash,0,5176,347,Public funding with strong regulation is best; private with minimal is worst.
+727fe007-04ce-40d0-9dc7-ed8d91ee075f,2025-03-27 09:36:40.056506+00:00,google,gemini-2.0-flash,0,5172,343,Public funding with strong regulation balances progress and ethical concerns best.
+01e85e1b-b282-4982-9574-5e3f9f9bebf4,2025-03-27 09:36:44.008103+00:00,google,gemini-2.0-flash,0,5178,350,"High privacy, publicly funded, strongly regulated is best; minimal input is worst."
+ebf4026a-a510-4d0a-8e23-c291109e8fa9,2025-03-27 09:36:48.106394+00:00,google,gemini-2.0-flash,0,5172,348,Privacy and public benefit are key; cautious but regulated private funding is better than unregulated.
+8c58d62f-9eba-45e7-b7b9-6451de0e94c7,2025-03-27 09:36:52.248841+00:00,google,gemini-2.0-flash,0,5170,344,Public funding with strong regulation is best; private with minimal is worst.
+4cff7bbc-5bf3-4523-a781-d56daaed872c,2025-03-27 09:36:55.798239+00:00,google,gemini-2.0-flash,0,5178,352,"Public funding & strong regulation best, private funding & minimal regulation worst. Privacy is key."
+3d4dab65-7320-4bec-90bd-9490830ffca9,2025-03-27 09:36:59.799629+00:00,google,gemini-2.0-flash,0,5184,349,Public funding with strong regulation and high privacy are most important.
+a4017aca-84a7-4960-ac01-c2cffeb1e7c5,2025-03-27 09:37:03.409250+00:00,google,gemini-2.0-flash,0,5176,347,"Publicly funded, strongly regulated biobanks with high privacy are preferred."
+106a6d6b-fffd-480a-9254-1bad567c74fe,2025-03-27 09:37:07.401367+00:00,google,gemini-2.0-flash,0,5176,348,"Privacy paramount, public funding with strong regulation preferred, minimal input least desirable."

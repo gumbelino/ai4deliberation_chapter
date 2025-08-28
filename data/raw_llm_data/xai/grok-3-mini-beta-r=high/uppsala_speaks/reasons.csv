@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+5079709c-8d32-4a3f-8bfc-1ef9a3930ebe,2025-04-28 11:35:16.544250+00:00,xai,grok-3-mini-beta-r=high,0,11748,264,Ranked policies prioritizing aid in source countries and support in Sweden over restrictive or punitive measures.
+e7d49131-1580-41c3-ad85-d133054ce05c,2025-04-28 11:35:57.862536+00:00,xai,grok-3-mini-beta-r=high,0,11928,263,"Based on previous ratings, I prioritized humanitarian aid and root cause solutions over punitive actions."
+cff939ad-df75-4fcc-b6ab-5026efe75191,2025-04-28 11:36:40.939415+00:00,xai,grok-3-mini-beta-r=high,0,14620,256,"Supported accommodation and source aid most, deportation least."
+9a27ed09-d4b4-4276-8cae-e503aa37ac35,2025-04-28 11:37:20.238756+00:00,xai,grok-3-mini-beta-r=high,0,9967,261,Prioritized root cause solutions and law enforcement over aid to avoid enabling migration.
+0ea1a7c1-fb76-456f-9584-8cea54ac9e1d,2025-04-28 11:37:45.116191+00:00,xai,grok-3-mini-beta-r=high,0,11035,261,Based on support for home country aid and law enforcement over local beggar assistance.

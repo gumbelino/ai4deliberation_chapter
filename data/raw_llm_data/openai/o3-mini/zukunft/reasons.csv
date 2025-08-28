@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+55b0b210-1325-407c-aefc-5073b787db88,2025-04-01 14:42:12.299792+00:00,openai,o3-mini,0,2659,3707,"I ranked more funding, integration, and social initiatives highest, and status-quo or cuts lowest."
+dafc6a86-41d0-4631-8a72-ec8ece62ec59,2025-04-01 14:42:36.135562+00:00,openai,o3-mini,0,2659,5108,I prioritized increased funding and integrated services while opposing status quo and reductions.
+365fbfe2-13e0-4e87-ae3a-83fe9f5f41e9,2025-04-01 14:43:33.748569+00:00,openai,o3-mini,0,2659,4979,Rated based on comprehensive mental health needs emphasizing public support and prevention.
+9b0f6bca-39ba-4033-8863-218eed4c4e16,2025-04-01 14:44:33.633618+00:00,openai,o3-mini,0,2659,4342,I favored integrated and social approaches to mental health over privatization or service cuts.
+76e92700-b8e5-4aff-a2b5-4bcfa2eb80d7,2025-04-01 14:45:05.750406+00:00,openai,o3-mini,0,2659,4212,Rankings favor socioeconomic initiatives and more services over cuts and privatization.

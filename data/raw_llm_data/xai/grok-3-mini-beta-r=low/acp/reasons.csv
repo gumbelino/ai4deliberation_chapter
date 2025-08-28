@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+151e6067-2ef9-45c7-8f2b-13520f9fd8d5,2025-04-28 09:48:10.755043+00:00,xai,grok-3-mini-beta-r=low,0,4817,284,"I support inclusive policies for minorities most, valuing equality over moral enforcement or minimal market intervention."
+8a257f18-d75c-4dca-ba40-3267ccf085a7,2025-04-28 09:48:55.262244+00:00,xai,grok-3-mini-beta-r=low,0,4817,289,"I prioritize inclusive policies for fair representation, value moral leadership, but oppose marginalizing minorities or market-focused minimalism."
+1758373d-8d82-4078-aca6-700ca3cc4c0c,2025-04-28 09:49:31.837908+00:00,xai,grok-3-mini-beta-r=low,0,4819,287,"I support policies promoting inclusion and moral leadership most, as they align with my emphasis on equality and representation."
+c745e847-3b6f-4c0f-b00f-8373e22706ea,2025-04-28 09:50:13.147964+00:00,xai,grok-3-mini-beta-r=low,0,4817,283,"I support policies promoting equality and minority involvement most, as they align with democratic principles."
+a1ab67ef-b86b-4050-a633-26cae591b2fe,2025-04-28 09:50:52.254755+00:00,xai,grok-3-mini-beta-r=low,0,4817,279,Prioritized free markets and equality over status quo and moral enforcement.
+92aa5fa1-0e37-4e82-87e0-2455ac0f7e8c,2025-04-28 10:15:00.728677+00:00,xai,grok-3-mini-beta-r=low,0,12364,280,"Ranked policies by prioritizing inclusivity, democracy, and minimal intervention."
+5d13a6b8-5efa-4c54-96b9-ac99fc1991c2,2025-04-28 10:15:36.534027+00:00,xai,grok-3-mini-beta-r=low,0,10741,286,"Ranked policies by support for inclusion, status quo, markets, over moral enforcement and equality removal."
+41d2fd67-07ea-4e9b-8aa3-1d7e4a56cd85,2025-04-28 10:16:09.318960+00:00,xai,grok-3-mini-beta-r=low,0,11411,287,"Prioritized policies promoting equality, representation, and moral leadership over status quo or anti-minority stances."
+0ea00bf8-c121-40e7-bbe5-da038d8bf096,2025-04-28 10:16:44.751612+00:00,xai,grok-3-mini-beta-r=low,0,12398,282,"Ranked policies emphasizing inclusion, equality, and minimal intervention based on prior ratings."
+c91b54ad-0760-4d06-912e-f76898aba148,2025-04-28 10:17:25.196522+00:00,xai,grok-3-mini-beta-r=low,0,11107,289,"Ranked policies prioritizing inclusion and equality most, then equal influence, status quo, markets, and moral enforcement least."

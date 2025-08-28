@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,"P1. Retain existing bridge, but replace the navigation spans and deteriorated components","P2. Retain existing bridge, but replace the navigation spans and deteriorated components and incorporate bridge widening","P3. Construct a new standard bridge next to the current bridge, leaving a section of the existing bridge as a heritage and recreation site","P4. Construct a new bridge that is a major entry statements for Fremantle, leaving a section of the existing bridge as a heritage recreation site",P5. Construct a new standard bridge and retain the existing bridge as a pedestrian/cyclist facility,P6. Construct a new two lane standard bridge and retain the existing bridge as a 2 lane bridge with improved pedestrian/cyclist facilities
+1beebadb-1ad0-49f4-823c-b6281b614875,2025-04-08 13:13:49.796598+00:00,openai,o1,0,3735,11196,4,6,5,1,3,2
+e343b7fc-8977-44a8-9882-d49a5abcee14,2025-04-08 13:17:44.880816+00:00,openai,o1,0,3732,8707,6,4,1,3,2,5
+e38a73ce-31cd-4b20-9285-4e6a3afa1b8c,2025-04-08 14:17:57.470729+00:00,openai,o1,0,3735,10560,2,4,5,1,6,3
+47cf9a8c-1825-47b1-a445-64f8afd79fe9,2025-04-08 14:21:07.407549+00:00,openai,o1,0,3733,5957,4,5,1,2,3,6
+b1585a0b-f401-4a92-9441-c83e3490c399,2025-04-08 14:22:56.419838+00:00,openai,o1,0,3735,14018,6,4,3,5,2,1

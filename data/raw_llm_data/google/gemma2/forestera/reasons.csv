@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+f98b990b-c93c-4fce-a17b-72e7f8b40f25,2025-03-21 06:06:28.106731+00:00,google,gemma2,0,0,0,"Balanced approach prioritizing ecological values, local use, and wildfire mitigation while acknowledging economic considerations."
+c61487c4-dfd3-45af-a20e-0b91af9b798f,2025-03-21 06:06:53.494673+00:00,google,gemma2,0,0,0,"Balanced management prioritizing ecological, social values, and local needs while minimizing fire risk."
+bd277584-8f9f-4d87-837a-354974e42119,2025-03-21 06:07:18.042688+00:00,google,gemma2,0,0,0,Balancing ecological values with economic and social needs while considering wildfire risk.
+d8f4c83d-2732-43f0-b24f-7f6ffdd6a837,2025-03-21 06:12:00.227951+00:00,google,gemma2,0,0,0,"Balance of ecological restoration, economic value, and community needs is key."
+3a320eef-1625-4990-a741-1aaa284167d1,2025-03-21 06:12:25.000317+00:00,google,gemma2,0,0,0,"Balanced approach prioritizing ecological values, local needs, and some fuel reduction over pure economics."
+bdcd1035-10f8-4c45-9418-40cf77c8bc31,2025-03-21 06:12:49.491183+00:00,google,gemma2,0,0,0,"Prioritize ecosystem health, social values, and sustainable practices over pure economic gain."
+29eb335a-3c2e-4145-8ca3-70fc99df82b5,2025-03-21 06:13:37.791385+00:00,google,gemma2,0,0,0,"Balanced management considering ecological, social, and economic values is prioritized."
+6df4f81e-2deb-4da6-b578-169374373c08,2025-03-21 06:14:01.954714+00:00,google,gemma2,0,0,0,"Prioritize ecological restoration with fire and adaptive management, balancing social values and minimizing economic gain."
+625f82f0-0ca8-4764-afdf-642624c9d237,2025-03-21 06:14:26.297846+00:00,google,gemma2,0,0,0,Prioritize ecological and social values with careful restoration and localized use over purely economic gains and inaction.

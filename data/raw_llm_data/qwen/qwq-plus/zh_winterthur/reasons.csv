@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c0c7d87d-7ef3-4ef9-8a25-403cb034bb0f,2025-04-02 09:40:24.263302+00:00,qwen,qwq-plus,0,3166,5521,"Support sustainable research, moderate regulation; cautious on free trade, oppose extremes and inaction."
+0bc3fb0b-a1be-4ee5-b4f1-c3d5f8c66a74,2025-04-02 09:42:18.594952+00:00,qwen,qwq-plus,0,3166,2848,"Support-local-incentives,moderate-regulation,research;oppose-radical-bans,less-regulation,status-quo."
+971cc27e-96e8-491b-b4e6-3233f55f506d,2025-04-02 09:43:19.605246+00:00,qwen,qwq-plus,0,3169,3808,Prioritize sustainability incentives/research; oppose reduced regulation/status quo.
+d1ba1274-16c6-4646-9eac-b2219d78c9cd,2025-04-02 09:44:39.258264+00:00,qwen,qwq-plus,0,3166,3028,"Support moderate regulation and local incentives for sustainability, oppose extreme or reduced regulations."
+600a0c24-a99b-4ef4-81e3-307d21640354,2025-04-02 09:45:43.134047+00:00,qwen,qwq-plus,0,3166,7350,Prioritize sustainability via strict regulations and local incentives over laissez-faire approaches.
+96b86fc6-c4c0-44a2-917b-0f8870a77c74,2025-04-02 16:47:36.170824+00:00,qwen,qwq-plus,0,3166,8099,Prioritize sustainable incentives and research; moderate regulations over radical or minimal approaches.
+cf8e9ab9-388f-4cf0-a407-1f2b5505bed8,2025-04-02 16:50:23.418946+00:00,qwen,qwq-plus,0,3166,4320,Prioritize local sustainable incentives and moderate regulation; oppose reduced regulation and status quo.
+bd3072bf-5a77-4b53-8cbc-c0227d3f0657,2025-04-02 16:51:53.033015+00:00,qwen,qwq-plus,0,3166,4690,Prioritize free trade and current policies; oppose strict regulations on sustainable food production.
+63faa1bf-1919-408d-8874-4b5cb771b0af,2025-04-02 16:53:30.933911+00:00,qwen,qwq-plus,0,3166,3389,"Support moderate regulation and local incentives for sustainability, avoiding extremes and inaction."
+cb491119-d678-419e-b9b3-45f694d17663,2025-04-02 16:54:41.558380+00:00,qwen,qwq-plus,0,3166,4897,"Prioritize research and moderate regulation over lax policies, balancing sustainability and practicality."
+1524e3c3-46ed-4b59-81eb-86e432d5d8f8,2025-04-02 16:56:23.552846+00:00,qwen,qwq-plus,0,3166,5884,Prioritizes-sustainability-through-strict-regulations-opposes-lax-policies.
+b992a2fb-358e-4919-8499-9b385600a808,2025-04-02 16:58:25.693637+00:00,qwen,qwq-plus,0,3166,5299,Prioritizes incentives for sustainable producers and free trade while opposing radical regulations.
+e5ad91cd-4029-4e21-a85d-c2e44487335c,2025-04-02 17:00:14.800161+00:00,qwen,qwq-plus,0,3166,3202,"Prioritize research, moderate regulation, local incentives; oppose radical bans and inaction."
+1358c7dc-e4eb-4983-9c41-e34222765904,2025-04-02 17:01:21.862981+00:00,qwen,qwq-plus,0,3169,7968,Support-strong-sustainable-regulations-research-over-laissez-faire-and-minimal-action.
+3652b34b-f1f2-4d1f-b1ba-8ac8f9503bf4,2025-04-02 17:04:06.698832+00:00,qwen,qwq-plus,0,3166,5306,"Prioritize local incentives, moderate regulation; support research; oppose radical, free trade, status quo."
+65c0b975-1ebe-4a54-b621-65f3343a9ffc,2025-04-03 09:26:57.642528+00:00,qwen,qwq-plus,0,3166,5426,"Prioritizes free trade and current policies over strict regulations, supports sustainable incentives and research."
+dc913c33-ae38-41df-9450-9f2b2259617d,2025-04-03 09:28:49.404948+00:00,qwen,qwq-plus,0,3166,2704,Prioritize sustainable research and incentives over extreme bans or deregulation.
+265e2047-2c9d-4c55-b9f1-1d2702c4d271,2025-04-03 09:29:46.408450+00:00,qwen,qwq-plus,0,3166,3353,"Supports current policies with moderate sustainability incentives, cautious on radical changes, opposes reduced regulation."
+77628c1f-aa5f-43ff-b7fa-1474df369300,2025-04-03 09:30:56.893941+00:00,qwen,qwq-plus,0,3169,4911,Prioritize严格环保法规，支持激进可持续措施，减少自由贸易限制。
+cbc502cb-306e-4367-87ed-713ae5de9314,2025-04-03 09:32:38.525291+00:00,qwen,qwq-plus,0,3166,5974,"Prioritize local sustainable incentives, support radical/moderate regs, research; oppose status quo/reduced reg."
+cb38e575-763a-402d-ad62-73cbbfe6b038,2025-04-03 09:34:42.543670+00:00,qwen,qwq-plus,0,3166,5202,Prioritize sustainable incentives and research over extreme regulations and free trade.
+e1de0138-d97e-4646-90c5-a239811c5750,2025-04-03 09:36:29.736602+00:00,qwen,qwq-plus,0,3166,3842,"Support-local-sustainable-incentives,research;moderate-regulation.over-radical-bans/reduced-regulation."
+b99076be-3132-4352-a8a1-a98a56ac3500,2025-04-03 09:37:49.869686+00:00,qwen,qwq-plus,0,3166,3516,Prioritize sustainable incentives and moderate regulation over lax policies.
+22aeaedf-219a-41d2-b388-5f8d7c997ba5,2025-04-03 09:39:03.764699+00:00,qwen,qwq-plus,0,3169,4227,Prioritize free trade and local incentives; moderate regulations and research supported over radical bans.
+dcd854ab-7105-42b5-9c97-e90060b98d24,2025-04-03 09:40:32.511627+00:00,qwen,qwq-plus,0,3166,3618,Support research; favor moderate incentives over extreme regulations.
+b9fa81f8-a900-4f28-8843-95dc8e5bc72e,2025-04-03 09:41:47.873412+00:00,qwen,qwq-plus,0,3166,4440,Prioritize incentives for local sustainability and moderate regulation over lax policies.
+2a53c25a-724e-4ba9-a156-c71ad51df5ae,2025-04-03 09:43:20.605970+00:00,qwen,qwq-plus,0,3166,5926,Prioritize strict sustainability regulations and incentives over lenient or status quo policies.
+588ad3d5-28b2-420c-868d-5ca95d3dd55a,2025-04-03 15:32:23.377317+00:00,qwen,qwq-plus,0,3166,4640,"Prioritize local incentives and research, support moderate regulations, oppose radical or reduced regulation."
+8d4e5a01-5bcf-482d-bb0b-a4e71325ccb7,2025-04-03 15:34:00.052648+00:00,qwen,qwq-plus,0,3166,7040,"Supports sustainable incentives, opposes reduced regulation, favors moderate to radical environmental policies."
+d9621c9b-bac9-4453-ae7b-d18a7c316ad0,2025-04-03 15:36:25.622546+00:00,qwen,qwq-plus,0,3166,7613,"Prioritizes incentives, moderate regulation, and research over strict bans or reduced regulation."
+719bbcff-2dc5-46ce-b568-55aa7e34cd72,2025-04-03 15:39:02.535085+00:00,qwen,qwq-plus,0,3169,5910,"Supports sustainable research, local incentives, moderate regulation; opposes less regulation and inaction."

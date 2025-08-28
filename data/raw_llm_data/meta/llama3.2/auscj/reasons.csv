@@ -1,0 +1,12 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+983ddd92-5e2f-4019-8bd5-77b115850030,2025-03-27 15:51:21.725212+00:00,meta,llama3.2,0,0,0,"Permitting more restrictions and oversight for safety, ethics and community input."
+6373e10c-f059-4d09-879d-067dc9a4aec6,2025-03-27 16:02:18.908890+00:00,meta,llama3.2,0,0,0,"Ratings reflect balance between access, safety, and individual freedom regarding genome editing."
+678fe159-072a-4a89-85a6-06cf28152e08,2025-03-27 16:04:03.976628+00:00,meta,llama3.2,0,0,0,Permitting limited non-profit uses with strong oversight is preferred over strict bans and unrestricted access.
+134f0c7a-cceb-423b-8275-abcb59b0d729,2025-03-27 16:05:35.114252+00:00,meta,llama3.2,0,0,0,"Generally support non-profit, clinical use with minimal restrictions then permit broader usage."
+8f1c3e90-8f9e-4271-b336-ef94c7c388f6,2025-03-27 16:07:20.715853+00:00,meta,llama3.2,0,0,0,Generally support some forms of genome editing for medical and research purposes but with caution.
+d3155d7d-b0bf-433e-97ae-5337ad1660e1,2025-03-27 16:10:48.602753+00:00,meta,llama3.2,0,0,0,Generally support limited genome editing for clinical purposes and oversight.
+ad3dcf83-2da0-4db2-bdf8-295d049075c1,2025-03-27 16:12:59.479136+00:00,meta,llama3.2,0,0,0,Supports more restrictions and oversight on genome editing.
+531ece40-fca1-410a-a800-ea0f5625ec53,2025-03-27 16:14:19.090556+00:00,meta,llama3.2,0,0,0,Ratings reflect balance between supporting scientific progress and prioritizing ethics and caution.
+d8479fbc-6620-4c88-a28f-d0a9a5490179,2025-03-27 16:19:32.164522+00:00,meta,llama3.2,0,0,0,Supports strict regulations and bans on genetic editing for most purposes.
+35387e26-22a9-464d-8ff5-c033b0268f1f,2025-03-27 16:21:41.994198+00:00,meta,llama3.2,0,0,0,Strongly support minimal restrictions for research and clinical purposes only.
+2e07f2ff-7505-4619-9df1-53b1743b69b6,2025-03-28 10:37:36.662271+00:00,meta,llama3.2,0,0,0,Rated policies with increasing restrictions and oversight for genome editing.

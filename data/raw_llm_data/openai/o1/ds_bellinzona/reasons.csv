@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+50b51186-f1f9-4c67-b654-d34293d95852,2025-04-08 09:48:35.378104+00:00,openai,o1,0,3322,4789,"Emphasize feasible cuts and strong adaptation, de-emphasize minimal changes or pure economics."
+ee150ccf-90c2-4665-adaf-15499c05f99d,2025-04-08 09:50:38.148081+00:00,openai,o1,0,3323,5240,"Radical cuts first, broad adaptation, moderate steps, leaving policy settings unchanged last."
+19de8c8b-1aa8-4d79-b55c-7500a4c9107a,2025-04-08 09:52:23.837050+00:00,openai,o1,0,3320,5680,Supports rapid emissions cuts and local resilience not business as usual or mild solutions
+bacf6dfc-1dfc-448e-b336-e10ae6910f18,2025-04-08 09:54:38.893361+00:00,openai,o1,0,3322,3509,"Priority given to strong emission cuts, adaptation measures, and innovation for resilience."
+7180cad1-4137-41bf-92bd-3c8f1a5cc7fb,2025-04-08 09:55:31.828731+00:00,openai,o1,0,3322,5502,"Radical cuts, adaptation, new tech, community steps, moderate cuts, growth focus, status quo last."

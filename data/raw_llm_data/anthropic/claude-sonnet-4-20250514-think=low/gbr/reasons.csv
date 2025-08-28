@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+a34e6a15-2f0b-4e42-afe3-96b1ba08745e,2025-05-29 15:12:03.555333+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5410,2630,Prioritized strong environmental protection and climate action over maintaining status quo
+87a47aa9-19f1-4929-941e-0c0ca8d47d90,2025-05-29 15:12:55.857739+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5430,2538,Prioritized climate action and environmental protection over status quo and deregulation
+23d75082-cd70-4b28-b049-253bc52a1d7b,2025-05-29 15:13:47.562418+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5414,2057,Prioritized environmental protection and sustainable innovation over maintaining status quo or reducing regulations
+8c6dcfc4-6604-4c93-8c51-1a49454d86fa,2025-05-29 15:14:35.632295+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5462,2227,Prioritized aggressive climate action and reef protection over status quo or business-first policies
+ad221e9e-4f71-4516-aadc-f4156c652634,2025-05-29 15:15:20.335262+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5426,1698,I prioritized green innovation and phasing out coal over maintaining current practices or reducing environmental protections.

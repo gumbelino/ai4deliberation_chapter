@@ -1,0 +1,5 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c78885e0-3a15-4791-8db6-590649322264,2025-04-01 12:59:31.978208+00:00,openai,o1-mini,0,3809,3523,"I prioritize resilience strategies, adaptation efforts, moderate CO2 cuts,and practical actions over economic focus or maintaining current policies"
+6a8015ad-585e-400a-a1b5-f739bf1df580,2025-04-01 12:59:56.520458+00:00,openai,o1-mini,0,3809,3335,"Prioritized strong CO2 cuts and resilience measures, followed by moderate cuts and individual actions, while opposing status quo and growth-focused policies."
+55c27d5b-0bf4-421b-bac1-2c17842514d8,2025-04-03 14:24:15.910959+00:00,openai,o1-mini,0,3809,3833,Prioritize resilience and strong emission cuts while opposing economic-focused policies.
+2c42f29b-e56b-4d02-bea5-aa6119b8b24d,2025-04-03 14:24:48.099814+00:00,openai,o1-mini,0,3809,3196,"Prefer adaptation and resilience measures, support moderate emissions cuts, oppose status quo most"

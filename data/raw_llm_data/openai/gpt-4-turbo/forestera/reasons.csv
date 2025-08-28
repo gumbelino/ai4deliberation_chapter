@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+8f4ab782-45bf-4f97-a064-33f6fd3742be,2025-03-26 07:52:49.767563+00:00,openai,gpt-4-turbo,0,4576,278,"Prioritized ecological and social values, local needs, and wildlife protection over economic gains."
+b2dd06e6-c207-4daf-bfaa-c5fc0a494a21,2025-03-26 07:53:01.279054+00:00,openai,gpt-4-turbo,0,4574,275,Prioritized ecological balance and community protection over economic gains and no management.
+e404332a-9444-4d71-8b70-b8a662c92f75,2025-04-01 08:14:19.490518+00:00,openai,gpt-4-turbo,0,4576,275,Prioritized ecological restoration and community protection over economic gains and no management.
+9a5347e6-2e22-49f4-9d9d-63a35c651b31,2025-04-01 08:14:34.561213+00:00,openai,gpt-4-turbo,0,4576,278,"Balanced ecological and social values are prioritized, while no management is least favored."
+501a3e75-3993-4f74-ac6e-e2e37075c58c,2025-04-01 08:14:45.139239+00:00,openai,gpt-4-turbo,0,4576,279,"Balanced ecological and social values prioritized, least support for purely economic or no management."
+90e55af1-0967-4958-bf0b-9d6bedfba3c5,2025-04-01 08:14:57.078788+00:00,openai,gpt-4-turbo,0,4576,277,"Balanced ecological and social values prioritized, least support for no management approach."
+fedd078a-ffd2-4be7-912e-f70a84847851,2025-04-01 08:15:11.191258+00:00,openai,gpt-4-turbo,0,4576,278,"Balanced ecological and social values prioritized, economic gains and no management least favored."
+bb40dfa0-ec58-4d6f-8654-650143fb6f47,2025-04-01 08:15:23.214334+00:00,openai,gpt-4-turbo,0,4576,279,"Prioritized ecological and social values, natural fire use, and local needs over economic gains."
+4893c142-b59e-476c-aade-b9f32ef66ff4,2025-04-01 08:15:34.011588+00:00,openai,gpt-4-turbo,0,4576,278,"Balanced ecological and social values are prioritized, while economic gain is least favored."
+94649e75-4a5b-4670-b817-11773e1152cb,2025-04-01 08:15:51.493980+00:00,openai,gpt-4-turbo,0,4576,279,"Prioritized ecological and social values, natural fire introduction, and local needs over economic gain."
+a8504058-9b05-44c9-9547-1bca2aca1c73,2025-04-01 08:16:07.673845+00:00,openai,gpt-4-turbo,0,4576,275,Prioritized ecological restoration and community protection over economic gains and no management.
+d93165d4-d6bc-438f-ad18-938de17a1901,2025-04-01 08:16:18.253344+00:00,openai,gpt-4-turbo,0,4576,281,"Balanced ecological and social values are prioritized, while economic gain and no management are least favored."
+760bf1af-819c-44d8-99a6-6898b622b91a,2025-04-03 11:41:51.575977+00:00,openai,gpt-4-turbo,0,4576,280,"Prioritized ecological and social values, local needs, and wildlife over economic gains and no management."
+f9063d13-3e54-4f17-87db-7bebb65c8468,2025-04-03 11:42:02.703778+00:00,openai,gpt-4-turbo,0,4576,278,"Balanced ecological and social values prioritized, economic gains and no management least favored."
+8d71ce21-607a-48ce-b994-e0b523b428d2,2025-04-03 11:42:13.369765+00:00,openai,gpt-4-turbo,0,4576,280,"Balanced ecological and social values are prioritized, economic gain and no management are least favored."
+c4c69f8f-2b9f-4616-85ba-f7c9251ede8b,2025-04-03 11:42:24.988876+00:00,openai,gpt-4-turbo,0,4576,277,"Prioritized ecological and social values, wildlife protection, and restoration over economic gains."
+cb025e22-1f66-4ee2-92a1-903e1add7207,2025-04-03 11:42:36.086961+00:00,openai,gpt-4-turbo,0,4576,278,"Balanced ecological and social values prioritized, economic gain and no management least favored."
+d44d8916-388e-4cba-ae74-a33d7d8081d4,2025-04-03 11:42:47.946042+00:00,openai,gpt-4-turbo,0,4576,276,Prioritized ecological balance and community needs over economic gains and non-intervention.
+3593c938-7cb1-406b-bbf4-d94b7f638ffc,2025-04-03 11:42:57.637109+00:00,openai,gpt-4-turbo,0,4576,281,"Prioritized ecological and social values, local needs, and restoration, while least favoring no management."
+fa505e23-409d-4c98-a6d6-3b03493384bc,2025-04-03 11:43:07.769986+00:00,openai,gpt-4-turbo,0,4576,279,"Prioritized ecological and social values, local needs, and reduced hazardous fuels over economic gain."
+687993a3-a17d-48b9-9530-0da72eaf7716,2025-04-03 11:43:17.414890+00:00,openai,gpt-4-turbo,0,4576,278,"Balanced ecological and social values are prioritized, while no management is least favored."
+c6dc066c-d110-4877-bb74-09548b7855a4,2025-04-03 11:43:27.730756+00:00,openai,gpt-4-turbo,0,4576,280,"Prioritized ecological and social values, restoration, and local needs over economic gains and no management."
+c8ff31d2-f7a9-4f1a-94d3-40270b76f470,2025-04-03 11:43:39.675300+00:00,openai,gpt-4-turbo,0,4576,278,"Prioritized ecological and social values, wildlife protection, and local needs over economic gains."
+1dd32be2-ecc5-4f6b-9b98-f44f89d8fbbc,2025-04-03 11:43:51.889575+00:00,openai,gpt-4-turbo,0,4576,280,"Prioritized ecological and social values, restoration, and local needs over economic gains and no management."
+20c4eb14-0418-4ca9-af9f-1d413118090c,2025-04-03 11:44:03.410669+00:00,openai,gpt-4-turbo,0,4576,278,"Balanced ecological and social values are prioritized, while no management is least favored."
+6048f409-8ae4-467d-980a-c01d27af894d,2025-04-03 11:44:15.028763+00:00,openai,gpt-4-turbo,0,4576,276,"Prioritized ecological and social values, wildlife protection, and sustainable management practices."
+414667c3-cac9-4431-9273-2e1c6c967ad6,2025-04-03 11:44:33.021666+00:00,openai,gpt-4-turbo,0,4576,275,Prioritized ecological balance and community protection over economic gains and no management.
+81f19691-c512-4a2c-9166-bd9510a7cd1e,2025-04-03 11:44:46.532420+00:00,openai,gpt-4-turbo,0,4576,276,Prioritized natural forest restoration and ecological balance over economic gains and no management.
+1a5a98ea-d85b-4af0-82fd-878906074b35,2025-04-03 11:44:58.504368+00:00,openai,gpt-4-turbo,0,4576,278,"Balanced ecological and social values are prioritized, while no management is least favored."
+c1356565-3c59-488f-bde7-f9de33433470,2025-04-03 11:45:10.329109+00:00,openai,gpt-4-turbo,0,4574,278,"Prioritized ecological and social values, wildlife protection, and local-based management over others."

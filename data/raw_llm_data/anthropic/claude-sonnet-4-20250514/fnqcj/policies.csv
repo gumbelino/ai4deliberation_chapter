@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Upgrade the track to a bitumen road.,"P2. Upgrade the road, to a dirt road suitable for conventional vehicles.","P3. Stabilize specific trouble spots, such as steep slopes, on the road but leave it as a 4WD track.",P4. Maintain the road in its current condition as a 4WD track.,P5. Close the road and rehabilitate it.
+665d5b6a-4796-488e-bc5d-1c55602c4ce3,2025-05-29 15:28:43.236863+00:00,anthropic,claude-sonnet-4-20250514,0,4790,261,5,4,1,2,3
+a633abb8-79ed-4eaa-bfac-1a565a7e9d57,2025-05-29 15:28:54.126352+00:00,anthropic,claude-sonnet-4-20250514,0,4790,268,4,3,1,2,5
+56fd0474-6cbd-42d4-ba0a-24ec690578cf,2025-05-29 15:29:06.480983+00:00,anthropic,claude-sonnet-4-20250514,0,4790,263,4,3,1,2,5
+33e393b3-dbc3-4d9c-8afa-ba08da00e669,2025-05-29 15:29:18.482890+00:00,anthropic,claude-sonnet-4-20250514,0,4790,258,5,4,2,3,1
+b1f58b1d-d0c7-496b-8ad9-8b9d5c3bd11d,2025-05-29 15:29:30.449693+00:00,anthropic,claude-sonnet-4-20250514,0,4790,261,5,3,1,2,4

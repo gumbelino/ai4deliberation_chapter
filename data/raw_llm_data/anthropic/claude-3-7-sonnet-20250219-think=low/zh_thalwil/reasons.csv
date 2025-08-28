@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+4cabd398-b1c5-4fc8-a7fd-363f0917ef68,2025-05-22 13:35:39.070442+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,5765,1891,Prioritized ambitious emission cuts and comprehensive adaptation over moderate or economy-focused options.
+7b37460a-8c7a-4005-ba95-f1c01fb9fe9a,2025-05-22 13:57:15.993655+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,4736,1339,Prioritized strong emissions cuts and adaptation measures over moderate action or economic focus.
+52a0b3b5-b173-4622-9c25-8dd97ce70722,2025-05-22 13:57:40.535089+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,5136,1479,Prioritizing urgent emissions cuts and adaptation planning over inadequate actions or economics-first approaches.
+ba0e7a8a-9cf4-4c27-aa5a-4def38d89b38,2025-05-22 13:58:06.052756+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,5436,1667,"Favored aggressive mitigation, then adaptation measures, with inaction and economics-first ranked last."
+60fdb752-eee9-4c73-a5cb-6db53983f874,2025-05-22 13:58:38.092773+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,4858,1280,I prioritized emission cuts and adaptation while balancing technological innovation and community action.

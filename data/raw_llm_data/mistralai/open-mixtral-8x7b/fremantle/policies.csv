@@ -1,0 +1,7 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,"P1. Retain existing bridge, but replace the navigation spans and deteriorated components","P2. Retain existing bridge, but replace the navigation spans and deteriorated components and incorporate bridge widening","P3. Construct a new standard bridge next to the current bridge, leaving a section of the existing bridge as a heritage and recreation site","P4. Construct a new bridge that is a major entry statements for Fremantle, leaving a section of the existing bridge as a heritage recreation site",P5. Construct a new standard bridge and retain the existing bridge as a pedestrian/cyclist facility,P6. Construct a new two lane standard bridge and retain the existing bridge as a 2 lane bridge with improved pedestrian/cyclist facilities
+2339e829-fb97-448b-ae4f-a6e183c09eb4,2025-03-27 12:15:22.346693+00:00,mistralai,open-mixtral-8x7b,0,4278,327,1,3,6,2,5,4
+584f68a9-6135-428e-9075-4e7657a677b2,2025-03-27 12:15:53.154318+00:00,mistralai,open-mixtral-8x7b,0,4280,272,1,4,3,6,5,2
+00337e9f-f8e8-4e5f-bcaf-e545e0692233,2025-03-27 12:16:35.960714+00:00,mistralai,open-mixtral-8x7b,0,4286,282,6,4,3,1,2,5
+99d6bf54-f524-4c31-b2ca-b170cd2a3c67,2025-04-03 07:13:45.784129+00:00,mistralai,open-mixtral-8x7b,0,4274,313,1,2,6,4,5,3
+edfedebf-b45c-4658-9674-e73648bc88a7,2025-04-03 07:13:57.114943+00:00,mistralai,open-mixtral-8x7b,0,4281,285,2,1,4,3,5,6
+60c25ebb-187d-4aed-ad02-0f5ee69901b0,2025-04-03 07:34:41.602723+00:00,mistralai,open-mixtral-8x7b,0,4274,314,1,2,6,4,5,3

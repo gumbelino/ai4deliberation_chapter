@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c64ffb66-e5ff-4de4-8a20-6772dc327450,2025-04-14 14:41:45.675114+00:00,google,gemini-2.5-pro-preview-03-25,0,4569,3801,Prioritize Daintree protection & long-term view over road access/development.
+61595f75-cd22-4012-8797-58963b390301,2025-04-14 14:42:29.222820+00:00,google,gemini-2.5-pro-preview-03-25,0,4577,4598,"Ratings prioritize Daintree protection, favouring track closure."
+554c8957-304e-4304-a118-b32c476f2fc5,2025-04-14 14:43:29.085944+00:00,google,gemini-2.5-pro-preview-03-25,0,4575,5453,"Protect environment/reefs long-term. Close/stabilize road, oppose upgrades."
+19b18aa1-2148-43c2-99b4-8bc3b39767c4,2025-04-14 14:44:38.442888+00:00,google,gemini-2.5-pro-preview-03-25,0,4571,5577,"Protect environment/future; stabilize road, limit impact & access."
+22adfcc4-7083-4541-b8b2-d2a4b9e00fda,2025-04-14 14:45:48.642125+00:00,google,gemini-2.5-pro-preview-03-25,0,4573,4363,"Prioritize Daintree protection; support track closure/stabilization, oppose upgrades."
+9d6bb8c3-9cb5-415d-858c-d5db33217303,2025-04-14 14:46:45.497555+00:00,google,gemini-2.5-pro-preview-03-25,0,4573,5425,Value Daintree protection; prefer current track or closure over upgrades/stabilization.
+24547a4a-e69d-45cf-833c-90837e52f928,2025-04-14 14:47:52.699278+00:00,google,gemini-2.5-pro-preview-03-25,0,4581,4085,Prioritize Daintree conservation; minimize road impact; prefer closure/stabilization.
+54298c14-29b9-49af-92ec-fe38ac822ec8,2025-04-14 14:48:41.050063+00:00,google,gemini-2.5-pro-preview-03-25,0,4571,4856,Prioritizing Daintree protection & long-term health over road development.
+b5c0beb9-f0d5-4e41-80b1-40c1b5fe78cb,2025-04-14 14:49:39.546682+00:00,google,gemini-2.5-pro-preview-03-25,0,4575,5195,Environmental protection & long-term view prioritized; close road preferred.
+6ccac379-8977-4d19-80e0-8820fd45acce,2025-04-14 18:06:34.311529+00:00,google,gemini-2.5-pro-preview-03-25,0,4569,3808,Prioritizing Daintree's environment leads to favoring road closure or minimal impact.
+cd9be692-299c-4255-b971-5a931eb3618f,2025-04-14 18:07:17.113070+00:00,google,gemini-2.5-pro-preview-03-25,0,4577,4617,"Protect Daintree environment; close or stabilize track, oppose bitumen."
+532f2935-8e89-43cc-9d86-0adeec013de7,2025-04-14 18:08:07.453904+00:00,google,gemini-2.5-pro-preview-03-25,0,4575,5444,"Environment & future generations first. Close road, avoid bitumen."
+5a707936-3452-4f49-8cc1-ec78e8b40a4f,2025-04-14 18:09:10.498312+00:00,google,gemini-2.5-pro-preview-03-25,0,4571,5577,"Protect environment/future; stabilize road, limit impact & access."
+1ebbc845-93ae-4586-8e73-5b25993fd6ef,2025-04-14 18:10:13.871222+00:00,google,gemini-2.5-pro-preview-03-25,0,4573,4363,"Prioritize Daintree protection; support track closure/stabilization, oppose upgrades."
+68a173ff-3075-4086-8c69-ffc56bbfbe26,2025-04-14 18:11:03.683629+00:00,google,gemini-2.5-pro-preview-03-25,0,4573,4146,"Prioritizing Daintree protection & long-term view, favoring minimal road impact/closure."
+9b0c87e7-f149-4603-8113-e3e51136575f,2025-04-14 18:11:52.425572+00:00,google,gemini-2.5-pro-preview-03-25,0,4575,4277,"Protect Daintree long-term; close road or stabilize, avoid upgrades."
+b0f27f9d-ed40-461c-a868-738ad34ff277,2025-04-14 18:12:41.912651+00:00,google,gemini-2.5-pro-preview-03-25,0,4571,4856,Prioritizing Daintree protection & long-term health over road development.
+540c888e-900b-4f66-b7f0-40da62bfc5bc,2025-04-14 18:13:35.721595+00:00,google,gemini-2.5-pro-preview-03-25,0,4575,5195,Environmental protection & long-term view prioritized; close road preferred.
+99a92fe1-2dd3-4e13-a615-fddcf81f3637,2025-04-14 18:14:36.300041+00:00,google,gemini-2.5-pro-preview-03-25,0,4575,3360,Ratings prioritize Daintree environmental protection and oppose track development/upgrading.
+25516b39-b22e-41af-9022-b3c4d78420a8,2025-04-15 07:04:36.950101+00:00,google,gemini-2.5-pro-preview-03-25,0,4577,4308,Protect Daintree environment; oppose road upgrades; prefer closure or stabilization.
+38048341-537e-4f75-a500-2db6385234a3,2025-04-15 08:10:30.356370+00:00,google,gemini-2.5-pro-preview-03-25,0,4577,5353,Environmental protection and long-term view led to favoring closure/stabilization.
+347fd0f0-260d-4f54-a261-5d2a209ca885,2025-04-15 08:11:35.962449+00:00,google,gemini-2.5-pro-preview-03-25,0,4575,5444,"Environment & future generations first. Close road, avoid bitumen."
+882084da-533a-43ef-b6dd-b1086ad0fd4d,2025-04-15 08:12:38.815636+00:00,google,gemini-2.5-pro-preview-03-25,0,4571,5577,"Protect environment/future; stabilize road, limit impact & access."
+1db0c361-def2-43d0-99ef-988102218944,2025-04-15 08:13:43.701344+00:00,google,gemini-2.5-pro-preview-03-25,0,4573,4363,"Prioritize Daintree protection; support track closure/stabilization, oppose upgrades."
+c13f50cc-4b94-4e59-b270-7ebe9a108158,2025-04-15 08:14:34.842398+00:00,google,gemini-2.5-pro-preview-03-25,0,4573,5425,Value Daintree protection; prefer current track or closure over upgrades/stabilization.
+cd6271b3-79a3-4cd7-9c08-f753513fd672,2025-04-15 08:15:38.122734+00:00,google,gemini-2.5-pro-preview-03-25,0,4575,4277,"Protect Daintree long-term; close road or stabilize, avoid upgrades."
+fdf7626c-4a74-4627-b2e2-a840b2b37fef,2025-04-15 08:16:27.817273+00:00,google,gemini-2.5-pro-preview-03-25,0,4571,4687,Prioritizing Daintree protection & long-term health over road development.
+47815514-d35f-4981-bb1d-651605820538,2025-04-15 08:17:23.793498+00:00,google,gemini-2.5-pro-preview-03-25,0,4575,5104,Prioritizing long-term Daintree protection favors closing or stabilizing the road.
+117d97a3-b67d-4d96-930f-a15bc8005a29,2025-04-15 08:18:25.134726+00:00,google,gemini-2.5-pro-preview-03-25,0,4575,3529,Prioritizing environmental protection and long-term sustainability for the Daintree.
+a66fa15b-e0d2-463e-8840-005a17a5a050,2025-04-15 08:19:09.756862+00:00,google,gemini-2.5-pro-preview-03-25,0,4581,6380,Environmental protection and long-term sustainability are key concerns.
+c500a71c-faf2-461c-af82-ca7562ac6735,2025-04-15 08:20:19.806926+00:00,google,gemini-2.5-pro-preview-03-25,0,4579,4145,"Prioritize Daintree conservation & long-term view; oppose upgrades, favor closure/stabilization."

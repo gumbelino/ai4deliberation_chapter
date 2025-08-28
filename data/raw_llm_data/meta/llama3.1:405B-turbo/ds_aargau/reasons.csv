@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+ffda0553-e9b3-4aef-8053-862b1b4a0a26,2025-04-01 13:19:01.204553+00:00,meta,llama3.1:405B-turbo,0,3443,215,Prioritized policies addressing climate change directly and effectively reducing CO2 emissions.
+3fd429bc-03f1-4848-92e7-4e955229f65c,2025-04-01 13:19:07.498697+00:00,meta,llama3.1:405B-turbo,0,3443,221,Prioritizing proactive adaptation and emission cuts while rejecting inaction and prioritizing growth over climate action.
+086b7962-6d50-43f9-b206-99cfd5d32b66,2025-04-02 12:18:58.577757+00:00,meta,llama3.1:405B-turbo,0,3443,216,Prioritized policies that address climate change through significant emissions cuts and resilience enhancements.
+31d16dde-f9b8-4bcf-b1b9-700a297707e3,2025-04-02 12:19:03.330671+00:00,meta,llama3.1:405B-turbo,0,3443,216,Prioritized proactive adaptation policies and emission cuts over inaction and economic growth.
+37d7b553-3355-4e21-ba6f-65c555f2cca4,2025-04-02 12:19:09.068777+00:00,meta,llama3.1:405B-turbo,0,3443,220,Prioritizing adaptation and moderate emission cuts while rejecting inaction and prioritizing economy over climate.
+e42091eb-398a-4fa1-bb04-07e18e3cef0e,2025-04-02 12:19:13.570164+00:00,meta,llama3.1:405B-turbo,0,3443,215,Prioritized policies addressing climate change directly and promoting resilience and emission cuts.
+301549fc-e9ae-40d7-9f83-f4c61ca8ac21,2025-04-02 12:19:18.076737+00:00,meta,llama3.1:405B-turbo,0,3443,215,Prioritized policies with significant CO2 emission cuts and proactive adaptation measures.
+2bbb83d4-e8e7-4503-b761-d9db789867be,2025-04-02 12:19:22.466264+00:00,meta,llama3.1:405B-turbo,0,3443,217,Prioritized policies addressing climate change directly and urgently over economic growth or inaction.
+1fdce8d6-fe59-46ed-b8c4-d2f390fb5b52,2025-04-02 12:19:26.844382+00:00,meta,llama3.1:405B-turbo,0,3443,216,Prioritized proactive adaptation and moderate emission cuts over economic growth and inaction.
+228ac51f-4cb1-44ca-8783-b78b19557827,2025-04-02 12:19:31.154835+00:00,meta,llama3.1:405B-turbo,0,3443,221,Prioritizing proactive adaptation and moderate emissions cuts while rejecting inaction and prioritizing growth over climate.
+291897be-7b1d-488f-a001-5dd121922d78,2025-04-02 12:19:35.803109+00:00,meta,llama3.1:405B-turbo,0,3443,218,Prioritizing drastic CO2 cuts and resilience efforts to address urgent climate change impacts.
+123c959c-838b-4ca5-9f7b-b4a8344268c4,2025-04-02 12:19:40.166058+00:00,meta,llama3.1:405B-turbo,0,3443,221,Prioritizing drastic CO2 cuts and resilience development while rejecting inaction and growth over climate action.
+c1a4d063-09f0-4293-a7bc-e82b0eaa2493,2025-04-02 12:19:45.092590+00:00,meta,llama3.1:405B-turbo,0,3443,218,Prioritizing dramatic CO2 cuts and resilience technologies to address urgent climate change needs.
+d54fd0ca-90fb-4eb7-802a-7161a026ac5b,2025-04-02 12:19:50.319837+00:00,meta,llama3.1:405B-turbo,0,3443,218,Prioritizing dramatic CO2 cuts and resilience development over economic growth and inaction.
+ea2bcaac-215b-419f-bb37-471bbc33ae93,2025-04-02 12:19:56.359914+00:00,meta,llama3.1:405B-turbo,0,3443,217,Prioritized policies addressing climate change directly and effectively over inaction or economic growth.
+f51c77b0-0e82-433f-925d-4f0207cb38d0,2025-04-02 12:20:03.728272+00:00,meta,llama3.1:405B-turbo,0,3443,216,Prioritizing adaptation and moderate emission cuts over economic growth and inaction.
+3e8f0f96-0616-4fa5-a5fb-805e9f6c8792,2025-04-02 12:20:08.712461+00:00,meta,llama3.1:405B-turbo,0,3443,217,Prioritizing dramatic emissions cuts and proactive adaptation measures to address climate change effectively.
+6b9f2a1f-e382-4f02-b111-3e1aa432b3e6,2025-04-02 12:20:17.706820+00:00,meta,llama3.1:405B-turbo,0,3443,215,Prioritized policies addressing climate change directly and effectively reducing CO2 emissions.
+43a9f60d-9e79-4050-9f9c-c04848a6c836,2025-04-02 12:20:23.437965+00:00,meta,llama3.1:405B-turbo,0,3443,222,Prioritizing dramatic CO2 cuts and climate resilience while rejecting inaction and prioritizing economy over climate.
+2c3c5698-b7b7-4e87-97db-d14556917c7d,2025-04-02 12:20:27.886103+00:00,meta,llama3.1:405B-turbo,0,3443,218,Prioritizing dramatic CO2 cuts and adaptation policies to address urgent climate change needs.
+42569b84-bf75-49cc-9f70-d052c21af776,2025-04-02 12:20:36.884216+00:00,meta,llama3.1:405B-turbo,0,3443,221,Prioritizing proactive adaptation and moderate emissions cuts while rejecting inaction and prioritizing growth over climate.
+ab0aeaec-9474-4f4c-84ae-f52f62770e5e,2025-04-02 12:20:41.470769+00:00,meta,llama3.1:405B-turbo,0,3443,218,Prioritized proactive and adaptive policies addressing climate change over inaction or solely economic growth.
+84e0f93e-e47a-4889-aad8-125138d61676,2025-04-02 12:20:51.193219+00:00,meta,llama3.1:405B-turbo,0,3443,218,Prioritizing dramatic CO2 cuts and adaptation policies to address urgent climate change needs.
+0ad03aba-6ee6-4b34-9a12-3966fe7de627,2025-04-02 12:20:56.488129+00:00,meta,llama3.1:405B-turbo,0,3443,215,Prioritized proactive and adaptive policies over inaction or solely economic growth.
+707486ea-f68c-47a8-a9bf-6fb944ad4515,2025-04-02 12:21:01.267308+00:00,meta,llama3.1:405B-turbo,0,3443,215,Prioritized adaptation and moderate emission cuts over economic growth and inaction.
+fc26f469-a105-4921-8f05-e4583e889979,2025-04-02 12:21:06.746211+00:00,meta,llama3.1:405B-turbo,0,3443,218,Prioritized proactive adaptation and emission reduction policies over inaction or prioritizing economic growth.
+90e83981-8529-42a9-a35a-d91180c601b5,2025-04-02 12:21:18.566505+00:00,meta,llama3.1:405B-turbo,0,3443,217,Prioritizing drastic CO2 cuts and resilience measures to address urgent climate needs.
+1b6a0495-10ec-471b-a245-4e5427cbd65a,2025-04-02 12:21:23.138190+00:00,meta,llama3.1:405B-turbo,0,3443,217,Prioritized policies addressing climate change mitigation and adaptation over economic growth or inaction.
+5a72867d-80ee-4a2b-9e6d-b651a28d6918,2025-04-02 12:21:34.302710+00:00,meta,llama3.1:405B-turbo,0,3443,217,Prioritized proactive and adaptive policies addressing climate change over economic growth or inaction.
+265cd413-800e-4c3a-970e-d5b5df982978,2025-04-02 12:21:39.227267+00:00,meta,llama3.1:405B-turbo,0,3443,216,Prioritized proactive and adaptive policies over inaction or prioritizing economic growth.
+18960666-0c81-4ab3-afae-d0974be9e37f,2025-04-02 12:21:49.765678+00:00,meta,llama3.1:405B-turbo,0,3443,211,Prioritized policies addressing climate change directly and effectively.

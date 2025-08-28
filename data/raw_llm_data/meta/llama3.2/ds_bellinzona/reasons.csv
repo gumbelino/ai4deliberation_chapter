@@ -1,0 +1,45 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+961e18f1-7c27-4f75-a297-e3ce018872db,2025-03-20 17:52:47.519939+00:00,meta,llama3.2,0,0,0,Support moderate to radical emissions reductions and technological resilience over economic growth.
+494fbac8-2145-429b-9982-ac4c44003363,2025-03-20 17:53:00.477942+00:00,meta,llama3.2,0,0,0,Policies with radical emissions cuts are least supported due to perceived hopelessness and lack of realistic action.
+2ddf05b3-8679-4919-b390-5b8962086b87,2025-03-20 17:53:13.849853+00:00,meta,llama3.2,0,0,0,"Radical reduction is best, leaving policies unchanged is worst."
+263ec416-6f79-48f6-832d-332cd6e7b91e,2025-03-20 17:53:27.786697+00:00,meta,llama3.2,0,0,0,"Strongest support for moderate emission reduction, then adaptation with new technologies, and then no change."
+694bcfcf-7d45-4acc-81fe-16f2deff7fff,2025-03-20 17:53:43.418607+00:00,meta,llama3.2,0,0,0,Radical reduction is least supported but moderate reduction is most supported.
+f656ace8-7a5b-4640-8d96-98a9b5cb6666,2025-03-20 17:53:57.741196+00:00,meta,llama3.2,0,0,0,Prioritize gradual emissions reduction and adaptation policies over drastic measures.
+2938ef33-a035-4329-af02-0245a1b5a493,2025-03-20 17:54:12.474154+00:00,meta,llama3.2,0,0,0,"Radical emission cuts are supported least, economic growth prioritization is next, and moderate emission reduction is preferred."
+7d276a36-33cd-43f3-9910-5c60c95f362b,2025-03-20 17:54:27.989061+00:00,meta,llama3.2,0,0,0,I prioritize moderate reduction of emissions over radical reductions to balance economic and environmental concerns.
+5a49b2ec-afef-421c-b995-022131c7bf9d,2025-03-20 17:54:43.334848+00:00,meta,llama3.2,0,0,0,"Radical emission cuts are least supported, while incremental and community-based approaches receive most support."
+0a4d5500-42f9-4981-bc3b-abf5ffbedf0d,2025-03-20 18:04:32.256942+00:00,meta,llama3.2,0,0,0,Moderate reduction and individual actions support most; economic growth prioritization least.
+bf11b23d-07dd-4245-b938-0f9cc40d1c56,2025-03-20 18:04:47.733713+00:00,meta,llama3.2,0,0,0,"Policies prioritizing growth over climate mitigation are least supported, radical reduction is most."
+57ce949b-ec4f-407e-8223-eef92524b3b4,2025-03-20 18:05:02.993293+00:00,meta,llama3.2,0,0,0,"radical reduction is too extreme, but adaptation and economic growth policies are also insufficient."
+56401c41-ad14-4980-a2ee-ce14ad2535f9,2025-03-20 18:05:18.393836+00:00,meta,llama3.2,0,0,0,Support moderate emission reduction over drastic measures.
+914af03e-83fc-482a-8c9d-eb96283b68ac,2025-03-20 18:05:30.334963+00:00,meta,llama3.2,0,0,0,"Radical reductions are best, followed by moderate reductions, then minimal action."
+71988caa-33b5-41dc-8446-d34e8bdaabb8,2025-03-20 18:05:43.924817+00:00,meta,llama3.2,0,0,0,Support moderate emission reduction over radical drastic measures with adaptation policies.
+1bb7ee47-1cba-4934-997e-2d158ce2833f,2025-03-20 18:05:57.684435+00:00,meta,llama3.2,0,0,0,"Moderate to no reduction in emissions, prioritizing adaptation and resilience measures."
+07a5482b-2cab-40a1-96f4-ea10205f89a0,2025-03-20 18:06:12.923119+00:00,meta,llama3.2,0,0,0,"Radical reduction is preferred, moderate reduction and economic growth prioritized less."
+0d3e4e64-31db-4ee4-8bc2-fda9123c1282,2025-03-20 18:06:27.736336+00:00,meta,llama3.2,0,0,0,Moderate emission cuts & community actions are preferred over radical change or no action.
+e19fdfe7-4d53-4f23-ae3c-edb0002cbc4f,2025-03-27 14:46:09.105112+00:00,meta,llama3.2,0,0,0,Supporting radical emission cuts least and adaptation policies most.
+9483b20d-a11d-4e22-9106-2acb3d92650e,2025-03-27 14:46:16.555625+00:00,meta,llama3.2,0,0,0,Supporting policies that reduce emissions most while adapting to climate change.
+6e56aca8-86c3-4ff9-8f8a-1ec63e1bdb51,2025-03-27 14:46:23.783172+00:00,meta,llama3.2,0,0,0,radical reduction is too drastic but adaptation matters most
+0ee8d0f1-dfcb-4b12-9381-c4cc88c623c1,2025-03-27 14:46:31.033543+00:00,meta,llama3.2,0,0,0,Conservative approach prioritizes economic growth over drastic emissions cuts.
+a1a037ca-df4b-47f2-b32a-4b6280523651,2025-03-27 14:46:38.235521+00:00,meta,llama3.2,0,0,0,Prioritize moderate CO2 reduction over radical changes and economic growth.
+57dfec32-9cc7-4397-8e8e-4d8d0d621db6,2025-03-27 14:46:45.443828+00:00,meta,llama3.2,0,0,0,I ranked moderate reduction policies most supportive due to balance between action and feasibility.
+3a0dd163-f853-4974-b91b-bb5c0a1c4cdd,2025-03-27 14:46:52.739832+00:00,meta,llama3.2,0,0,0,Prioritize practical adaptation measures over drastic emission cuts and economic growth.
+65a2421d-b09e-4c1c-8b6e-9a8410372ed6,2025-03-27 14:46:59.998169+00:00,meta,llama3.2,0,0,0,"Radical reduction supports economically vulnerable regions, while moderate cuts prioritize economic growth."
+91cbe110-d699-4602-83fa-217c7ffe6922,2025-03-27 14:47:07.259399+00:00,meta,llama3.2,0,0,0,Moderate reduction and adaptation policies are preferred over drastic changes or economic growth over climate.
+79ae3ce0-ffc1-49ff-a1b7-03f04dc10671,2025-03-27 15:30:36.784287+00:00,meta,llama3.2,0,0,0,"Moderate reduction policy best, followed by preparing for climate risk then radical reduction."
+0cc8a46c-5fd4-45e8-ac12-0aef494eb6d4,2025-03-27 15:30:44.276829+00:00,meta,llama3.2,0,0,0,Moderate reduction option is most supported while radical and economic growth options are least.
+50bc8d95-dc6d-420f-8a5e-ff7b2a00b299,2025-03-27 15:30:51.624747+00:00,meta,llama3.2,0,0,0,Prioritize moderate emission reduction and adaptation measures over radical change or economic growth.
+6e8e6134-52e9-49c0-9b94-c345f8be993c,2025-03-27 15:30:58.938349+00:00,meta,llama3.2,0,0,0,"Strongest support for moderate emissions reduction policy, weakest for no change."
+d982c6dd-ae0c-4dd8-b40b-f47faf9e87dc,2025-03-27 15:31:06.219447+00:00,meta,llama3.2,0,0,0,"Strongest support for moderate emission reduction, followed by adaptation policies and preparing for climate risk."
+eb6e3dd1-40aa-4258-9f09-bcef8ea1ebe3,2025-03-27 15:31:17.607401+00:00,meta,llama3.2,0,0,0,Radical reduction is least preferred but moderate and individual actions are most preferred.
+9fef4f29-e39e-4d5a-90cd-b23345cf2bbf,2025-03-27 15:31:24.861351+00:00,meta,llama3.2,0,0,0,Strongly support policies with moderate emission reduction and community-based adaptation.
+8233c45f-efdc-4d0a-b586-f285d3d0f697,2025-03-27 15:31:32.111220+00:00,meta,llama3.2,0,0,0,Supported moderate emissions reduction and adaptation policies over radical changes.
+33bd5273-703a-4665-86c6-62d38b202042,2025-03-27 15:31:39.325538+00:00,meta,llama3.2,0,0,0,Supporting strong adaptation and moderate emission reductions over radical changes.
+45f9bae3-2f8a-4c7b-86f8-09fde28869f4,2025-03-27 15:31:46.539748+00:00,meta,llama3.2,0,0,0,"Radical reductions are too extreme, economic growth over climate is least supported."
+663801d0-4930-421b-9fb2-5dcf208f160a,2025-03-27 15:31:53.941916+00:00,meta,llama3.2,0,0,0,"Radical emissions reduction least supported, but adaptation most important."
+6f22154c-ad52-44ae-88be-ca1bb3ffe135,2025-03-27 15:32:04.995241+00:00,meta,llama3.2,0,0,0,"I ranked policies from most supportive to least, prioritizing technology over individual actions and moderate reduction over radical."
+a77f4887-aa38-44f1-9ec3-537b291eddc2,2025-03-27 15:32:12.377528+00:00,meta,llama3.2,0,0,0,"Radical emission cuts are least supported, while adaptation and community-focused approaches get the most support."
+9a80d9b4-05aa-4b57-8911-f9cdf3dad3d7,2025-03-27 15:32:23.712835+00:00,meta,llama3.2,0,0,0,Radical reduction policies are most supported while targeting individual small actions is least.
+48d90f31-6aa7-4398-be50-e607a0cb3ed7,2025-03-27 15:32:30.926552+00:00,meta,llama3.2,0,0,0,Radical reduction is least supported due to perceived hopelessness.
+ab799d77-e267-427f-b532-39ad0008ed35,2025-03-27 15:32:38.151102+00:00,meta,llama3.2,0,0,0,Radical reduction is least supported due to hopelessness and economic concerns.
+64b11091-fd34-49b7-84a9-fdab2ce37e62,2025-03-27 15:32:45.482834+00:00,meta,llama3.2,0,0,0,"Moderate reduction over radical cut, adaptation focus prevails."

@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d4211d93-952e-4143-b78e-0cc217bbe170,2025-04-02 10:33:54.109349+00:00,google,gemma2:27b,0,2852,165,"More funding and integrated services are needed, socioeconomic factors matter, awareness is key."
+14e862c1-90c8-49b4-a17f-6b9f508425fe,2025-04-02 10:34:01.437058+00:00,google,gemma2:27b,0,2852,166,"More funding for services, destigmatization, and addressing socioeconomic factors are key."
+af1e8165-b3e8-40cd-9723-7b1d6f9db50c,2025-04-02 11:27:10.871161+00:00,google,gemma2:27b,0,2852,165,"Prioritize public awareness, integrated services, and addressing socioeconomic factors for mental health."
+8f4e38ac-40c6-4513-a70d-53167a2e6e9b,2025-04-02 11:27:16.734981+00:00,google,gemma2:27b,0,2852,163,I support increasing funding and addressing socioeconomic factors for better mental health services.
+fdd54f25-c31d-43b1-aaf9-3a85d2321b26,2025-04-02 11:27:24.464941+00:00,google,gemma2:27b,0,2852,167,I prioritize increasing funding and accessibility of mental health services while addressing social determinants of mental health.
+bc114eb0-c421-4cb8-bbcb-4175207acd5e,2025-04-02 11:27:32.624941+00:00,google,gemma2:27b,0,2852,170,"I strongly support public awareness and addressing socioeconomic factors, while opposing service reduction and prioritizing public over private funding."
+8b7ffb4a-5e66-4a7f-8635-6a7b28cdca97,2025-04-02 11:27:44.058094+00:00,google,gemma2:27b,0,2852,167,"More funding and socioeconomic initiatives are crucial, awareness campaigns are helpful, private clinics less so."
+1b2e716d-d015-4215-9b88-e4dff14c845f,2025-04-02 11:27:54.090216+00:00,google,gemma2:27b,0,2852,168,"More funding and socioeconomic support are crucial, integrated clinics are good, private funding is less important."
+415f82cf-aaad-45dd-8eeb-1a42fc104235,2025-04-02 11:28:01.026943+00:00,google,gemma2:27b,0,2852,163,More funding needed for accessible and comprehensive mental health services addressing social determinants.
+06b38509-6d04-4ac0-8cc8-00decc145f12,2025-04-02 11:28:07.760748+00:00,google,gemma2:27b,0,2852,165,"Prioritize public awareness, socioeconomic solutions, and integrated clinics over private funding increases."
+828b41f0-7d20-4744-9ec5-5c86d6e6ff68,2025-04-02 11:28:21.327667+00:00,google,gemma2:27b,0,2852,161,Prioritize socioeconomic solutions and increased funding for mental health services.
+88a77255-9272-4b83-898c-ab451b1652e5,2025-04-02 11:28:28.035054+00:00,google,gemma2:27b,0,2852,166,"More funding and integrated services are needed, socioeconomic factors matter, private clinics less so."
+cd269beb-fd8d-4130-82f0-2c33494a5993,2025-04-02 11:28:36.371836+00:00,google,gemma2:27b,0,2852,165,Prioritize awareness campaigns and accessible public services over private clinics and reducing existing services.
+6d19b608-7463-4e6c-a3a2-6636b90a250a,2025-04-02 11:28:42.802274+00:00,google,gemma2:27b,0,2852,166,"More funding and awareness are needed, socioeconomic factors matter, private clinics are less important."
+fb700bf3-2c2c-4fa5-8f47-123073c1d38a,2025-04-02 11:28:48.890869+00:00,google,gemma2:27b,0,2852,169,"More funding for public services and awareness campaigns are crucial, integrated clinics are good but not a priority."
+7f6dbd81-5c93-439d-9183-861fc6eea1bf,2025-04-02 11:28:55.090035+00:00,google,gemma2:27b,0,2852,162,Prioritize socioeconomic solutions and increased funding for existing services over privatization.
+8152bcec-9f01-4f48-90ef-49f3968ea42c,2025-04-02 11:29:01.641648+00:00,google,gemma2:27b,0,2852,167,"Prioritize socioeconomic solutions and public awareness, support integrated clinics, oppose funding cuts and privatization."
+10bd056b-074d-489e-883b-1fc6ea726436,2025-04-02 11:29:14.917664+00:00,google,gemma2:27b,0,2852,162,Prioritize socioeconomic solutions and increased funding for public services over privatization.
+8791e12e-3e2c-4e47-891b-b52c86f71414,2025-04-02 11:29:19.948833+00:00,google,gemma2:27b,0,2852,163,"More funding for mental health services is crucial, especially for disadvantaged groups."
+0336a2bd-65e9-41fa-ab0e-00daa13b378a,2025-04-02 11:29:27.995267+00:00,google,gemma2:27b,0,2852,165,"More funding needed for mental health services, especially for disadvantaged groups and integrated approaches."
+13292119-1741-4fef-936b-d8a46b1b2d9b,2025-04-02 11:29:33.839542+00:00,google,gemma2:27b,0,2852,168,"More funding for mental health services is crucial, but integrated care and public awareness are also important."
+7a0ca821-dfdb-424b-9e42-51173e43e34c,2025-04-02 11:29:40.633846+00:00,google,gemma2:27b,0,2852,166,"Prioritize public awareness, address socioeconomic factors, and increase funding for mental health services."
+1c5a3ee7-9162-44bf-8fa1-980c938020b6,2025-04-02 11:29:48.216461+00:00,google,gemma2:27b,0,2852,162,Prioritize socioeconomic solutions and increased public funding for mental health services.
+5c793190-9455-4e9f-a4d8-e73bd15d845d,2025-04-02 11:29:54.137901+00:00,google,gemma2:27b,0,2852,166,"More funding and services are needed, focusing on social determinants and destigmatization."
+ff5a813f-9a8d-4b99-ac9c-1fdf1cbe2bcc,2025-04-02 11:30:01.348454+00:00,google,gemma2:27b,0,2852,166,"Prioritize socioeconomic solutions and integrated care, support awareness campaigns, oppose privatization and cuts."
+b9099eeb-2c14-458b-b4d8-76c46fa07e36,2025-04-02 11:30:07.373891+00:00,google,gemma2:27b,0,2852,162,Prioritize addressing socioeconomic disparities and increasing funding for mental health services.
+8802e511-2846-4b47-8699-9f812399db9a,2025-04-02 11:30:14.862345+00:00,google,gemma2:27b,0,2852,164,"Prioritize socioeconomic solutions and integrated care, support awareness campaigns and increased funding."
+721d9de3-1a1a-4f41-abc0-247839538182,2025-04-02 15:27:36.032457+00:00,google,gemma2:27b,0,2852,164,Prioritize socioeconomic solutions and increased funding for existing services over privatization or reduction.
+f22c2261-ea1a-4cb1-941c-ac4a879663f9,2025-04-02 15:27:41.979370+00:00,google,gemma2:27b,0,2852,162,Prioritize socioeconomic solutions and awareness campaigns over increasing private clinic funding.
+759dc42a-314d-47c5-b996-17610a84177e,2025-04-02 15:27:47.552492+00:00,google,gemma2:27b,0,2852,162,"More funding needed, awareness campaigns are important, socioeconomic factors matter."

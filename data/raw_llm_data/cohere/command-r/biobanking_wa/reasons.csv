@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+a85209af-5050-433a-aecf-dedd466d686d,2025-03-24 22:19:56.106420+00:00,cohere,command-r,0,5435.0,365.0,"My ratings reflect a preference for well-regulated, publicly funded biobanks with strong privacy protections."
+3f3608d1-820d-43ea-8c28-a343d4499cc9,2025-03-24 22:20:01.797442+00:00,cohere,command-r,0,5441.0,365.0,My ratings reflect a preference for private funding and robust regulation to protect individual privacy.
+6b3183d0-6907-4dc4-a680-4f0df8adf233,2025-03-24 22:20:07.551418+00:00,cohere,command-r,0,5435.0,364.0,"I value privacy, government oversight, and public funding with strong regulations leading to my rankings."
+4f500210-93b7-4e01-a7a1-19bc5d122e0f,2025-03-24 22:20:13.290571+00:00,cohere,command-r,0,5443.0,368.0,"I value public funding, strong government regulation, and individual privacy, above all other considerations."
+354c3a10-0155-4d94-b8b0-b44e928ea3d9,2025-03-24 22:20:19.020688+00:00,cohere,command-r,0,5427.0,358.0,"I value public funding, strong regulation, and individual privacy, rating them highest."
+1ad74cf7-40d4-4c18-b301-6e4e0c53b822,2025-03-24 22:20:24.592500+00:00,cohere,command-r,0,5413.0,357.0,"I value public funding, strong regulation, and individual privacy, with a cautious and ethical approach to biobanking."
+9615f801-e1ac-4535-9ba5-4e5b4ddf77f9,2025-03-24 22:20:30.167515+00:00,cohere,command-r,0,5425.0,358.0,"Strongly support publicly funded, regulated biobanks with high privacy, and community benefits."
+a6318a71-4178-42a1-9737-6ee4e153aad2,2025-03-24 22:20:35.914073+00:00,cohere,command-r,0,5449.0,368.0,"My ratings prioritize strong regulation, privacy, and public funding for biobanks."
+27096953-b222-4c88-b567-c0e1fb63f6f8,2025-03-24 22:20:41.580861+00:00,cohere,command-r,0,5431.0,361.0,I support government ownership and regulation of biobanks to protect individual privacy and public health.
+c31e2a31-d0aa-45e7-b54e-51f423d325ab,2025-03-24 22:20:47.283241+00:00,cohere,command-r,0,5443.0,369.0,"My ratings prioritize government oversight, individual privacy, and public funding for robust regulation and privacy provisions."

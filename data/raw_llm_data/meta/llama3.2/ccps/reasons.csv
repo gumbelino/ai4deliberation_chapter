@@ -1,0 +1,41 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+969e2890-ec47-408c-96a8-b21673cf0a9d,2025-03-20 17:40:40.129085+00:00,meta,llama3.2,0,0,0,"Policies 6 and 4 are most acceptable, policies 2,5 and 7 are moderately acceptable."
+8bbcdbd7-01e1-4be1-a1be-707b56a77e2b,2025-03-20 17:40:48.875540+00:00,meta,llama3.2,0,0,0,"Supported moderate emission cut, favored adaptation over drastic cuts."
+98769fe4-59df-409e-af6d-894e14fd19b5,2025-03-20 17:40:57.185343+00:00,meta,llama3.2,0,0,0,"Strongest support for moderate cut, least for economic growth over climate."
+489595be-fc56-4f3f-8795-ebc18e708dca,2025-03-20 17:41:05.555910+00:00,meta,llama3.2,0,0,0,Cutting back too fast is economically unviable while moderate cuts are insufficient to address climate change.
+0d813ef2-96fc-4b19-b475-e0021e10dde1,2025-03-20 17:41:14.097746+00:00,meta,llama3.2,0,0,0,"Support drastic emission cuts most, with adaptation and growth prioritized least."
+23453804-22d5-40b7-961c-c0092c60394d,2025-03-20 17:41:22.508641+00:00,meta,llama3.2,0,0,0,"Support dramatic reduction over moderate cuts, with economic growth prioritized over adaptation and planning."
+06002728-54ec-404d-a075-443961da9fd9,2025-03-20 17:41:30.942844+00:00,meta,llama3.2,0,0,0,Moderate emissions reduction policies over dramatic changes.
+fe00819e-124a-4e25-89f2-b003fc9e3508,2025-03-20 17:41:40.212000+00:00,meta,llama3.2,0,0,0,"Supports moderate action plan over drastic cuts, prioritizing economic growth"
+6a0734ae-9231-4b12-8526-4905c24ec3bd,2025-03-20 17:41:48.792261+00:00,meta,llama3.2,0,0,0,Generally support drastic emissions cuts over economic growth and inaction.
+6887d233-fb89-4bcb-96a2-248f461e0509,2025-03-20 17:51:04.185264+00:00,meta,llama3.2,0,0,0,"Moderate cutback to CO2 emissions most supported, followed by community-based actions and little change."
+5da4347e-9aa4-4fe4-a9a0-2f1503ef82e2,2025-03-20 17:51:18.116515+00:00,meta,llama3.2,0,0,0,"Higher ranks for moderate reductions and community-based actions, lower for drastic cuts and unchanged policies."
+3f2c5bf0-4b6f-4166-af61-552169156adf,2025-03-20 17:51:33.167753+00:00,meta,llama3.2,0,0,0,Support drastic cuts over mild adaptations and prioritize economic growth
+c6230146-9157-4638-8027-92ffd1bcbc31,2025-03-20 17:51:45.167830+00:00,meta,llama3.2,0,0,0,"Policies with minimal impact ranked highest, while drastic measures came next."
+88f31085-ee39-4e64-9f42-0b4e55cb0b23,2025-03-20 17:51:59.304147+00:00,meta,llama3.2,0,0,0,"Strongest support for drastic emission cut, followed by incremental cuts and individual actions."
+2563022e-7a4f-4dfa-8a8a-132b2211b3d9,2025-03-20 17:52:14.545929+00:00,meta,llama3.2,0,0,0,I ranked policies based on willingness to act and impact on emissions reduction.
+90796695-03fd-4ed3-88bb-8bfcc0e8325b,2025-03-20 17:52:28.108235+00:00,meta,llama3.2,0,0,0,Supports moderate emission cut and prioritizes adaptation over drastic cuts.
+dfb57dd1-fd9d-4e5a-8a89-8a7129325bf1,2025-03-20 17:52:41.562843+00:00,meta,llama3.2,0,0,0,Strongly support moderate emission reduction policies over others.
+c6fd150c-7a24-4551-8ab4-ba6fd2245b21,2025-03-20 17:52:54.770642+00:00,meta,llama3.2,0,0,0,I ranked policies based on climate change mitigation and support for drastic action.
+2c712556-a2ef-479d-8af7-de0f20b274d4,2025-03-27 14:39:03.935169+00:00,meta,llama3.2,0,0,0,I ranked more drastic cuts last and adaptation policies over economic growth.
+70793d4e-d239-4fbf-86aa-7d6386d1486d,2025-03-27 14:39:11.398737+00:00,meta,llama3.2,0,0,0,Highly support drastic emission cuts over small adaptations.
+aa0d3a64-c30e-4bfd-848b-e564fac9a560,2025-03-27 14:39:18.638780+00:00,meta,llama3.2,0,0,0,"Strongest action is moderate emission cuts, then adaptation policies and then least economic growth over climate."
+99521b44-43a8-4824-b279-d84084dba510,2025-03-27 14:39:26.010370+00:00,meta,llama3.2,0,0,0,I ranked policies with significant emissions cuts and adaptation prioritization most supported.
+6a0093c8-3f99-4183-a3f2-b00a7f8786c3,2025-03-27 14:39:33.379451+00:00,meta,llama3.2,0,0,0,Strongest support for dramatic cuts and weakest for adaptation measures.
+aa4a2127-5119-47c6-8909-e163b5127ee8,2025-03-27 14:39:40.638436+00:00,meta,llama3.2,0,0,0,I ranked policies based on individual vs. collective action and economic vs. climate considerations.
+d5a2144f-3c91-4644-a04b-a42fa465dec5,2025-03-27 14:39:48.087798+00:00,meta,llama3.2,0,0,0,"Supporting drastic cuts over economic growth and adaptation over mitigation, with moderate reduction as middle ground."
+1b6a4fd4-bc28-4aa9-a42c-d0e2d15be25b,2025-03-27 14:39:55.508098+00:00,meta,llama3.2,0,0,0,Support moderate cuts and adaptation policies over drastic changes.
+0674ea1f-bec2-41ad-b63e-477f935ec1e1,2025-03-27 14:40:02.703077+00:00,meta,llama3.2,0,0,0,Support dramatic cutback in emissions most strongly but prioritize economic growth and individual actions.
+3a412d50-d605-457f-b7a1-fa6dfa77ab29,2025-03-27 15:16:11.028262+00:00,meta,llama3.2,0,0,0,Strongly support drastic emission cuts over moderate reductions and leaving policy settings unchanged.
+a3c7efaa-d8b4-4d16-acaf-d892d10c950e,2025-03-27 15:16:18.308545+00:00,meta,llama3.2,0,0,0,"Ranking policies from least to most support, with moderate emissions cut prioritized over drastic cuts."
+f9a44a6a-2bab-4389-8f34-2cbb80b8ef6e,2025-03-27 15:16:33.043098+00:00,meta,llama3.2,0,0,0,Moderate cuts are better than drastic ones but still too little given climate urgency.
+e532ca3b-6e5a-4abf-ae4a-629a3a03fb22,2025-03-27 15:16:40.334476+00:00,meta,llama3.2,0,0,0,"Moderate emission cuts and investment in resilience are preferred over drastic changes, minimal adaptation, or solely economic growth."
+70c59277-bbf1-4f28-813e-c7fbd9879158,2025-03-27 15:16:51.552118+00:00,meta,llama3.2,0,0,0,Strongest support for adaptation and lowest for drastic emission cuts.
+83750ed8-a17e-4bf8-bd4d-e627089e6ccb,2025-03-27 15:16:58.761112+00:00,meta,llama3.2,0,0,0,"Support dramatic cuts least, with adaptation and growth taking middle ground."
+6d9aadbf-68e4-46d3-b231-b62b4ea1308b,2025-03-27 15:17:06.132655+00:00,meta,llama3.2,0,0,0,"Support dramatic cuts over moderate ones, with economic growth prioritized least."
+170d5e71-a404-40f5-acf6-3b1ff5cb4535,2025-03-27 15:17:13.493309+00:00,meta,llama3.2,0,0,0,"Prioritize moderate emissions cuts over drastic cuts and economic growth, supporting adaptation and technological resilience."
+7dd6e538-cf62-498d-a41a-8e567d693400,2025-03-27 15:17:20.885448+00:00,meta,llama3.2,0,0,0,"Supports dramatic reduction, prioritizes adaptation over economic growth."
+f1051176-5692-49e0-b07c-fa53a16384f0,2025-03-27 15:17:31.948232+00:00,meta,llama3.2,0,0,0,I ranked lower reduction goals and prioritized adapting to climate change over drastic emissions cuts.
+e3c5134c-d05e-4b19-9059-36d0be954e50,2025-03-27 15:17:43.199294+00:00,meta,llama3.2,0,0,0,Strongest support for moderate emission cuts and weakest for drastic policy changes.
+12fcd32e-2d8b-4a6d-9914-019f4323a66d,2025-03-27 15:17:50.460109+00:00,meta,llama3.2,0,0,0,Rated most supportive of small-scale adaptation policies and least of drastic emissions cut.
+7da4698a-4f56-4d64-b581-7f260fb3c375,2025-03-27 15:17:57.787779+00:00,meta,llama3.2,0,0,0,Support policies that promote adaptation and moderate emission cuts over drastic economic growth.

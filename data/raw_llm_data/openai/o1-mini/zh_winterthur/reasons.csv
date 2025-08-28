@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+9f98df49-3929-4fd8-8f2d-0894219640f3,2025-04-01 12:57:34.751185+00:00,openai,o1-mini,0,3471,3372,"I prioritize incentives for local sustainable producers and moderate regulations, supporting research over minimal or radical approaches"
+de69736c-b98a-4d68-abd0-26c106e80c40,2025-04-01 12:58:01.041787+00:00,openai,o1-mini,0,3471,4137,"I prioritize incentives and research, favor moderate over radical regulation, and oppose minimal regulation."
+d23b8d99-0a8e-410d-b049-46d65aca78d5,2025-04-03 14:21:09.737560+00:00,openai,o1-mini,0,3471,3263,"Strongly support moderate regulation (Policy5), then incentives for local producers (3), invest in research (4), radical regulation (6), less regulation (2), leave as is (1)."
+56e3c415-995b-4545-9a04-d5f0a83bcae2,2025-04-03 14:21:42.254003+00:00,openai,o1-mini,0,3471,3379,"Policies 2 and 6 prioritized for sustainability and research, followed by 1,4,3, with 5 least supported."
+188c8d18-6027-40f9-a350-1130f3f72e18,2025-04-03 14:22:05.233696+00:00,openai,o1-mini,0,3471,3879,Prefer local sustainable incentives and research support moderate regulations oppose less and radical policies

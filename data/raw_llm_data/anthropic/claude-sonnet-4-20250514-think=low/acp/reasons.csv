@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+1eacb001-41d3-474a-9cb0-c19c1016dd01,2025-05-29 14:16:55.808693+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6733,1465,I prioritized inclusive representation and limited government intervention over authoritarian approaches
+924e198f-0ef0-4460-b44f-fa04da407c01,2025-05-29 14:17:38.225609+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6571,1524,Favored inclusive representation over exclusionary policies and minimal government intervention
+9ad7eec2-2b70-4c8e-8a57-7fa40d40ebe2,2025-05-29 14:18:23.166569+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,7140,1661,I prioritized inclusive democratic participation over status quo while opposing removal of minority protections
+e7494403-fb7d-438d-a4bb-3be7a85b7897,2025-05-29 14:19:03.294387+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,7002,1996,Supported inclusive participation over status quo equal treatment minimal govt and moral enforcement
+4f6802fc-3b0b-4ad7-be71-fd1e9b9a28fb,2025-05-29 14:19:59.269590+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6947,1572,I prioritized inclusive representation and democratic participation over market minimalism or imposed moral governance

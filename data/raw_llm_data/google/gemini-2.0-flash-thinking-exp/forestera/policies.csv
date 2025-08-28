@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Management that favors aggressive reduction of hazardous fuels,P2. Management that favors thinning treatments to realize economic gain.,"P3. Management that favors treatments to restore structure, function and composition of the forest to presettlement conditions, and allowing the introduction of fire as a natural disturbance.",P4. No fire or fuels management. Leaving the forests as they stand without active management.,P5. Management that favors local-based harvesting for fuel and timber needs.,P6. Management that favors the protection of wildlife and wildlife habitat.,"P7. Management that prioritizes the location and level of treatments favoring both ecological and social values (i.e. wildlife, watersheds, community protection, special cultural places)."
+d8a53a14-66b7-4ca4-85db-83a6a19b7987,2025-04-17 10:45:16.995183+00:00,google,gemini-2.0-flash-thinking-exp,0,4568,146,3,6,2,7,4,5,1
+bcf0509d-fa80-4795-af75-1b6ad873c4c5,2025-04-17 10:45:38.739306+00:00,google,gemini-2.0-flash-thinking-exp,0,4916,319,2,6,4,7,3,5,1
+6e5b35a0-df9a-4c34-8a5f-4ee00c79ef67,2025-04-17 10:45:58.580217+00:00,google,gemini-2.0-flash-thinking-exp,0,4918,320,2,6,7,1,5,3,4
+1a51619b-31e9-4a19-8e47-e7d0ef8cf823,2025-04-17 10:46:19.764961+00:00,google,gemini-2.0-flash-thinking-exp,0,4916,322,3,5,6,7,4,2,1
+d2eeb1a4-605a-4e8a-98c3-fb0dcaa4042e,2025-04-17 10:46:43.680879+00:00,google,gemini-2.0-flash-thinking-exp,0,4572,146,3,6,5,7,2,4,1
+b1551732-1607-43f4-a44d-a2ba5345b3e3,2025-04-17 10:47:06.089231+00:00,google,gemini-2.0-flash-thinking-exp,0,4916,321,2,3,7,1,6,4,5
+c9409bef-cde8-407e-a510-354097542a02,2025-04-17 10:47:28.853139+00:00,google,gemini-2.0-flash-thinking-exp,0,4914,319,2,4,5,6,1,7,3
+b076f362-4966-47f7-8fae-de3b4b00bd62,2025-04-17 10:47:46.478541+00:00,google,gemini-2.0-flash-thinking-exp,0,4918,319,2,7,3,1,4,5,6
+d247ffd1-9c0c-42db-a231-a84687bdc4e3,2025-04-17 10:48:05.870356+00:00,google,gemini-2.0-flash-thinking-exp,0,4916,319,3,6,1,2,5,7,4
+021334ab-b581-4b91-ab97-17055d24bb9f,2025-04-17 10:48:28.563140+00:00,google,gemini-2.0-flash-thinking-exp,0,4910,318,2,6,3,7,4,5,1

@@ -1,0 +1,5 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+805aafa3-eb7c-48de-b51e-a10aea5ca3af,2025-04-01 13:08:10.559801+00:00,openai,o1-mini,0,5501,2636,Preference for publicly funded and strongly regulated biobanks ranked higher than minimal regulation.
+35ba8ce0-9e08-473e-b00c-9fa7f9474039,2025-04-01 13:08:31.529191+00:00,openai,o1-mini,0,5501,2710,"prefer public minimal regulation, private minimal, public strong, cautious implementation, high privacy, minimal gov input, least private strong regulation"
+836621c4-bd11-4df4-8901-f2ee8a8c39f5,2025-04-03 14:35:37.188527+00:00,openai,o1-mini,0,5501,2765,"Favor public funding with strong regulation and high privacy, prefer strict oversight over minimal regulation."
+9052833d-d333-445b-961b-b1f52c1b7274,2025-04-03 14:35:57.821074+00:00,openai,o1-mini,0,5501,2454,"Prefer publicly funded strong regulation and high privacy, moderately support cautious and publicly funded minimal regulation, least favor minimal government input and regulation."

@@ -1,0 +1,7 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+bbe37c2f-bec4-454a-8523-bfb1d1b43b6c,2025-04-01 12:48:58.803632+00:00,openai,o1-mini,0,4744,4280,"I prioritize resilient technologies and adaptation, support moderate regulations and local incentives, least favor status quo and deregulation."
+fffec47c-dd89-442e-9405-22d2726d5e4f,2025-04-01 13:02:36.771902+00:00,openai,o1-mini,0,4740,2107,"I favor incentives for local sustainable producers, climate risk prep, adaptation policies, moderate regs, radical regs, fewer regs, and leaving policies unchanged."
+47231fb3-16b4-402f-ae0d-2e6e0c3d8a25,2025-04-01 13:02:57.493306+00:00,openai,o1-mini,0,4740,2161,"Moderate regulations, local incentives, and climate resilience top policies; unchanged and fewer regulations least"
+b25e13b2-b162-4df9-9983-a8f5020c5515,2025-04-03 14:27:49.231389+00:00,openai,o1-mini,0,4740,2288,"Prefer incentives for local sustainable production and adaptation, moderate regulations, oppose radical and laissez-faire."
+46128065-1841-4178-8ccb-503123ef4961,2025-04-03 14:28:06.582539+00:00,openai,o1-mini,0,4740,2224,"I prioritize climate resilience and local sustainability, favor moderate regulations, and oppose leaving policies unchanged."
+7e158dc1-4a90-4e2a-8462-4838265a9a02,2025-04-03 14:28:28.753714+00:00,openai,o1-mini,0,4740,2288,I prioritize incentivizing local sustainable producers and moderate regulations while opposing status quo and deregulation.

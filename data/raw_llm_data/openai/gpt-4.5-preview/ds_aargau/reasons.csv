@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d7309d01-c55c-44fa-aec8-774997315ce5,2025-04-08 14:46:33.856785+00:00,openai,gpt-4.5-preview,0,3317,214,"Balanced emissions cuts, strong adaptation planning, economic growth least prioritized."
+13fd96a1-de22-447b-bef2-e92301f748f0,2025-04-08 14:46:56.438966+00:00,openai,gpt-4.5-preview,0,3317,217,"Prioritized resilience, adaptation, strong emissions cuts; least favored economic growth focus."
+2aaae8e6-42db-4966-bdc5-c1a0f4c784dd,2025-04-08 14:47:16.923184+00:00,openai,gpt-4.5-preview,0,3317,219,"Strongly support emission cuts, community actions, and adaptation; oppose status quo and growth."
+7a3933b9-82c3-4162-89d3-496a10f815ec,2025-04-08 14:47:40.402055+00:00,openai,gpt-4.5-preview,0,3317,218,"Prioritized strong emissions cuts, resilience tech, adaptation; rejected status quo and growth."
+28cab3d0-1a48-4fb3-8972-5fab4fed26a2,2025-04-08 14:48:08.013383+00:00,openai,gpt-4.5-preview,0,3317,219,"Prioritized strong adaptation, deep emission cuts, resilience; rejected status quo and growth focus."
+16a11dc6-bdcd-402f-97ad-e28f2f017b35,2025-04-10 08:09:25.874480+00:00,openai,gpt-4.5-preview,0,3317,216,"Balanced emissions cuts, strong adaptation planning, least priority to economic-only approach."
+cfc059e4-eee2-4784-81c1-c9d9b697ca77,2025-04-10 08:09:38.563990+00:00,openai,gpt-4.5-preview,0,3317,217,"Prioritized resilience, strong emissions cuts, community actions; rejected status quo policies."
+bd419d2e-8eb4-457e-8d2b-b46a02b71b77,2025-04-10 08:09:53.022970+00:00,openai,gpt-4.5-preview,0,3317,217,Strongly support emission cuts and adaptation; least support economic growth over climate action.
+d9055c0c-da42-4060-aff5-aaa59ce3ef5e,2025-04-10 08:10:03.514830+00:00,openai,gpt-4.5-preview,0,3317,219,"Prioritized strong emission cuts, adaptation, resilience; least favored status quo and economy-only."
+cc5c1a6d-121f-4c88-b338-e180a51b49f9,2025-04-10 08:10:16.342874+00:00,openai,gpt-4.5-preview,0,3317,219,"Prioritized strong adaptation, deep emission cuts; deprioritized economic growth, status quo."

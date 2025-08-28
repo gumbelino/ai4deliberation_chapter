@@ -1,0 +1,39 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+8d572a92-258c-4c4c-a48d-cb31dda5ae36,2025-04-10 17:03:02.556497+00:00,meta,llama4-scout,0,3606,225,"Prioritized eco-friendly policies, criticized deregulation and business-first approaches."
+e263f2c9-7657-46ff-aa29-6e048e24eb57,2025-04-10 17:03:06.773585+00:00,meta,llama4-scout,0,3606,229,"Prioritized eco-friendly innovation and strong environmental regulations, while opposing reduced regulations and no change."
+5854b841-e11b-4f88-a36a-de8fcfff6593,2025-04-10 17:03:11.208049+00:00,meta,llama4-scout,0,3606,225,Prioritized eco-friendly policies and regulations to protect the reef and environment.
+20b1b0e9-47a2-40e8-805b-d2445f43e43a,2025-04-10 17:03:15.728746+00:00,meta,llama4-scout,0,3606,225,Prioritized eco-friendly innovation and regulation over deregulation and resource extraction.
+18aba0eb-50e6-4a0c-8916-2a2d723ec689,2025-04-10 17:03:19.804013+00:00,meta,llama4-scout,0,3606,225,Prioritized eco-friendly policies and regulations to protect the reef and environment.
+fc6dd510-c5fe-48e0-8bff-99121f8f839f,2025-04-10 17:03:24.316484+00:00,meta,llama4-scout,0,3606,221,Prioritized eco-friendly options and stronger environmental regulations.
+1e73727e-7264-44e2-a3dd-5dda22f33aaf,2025-04-10 17:03:28.245644+00:00,meta,llama4-scout,0,3606,222,Prioritized eco-friendly options and regulations over business interests.
+c1568a6a-1a46-4e20-baea-4e37b78faec7,2025-04-10 17:03:32.256278+00:00,meta,llama4-scout,0,3606,225,Prioritized eco-friendly options and stricter regulations to protect the reef.
+5fb35dd4-3de1-44c3-b2e1-5da26bb7ec5d,2025-04-10 17:03:36.906907+00:00,meta,llama4-scout,0,3606,227,"Prioritized eco-friendly options, criticized deregulation and business-as-usual approaches."
+03e04d29-8edb-4e02-95b9-798c2439cc63,2025-04-10 17:03:40.951544+00:00,meta,llama4-scout,0,3606,226,Prioritized eco-friendly innovation and protection over extractive industries and deregulation.
+07ce6e7e-77b6-400a-911d-68ff7bad0cba,2025-04-10 17:03:44.994479+00:00,meta,llama4-scout,0,3606,224,"Prioritized eco-friendly options, rejected deregulation and coal expansion."
+3e9cceb0-e9b0-43cf-b2de-f1262072687a,2025-04-10 17:03:49.505238+00:00,meta,llama4-scout,0,3606,230,I prioritized eco-friendly innovation and strong environmental regulations to protect the reef and support sustainable industries.
+6eab59c9-3c39-44de-9b14-bbe8a117f954,2025-04-10 17:03:53.703099+00:00,meta,llama4-scout,0,3606,226,Prioritized environmental protection and sustainable industries over economic growth and extractive industries.
+7d5efba3-2ac2-4566-851b-be6d05e94779,2025-04-10 17:03:57.888920+00:00,meta,llama4-scout,0,3606,226,Prioritized eco-friendly innovation and regulation over extractive industries and deregulation.
+e2267f93-53b2-4d76-ac39-09d8f1a52bce,2025-04-10 17:04:01.973097+00:00,meta,llama4-scout,0,3606,228,"Prioritized eco-friendly options, opposed to deregulation and business-as-usual approaches."
+ab1f145d-efbd-40bc-ac25-ce96e4d5fcb9,2025-04-10 17:04:06.712364+00:00,meta,llama4-scout,0,3606,225,Prioritized eco-friendly innovation and regulation over deregulation and fossil fuels.
+3a38f29b-22c6-4d7f-879d-fe36c99c64ec,2025-04-10 17:04:11.000315+00:00,meta,llama4-scout,0,3606,225,Prioritized eco-friendly options and regulations over economic or extractive interests.
+cba09532-c7a5-4e96-baeb-999c9c15701c,2025-04-10 17:04:15.174625+00:00,meta,llama4-scout,0,3606,224,Prioritized eco-friendly innovation and regulation over business and coal interests.
+e0c95b72-0d0e-4d9b-b2fb-b8551c16fb73,2025-04-10 17:04:19.136879+00:00,meta,llama4-scout,0,3606,225,Prioritized eco-friendly innovation and strong environmental regulations to protect the reef.
+2c2a56ae-8f73-4179-9a57-b234b8a38317,2025-04-10 17:04:23.170459+00:00,meta,llama4-scout,0,3606,221,Prioritized eco-friendly options and stronger environmental protection.
+f902e43e-5672-42ce-a2c3-4b3225acad9e,2025-04-10 17:04:27.191034+00:00,meta,llama4-scout,0,3606,225,Prioritized environmental protection and sustainable industries over economic growth and resource extraction.
+9948595c-3abd-44f3-b5f1-9382f3bae045,2025-04-10 17:04:32.688944+00:00,meta,llama4-scout,0,3606,227,"Prioritized eco-friendly policies, criticized deregulation and business-as-usual approaches."
+c778c056-612a-42fe-8a81-a9caa85a4cf1,2025-04-10 17:04:36.712638+00:00,meta,llama4-scout,0,3606,224,Prioritized eco-friendly policies and stronger regulations to protect the reef.
+302f845d-9833-4b37-a7a9-1d95bd99b59f,2025-04-10 17:04:40.717133+00:00,meta,llama4-scout,0,3606,226,Prioritized eco-friendly innovation and regulation over extractive industries and deregulation.
+2d8c7dd4-57b9-4119-8694-0cde96fbe5f6,2025-04-10 17:04:44.818325+00:00,meta,llama4-scout,0,3606,224,Prioritized eco-friendly options and stricter regulations over business interests.
+4c246a65-cf95-4252-a882-7bce6af1444d,2025-04-10 17:04:53.085752+00:00,meta,llama4-scout,0,3606,228,"Prioritized eco-friendly innovation and strong environmental regulations, opposed deregulation and coal expansion."
+17d4a550-6ff0-4fac-b57b-b0e98b3446c1,2025-04-10 17:04:57.079172+00:00,meta,llama4-scout,0,3606,224,"Prioritized eco-friendly policies, criticized deregulation and status quo."
+5f85126c-0f06-478d-89c5-7e8d278c44d2,2025-04-10 17:05:01.192610+00:00,meta,llama4-scout,0,3606,225,"Prioritized eco-friendly options, opposed to deregulation and coal expansion."
+5ce800ea-b91e-4334-a70d-0d2d94e23d78,2025-04-10 17:36:09.560894+00:00,meta,llama4-scout,0,3606,227,Prioritized eco-friendly policies and stricter regulations to protect the reef and environment.
+4eda7054-0d7b-46dc-9a3c-b159f3daec12,2025-04-10 17:36:13.734924+00:00,meta,llama4-scout,0,3606,225,"Prioritized eco-friendly options, rejected deregulation and extractive industries."
+653b3b92-5b88-4ade-98f0-18e8f3854384,2025-04-10 17:36:17.730912+00:00,meta,llama4-scout,0,3606,227,"Prioritized eco-friendly options, rejected deregulation and business-as-usual approaches."
+672f6a0f-3dca-4bc7-bd9d-7c56857dfa32,2025-04-10 17:36:21.928552+00:00,meta,llama4-scout,0,3606,224,Prioritized environmental protection and innovation over economic growth and status quo.
+54abe614-c457-4aa5-b7ce-9223d9db544d,2025-04-10 17:36:26.334821+00:00,meta,llama4-scout,0,3606,225,Prioritized eco-friendly policies and stricter regulations to protect the reef.
+70209784-f73f-41c6-8a46-422ce1e15ba2,2025-04-10 17:36:30.308553+00:00,meta,llama4-scout,0,3606,225,Prioritized eco-friendly innovation and protection over deregulation and resource extraction.
+218968b2-1240-4bf7-907c-3c12b6e6d05f,2025-04-10 17:36:34.288375+00:00,meta,llama4-scout,0,3606,226,Prioritized eco-friendly innovation and strong environmental protection over business and status quo.
+b86252e9-3a55-4036-bb5b-0383e6e94a44,2025-04-10 17:36:38.594358+00:00,meta,llama4-scout,0,3606,227,"Prioritized eco-friendly options, rejected deregulation and business-as-usual approaches."
+51ff346f-245d-4e29-9769-b662568ee345,2025-04-10 17:36:42.815332+00:00,meta,llama4-scout,0,3606,226,Prioritized eco-friendly innovation and protection over deregulation and extractive industries.
+511d8902-2e18-4b8b-89ae-fc0f5727e0f9,2025-04-10 17:36:47.120629+00:00,meta,llama4-scout,0,3606,225,Prioritized eco-friendly innovation and strong environmental protection over resource-intensive industries.

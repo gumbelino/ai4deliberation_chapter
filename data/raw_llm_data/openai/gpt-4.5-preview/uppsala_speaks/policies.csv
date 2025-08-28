@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Ban Begging within Sweden,P2. Deport any immigrants found begging on the streets who have stayed in Sweden longer than three months,P3. Enforce existing laws without special consideration for beggars,P4. Forbid giving money to beggars,P5. Focus resources on addressing the the problem in source countries such as Romania,P6. Ban Illegal Settlements,P7. Provide accommodation for beggars (more)
+b3e1a8ce-c2dc-4b7b-b75a-3713ed5e9e48,2025-04-08 14:21:52.587693+00:00,openai,gpt-4.5-preview,0,3508,263,7,5,4,6,1,3,2
+31ec8dc2-41c3-4617-9b38-7dd0c1264890,2025-04-08 14:22:28.696438+00:00,openai,gpt-4.5-preview,0,3508,264,5,1,3,7,4,6,2
+bbaa5268-1da4-4394-b815-9e9416824fe4,2025-04-08 14:23:06.779835+00:00,openai,gpt-4.5-preview,0,3508,263,4,3,5,7,2,6,1
+4376dfff-23cb-4d76-9668-d12e101c10e3,2025-04-08 14:23:43.939067+00:00,openai,gpt-4.5-preview,0,3510,263,6,5,3,7,1,4,2
+01d9ea37-feb5-41fc-80fe-ce2e77616fad,2025-04-08 14:24:19.666784+00:00,openai,gpt-4.5-preview,0,3508,263,5,7,3,6,1,4,2
+8c87bcf5-065f-48f3-925b-85bb5863ec8b,2025-04-10 07:56:44.442765+00:00,openai,gpt-4.5-preview,0,3508,263,7,5,3,6,2,4,1
+02921d94-5f36-4e77-8a0a-a1fef23801fb,2025-04-10 07:57:00.836261+00:00,openai,gpt-4.5-preview,0,3508,264,4,5,1,7,3,6,2
+57a69b69-d835-4406-bb77-e613e4e639d8,2025-04-10 07:57:16.684456+00:00,openai,gpt-4.5-preview,0,3508,259,4,3,5,7,2,6,1
+5f4ca2c2-eb3a-45a6-8fe8-5044249892e1,2025-04-10 07:57:37.376703+00:00,openai,gpt-4.5-preview,0,3510,261,6,5,3,7,1,4,2
+2fb95c50-279a-429e-aeed-41a10c5e7eda,2025-04-10 07:57:54.663489+00:00,openai,gpt-4.5-preview,0,3508,264,5,7,3,6,1,4,2

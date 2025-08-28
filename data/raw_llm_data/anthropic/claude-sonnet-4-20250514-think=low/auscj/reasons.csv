@@ -1,0 +1,5 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+caf03abf-ea40-4766-afbf-217bc8255ace,2025-05-29 15:16:00.278321+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5693,1490,I prioritized non-heritable genome editing for medical uses with reasonable oversight over prohibition
+408941e4-deeb-4292-9fd1-e2f840695b2e,2025-05-29 15:17:19.395085+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6086,1903,Favored medical applications with oversight and equity concerns over unrestricted or banned uses
+597a7023-334e-4921-8e71-91915d30798e,2025-05-29 15:18:03.003545+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5752,1497,I prioritized non-heritable clinical uses with equity concerns while being cautious about heritable editing
+8a0c5a3b-02d4-4015-be37-7f546d4e8ad7,2025-05-29 15:18:41.254154+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,6067,2903,Prefer strong oversight and clinical focus over broad permissions or complete bans

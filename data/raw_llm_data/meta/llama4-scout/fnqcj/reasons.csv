@@ -1,0 +1,41 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+58106f60-12e3-49c6-b3b9-d6b968ffa7ca,2025-04-10 16:31:04.334800+00:00,meta,llama4-scout,0,4343,250,"Prioritized environmental concerns over accessibility, favoring rehabilitation or minimal intervention."
+09685e8d-c482-4a11-9917-5812576e3153,2025-04-10 16:31:08.981800+00:00,meta,llama4-scout,0,4340,245,Balanced approach prioritized over extreme options.
+6a906014-9af1-4f4c-9b65-7c73168e20fa,2025-04-10 16:31:13.539137+00:00,meta,llama4-scout,0,4343,249,"Prioritized environmental protection and local concerns, balanced with practicality."
+98f47ecd-d988-475a-ac33-e6c70fa63191,2025-04-10 16:31:17.774814+00:00,meta,llama4-scout,0,4340,246,Prioritized environmental concerns over accessibility and economic benefits.
+9061fcc3-7013-4a36-b3bc-d05ac842e7e0,2025-04-10 16:31:21.918179+00:00,meta,llama4-scout,0,4343,247,Balanced approach prioritized environmental concerns and practicality.
+9cab06bc-1a83-4fb2-abfa-8c2f90f6eb1a,2025-04-10 16:31:26.143295+00:00,meta,llama4-scout,0,4343,246,Prioritized environmental concerns and practicality in ratings.
+0436014b-fe34-4c5f-93f6-677d9201945a,2025-04-10 16:31:30.532841+00:00,meta,llama4-scout,0,4343,253,"Prioritized environmental protection, with moderate road upgrades or maintenance over full upgrade or closure."
+af346983-06d3-49c2-87e1-7e523570bd0d,2025-04-10 16:31:34.993324+00:00,meta,llama4-scout,0,4343,251,"Prioritized environmental protection, then practicality, over development or status quo."
+9b2da2e6-8e7e-485e-815c-888ed5168c72,2025-04-10 16:31:39.245796+00:00,meta,llama4-scout,0,4340,246,Prioritized environmental concerns over accessibility and economic benefits.
+9437bec8-ee31-44f3-a51a-b237f5993e46,2025-04-10 16:31:44.797507+00:00,meta,llama4-scout,0,4343,244,Prioritized environmental protection and responsible access.
+c4848ecf-e94f-4224-ab96-101196428456,2025-04-10 16:31:49.066880+00:00,meta,llama4-scout,0,4340,246,Prioritized environmental concerns over accessibility and economic benefits.
+f2a00ef0-0775-4237-942d-97c61c05f89b,2025-04-10 16:31:53.475343+00:00,meta,llama4-scout,0,4343,247,Prioritized environmental protection and community needs over economic development.
+746f1f54-d7ec-4cf9-9e45-cdf8569db5fe,2025-04-10 16:31:57.776905+00:00,meta,llama4-scout,0,4343,246,Prioritized environmental concerns over development and community needs.
+a216885a-e76c-4cd0-831e-8e7ab14369eb,2025-04-10 16:32:02.070424+00:00,meta,llama4-scout,0,4343,252,"Prioritized environmental protection, then practicality, and finally economic or convenience interests."
+01dd191b-bd3e-42c6-83a3-4a229b0b8842,2025-04-10 16:32:06.775881+00:00,meta,llama4-scout,0,4343,247,Balanced environmental and access considerations guided my policy rankings.
+ca4633e4-323f-4971-947e-c7ebc0bf0f78,2025-04-10 16:32:12.296329+00:00,meta,llama4-scout,0,4343,250,"Prioritized environmental concerns over accessibility, favoring rehabilitation and minimal intervention."
+f26355dd-0a61-4d56-956e-42cf48c245bd,2025-04-10 16:32:16.922517+00:00,meta,llama4-scout,0,4343,249,"Prioritized environmental protection, balanced with practicality and community needs."
+f99ddb40-4964-4e1b-9ca9-9028a2922917,2025-04-10 16:32:21.380193+00:00,meta,llama4-scout,0,4343,250,"Prioritized environmental concerns over accessibility, balancing local needs with conservation goals."
+66a5eb05-7ffa-444d-acf5-df42cae3c49b,2025-04-10 16:32:25.580805+00:00,meta,llama4-scout,0,4340,249,Prioritized environmental concerns and local needs over economic development and accessibility.
+fd3252da-1cf2-42e8-b8cf-fb909e8f6465,2025-04-10 16:32:29.847728+00:00,meta,llama4-scout,0,4343,250,"Prioritized environmental protection over accessibility, favoring closure or minimal upgrades."
+632fcf01-284e-477c-97ea-9f3eba093bc8,2025-04-10 16:32:35.647887+00:00,meta,llama4-scout,0,4343,267,"I prioritized maintaining current 4WD track, then upgrading to dirt road, stabilizing trouble spots, upgrading to bitumen, and least supported closing road."
+23061077-7db3-4106-b49b-ab5689fec9df,2025-04-10 16:32:41.149481+00:00,meta,llama4-scout,0,4343,246,Prioritized environmental concerns over accessibility and economic benefits.
+cc8ebfff-df46-4aa8-bd74-979e81a60ecc,2025-04-10 16:32:45.488504+00:00,meta,llama4-scout,0,4343,247,"Prioritized environmental protection, balanced with practical access needs."
+0596ef28-2bb0-4049-9fb5-0e8413a515af,2025-04-10 16:32:49.704901+00:00,meta,llama4-scout,0,4343,250,"Prioritized environmental protection over accessibility, favoring rehabilitation or minimal intervention."
+fabebf2a-fc78-44ac-b7b1-97f6834b2454,2025-04-10 16:32:55.278538+00:00,meta,llama4-scout,0,4343,248,Prioritized environmental protection and local needs with practical road solutions.
+b67ee2c1-cb0f-4818-8479-b1f92c806046,2025-04-10 16:32:59.760239+00:00,meta,llama4-scout,0,4340,250,"Prioritized environmental concerns over accessibility, favoring closure or minimal changes."
+90a1487a-a159-4b72-99bf-4e2e55cc3b46,2025-04-10 16:33:04.038704+00:00,meta,llama4-scout,0,4343,251,"Prioritized environmental protection, then practicality, over development or status quo."
+e76d8826-6585-49c4-acbc-677c90ba80bb,2025-04-10 16:33:08.658893+00:00,meta,llama4-scout,0,4340,247,Prioritized environmental protection and community needs over economic development.
+a8c9e8da-dad6-43e0-8f9e-ec1858036267,2025-04-10 16:33:12.854975+00:00,meta,llama4-scout,0,4343,246,Prioritized environmental protection over accessibility and economic benefits.
+67d1c4ec-0122-4650-82cc-1d325a526596,2025-04-10 16:33:17.241986+00:00,meta,llama4-scout,0,4343,247,"Balanced approach prioritizes environment, then practicality."
+5bdf3edf-d49b-485d-9931-136911c57702,2025-04-10 17:25:35.955648+00:00,meta,llama4-scout,0,4343,247,"Balanced approach prioritizes environment, then practicality."
+05b7303f-01d9-4a5d-8dbd-0dc526b4e246,2025-04-10 17:25:40.322492+00:00,meta,llama4-scout,0,4343,247,"Prioritized environmental protection, balanced with practical access needs."
+c34e75f6-8029-4c9a-9cbe-f9e21a40c167,2025-04-10 17:25:45.491445+00:00,meta,llama4-scout,0,4343,247,"Balanced approach prioritizes environment, then practicality."
+a7c42a7b-0121-4145-adc2-cc45c4c9b5d8,2025-04-10 17:25:49.927871+00:00,meta,llama4-scout,0,4343,248,Prioritized environmental protection and local concerns over development and accessibility.
+3e4e7699-8221-4379-9e54-e4add1814800,2025-04-10 17:25:54.029152+00:00,meta,llama4-scout,0,4343,247,Prioritized environmental protection and practicality in road management.
+22180b46-d686-451d-a53a-4e894dd89e18,2025-04-10 17:25:58.167541+00:00,meta,llama4-scout,0,4343,245,Balanced approach prioritizes environment and accessibility.
+3dc1a0ec-5e5d-4585-aa51-8575c64b10e3,2025-04-10 17:26:02.419108+00:00,meta,llama4-scout,0,4343,249,"Prioritized environmental protection, then practicality, and finally accessibility."
+9855532a-ccce-477b-88a6-73609534e7b8,2025-04-10 17:26:06.821200+00:00,meta,llama4-scout,0,4343,245,Balanced approach prioritizes environment and accessibility.
+70994a4a-bf94-442c-94b6-a398c0349836,2025-04-10 17:26:11.236041+00:00,meta,llama4-scout,0,4343,245,Balanced approach prioritized over extreme options.
+2c721274-a697-43b1-bf41-ab29d957954c,2025-04-10 17:26:15.620938+00:00,meta,llama4-scout,0,4343,254,"Prioritized environmental protection, then practical use, and least supported was full bitumen upgrade."

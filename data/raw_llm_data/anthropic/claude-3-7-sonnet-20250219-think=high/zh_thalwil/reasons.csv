@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+5e867da7-6824-4a8a-893f-286f92f5e534,2025-05-22 17:46:55.230449+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,9001,3841,Prioritize ambitious emissions cuts and adaptation while involving communities; status quo is inadequate.
+1a8c847f-a5ff-4205-8ffb-521b78d51322,2025-05-22 17:48:05.751184+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,8755,3779,Strong mitigation and diverse adaptation approaches needed; inaction unacceptable given climate certainty.
+5aa06d36-93c0-47d1-bf29-ff13dbb4c8bd,2025-05-22 17:49:10.124205+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,7821,3042,Prioritized ambitious emissions cuts and community adaptation over moderate action or economic growth.
+34ad6d26-46e9-40d8-b072-7d5b0df52da6,2025-05-22 17:50:08.911466+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,9168,3934,Favor strong emissions cuts and community adaptation over economic growth and business as usual.
+c1a523b5-65cd-4758-914a-575de7bb6379,2025-05-22 17:51:11.912783+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,8235,3595,Prioritize dramatic emissions cuts and comprehensive adaptation; status quo and economic-first approaches insufficient.

@@ -1,0 +1,40 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+6b70d61c-0f53-4e9e-b1d6-569338522736,2025-04-10 16:54:10.411284+00:00,meta,llama4-scout,0,2681,154,Prioritized policies addressing mental health service gaps and socioeconomic factors over status quo or private funding.
+85b2e29f-5371-4ccc-8379-c63a05feb400,2025-04-10 16:54:14.927678+00:00,meta,llama4-scout,0,2681,150,"Prioritized policies addressing mental health funding, awareness, and socioeconomic conditions."
+11af2531-6a0c-4913-8696-4b9e6063197a,2025-04-10 16:54:18.433497+00:00,meta,llama4-scout,0,2681,155,"Prioritized policies based on previous ratings, emphasizing increased funding, integrated services, and socioeconomic improvements."
+9f56f032-6bb1-45e4-b22f-192ba962f28f,2025-04-10 16:54:21.798470+00:00,meta,llama4-scout,0,2681,152,"Prioritized holistic and preventive approaches over reactive, selective, or reductionist ones."
+8a056abd-0732-40bb-84dd-0107b25e969b,2025-04-10 16:54:25.360740+00:00,meta,llama4-scout,0,2679,156,"Prioritized policies based on previous ratings, emphasizing support for increased funding, awareness, and holistic approaches."
+d3617783-519d-469a-8d2d-0bc9a8af9e9f,2025-04-10 16:54:28.892775+00:00,meta,llama4-scout,0,2681,149,Prioritized funding increases and holistic approaches over status quo or reduction.
+c7d0120d-6009-4ad4-afc8-532817129cf4,2025-04-10 16:54:32.234147+00:00,meta,llama4-scout,0,2681,151,Prioritized socioeconomic initiatives and public awareness campaigns over service expansion or privatization.
+a615664d-f0c0-4321-835e-1464d189615e,2025-04-10 16:54:35.527730+00:00,meta,llama4-scout,0,2681,150,Prioritized socioeconomic initiatives and increased funding over privatization and status quo.
+8860d4d1-8c9a-4001-9685-8bf2a4cf61bf,2025-04-10 16:54:38.884052+00:00,meta,llama4-scout,0,2679,154,"Prioritized public awareness, socioeconomic initiatives, and integrated clinics over increased funding for existing services."
+7e00ea8e-9c8d-4921-a31c-15de64c3af49,2025-04-10 16:54:42.161329+00:00,meta,llama4-scout,0,2681,150,Prioritized funding increases and holistic approaches over status quo and privatization.
+6b3ecca8-daa3-4c53-a194-32529d163340,2025-04-10 16:54:45.646443+00:00,meta,llama4-scout,0,2681,151,Prioritized socioeconomic initiatives and public awareness campaigns over funding increases or service expansions.
+6bd34757-fa67-4bba-a291-a175b7cea3a0,2025-04-10 16:54:48.998025+00:00,meta,llama4-scout,0,2681,149,Prioritized holistic and preventive approaches over privatization and status quo.
+739401ac-a908-4f4c-badf-572e0b829c89,2025-04-10 16:54:53.329832+00:00,meta,llama4-scout,0,2681,149,Prioritized socioeconomic initiatives and public awareness over service expansion or reduction.
+c1532f56-9e35-4f9e-bb4b-327aefede607,2025-04-10 16:54:56.928958+00:00,meta,llama4-scout,0,2681,150,Prioritized socioeconomic initiatives and public services over private funding and status quo.
+c68af8df-257d-48bf-8d1f-bca9bd3deef6,2025-04-10 16:55:00.494807+00:00,meta,llama4-scout,0,2681,148,Prioritized public and preventive mental health services over private ones.
+78bacea9-f1c1-456a-8b54-cddfd85d10f4,2025-04-10 16:55:03.763367+00:00,meta,llama4-scout,0,2681,151,Prioritized socioeconomic initiatives and public awareness campaigns over increased funding or status quo.
+8959ce36-ff4a-417c-91d9-d4e13cf29d86,2025-04-10 16:55:07.249913+00:00,meta,llama4-scout,0,2681,149,Prioritized increased funding and holistic approaches over status quo or reduction.
+78261437-7335-42e8-99d1-fcdb19493830,2025-04-10 16:55:12.984685+00:00,meta,llama4-scout,0,2681,152,Prioritized socioeconomic initiatives and public awareness campaigns over funding increases or private clinic support.
+33ef71bb-6ccf-4537-9e43-57d4a581e996,2025-04-10 16:55:16.154331+00:00,meta,llama4-scout,0,2681,151,Prioritized socioeconomic initiatives and public awareness campaigns over funding increases or service expansions.
+775e6549-3558-4519-be9b-18afa37ad69b,2025-04-10 16:55:20.329400+00:00,meta,llama4-scout,0,2681,149,Prioritized funding increases and socioeconomic improvements over status quo or reduction.
+9c93dc8f-4738-40f4-91e2-b1623b67a7bf,2025-04-10 16:55:24.792623+00:00,meta,llama4-scout,0,2681,150,Prioritized funding increase and holistic approaches over status quo and privatization.
+30e5ae69-7cbb-45f0-90b2-f0324842f8cc,2025-04-10 16:55:28.446955+00:00,meta,llama4-scout,0,2681,153,Prioritized socioeconomic initiatives and increased funding for existing services over new clinics or private funding.
+9c8685a5-a3ed-464c-ada5-a4135b6e579f,2025-04-10 16:55:31.749311+00:00,meta,llama4-scout,0,2681,152,"Prioritized policies based on previous mental health ratings, emphasizing accessibility and socioeconomic factors."
+7dfa4450-f269-4595-97f3-6345faaef5f6,2025-04-10 16:55:35.249838+00:00,meta,llama4-scout,0,2681,152,Prioritized socioeconomic initiatives and increased funding for mental health services as most supportive options.
+09fe23a7-3220-4f00-b431-a235621ad373,2025-04-10 16:55:39.966782+00:00,meta,llama4-scout,0,2681,156,"Prioritized policies based on previous ratings, emphasizing support for increased funding, awareness, and socioeconomic initiatives."
+3d9628f0-2850-45b6-b93d-863c2c352216,2025-04-10 16:55:43.246486+00:00,meta,llama4-scout,0,2681,151,Prioritized socioeconomic initiatives and increased services over funding private clinics or status quo.
+a2fa63fd-cc65-4b9b-87e6-f89dbdf08135,2025-04-10 16:55:47.766705+00:00,meta,llama4-scout,0,2681,149,Prioritized increased funding and socioeconomic initiatives over status quo or reduction.
+3ec087a4-2b48-4122-985f-073b8555d6f8,2025-04-10 16:55:51.390310+00:00,meta,llama4-scout,0,2681,154,"Prioritized public awareness, funding, and holistic services, while opposing reductions and status quo."
+8ea7f084-ae23-41a5-9593-8987ef96cc18,2025-04-10 16:55:54.665239+00:00,meta,llama4-scout,0,2681,150,Prioritized funding increase and socioeconomic initiatives over status quo and privatization.
+64fb4d3b-d297-4ba4-8754-580098560025,2025-04-10 17:33:19.593558+00:00,meta,llama4-scout,0,2681,151,"Prioritized policies based on previous ratings, emphasizing increased funding and socioeconomic support."
+4dc8f145-d870-4a54-812b-3b80ddc129e5,2025-04-10 17:33:23.164947+00:00,meta,llama4-scout,0,2681,157,"Prioritized public awareness, integrated clinics, and socioeconomic initiatives over status quo, private funding, or reduction."
+7c9fc74d-0cab-4dc2-b6cd-f5539728b2ff,2025-04-10 17:33:26.466464+00:00,meta,llama4-scout,0,2681,148,Prioritized policy changes based on previous mental health consideration ratings.
+7c13f60f-1b40-46cd-846c-281dec455a65,2025-04-10 17:33:29.691540+00:00,meta,llama4-scout,0,2681,151,Prioritized socioeconomic initiatives and public awareness campaigns over increased funding or privatization.
+3a15139f-40aa-4551-a90d-ca5cb7241eb8,2025-04-10 17:33:32.877920+00:00,meta,llama4-scout,0,2681,151,Prioritized socioeconomic initiatives and public awareness campaigns over increased funding or private clinics.
+7ccedfc4-7c27-4f0c-ab0d-d864cf956756,2025-04-10 17:33:36.037827+00:00,meta,llama4-scout,0,2681,150,Prioritized socioeconomic initiatives and awareness campaigns over funding increases or service expansions.
+d25b1586-3228-4eae-965c-8e4f9e851dfd,2025-04-10 17:33:40.340869+00:00,meta,llama4-scout,0,2679,149,Prioritized socioeconomic initiatives and awareness campaigns over funding or clinic expansions.
+d08a9ad8-9bad-451c-8900-cf109dd87bc2,2025-04-10 17:33:43.633882+00:00,meta,llama4-scout,0,2681,156,"Prioritized public awareness, integrated clinics, and socioeconomic initiatives over increased or reduced funding and private clinics."
+c1ddc1ae-a024-4ace-b2bc-b3768c85be75,2025-04-10 17:33:46.992300+00:00,meta,llama4-scout,0,2681,156,"Prioritized policies based on previous mental health ratings, emphasizing awareness, socioeconomic conditions, and service accessibility."
+5df2d2ce-7c58-4b52-af8e-ba02d8db8a99,2025-04-10 17:33:50.328337+00:00,meta,llama4-scout,0,2681,152,Prioritized socioeconomic initiatives and increased funding for existing services over privatization and reduction.

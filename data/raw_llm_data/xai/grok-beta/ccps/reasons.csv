@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d7e37d39-5a9c-4c8f-b126-c34c5fe7529d,2025-04-14 08:36:17.141584+00:00,xai,grok-beta,0,3412,248,Strong action needed for climate change; adaptation and resilience are key.
+c29ae6ca-3de1-4333-b932-08326b5d0950,2025-04-14 08:36:24.781336+00:00,xai,grok-beta,0,3406,245,Strong action needed for climate change; adaptation and resilience are key.
+2cc1c5c3-9bd5-40ee-b0dc-36bfe68a4d48,2025-04-14 08:36:31.021086+00:00,xai,grok-beta,0,3404,244,"Strong action needed for climate change, balancing emissions cuts with adaptation."
+f53827ef-f613-4b45-a8da-1d9cc7e094da,2025-04-14 08:36:37.068479+00:00,xai,grok-beta,0,3404,244,Strong action on emissions and adaptation is crucial for climate change mitigation.
+36b53da5-2b9b-4d86-85e2-519783591fc5,2025-04-14 08:36:43.974253+00:00,xai,grok-beta,0,3414,249,Strong action on emissions and adaptation is crucial for climate change mitigation.
+43862d23-0d7e-4683-8f91-4a8126f3c538,2025-04-14 08:36:57.306407+00:00,xai,grok-beta,0,3414,249,Strong action on emissions and adaptation is crucial for climate change mitigation.
+2bef0245-4bfa-497e-8871-72ecca5d087b,2025-04-14 08:37:04.903948+00:00,xai,grok-beta,0,3410,254,"Strongest support for drastic CO2 cuts, then adaptation and resilience, least for maintaining status quo."
+2b7ffe17-552f-483a-95aa-e3f3d45bcb5f,2025-04-14 08:37:11.771244+00:00,xai,grok-beta,0,3406,245,Strong action on emissions and adaptation is crucial for climate change mitigation.
+a2353ab7-700a-4089-83d2-90ab335a6b16,2025-04-14 08:37:17.680361+00:00,xai,grok-beta,0,3406,244,Prioritizing aggressive emission cuts and resilience for sustainable future.
+7b88fd1d-d6df-48e6-8dea-f86c972f35b5,2025-04-14 08:37:24.526897+00:00,xai,grok-beta,0,3410,251,"Strong support for aggressive emission cuts and adaptation, least for economic growth over climate action."
+cbf3833d-1ddc-4b80-8986-a68294969990,2025-04-14 09:33:18.989545+00:00,xai,grok-beta,0,3408,248,Strong action needed for climate change; economic growth should not override environmental concerns.
+eb63b327-0fbe-43b9-9157-249acb9a82ae,2025-04-14 09:33:24.957893+00:00,xai,grok-beta,0,3408,248,Strong action on emissions and resilience is crucial for climate change mitigation and adaptation.
+8567b190-64ae-4551-9a95-f8a0548fa3fc,2025-04-14 09:33:31.595361+00:00,xai,grok-beta,0,3406,245,Strong action needed for climate change; adaptation and resilience are key.
+358acaa1-88aa-48dc-985f-f7ed68f117a9,2025-04-14 09:33:37.584349+00:00,xai,grok-beta,0,3404,245,Strong action needed for climate change; adaptation and resilience are also crucial.
+8a538e2b-2fce-4c5d-8bb7-11036dc2ab6f,2025-04-14 09:33:43.573599+00:00,xai,grok-beta,0,3406,248,"Strongest support for significant emission cuts, least for economic growth over climate action."
+39c78292-bc8a-47f1-832d-0b504cd8d33e,2025-04-14 09:33:49.504654+00:00,xai,grok-beta,0,3404,244,Strong action needed for climate change; adaptation and resilience are key.
+71fe36a7-4dbc-4c68-89b7-ce629ea5f414,2025-04-14 09:33:55.446047+00:00,xai,grok-beta,0,3404,243,Strong action on emissions and adaptation is crucial for climate resilience.
+d0bc30bf-33bf-4676-8fbd-ca5c11b1efee,2025-04-14 09:34:01.385382+00:00,xai,grok-beta,0,3404,246,"Strongest support for significant CO2 reduction, balanced with adaptation and resilience."
+7794b81e-eeee-4b89-a8a8-0a4862c4f7b5,2025-04-14 09:34:07.931855+00:00,xai,grok-beta,0,3400,242,Strong action on emissions is crucial for climate change mitigation and adaptation.
+c7e6018b-dbd2-4197-8f7b-cd281ace8d7b,2025-04-14 09:34:14.713021+00:00,xai,grok-beta,0,3408,253,"Strongest support for dramatic CO2 cuts, then adaptation; least for economic growth over climate action."
+7f44ffc5-b36d-45cf-bb9e-acfbcd8525e1,2025-04-14 09:34:20.667066+00:00,xai,grok-beta,0,3408,250,"Strong support for aggressive emission cuts and adaptation, least for economic growth over climate action."
+3f0f549e-5823-45e2-a7b3-9da91da720c8,2025-04-14 09:34:26.889293+00:00,xai,grok-beta,0,3400,243,"Strongest support for significant emission cuts, adaptation, and community action."
+16e9e682-7090-456d-b5a8-a74d10061ec3,2025-04-14 09:34:33.023899+00:00,xai,grok-beta,0,3404,244,Strong climate action and adaptation are prioritized over economic growth and inaction.
+6da55615-420f-4a3e-88fe-e521aaa5ee42,2025-04-14 09:34:39.507182+00:00,xai,grok-beta,0,3406,244,Strong action on emissions and adaptation is crucial for climate resilience.
+a9425c23-2b87-4f56-a475-7cde0ab4931d,2025-04-14 09:34:45.387879+00:00,xai,grok-beta,0,3412,247,Strong action on emissions and adaptation is crucial for climate resilience.
+bd80c9b2-b5d1-45ca-bb6d-f17a48e833ea,2025-04-14 09:34:51.432131+00:00,xai,grok-beta,0,3408,245,Strong action on emissions and adaptation is crucial for climate resilience.
+0d8e6cb0-63fd-4f99-9356-2e0c2e5ac11f,2025-04-14 09:34:57.269768+00:00,xai,grok-beta,0,3410,247,Strong action needed for climate change; adaptation and resilience are key.
+602123f5-e67e-4655-97f2-35297732be9f,2025-04-14 09:35:03.126057+00:00,xai,grok-beta,0,3408,250,"Strong support for significant emission cuts and adaptation, least for economic growth over climate action."
+18352287-8a94-444e-94f8-c06e0debf74a,2025-04-14 09:35:09.070508+00:00,xai,grok-beta,0,3408,244,Strong emission cuts and adaptation are crucial for climate resilience.
+9d0fd197-b8fa-41d3-9a57-09b747e9818a,2025-04-14 09:35:15.304669+00:00,xai,grok-beta,0,3406,244,Strong action on emissions and adaptation is crucial for climate resilience.

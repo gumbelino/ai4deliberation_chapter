@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+3da1bd72-8ea7-4d4f-9229-90f172f99c3a,2025-04-28 12:12:20.663202+00:00,xai,grok-3-mini-beta-r=high,0,12230,155,"Ranked based on strong support for funding increases, social initiatives, and anti-stigma efforts."
+433e5f1e-8d31-4566-a9bf-8e9002d30232,2025-04-28 12:12:54.797036+00:00,xai,grok-3-mini-beta-r=high,0,10594,149,Prioritized increasing funding and social equity over privatization and status quo.
+c5594f58-adcb-43d2-90ad-c0ae4d97600a,2025-04-28 12:13:26.741446+00:00,xai,grok-3-mini-beta-r=high,0,15207,153,"Prioritized social determinants and funding; opposed privatization, status quo, and service reductions."
+56c83f5b-3d3f-4223-80b9-4ea2980740e5,2025-04-28 12:14:15.974769+00:00,xai,grok-3-mini-beta-r=high,0,9828,155,"Ranked policies prioritizing increased funding, social equity, and stigma reduction over privatization or service cuts."
+6803fce4-88d8-470e-8fa7-2e95eb3c9dcb,2025-04-28 12:14:46.219863+00:00,xai,grok-3-mini-beta-r=high,0,10561,155,"Ranked policies prioritizing increased funding, socioeconomic equity, and stigma reduction over status quo or reductions."

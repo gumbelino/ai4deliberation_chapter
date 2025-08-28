@@ -1,0 +1,2 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+cd22788c-4445-47ea-87aa-cb86a4fe921d,2025-04-17 11:20:44.409497+00:00,google,gemma-3-27b-it,0,4569,284,Prioritize environment & local access; oppose full sealing or closure.

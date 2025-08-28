@@ -1,0 +1,36 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+252132e9-be2e-4031-b942-b43eb54ee1d7,2025-04-10 16:45:44.957202+00:00,meta,llama4-maverick,0,3245,211,"I prioritized drastic CO2 cuts and community-based adaptation policies, rejecting economic growth over climate action."
+ec8aa0f5-7337-4e69-a8d6-fe14a3f45e69,2025-04-10 16:45:49.181999+00:00,meta,llama4-maverick,0,3245,204,"I prioritized proactive climate policies, resilience, and emission cuts."
+7a8190e3-6faa-42a2-97ac-2b55e7601a74,2025-04-10 16:45:52.802864+00:00,meta,llama4-maverick,0,3245,205,I prioritized policies that support adaptation and significant CO2 emission cuts.
+b55b64dc-6e30-424c-9013-939671be8204,2025-04-10 16:45:56.618847+00:00,meta,llama4-maverick,0,3245,207,I prioritized emission cuts and adaptation policies that enhance resilience and support community actions.
+6ba16be6-4589-4137-86a8-947057bbccd2,2025-04-10 16:46:00.620712+00:00,meta,llama4-maverick,0,3245,203,I support drastic CO2 cuts and resilience-enhancing policies.
+d8b061e0-c1cc-4d74-8dc0-575bbdbc44ec,2025-04-10 16:46:04.499959+00:00,meta,llama4-maverick,0,3245,206,"I prioritized adaptation and emission cuts, rejecting economic growth over climate action."
+9fa5935d-2344-401c-b7c7-6d364dee782a,2025-04-10 16:46:08.280271+00:00,meta,llama4-maverick,0,3245,204,I prioritized policies that cut CO2 emissions and enhance resilience.
+e880167f-239f-48ef-a76c-91a407b52d9a,2025-04-10 16:46:12.128172+00:00,meta,llama4-maverick,0,3245,208,"I prioritized proactive adaptation and significant emission cuts, reflecting my concern for climate change."
+b36f44be-a21e-4bc7-b788-34677002fa9c,2025-04-10 16:46:15.940180+00:00,meta,llama4-maverick,0,3245,207,I prioritized emission cuts and adaptation policies that enhance resilience and support community actions.
+7210f07f-7a04-4a11-92da-d369bf282b97,2025-04-10 16:46:20.016868+00:00,meta,llama4-maverick,0,3245,206,I prioritized drastic CO2 cuts and moderate emissions reductions over other policies.
+3536704d-ca9f-4c49-a1dd-c117509a7e0b,2025-04-10 16:46:23.866199+00:00,meta,llama4-maverick,0,3245,204,I prioritized policies that enhance resilience and cut CO2 emissions.
+ba96820a-793d-49b0-a732-beccdf0595d3,2025-04-10 16:46:27.628816+00:00,meta,llama4-maverick,0,3245,204,I prioritized policies that enhance resilience and cut CO2 emissions.
+253a11b0-a8ee-460e-a519-97df0c0392c5,2025-04-10 16:46:31.635122+00:00,meta,llama4-maverick,0,3245,212,"I prioritized drastic CO2 cuts and adaptation policies, opposing status quo and growth-over-adaptation approaches."
+c94df8dd-d01f-4bc5-bc8a-f99d836f01e9,2025-04-10 16:46:35.667717+00:00,meta,llama4-maverick,0,3245,211,I prioritized policies that enhance resilience and adaptation over maintaining status quo or focusing solely on economic growth.
+7a25bb21-8fde-4408-a7a1-df62adc6013d,2025-04-10 16:46:40.346604+00:00,meta,llama4-maverick,0,3245,206,I prioritized emission cuts and adaptation policies that support resilience and community actions.
+6e690a53-0141-4c7e-9e32-440e007b3e23,2025-04-10 16:46:44.345688+00:00,meta,llama4-maverick,0,3245,207,I prioritized emission cuts and adaptation policies that enhance resilience and support community actions.
+5318cff6-81c5-4351-865f-1f1abb762ad5,2025-04-10 16:46:48.957536+00:00,meta,llama4-maverick,0,3245,211,I prioritized emission cuts and resilience-building policies over maintaining status quo or focusing solely on economic growth.
+8b8a8523-916e-4c29-b999-f064ac03be99,2025-04-10 16:46:53.027920+00:00,meta,llama4-maverick,0,3245,206,I prioritized policies that cut CO2 emissions and adapt to climate change.
+363bd67a-b82f-4dad-9b00-054df23b6b87,2025-04-10 16:46:57.142393+00:00,meta,llama4-maverick,0,3245,204,I prioritized proactive climate adaptation and significant CO2 emission cuts.
+d99549b8-6978-4242-82e6-72047ac7feda,2025-04-10 16:47:00.859587+00:00,meta,llama4-maverick,0,3245,204,I prioritized policies that cut CO2 emissions and enhance resilience.
+757f3b5b-3fd9-4c6b-90d8-700d4f5d803c,2025-04-10 16:47:04.624121+00:00,meta,llama4-maverick,0,3245,204,I prioritized policies that enhance resilience and cut CO2 emissions.
+692edcf3-e86f-49cf-9f69-f717e802a9fc,2025-04-10 16:47:08.480177+00:00,meta,llama4-maverick,0,3245,204,I prioritized drastic emission cuts and resilience development over other policies.
+56e08b82-2f38-4b9a-8e3e-4c85677c3684,2025-04-10 16:47:12.329257+00:00,meta,llama4-maverick,0,3245,212,I prioritized policies that cut CO2 emissions and enhance resilience over status quo or economic growth focused policies.
+73d80e47-8ad5-4948-832f-0e84510adb7b,2025-04-10 16:47:16.498067+00:00,meta,llama4-maverick,0,3245,203,Ranked policies based on previous climate change adaptation and mitigation ratings.
+746090d2-8038-4d39-b04a-4cdf99e0dfba,2025-04-10 16:47:20.447404+00:00,meta,llama4-maverick,0,3245,206,I prioritized emission cuts and adaptation policies that support resilience and community actions.
+834ac006-48ad-43ac-8a06-9d5321ea1d5b,2025-04-10 16:47:24.689631+00:00,meta,llama4-maverick,0,3245,214,"I prioritized community-based actions and significant CO2 emission cuts, rejecting status quo and growth-over-adaptation policies."
+e24875e2-5dfa-47da-bf72-0bc147c2cdaa,2025-04-10 16:47:28.498109+00:00,meta,llama4-maverick,0,3245,215,"I prioritized policies that balance adaptation and emission cuts, favoring moderate to dramatic CO2 reductions and community-based actions."
+dc03fcdd-fb60-405e-b156-e49855e3a858,2025-04-10 16:47:32.547271+00:00,meta,llama4-maverick,0,3245,204,I prioritized policies that enhance resilience and adaptation to climate change.
+22044981-67c9-4bfa-8c62-4f65383a7163,2025-04-10 16:47:36.311639+00:00,meta,llama4-maverick,0,3245,214,"I prioritized policies that enhance resilience and cut CO2 emissions, rejecting status quo and growth-over-adaptation approaches."
+05499b7a-a8be-4ac4-95ad-c2677ef6b27c,2025-04-10 16:47:40.571667+00:00,meta,llama4-maverick,0,3245,204,Dramatic CO2 cuts and resilience enhancement are top priorities.
+c9614f17-dc2c-4476-a8f7-206047aa3ecd,2025-04-10 17:27:30.124237+00:00,meta,llama4-maverick,0,3245,209,I prioritized emission cuts and resilience over maintaining status quo or focusing solely on economic growth.
+991a6a95-d40f-4a59-9110-c0b8ce32a351,2025-04-10 17:27:35.386429+00:00,meta,llama4-maverick,0,3245,207,I prioritized policies that cut CO2 emissions and enhance resilience to climate change.
+16b6c52a-60c2-4bac-afc3-2d71679b6a8d,2025-04-10 17:27:42.761316+00:00,meta,llama4-maverick,0,3245,204,I prioritized policies that enhance resilience and cut CO2 emissions.
+3b65013e-4776-45d4-a352-1344fc2f4def,2025-04-10 17:27:51.326420+00:00,meta,llama4-maverick,0,3245,206,I prioritized policies that cut CO2 emissions and adaptation planning over others.
+57b626a4-79c1-41d4-a630-5719101d30db,2025-04-10 17:27:56.002308+00:00,meta,llama4-maverick,0,3245,204,I prioritized policies that enhance resilience and cut CO2 emissions.

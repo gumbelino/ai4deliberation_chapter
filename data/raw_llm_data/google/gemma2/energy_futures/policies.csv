@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Wind,P2. Biomass,P3. Coal with CO2 Burial,P4. Hydroelectric,P5. Natural Gas,P6. Geothermal Energy,P7. Solar Energy,P8. Nuclear Energy,P9. Coal
+da917a6b-4f07-48ff-9d61-5315554b60e2,2025-03-21 07:47:03.299387+00:00,google,gemma2,0,0,0,6,4,7,9,8,3,1,5,2
+e2db5355-5210-4954-a5df-f4e1e008d712,2025-03-21 07:47:52.728714+00:00,google,gemma2,0,0,0,6,2,8,5,3,4,1,9,7
+dc73107d-7330-4d96-bcf7-b3b414a8ef4e,2025-03-21 07:48:17.508370+00:00,google,gemma2,0,0,0,3,4,1,6,8,7,5,2,9
+ddb438f0-b836-4640-8fc6-22e619518ae6,2025-03-21 07:48:42.873429+00:00,google,gemma2,0,0,0,6,8,4,3,5,2,1,7,9
+7899eb69-0ec9-4627-b722-8808ddb4a55a,2025-03-21 07:49:08.391530+00:00,google,gemma2,0,0,0,1,2,6,8,4,5,7,3,9
+9ecacdcc-d6b9-4019-9249-042fe7e7d14a,2025-03-21 07:49:33.992332+00:00,google,gemma2,0,0,0,2,6,4,5,3,7,1,8,9
+06d7e797-c1ec-4e95-9a3a-71f00a97d816,2025-03-21 07:49:59.317870+00:00,google,gemma2,0,0,0,7,4,3,6,2,5,8,1,9
+096aed8c-19a0-4cd2-b106-6b9fdfcbf86c,2025-03-21 07:50:24.508055+00:00,google,gemma2,0,0,0,6,8,7,1,4,3,5,2,9
+5c544ed5-973f-4cda-b188-1c9fb7ea947c,2025-03-21 07:50:49.829996+00:00,google,gemma2,0,0,0,2,3,9,6,5,4,1,7,8

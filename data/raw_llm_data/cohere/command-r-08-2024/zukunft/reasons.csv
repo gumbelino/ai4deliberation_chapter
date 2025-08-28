@@ -1,0 +1,41 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+16fa8a15-5f4b-47bf-89f3-e0691fce5783,2025-03-25 21:27:09.279212+00:00,cohere,command-r-08-2024,0,3419.0,175.0,"More.services.for.disadvantaged.people,.awareness.campaigns,.funding.for.public.services,.integrated.clinics."
+50a899c8-7026-4e36-b22b-6bd34a790e52,2025-03-25 21:27:15.078133+00:00,cohere,command-r-08-2024,0,3419.0,168.0,More.Initiatives.For.Disadvantaged.People.Than.Public.Awareness.Campaigns.
+c977642b-1859-4d3e-b15b-20057711c012,2025-03-25 21:27:20.077535+00:00,cohere,command-r-08-2024,0,3419.0,172.0,I support initiatives.that.address.socioeconomic.disparities.and.increase.funding.for.public.services.
+a8489ef9-53af-4bdf-9ded-3f07500672fa,2025-03-25 21:27:24.894685+00:00,cohere,command-r-08-2024,0,3419.0,171.0,More.Funding.For.Public.Services.And.Initiatives.To.Address.Socioeconomic.Disparities.
+70261808-c09a-410e-8d72-7b779eddec83,2025-03-25 21:27:30.733815+00:00,cohere,command-r-08-2024,0,3419.0,169.0,More.Services.Needed.For.All.Public.Initiatives.To.Improve.Socioeconomic.Conditions.
+a28d4f50-c48c-4311-9f5e-e96d0ada037b,2025-03-25 21:27:36.361077+00:00,cohere,command-r-08-2024,0,3419.0,169.0,"Support.for.integrated.clinics,.awareness.campaigns,.funding.increase,.socioeconomic.initiatives."
+523cbabf-31d2-4a4d-80ad-1c725ea471f4,2025-03-25 21:27:41.868958+00:00,cohere,command-r-08-2024,0,3419.0,176.0,"Support.for.disadvantaged,.awareness,.integration,.more.funding,.reduce.services,.maintain.status.quo,.private.clinics."
+4ae22a38-3836-444d-b420-3b4961401ac3,2025-03-25 21:27:47.016794+00:00,cohere,command-r-08-2024,0,3419.0,157.0,I support initiatives that improve access and destigmatize mental health.
+6aafbe69-ee2e-4e38-8b61-c457fbca3b44,2025-03-25 21:27:51.416444+00:00,cohere,command-r-08-2024,0,3419.0,166.0,I support initiatives.that.address.mental.health.disparities.and.increase.funding.
+5ec4152b-2f96-4093-ac11-ef5dcec29768,2025-03-25 21:27:56.021665+00:00,cohere,command-r-08-2024,0,3419.0,160.0,"I support initiatives that improve access, destigmatize, and address social issues."
+4983d3c4-0502-45af-8b8c-30dc1aa7881c,2025-03-25 21:28:01.842143+00:00,cohere,command-r-08-2024,0,3419.0,170.0,"Support.for.public.services,.awareness,.and.socioeconomic.initiatives.over.private.clinics."
+9a09fd2c-a380-4e44-86a5-5365c04109db,2025-03-25 21:28:06.402224+00:00,cohere,command-r-08-2024,0,3419.0,171.0,More.Initiatives.For.Disadvantaged.People.Over.Privatization.And.Status.Quo.
+9c0ffd56-5bf6-467b-b6ad-8154c29f8e89,2025-03-25 21:28:10.934929+00:00,cohere,command-r-08-2024,0,3419.0,166.0,More.Funding.For.Public.Mental.Health.Services.And.Awareness.Campaigns.
+cda4d08a-48b2-4b60-8596-894017050b14,2025-03-25 21:28:16.815541+00:00,cohere,command-r-08-2024,0,3419.0,154.0,I support initiatives that improve access and reduce stigma.
+79b4aace-155b-4e37-8e5f-627a6bd498dc,2025-03-25 21:28:21.316593+00:00,cohere,command-r-08-2024,0,3419.0,169.0,More.awareness.and.funding.for.services.and.initiatives.to.address.disparities.
+5e3e91e2-1ce4-4605-8341-e7a9c488667c,2025-03-25 21:28:26.237706+00:00,cohere,command-r-08-2024,0,3419.0,167.0,More.funding.for.public.services.and.initiatives.to.address.social.issues.
+7e853882-79c1-4a45-9d9d-6ce76892caf1,2025-03-25 21:28:30.785924+00:00,cohere,command-r-08-2024,0,3419.0,170.0,More.Services.And.Initiatives.To.Address.Socioeconomic.Disparities.And.Stigma.
+6ec03494-f71a-4ed5-82bb-97d7d3e592b0,2025-03-25 21:28:35.422019+00:00,cohere,command-r-08-2024,0,3419.0,166.0,"Support.for.public.awareness,.socioeconomic.initiatives,.and.integrated.clinics."
+ed2337ca-e69a-478d-99c8-8d3495af11c1,2025-03-25 21:28:39.859877+00:00,cohere,command-r-08-2024,0,3419.0,166.0,More.Prevention.And.Support.For.Mental.Health.Services.And.Awareness.
+433ac9af-ddf6-4704-b771-685865d635f5,2025-03-25 21:28:44.264648+00:00,cohere,command-r-08-2024,0,3419.0,169.0,"I.e.,more.funding.for.mental.health.services.and.public.awareness.campaigns."
+85018ef9-820f-4853-a403-67bae337e2ca,2025-03-27 10:34:00.144525+00:00,cohere,command-r-08-2024,0,3419.0,160.0,"I support initiatives that improve access, destigmatize, and address social determinants."
+7174cd7b-b1c2-464f-9e8b-92caaa3cffac,2025-03-27 10:34:06.004845+00:00,cohere,command-r-08-2024,0,3419.0,165.0,More.Initiatives.For.Disadvantaged.People.Over.Private.Clinics.
+127f42da-19ba-4843-bf41-ed9b2b37620d,2025-03-27 10:34:13.471792+00:00,cohere,command-r-08-2024,0,3419.0,170.0,More.Services.And.Initiatives.To.Address.Socioeconomic.Disparities.And.Stigma.
+00282889-69d3-4b92-8355-ff1f3fe39266,2025-03-27 10:38:44.827405+00:00,cohere,command-r-08-2024,0,3419.0,173.0,More.awareness.and.funding.for.services.and.initiatives.to.address.socioeconomic.disparities.
+2e2dcb1e-0606-4fef-b1c3-4747e2d7913b,2025-03-27 10:38:50.181097+00:00,cohere,command-r-08-2024,0,3419.0,165.0,More.Initiatives.For.Disadvantaged.People.Over.Private.Clinics.
+8dc89d72-b5ba-4289-9fe0-31b536b7deba,2025-03-27 10:38:56.118365+00:00,cohere,command-r-08-2024,0,3419.0,160.0,"I support initiatives that improve access, destigmatize, and address social determinants."
+03477780-648b-4d11-b7de-5d1b6ecf6858,2025-03-27 10:39:04.009102+00:00,cohere,command-r-08-2024,0,3419.0,166.0,More.Initiatives.For.Disadvantaged.People.Public.Awareness.Campaigns.
+493b96c6-4f2c-4c2e-95b9-353a374ca599,2025-03-27 10:39:09.261419+00:00,cohere,command-r-08-2024,0,3419.0,171.0,More.funding.for.public.mental.health.services.and.initiatives.to.address.disparities.
+06be84b6-a8ab-433e-b042-714098952c8f,2025-03-27 10:39:51.928827+00:00,cohere,command-r-08-2024,0,3419.0,170.0,I support initiatives.that.address.social.issues.and.increase.access.to.mental.health.services.
+2850f15f-604c-4d45-9503-04ef4b83dc3c,2025-03-27 10:39:56.540632+00:00,cohere,command-r-08-2024,0,3419.0,173.0,More.Initiatives.For.Disadvantaged.People.Then.Awareness.Campaigns.And.Integrated.Clinics.
+9c71f416-f02d-4be8-a951-edea6a2dff95,2025-03-27 10:54:33.529614+00:00,cohere,command-r-08-2024,0,3419.0,170.0,I support initiatives.that.address.social.issues.and.increase.access.to.mental.health.services.
+20662e4e-5e0f-4c57-8dae-d0893b7e450c,2025-03-27 10:54:38.211513+00:00,cohere,command-r-08-2024,0,3419.0,167.0,More.Services.Needed.For.All.Not.Privatization.Or.Status.Quo.
+bef9829d-ccaf-4318-83f3-8be82e762322,2025-03-27 10:54:42.651629+00:00,cohere,command-r-08-2024,0,3419.0,170.0,More.Services.And.Initiatives.To.Address.Socioeconomic.Disparities.And.Stigma.
+86a598fb-9870-4723-a781-201a110b40cc,2025-03-27 10:54:47.609699+00:00,cohere,command-r-08-2024,0,3419.0,163.0,More.Funding.For.Public.Mental.Health.Services.And.Initiatives.
+43c17392-3ab6-469f-b8a0-57272c36ef15,2025-03-27 10:54:53.973567+00:00,cohere,command-r-08-2024,0,3419.0,161.0,More.Support.For.Mental.Health.Services.And.Initiatives.
+7b3470ef-0d38-41ed-a079-9350e7d38533,2025-03-27 10:54:58.690776+00:00,cohere,command-r-08-2024,0,3419.0,170.0,More.Prevention.And.Awareness.Initiatives.Needed.Than.Reduction.Or.Status.Quo.
+b40ed949-559f-41ab-97c6-4f21d4d76332,2025-03-27 10:55:03.402508+00:00,cohere,command-r-08-2024,0,3419.0,173.0,More.Support.For.Mental.Health.Services.And.Initiatives.To.Address.Socioeconomic.Inequality.
+f32f7973-3e38-4165-9650-f73d701eaa52,2025-03-27 10:55:07.905306+00:00,cohere,command-r-08-2024,0,3419.0,175.0,More.funding.for.public.mental.health.services.and.initiatives.to.address.socioeconomic.disparities.
+752822d0-114d-4b8c-acec-793e10263c0e,2025-03-27 10:55:12.522865+00:00,cohere,command-r-08-2024,0,3419.0,174.0,Public.awareness.and.socioeconomic.initiatives.are.key.to.addressing.mental.health.disparities.
+3647561c-d2d6-4e7d-891d-98794045f8b9,2025-03-27 10:55:17.126891+00:00,cohere,command-r-08-2024,0,3419.0,169.0,More.funding.for.mental.health.services.and.initiatives.to.address.disadvantage.

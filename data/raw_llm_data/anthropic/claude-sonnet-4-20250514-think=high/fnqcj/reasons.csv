@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d7c11066-fd58-447f-a8ab-4cf76ac6ac8e,2025-05-29 15:35:07.041139+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,6266,4194,Balanced environmental protection with safety fixes while keeping limited 4WD access
+61aedc4c-36fb-4b20-8c59-eb89301abf9b,2025-05-29 15:36:18.881010+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,6288,4498,Prioritized environmental protection over access based on high ratings for conservation concerns
+7662c15e-5fc3-4577-8533-04758791506f,2025-05-29 15:37:28.467824+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,6242,4356,Prefer minimal upgrade preserving environmental protection while allowing limited access
+00209603-c938-4901-af1b-7b24cd3bcf0d,2025-05-29 15:38:42.025124+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,6233,3283,Ranked by environmental protection rehabilitation best bitumen worst due to development risk
+ec691610-4c69-4f25-90c3-c7112d7ccb12,2025-05-29 15:39:38.003138+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,6238,4057,Prioritized environmental protection over access with closure best and road upgrades worst
+03537d8b-f132-4ac5-a979-25246b78dcfd,2025-05-30 11:40:26.686489+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,7242,2982,"Prioritize environmental protection over access - close road best, bitumen upgrade worst"
+9999c185-46b7-4245-919d-70cff5c59377,2025-05-30 11:41:19.399652+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,7031,4665,Prioritized environmental protection over access with closure most preferred and upgrades least
+6d040756-8805-48a0-8e34-c1b78ee9cf68,2025-05-30 11:43:09.643695+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,6381,4254,Support minimal intervention or closure over upgrades that increase development pressure
+0f8fb3e6-a11f-4c3d-a1be-af71886edda3,2025-05-30 11:44:48.513946+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,7954,3314,"Environmental protection first - close road to preserve ecosystem, avoid upgrades"
+e87fa8c0-e17c-43ac-9800-ceacd43c1513,2025-05-30 11:46:06.587052+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,6748,4196,"I prioritized environmental protection over access, favoring road closure and opposing upgrades"

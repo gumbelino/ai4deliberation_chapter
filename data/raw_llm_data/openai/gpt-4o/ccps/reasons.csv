@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+f940d8ae-1f7c-4546-b88f-6e2986ce0776,2025-03-20 17:13:05.703566+00:00,openai,gpt-4o,0,3218,218,"Prioritize strong emission cuts, adaptation, and resilience over economic growth or inaction."
+4401b23c-9473-471a-a5af-31b89c84aaf1,2025-03-20 17:13:13.668544+00:00,openai,gpt-4o,0,3218,216,"Prioritize strong emissions cuts and adaptation, reject economic growth over climate action."
+e5f8c30c-0ede-4855-8526-d5ffc2b6853c,2025-03-20 17:13:21.580010+00:00,openai,gpt-4o,0,3218,215,"Prioritize strong emission cuts, adaptation, and resilience over economic growth."
+b2857a7f-03c8-4c4d-bcac-9ed7c16383ff,2025-03-20 17:13:30.358910+00:00,openai,gpt-4o,0,3218,215,"Prioritize strong emission cuts, adaptation, and resilience over economic growth."
+a302cf9d-ad2e-45b1-8a7d-f02f627c717f,2025-03-20 17:13:38.459919+00:00,openai,gpt-4o,0,3218,215,Prioritize strong emission cuts and resilience over economic growth and status quo.
+87483f18-f1ee-470d-ada9-a2af1cf04130,2025-03-20 17:13:46.748661+00:00,openai,gpt-4o,0,3218,218,"Prioritize strong emission cuts, adaptation, and resilience over economic growth or inaction."
+21175c03-6151-4e4a-af53-5d7e4a380de8,2025-03-20 17:13:56.144012+00:00,openai,gpt-4o,0,3218,218,"Prioritize strong emission cuts, adaptation, and resilience over economic growth and status quo."
+0275d8a7-0fca-4ae9-8f3f-8771241a69bd,2025-03-20 17:14:06.407341+00:00,openai,gpt-4o,0,3218,215,"Prioritize strong emission cuts, adaptation, and resilience over economic growth."
+28d18e7b-1e19-45d8-bc6b-41081ec12ad1,2025-03-20 17:14:15.624235+00:00,openai,gpt-4o,0,3218,219,"Prioritize strong emission cuts and resilience, de-emphasize economic growth over climate action."
+1c06bdc4-b788-491d-9f60-92a2e93f3af7,2025-03-20 17:14:24.109949+00:00,openai,gpt-4o,0,3218,215,"Prioritize strong emission cuts, adaptation, and resilience over economic growth."
+c4f03fc1-4021-42b1-978b-70b22f2f039b,2025-04-01 09:40:29.587684+00:00,openai,gpt-4o,0,3218,214,Prioritize emission cuts and adaptation to mitigate climate change impacts effectively.
+c59905e1-7500-4a27-8896-30d7852e0e38,2025-04-01 09:40:35.508802+00:00,openai,gpt-4o,0,3218,215,Prioritize strong emission cuts and resilience over economic growth and status quo.
+436eaf2b-a793-43fa-85bc-55dff4d1e954,2025-04-01 09:40:40.908740+00:00,openai,gpt-4o,0,3218,215,Prioritize strong emission cuts and resilience to climate impacts over economic growth.
+1d694caf-48f7-4c3a-bf79-e1a01ccc0b83,2025-04-01 09:40:47.644026+00:00,openai,gpt-4o,0,3218,219,"Prioritize strong emission cuts and adaptation, de-emphasize economic growth over climate action."
+735444f0-8e31-41ff-aa98-53d9daf3876b,2025-04-01 09:40:53.832697+00:00,openai,gpt-4o,0,3218,215,"Prioritize strong emission cuts, adaptation, and resilience over economic growth."
+e86f8680-11a6-4887-84e2-5facd2fa6afa,2025-04-01 09:40:59.636423+00:00,openai,gpt-4o,0,3218,215,"Prioritize strong emission cuts, resilience, and adaptation over economic growth."
+b8256173-7586-406e-a890-f49fdb1204d5,2025-04-01 09:41:04.688427+00:00,openai,gpt-4o,0,3218,219,"Prioritize strong emission cuts and adaptation, de-emphasize economic growth over climate action."
+6968322f-35f0-41bb-ab2f-ca61a7c9b9e5,2025-04-01 09:41:11.396809+00:00,openai,gpt-4o,0,3221,220,"Prioritize emission cuts and adaptation, least support for status quo and growth over climate."
+188b3273-6dcd-4dda-8bef-722b889bbc61,2025-04-01 09:41:17.383633+00:00,openai,gpt-4o,0,3218,218,"Prioritize strong emission cuts, adaptation, and resilience over economic growth or inaction."
+ea828a94-1ff1-4a4b-a27a-3b0346c0e73c,2025-04-01 09:41:25.737457+00:00,openai,gpt-4o,0,3218,215,"Prioritize strong emission cuts, adaptation, and resilience over economic growth."
+1ae32355-570b-4d98-85b6-95e91cbbe89b,2025-04-01 09:41:31.724826+00:00,openai,gpt-4o,0,3218,215,Prioritize strong emission cuts and adaptation over economic growth and status quo.
+d20f3905-50c4-4be0-a3fb-460b4b10f865,2025-04-01 09:41:37.168838+00:00,openai,gpt-4o,0,3218,219,"Prioritize strong emission cuts and adaptation, de-emphasize economic growth over climate action."
+ac246dfe-1dec-41f6-9aec-9d353d2d029c,2025-04-01 09:41:42.728071+00:00,openai,gpt-4o,0,3221,217,"Prioritize strong emission cuts, adaptation, and resilience over economic growth."
+655aebf4-d66c-429e-9ee1-c0579af911c3,2025-04-01 09:41:50.870953+00:00,openai,gpt-4o,0,3218,215,"Prioritize strong emission cuts, resilience, and adaptation over economic growth."
+1255fc5f-63c9-4032-989d-ed18794c5a6f,2025-04-01 09:41:56.486736+00:00,openai,gpt-4o,0,3218,219,"Prioritize strong emission cuts and adaptation, de-emphasize economic growth over climate action."
+70c8aa38-e580-4fde-b806-aabb030c2e43,2025-04-01 09:42:02.481236+00:00,openai,gpt-4o,0,3218,214,Prioritize strong emission cuts and resilience to combat climate change effectively.
+9b331627-5618-4691-b065-8e332bd2600e,2025-04-01 09:42:07.497299+00:00,openai,gpt-4o,0,3221,219,"Prioritize emission cuts, adaptation, and resilience over economic growth and status quo."
+295ca6c4-430d-4532-a93e-a0a684575528,2025-04-01 09:42:12.438242+00:00,openai,gpt-4o,0,3218,215,Prioritize strong emission cuts and resilience over economic growth and status quo.
+65b81a77-08c4-4c96-afdb-2ebd104ece11,2025-04-01 09:42:17.965037+00:00,openai,gpt-4o,0,3218,215,Prioritize strong emission cuts and resilience over economic growth and status quo.
+0378ffbd-5b4e-4625-b444-a6864c07120a,2025-04-01 09:42:30.163454+00:00,openai,gpt-4o,0,3218,215,Support strong emission cuts and adaptation; oppose economic growth over climate action.

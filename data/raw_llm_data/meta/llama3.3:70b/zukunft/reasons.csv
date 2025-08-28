@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+452034fc-276e-4b60-9fe5-6f2515cc2bfa,2025-04-02 10:37:01.710280+00:00,meta,llama3.3:70b,0,2758,142,Prioritizing accessibility and awareness
+c8a85f1a-facb-4604-b6d0-71b5458d83ff,2025-04-02 10:37:26.639102+00:00,meta,llama3.3:70b,0,2758,143,Prioritizing public awareness and accessibility
+832e0e69-8fdd-4947-90d0-b3e91194d480,2025-04-02 16:21:14.062281+00:00,meta,llama3.3:70b,0,2758,146,Prioritizing public awareness and services over private clinics
+3dc76a4f-f252-4023-b0c7-0583b9fc1552,2025-04-02 16:21:28.043201+00:00,meta,llama3.3:70b,0,2758,143,Prioritizing public mental health support
+41d3a114-6dd6-4127-8248-a30c519660bd,2025-04-02 16:22:01.659027+00:00,meta,llama3.3:70b,0,2758,143,Prioritizing public mental health support
+7df0644a-6aa1-47e9-8791-67e292a2ff6d,2025-04-02 16:22:16.910738+00:00,meta,llama3.3:70b,0,2758,144,Prioritizing public awareness and integrated services
+406e362b-db54-4028-8318-520fba547ec2,2025-04-02 16:22:28.704409+00:00,meta,llama3.3:70b,0,2758,144,Prioritizing public awareness and integrated services
+455daf51-840d-4bdf-bd02-d94ed2f89bc1,2025-04-02 16:22:42.434073+00:00,meta,llama3.3:70b,0,2758,144,Prioritizing public awareness and increased funding
+426f8582-ddea-456e-b3b1-08e38c36c644,2025-04-02 16:22:57.660824+00:00,meta,llama3.3:70b,0,2758,143,Prioritizing public support and awareness
+580b8ac5-8c75-4018-9f50-c5a1ef1a1423,2025-04-02 16:23:07.899849+00:00,meta,llama3.3:70b,0,2758,144,Prioritizing public services and awareness campaigns
+ff3511e2-81a6-471e-9921-ad41d98e7732,2025-04-02 16:23:22.599407+00:00,meta,llama3.3:70b,0,2758,144,Prioritizing accessibility and stigma reduction.
+6689b3d6-59c2-42f0-a610-cdf4ff50078e,2025-04-02 16:23:47.247419+00:00,meta,llama3.3:70b,0,2758,143,Prioritizing accessibility and stigma reduction
+66bf45e3-4df3-4969-a4a8-4a47ce15a0a9,2025-04-02 16:24:06.007576+00:00,meta,llama3.3:70b,0,2758,142,Prioritizing accessibility and awareness
+42097f96-8f27-4dcd-9174-8f53d75ef8c4,2025-04-02 16:24:29.978596+00:00,meta,llama3.3:70b,0,2756,144,Prioritizing public awareness and socioeconomic support
+161222c6-cd05-4d35-945b-95278e1e0098,2025-04-02 16:24:57.327870+00:00,meta,llama3.3:70b,0,2758,143,Prioritizing public mental health support
+8889dceb-ceca-4d15-a6c8-37d18e7081cb,2025-04-02 16:25:25.798785+00:00,meta,llama3.3:70b,0,2758,144,Prioritizing public awareness and funding increases
+3d1f2e6a-e293-4277-b4ce-2f801423ee43,2025-04-02 16:25:40.625433+00:00,meta,llama3.3:70b,0,2758,142,Prioritizing accessibility and awareness
+aa8524f0-f964-424e-b4bb-4eba4477f6c5,2025-04-02 16:25:55.608132+00:00,meta,llama3.3:70b,0,2758,142,Prioritizing accessibility and awareness
+4edf2f60-7571-4535-a347-199ff3ca0f80,2025-04-02 16:26:09.609958+00:00,meta,llama3.3:70b,0,2758,142,Prioritizing accessibility and awareness
+5a6d5c7f-dcae-4611-bf42-4ecab01b87ea,2025-04-02 16:27:16.997047+00:00,meta,llama3.3:70b,0,2758,145,Prioritizing public awareness and integrated clinics.
+a2dfbf19-a4da-4643-8882-7e89b4d66467,2025-04-02 16:29:59.452668+00:00,meta,llama3.3:70b,0,2756,142,Prioritizing accessibility and awareness
+86f6c38c-5042-4d8d-8c47-91c0793f7ee2,2025-04-02 16:30:22.849652+00:00,meta,llama3.3:70b,0,2758,144,Prioritizing public awareness and funding increases
+fbfea5ec-62eb-4164-a1a3-18434fff204d,2025-04-02 16:30:38.856912+00:00,meta,llama3.3:70b,0,2758,143,Prioritizing public mental health support
+a699a47f-2aee-4257-b988-51fcb8114f27,2025-04-02 16:30:56.316677+00:00,meta,llama3.3:70b,0,2758,142,Prioritizing accessibility and awareness
+2e9811c6-5b1d-48a3-a866-237c0a5b0b11,2025-04-02 16:31:10.726607+00:00,meta,llama3.3:70b,0,2758,142,Prioritizing accessibility and awareness
+6f38a118-03fb-438c-a7db-8e7bfe3d55c0,2025-04-02 16:31:25.226326+00:00,meta,llama3.3:70b,0,2758,143,Prioritizing public awareness and funding
+38027883-da3c-4387-90f1-e6634b5c3d73,2025-04-02 16:31:49.019673+00:00,meta,llama3.3:70b,0,2758,142,Prioritizing accessibility and awareness
+204c7287-4044-4fed-a64a-529200d8d123,2025-04-02 16:32:06.404532+00:00,meta,llama3.3:70b,0,2758,144,Prioritizing public awareness and support services
+dcb27414-e4ee-4aa4-aa03-9988e8c2e392,2025-04-02 16:32:19.057012+00:00,meta,llama3.3:70b,0,2758,144,Prioritizing public awareness and support services
+d99c6f38-0e30-4a61-ba38-53fd5d49fc76,2025-04-02 16:32:36.937884+00:00,meta,llama3.3:70b,0,2758,143,Prioritizing accessibility and stigma reduction
+4affd15a-9b82-4ebb-ad73-15ff97fd5cfc,2025-04-02 16:32:52.616918+00:00,meta,llama3.3:70b,0,2758,142,Prioritizing accessibility and awareness

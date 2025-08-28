@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+2e223df1-4037-44cd-8d44-c8230ac4e926,2025-04-11 12:20:11.871978+00:00,xai,grok-3-mini-beta,0,3475,259,I prioritize direct aid and root causes over bans and deportations.
+283c24ff-1ec5-4b47-b39e-2a1e5b490557,2025-04-11 12:20:34.545558+00:00,xai,grok-3-mini-beta,0,3475,261,I prioritize aid in source countries and local support over bans and deportations.
+154e58d7-1208-41cb-861a-9dcc1e69c380,2025-04-11 12:20:59.410025+00:00,xai,grok-3-mini-beta,0,3475,262,Prioritize aid in source countries and support for beggars over bans and enforcement.
+7aa6fe1d-814b-449d-9ddc-2ed313b7c8cb,2025-04-11 12:21:25.029245+00:00,xai,grok-3-mini-beta,0,3477,260,Prioritize aiding source countries to tackle root causes of poverty and begging.
+0e319d0e-2bb6-4031-b025-d3b0eebf5ded,2025-04-11 12:21:45.366422+00:00,xai,grok-3-mini-beta,0,3475,264,"Prioritize aiding source countries and enforcing laws over direct support to beggars, preventing dependency."
+cabc2787-22d8-492c-955e-de1d9bc3c85e,2025-04-11 12:22:09.786746+00:00,xai,grok-3-mini-beta,0,3472,263,Prioritize aid in source countries and support for beggars over bans and deportations.
+7c847f3b-e48e-46e1-b44c-a4a835052e81,2025-04-11 12:22:35.733682+00:00,xai,grok-3-mini-beta,0,3475,259,Prioritize aid in source countries to address root causes of poverty.
+481fe92f-0d40-4cd0-8780-69b617f7767f,2025-04-11 12:23:00.279990+00:00,xai,grok-3-mini-beta,0,3475,259,I prioritize addressing root causes and enforcing laws over supporting begging directly.
+a4a1e9e2-9236-44e4-a031-db6909558e18,2025-04-11 12:23:24.164063+00:00,xai,grok-3-mini-beta,0,3475,262,I prioritize direct aid and root causes over punitive measures based on empathy and responsibility.
+e626a1ef-d7c8-49c5-9c4c-20d5b5942c4f,2025-04-11 12:23:45.673349+00:00,xai,grok-3-mini-beta,0,3475,266,"Prioritize aiding source countries to address poverty roots, while opposing bans that overlook victims' plights."
+f6b8f699-9631-48c0-bdb7-b9b384adacd4,2025-04-11 12:24:08.509781+00:00,xai,grok-3-mini-beta,0,3475,265,"I support policies aiding beggars and addressing root causes most, as they align with humanitarian values."
+629b92d9-530f-45d0-9902-533a34ecadff,2025-04-11 12:24:37.689132+00:00,xai,grok-3-mini-beta,0,3475,268,"I prioritize addressing root causes in source countries, as it aligns with my support for sustainable solutions over enabling migration."
+63532132-b324-4eed-b2e7-cea71047ee77,2025-04-11 12:24:59.625533+00:00,xai,grok-3-mini-beta,0,3475,261,I support addressing root causes in source countries most to tackle poverty origins effectively.
+0ee6c368-d21f-4f1c-a753-ef67b58933be,2025-04-11 12:25:24.562997+00:00,xai,grok-3-mini-beta,0,3475,257,I prioritize addressing root causes and support over punitive measures.
+9f111fd9-686e-4438-be3d-24219557b391,2025-04-11 12:26:09.669621+00:00,xai,grok-3-mini-beta,0,3477,261,Prioritize aid in source countries and support for beggars over restrictive policies.
+18ab071f-f46a-4463-8f44-11f675360e24,2025-04-11 12:26:33.644660+00:00,xai,grok-3-mini-beta,0,3475,263,I prioritize addressing root causes in source countries and supporting beggars over deportation or bans.
+9b0fdc17-ae4b-47ae-a9b4-b2b83e5da17b,2025-04-11 12:26:56.591318+00:00,xai,grok-3-mini-beta,0,3475,260,Prioritize addressing root causes in source countries over supporting begging in Sweden.
+347fc2c3-4fd6-4459-9ffc-c845b79c50f5,2025-04-11 12:27:20.986293+00:00,xai,grok-3-mini-beta,0,3475,266,"Prioritize addressing root causes in source countries, support aid over bans, based on empathy and responsibility."
+819539d7-9d68-4673-9df5-7f305ae6e520,2025-04-11 12:27:45.541714+00:00,xai,grok-3-mini-beta,0,3477,270,"I support addressing root causes in source countries most, as it aligns with helping in homelands and holding home countries responsible."
+17ecd919-f837-4a70-930a-61e24d25bebc,2025-04-11 12:28:08.676487+00:00,xai,grok-3-mini-beta,0,3477,268,"Prioritize addressing root causes in source countries to reduce begging, while opposing policies that enable or attract more migrants."
+db6d891a-5627-4014-aa41-6453c1e839f7,2025-04-11 12:28:36.076340+00:00,xai,grok-3-mini-beta,0,3475,261,I prioritize addressing root causes in source countries over banning or punishing beggars.
+6c89c0e1-3011-49e0-8782-066c14e5178d,2025-04-11 12:28:59.766993+00:00,xai,grok-3-mini-beta,0,3477,258,Prioritize addressing root causes in source countries over punitive actions.
+adbfcc75-ca04-4fb2-91fe-682c1e55b05a,2025-04-11 12:29:24.600577+00:00,xai,grok-3-mini-beta,0,3475,261,Prioritizing aid in source countries aligns with my emphasis on home responsibilities.
+6f3a98ac-e4df-4959-8604-c6ba79c34fc7,2025-04-11 12:29:46.506590+00:00,xai,grok-3-mini-beta,0,3477,267,"I support policies aiding beggars and root causes most, as they align with humanitarian values over punitive measures."
+476b8f09-e88a-462a-89de-1656422e2f8c,2025-04-11 12:30:09.517343+00:00,xai,grok-3-mini-beta,0,3475,263,Prioritize addressing root causes in home countries and enforcing laws fairly over bans or aid.
+8c705c07-d5a6-4492-987b-5fa26a6b31e1,2025-04-11 12:30:29.684937+00:00,xai,grok-3-mini-beta,0,3475,261,I prioritize addressing root causes in source countries over enforcing bans or deportations.
+e72cde61-ea19-4a98-93eb-9d4f073acfdb,2025-04-11 12:30:53.549160+00:00,xai,grok-3-mini-beta,0,3475,257,I prioritize addressing root causes and support over punitive measures.
+5f2b8b55-f385-4ff6-9243-ea248a01a793,2025-04-11 12:31:18.166650+00:00,xai,grok-3-mini-beta,0,3475,259,Prioritize addressing root causes in source countries over bans or enforcement.
+95b07607-c8f1-4209-aca4-3ed918c9dc09,2025-04-11 12:31:40.654542+00:00,xai,grok-3-mini-beta,0,3475,259,I prioritize helping beggars and addressing root causes over punitive measures.
+c99ea3e7-be67-4e77-81e4-4c1252fc4424,2025-04-14 07:50:15.226720+00:00,xai,grok-3-mini-beta,0,3475,260,"Prioritize aid in source countries, then support local help over bans."

@@ -1,0 +1,63 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+cf0c480c-16cf-4435-8523-099a55f092f7,2025-03-20 12:14:05.676931+00:00,google,gemini-1.5-flash-8b,0,2799,159,"Prioritizing integrated, accessible, and preventative mental health approaches."
+9f633b4c-60b5-4568-a23e-0fafb689425c,2025-03-20 12:14:09.781818+00:00,google,gemini-1.5-flash-8b,0,2799,162,"Prioritizing social support and awareness, with increased funding for services where needed."
+4c9ca486-b5d4-4a22-b1b2-647829539f17,2025-03-20 12:14:13.661306+00:00,google,gemini-1.5-flash-8b,0,2799,162,"Prioritizing public awareness and integrated support, with increased funding for needed services."
+dd898b42-472f-4844-8b62-f9070d73b217,2025-03-20 12:14:17.672789+00:00,google,gemini-1.5-flash-8b,0,2799,162,"Prioritizing public awareness and integrated services, with a focus on social support."
+4deb8991-c786-4672-8fad-3867f97da2f2,2025-03-20 12:14:21.482940+00:00,google,gemini-1.5-flash-8b,0,2799,158,Prioritizing public awareness and socioeconomic support for mental health.
+c4c02a3d-a4c6-4de1-acde-052afc1717bd,2025-03-20 12:14:25.382063+00:00,google,gemini-1.5-flash-8b,0,2799,158,Prioritizing public awareness and socioeconomic support for mental health.
+c9c1014a-198b-4ab8-ae63-02516c39bc40,2025-03-20 12:14:29.258940+00:00,google,gemini-1.5-flash-8b,0,2799,164,"Prioritizing integrated, accessible, and preventative mental health services, while addressing socioeconomic factors."
+25a7ec9b-0d08-4fd5-a388-bcc751054dad,2025-03-20 12:14:33.347067+00:00,google,gemini-1.5-flash-8b,0,2799,162,"Prioritizing public awareness and socioeconomic support, with increased funding for existing services."
+88fa2a3e-c057-4cb6-9068-cee1ee4d35b6,2025-03-20 12:14:37.338075+00:00,google,gemini-1.5-flash-8b,0,2799,162,"Prioritizing public awareness, integrated services, and funding increases for mental health."
+d364de49-0d3f-4d7a-8461-e40112a32bd9,2025-03-20 12:14:41.270038+00:00,google,gemini-1.5-flash-8b,0,2799,161,"Prioritizing social support and prevention, with increased funding for existing services."
+669cd5b0-3b3f-4df4-a831-e1a8b22cd65b,2025-03-25 10:29:09.854809+00:00,google,gemini-1.5-flash-8b,0,2799,160,"Prioritizing social support and integrated care, less on private funding."
+9c43e9e5-89b5-40fd-93b6-b7efcb242bff,2025-03-25 10:29:12.817966+00:00,google,gemini-1.5-flash-8b,0,2799,163,"Prioritizing socioeconomic factors, then integrated services, and public awareness are most important."
+927e8883-0c79-4ebc-8f52-72eb4882e21a,2025-03-25 10:29:15.997391+00:00,google,gemini-1.5-flash-8b,0,2799,162,"Prioritizing public awareness and socioeconomic support, with increased funding for existing services."
+d199a107-eb87-4038-bf4b-9edac919207a,2025-03-25 10:29:19.068446+00:00,google,gemini-1.5-flash-8b,0,2799,157,"Prioritizing integrated, accessible services and public awareness."
+e149dab9-7d7c-44cc-b2a6-cbb715cd8beb,2025-03-27 09:35:56.467571+00:00,google,gemini-1.5-flash-8b,0,2799,162,"Prioritizing social factors, public awareness, and integrated services for mental health."
+9be96548-e6fc-403a-bcc9-c3700bad20b7,2025-03-27 09:36:01.403320+00:00,google,gemini-1.5-flash-8b,0,2799,162,"Prioritizing social factors, public awareness, and integrated services for mental health."
+59ec8b30-27da-4d08-b3c0-b55817c33565,2025-03-27 09:36:04.336934+00:00,google,gemini-1.5-flash-8b,0,2799,164,"Prefer integrated, accessible services; public awareness is important; funding increase needed."
+0a4880ca-db78-426e-bcc8-5026881c6c95,2025-03-27 09:36:07.292111+00:00,google,gemini-1.5-flash-8b,0,2799,162,"Prioritizing public awareness and integrated services, with a balanced approach to funding."
+8d1e6649-8177-467e-810c-1ca7505356ff,2025-03-27 09:36:10.211600+00:00,google,gemini-1.5-flash-8b,0,2799,158,Prioritizing public awareness and socioeconomic support for mental health.
+bf38905a-f308-4597-86be-22fc8cd12872,2025-03-27 09:36:14.962973+00:00,google,gemini-1.5-flash-8b,0,2799,158,"Prefer integrated, community-based support and public awareness."
+8029433f-5af1-472d-89d1-73eeec24f16b,2025-03-27 09:36:19.958699+00:00,google,gemini-1.5-flash-8b,0,2799,158,Prioritizing public awareness and socioeconomic support for mental health.
+17b4271f-8378-4e5d-af06-6d807cdda3d9,2025-03-27 09:36:22.784225+00:00,google,gemini-1.5-flash-8b,0,2799,160,"Prioritizing social support and economic factors, then increased public services."
+2d05e730-cfc7-4cde-a9ad-0e26b6e9d3c8,2025-03-27 09:36:25.827433+00:00,google,gemini-1.5-flash-8b,0,2799,162,"Prioritizing socioeconomic factors, increased funding, and public awareness are most important."
+9da8e902-7f81-4e0b-b6c3-0b45bf55a650,2025-03-27 09:36:28.694256+00:00,google,gemini-1.5-flash-8b,0,2799,158,Prioritizing social support and economic factors for mental health.
+b25dc139-7f15-490a-bed0-d0f972b8915c,2025-03-27 09:36:31.493028+00:00,google,gemini-1.5-flash-8b,0,2799,164,"Prioritizing integrated, accessible services and public awareness, while increasing funding for needed services."
+5a0ebe8b-1924-45b8-9780-35811c74ed02,2025-03-27 09:36:34.428532+00:00,google,gemini-1.5-flash-8b,0,2799,159,Increased funding and awareness are crucial; private funding less so.
+93cf52fc-2845-4509-80b3-23f881808577,2025-03-27 09:36:37.282637+00:00,google,gemini-1.5-flash-8b,0,2799,162,"Prioritizing social factors, public awareness, and integrated services for mental health."
+93ec9903-4fd1-4349-a6c4-254fd656e339,2025-03-27 09:36:40.081933+00:00,google,gemini-1.5-flash-8b,0,2799,158,Prioritizing public awareness and socioeconomic support for mental health.
+e8d31075-5638-4d74-9366-6c83a78ac944,2025-03-27 10:10:39.661440+00:00,google,gemini-1.5-flash-8b,0,2799,160,"Prioritizing social support and integrated care, less on private funding."
+10a7a225-ae33-4441-83d6-8811f4b17d9c,2025-03-27 10:10:42.416462+00:00,google,gemini-1.5-flash-8b,0,2799,163,"Prioritizing socioeconomic factors, then integrated services, and public awareness are most important."
+34674b76-5e84-44c3-b58f-ce108054fa61,2025-03-27 10:10:45.370139+00:00,google,gemini-1.5-flash-8b,0,2799,165,"Prioritizing prevention, social support, and socioeconomic factors over increased funding for any one sector."
+fe45b37a-f5b8-4edc-80e9-e8481d44328f,2025-03-27 10:10:48.195728+00:00,google,gemini-1.5-flash-8b,0,2799,157,"Prioritizing integrated, accessible services and public awareness."
+e5f5c061-1454-4a91-ba06-1275d97cf89f,2025-04-28 08:51:11.707204+00:00,google,gemini-1.5-flash-8b,1.0,2799,163,Prioritizing socioeconomic support and increased public funding for mental health services is most important.
+5feee352-1b95-4aa8-a664-2ab6483e890f,2025-04-28 08:51:14.774861+00:00,google,gemini-1.5-flash-8b,1.0,2799,162,Prioritizing public awareness and socioeconomic support over increased funding for any specific sector.
+f73f526b-8166-44d6-bc4e-91eb65a3b6b3,2025-04-28 08:51:17.946690+00:00,google,gemini-1.5-flash-8b,1.0,2799,162,Prioritizing social support and socioeconomic factors is crucial for mental well-being.
+7375c7cf-d3b8-4479-96e0-32eaed4bf50c,2025-04-28 08:51:21.228860+00:00,google,gemini-1.5-flash-8b,1.0,2799,166,Prioritizing social support and economic factors is key. Public awareness and integrated services are important.
+2c05188c-cdcf-40f7-9dcf-b76070c6f730,2025-04-28 08:51:24.397373+00:00,google,gemini-1.5-flash-8b,1.0,2799,164,"Increased public awareness and funding are most important, less support for privatization or reducing services."
+f1605ed6-d1c5-4a62-b793-41c3edf02411,2025-04-28 08:51:27.574584+00:00,google,gemini-1.5-flash-8b,1.0,2799,165,"Prioritizing socioeconomic factors, increased funding, and public awareness are crucial for better mental health."
+a26e33b0-227e-45c9-b071-0a49f5c6a416,2025-04-28 08:51:30.579737+00:00,google,gemini-1.5-flash-8b,1.0,2799,159,"Prioritizing integrated, accessible, and preventative mental health services."
+a2b2a138-60bc-4519-a145-b7e76f9250f5,2025-04-28 08:51:33.818819+00:00,google,gemini-1.5-flash-8b,1.0,2799,163,"Prefer integrated, public awareness, and social support over more private funding or cuts."
+c34db793-cd83-48b4-8155-86a769aeafa5,2025-04-28 08:51:36.876927+00:00,google,gemini-1.5-flash-8b,1.0,2799,162,"Prioritizing public awareness, integrated services, and socioeconomic support for mental health."
+b6a353b5-adef-4224-9f5f-dd1e7564f4db,2025-04-28 08:51:39.751999+00:00,google,gemini-1.5-flash-8b,1.0,2799,162,Prioritizing social support and equitable access is key; reducing services is undesirable.
+14e8364c-d17d-430e-a815-38e3d37a711a,2025-04-28 08:51:42.846927+00:00,google,gemini-1.5-flash-8b,1.0,2799,160,"Prioritizing prevention, social support, and equitable access to services."
+00ffc8c3-c345-4a4d-a00b-78a97e2f3128,2025-04-28 08:51:47.793268+00:00,google,gemini-1.5-flash-8b,1.0,2799,164,"Prioritizing socioeconomic factors, increased funding, and integrated services are crucial for mental health."
+e99a60b8-2d72-431f-9b3c-0ae7b430976a,2025-04-28 08:51:50.619876+00:00,google,gemini-1.5-flash-8b,1.0,2799,158,"Prefer integrated, accessible, and preventative mental health solutions."
+f0f68752-c5b1-4832-bb25-ccd65718cffe,2025-04-28 08:51:53.491139+00:00,google,gemini-1.5-flash-8b,1.0,2799,158,Prioritizing public awareness and socioeconomic support for mental health.
+d5975eda-45cb-414d-848f-e6394554624b,2025-04-28 08:51:56.462720+00:00,google,gemini-1.5-flash-8b,1.0,2799,164,"Increased public funding for services is top priority, while privatization and excessive reduction are unwanted."
+171f8579-b210-4846-b0f5-c1bb7518f855,2025-04-28 08:51:59.387324+00:00,google,gemini-1.5-flash-8b,1.0,2799,159,"Prioritizing public awareness and socioeconomic support, then funding increases."
+4376defb-8fc0-4203-9574-95fb34f5d6f3,2025-04-28 08:52:02.368682+00:00,google,gemini-1.5-flash-8b,1.0,2799,158,Prioritizing public awareness and socioeconomic support for mental health.
+25cf9829-f5ed-4c39-8602-756d3c0426ef,2025-04-28 08:52:05.331578+00:00,google,gemini-1.5-flash-8b,1.0,2799,157,"Prioritized social support, then increased public services."
+c2e7ad79-ee52-41f6-a182-8f98c475941e,2025-04-28 08:52:08.347938+00:00,google,gemini-1.5-flash-8b,1.0,2799,160,"Prioritizing integrated clinics and preventative measures, while supporting socioeconomic improvements."
+8e1eea60-fe11-4f96-9918-a1266b02534b,2025-04-28 08:52:11.351067+00:00,google,gemini-1.5-flash-8b,1.0,2799,159,"Prioritizing public awareness, socioeconomic factors, and integrated services."
+19b4bfaf-4352-4185-b323-34e15fba993c,2025-04-28 08:52:16.214911+00:00,google,gemini-1.5-flash-8b,1.0,2799,161,"Prioritizing socioeconomic factors, then increased funding, and lastly integrated services."
+c5c4cbe8-e2a6-4f56-9ca8-ec1cab4488aa,2025-04-28 08:52:19.184189+00:00,google,gemini-1.5-flash-8b,1.0,2799,161,Increased funding/awareness/integration prioritized over reduction or private clinic focus.
+32b841fb-4b2e-4c23-a3a9-327419d61a98,2025-04-28 08:52:22.265672+00:00,google,gemini-1.5-flash-8b,1.0,2799,184,"Increased funding for services, reducing services is wrong, awareness is good, no change is bad, integrated clinics are ok, more private funding is less good, addressing socioeconomic issues is important."
+6807a0d5-47c3-4379-a29e-c67a9b30b6a4,2025-04-28 08:52:25.285536+00:00,google,gemini-1.5-flash-8b,1.0,2799,162,"Prioritizing integrated, accessible, and preventative mental health services is most important."
+53948a96-8f66-46ad-9e8e-9d952c2dda43,2025-04-28 08:52:28.137678+00:00,google,gemini-1.5-flash-8b,1.0,2799,168,"Prioritizing integrated, community-based support and public awareness, with increased funding for services and socioeconomic improvements."
+8a39e336-b23f-415b-9368-3bfacbc5b4bf,2025-04-28 08:52:32.994764+00:00,google,gemini-1.5-flash-8b,1.0,2799,160,"Prioritizing socioeconomic factors and integrated support, while needing more services."
+aa245163-1089-4f0a-a5c5-48f6b6366a1b,2025-04-28 08:52:35.914491+00:00,google,gemini-1.5-flash-8b,1.0,2799,166,"Prioritizing integrated, accessible, and preventative mental health services, with strong emphasis on social factors."
+3b843503-54b4-4166-b9ef-83301d214ee5,2025-04-28 08:52:38.913811+00:00,google,gemini-1.5-flash-8b,1.0,2799,162,Prioritizing social support and economic equality is key; reducing services is not.
+c5624894-8466-494f-ab4f-0fc85bcd2b48,2025-04-28 08:52:41.954883+00:00,google,gemini-1.5-flash-8b,1.0,2799,162,"Prioritizing socioeconomic support, integrated services, and public awareness are most important."
+9aadded4-c798-499c-9817-596003e41915,2025-04-28 09:32:28.716609+00:00,google,gemini-1.5-flash-8b,1.0,2799,166,Integrated mental health clinics are best; socio-economic support is vital; reducing services is wrong.

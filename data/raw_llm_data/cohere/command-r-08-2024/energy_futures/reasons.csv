@@ -1,0 +1,41 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+ace89c90-e8c6-47dc-8af3-32008608954e,2025-03-25 21:31:23.435639+00:00,cohere,command-r-08-2024,0,5551.0,352.0,"I'm pro-renewables,anti-coal,anti-nuclear,pro-conservation,pro-geothermal,pro-solar,anti-hydroelectric."
+bb330f21-d336-4a6f-a5ac-bc3acb73bf13,2025-03-25 21:31:30.776209+00:00,cohere,command-r-08-2024,0,5583.0,365.0,"Renewables,biomass,geothermal,wind,toppled.Coal,gas,nuclear,hydroelectric,CO2burial,least."
+5ad8ec4d-63a2-4b1a-b301-9a7d7a6e1c02,2025-03-25 21:31:38.338819+00:00,cohere,command-r-08-2024,0,5573.0,340.0,"I support renewable, diverse, and safe energy sources."
+5c3c2544-335f-44fc-8e8c-bf2300d46cd5,2025-03-25 21:31:45.824267+00:00,cohere,command-r-08-2024,0,5575.0,354.0,"Nuclear,coal,gas,geothermal,wind,biomass,solar,hydroelectric,CO2burial."
+dd686aaf-19d4-4fa8-940a-2e7818224f9b,2025-03-25 21:31:53.309876+00:00,cohere,command-r-08-2024,0,5609.0,374.0,"Hydroelectric,geothermal,gas,coal,biomass,wind,nuclear,solar,coal.LeastToMostPreferred."
+5c5cb786-83e5-4352-b176-bc71bdab1268,2025-03-25 21:32:02.204984+00:00,cohere,command-r-08-2024,0,5579.0,350.0,"Nuclear,solar,geothermal&hydroelectricarebest;coal&gasareworst."
+07ee19d6-ed88-46fb-83d1-7f672b74df6b,2025-03-25 21:32:12.144703+00:00,cohere,command-r-08-2024,0,5555.0,347.0,Nuclear.is.least.favoured.due.to.risks.and.coal.is.most.favoured.
+e5ef0079-0174-4d29-8ea6-9c9474c9f2c1,2025-03-25 21:32:21.979579+00:00,cohere,command-r-08-2024,0,5533.0,327.0,"Nuclear,coal,gas&hydroelectricareestablished;wind&solarareunreliable."
+cca87b6b-b94f-4202-bb7d-35c8ed53d570,2025-03-25 21:32:29.349445+00:00,cohere,command-r-08-2024,0,5587.0,357.0,"NuclearEnergy&CoalWithCO2Burialareleastpreferred,Wind&GeothermalEnergyarebest."
+fd6f3163-8692-48a8-a54c-8d8d3780f7e6,2025-03-25 21:32:37.645832+00:00,cohere,command-r-08-2024,0,5584.0,362.0,"Renewables,geothermal,nuclear,biomass,overcoal,naturalgas,hydroelectric,wind,coalwithCO2burial."
+4de96e00-dac3-4c47-9bbf-d1c754f8d532,2025-03-25 21:32:45.532518+00:00,cohere,command-r-08-2024,0,5589.0,361.0,"Nuclear,natural,geothermal,biomass,coal,CO2burial,hydroelectric,wind,solar."
+22123462-d755-4ddb-bf30-d66847b43020,2025-03-25 21:32:55.654111+00:00,cohere,command-r-08-2024,0,5593.0,368.0,"Support.for.renewables,.conservation,.and.CO2.burial,.skepticism.for.nuclear.and.coal."
+9dd4e0e3-0c13-4e16-b839-c70c687b6ed7,2025-03-25 21:33:04.260278+00:00,cohere,command-r-08-2024,0,5581.0,361.0,"Renewables,burial,geothermal,least;nuclear,coal,natural,gas,hydro,biomass,wind,most."
+c165ebe0-7953-4c47-94ec-dc709b857f14,2025-03-25 21:33:12.667344+00:00,cohere,command-r-08-2024,0,5533.0,330.0,"Nuclear,hydro,biomass,wind,solar,geothermal,coal,gas,burial."
+153352a2-0952-409c-b5da-8d6f827c2d25,2025-03-25 21:33:19.935023+00:00,cohere,command-r-08-2024,0,5581.0,357.0,"Nuclear,coal&gas=cheap&reliable;wind,solar,geothermal&hydroelectric=clean&renewable"
+46e2297f-6f33-440f-8ba7-723e3ed7312c,2025-03-25 21:33:31.759200+00:00,cohere,command-r-08-2024,0,5535.0,335.0,"Nuclear,hydroelectric,solar,wind,geothermal,natural gas,coal,biomass,CO2burial."
+99412a23-6e0a-4dee-b1d2-d5c7162f29fa,2025-03-25 21:33:38.861465+00:00,cohere,command-r-08-2024,0,5543.0,339.0,"Nuclear,coal,gas,biomass,hydroelectricity,geothermal,wind,solar,CO2burial."
+9a6c891a-e067-44f3-811c-fb08f0509ea3,2025-03-25 21:33:46.660993+00:00,cohere,command-r-08-2024,0,5531.0,326.0,"Renewables,gas&hydro>coal&nuclear>geothermal>biomass."
+51f181be-7e4f-428b-a0fb-474d5dfc4710,2025-03-25 21:33:54.446496+00:00,cohere,command-r-08-2024,0,5577.0,355.0,"Nuclear,NaturalGas,Wind,CoalBurial,Geothermal,Biomass,Solar,Hydroelectric,Coal"
+9632ac54-294e-45e0-90b9-b3d4dd0493c5,2025-03-25 21:34:03.151900+00:00,cohere,command-r-08-2024,0,5601.0,367.0,"Renewables,geothermal,biomass,CO2burial,lead;coal,gas,nuclear,lag."
+15abd9b2-d311-42eb-9e9f-ee92724fb671,2025-03-27 10:41:20.197022+00:00,cohere,command-r-08-2024,0,5538.0,329.0,"Nuclear,coal&hydroelectricity=highcarbon.Geothermal&wind=lowcarbon."
+95a238e4-fa69-432e-a12f-84c02ae09969,2025-03-27 10:41:28.048299+00:00,cohere,command-r-08-2024,0,5571.0,339.0,"I prefer renewable, local, and safe energy sources."
+5ac5c8aa-2785-4e31-887c-14df85052a41,2025-03-27 10:41:35.865046+00:00,cohere,command-r-08-2024,0,5549.0,333.0,Coal'sHighEmissions&NaturalGas'LimitedRoleUndermineTheirUse.
+36afab8c-6f21-4757-946d-8afdde6f2266,2025-03-27 10:41:44.980393+00:00,cohere,command-r-08-2024,0,5573.0,353.0,"Nuclear,geothermal,solar,gas,wind,biomass,coal,coal+burial,hydroelectric."
+5cf34e98-d2ec-40e4-9409-9add5fab105f,2025-03-27 10:42:02.575086+00:00,cohere,command-r-08-2024,0,5589.0,348.0,"I support renewable, local, and safe energy sources."
+f4600c13-5632-415c-a5f1-9a8586e74094,2025-03-27 10:42:14.159506+00:00,cohere,command-r-08-2024,0,5583.0,356.0,"Nuclear,gas,geothermal,hydroelectric,biomass,solar,wind,coal,burial."
+e0ec478f-ced0-4492-a08d-10de00de311f,2025-03-27 10:42:26.401383+00:00,cohere,command-r-08-2024,0,5613.0,376.0,Renewables.Nuclear.NaturalGas.CO2Burial.Coal.Geothermal.Biomass.Hydroelectric.Solar.
+b7c9b2dc-aff5-4fde-b855-747a11347177,2025-03-27 10:42:38.228109+00:00,cohere,command-r-08-2024,0,5591.0,360.0,"NaturalGas&HydroPowerarebest,followedbyWind&Solar,thenGeothermal&Biomass."
+2a577089-bd08-45a7-8dd8-4cff5258f169,2025-03-27 10:42:46.937612+00:00,cohere,command-r-08-2024,0,5579.0,355.0,Renewables.CO2.burial.least.bad.nuclear.geothermal.coal.natural.gas.
+c3bbe80a-dd5b-43d7-bcf2-705d2c300715,2025-03-27 10:42:55.437419+00:00,cohere,command-r-08-2024,0,5584.0,357.0,"Solar,wind,geothermal,hydro,nuclear,biomass,naturalGas,coal,CO2burial."
+d5c4a61f-6f6c-4b8d-8c9f-b2730ce82991,2025-03-27 11:07:16.391368+00:00,cohere,command-r-08-2024,0,5538.0,329.0,"Nuclear,coal&hydroelectricity=highcarbon.Geothermal&wind=lowcarbon."
+1240e3fd-767c-4a30-a0bb-f43eda6e0f54,2025-03-27 11:07:23.862438+00:00,cohere,command-r-08-2024,0,5567.0,338.0,"I support renewables, nuclear, and geothermal over fossil fuels."
+574252bd-e4f9-43cc-8047-f4b01666d886,2025-03-27 11:07:31.250804+00:00,cohere,command-r-08-2024,0,5549.0,336.0,Coal's.high.emissions.make.it.least.favourable.option.
+7f72324e-510d-40a2-8b54-b2cecfe0125e,2025-03-27 11:07:39.932463+00:00,cohere,command-r-08-2024,0,5573.0,350.0,"Nuclear,geothermal,solar,natural.gas.best.for.environment.and.economy."
+7b133bc1-15ef-4856-a0b4-5d5a045e0efd,2025-03-27 11:07:47.782417+00:00,cohere,command-r-08-2024,0,5581.0,360.0,Prioritise.Renewables.And.CO2.Burial.Over.Fossil.Fuels.And.Nuclear.
+4434df67-2849-4b61-acb5-719db513474d,2025-03-27 11:07:56.532806+00:00,cohere,command-r-08-2024,0,5583.0,363.0,"Nuclear,gas,geothermal,hydroelectric,areReliable;Coal,biomass,wind,solar,areLessReliable."
+c040e7c7-8f3e-4b07-8d40-8801e75f00a5,2025-03-27 11:08:04.618136+00:00,cohere,command-r-08-2024,0,5613.0,374.0,Renewables.Nuclear.NaturalGas.Coal.Burial.Geothermal.Biomass.Hydroelectric.Solar.
+f1e7444f-2626-499b-a548-7778382a2bac,2025-03-27 11:08:15.059018+00:00,cohere,command-r-08-2024,0,5593.0,364.0,Natural.Gas.is.least.risky.and.most.reliable.option.for.energy.generation.
+f154a3af-f4af-458f-8979-8822e358aa61,2025-03-27 11:08:28.775503+00:00,cohere,command-r-08-2024,0,5579.0,356.0,"Renewables,biomass,geothermal,top;coal,nuclear,naturalgas,hydroelectric,bottom."
+288515a9-a8da-4f84-b9a3-8305de4939dd,2025-03-27 11:09:48.137130+00:00,cohere,command-r-08-2024,0,5580.0,353.0,"Solar,wind,biomass,nuclear,geothermal,overhydroelectric,coal,naturalgas."

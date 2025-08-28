@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+0a65c1e5-5715-41f3-ab75-2b38956c43cf,2025-04-02 10:31:32.098191+00:00,meta,llama3.3:70b,0,4460,241,Environmental concerns outweigh development needs
+e94e9a6e-2a72-4a21-b6cf-633d79bc7353,2025-04-02 10:31:53.087647+00:00,meta,llama3.3:70b,0,4460,239,Environment over development
+30e038a8-0fe5-493c-b73a-9a89339b21ef,2025-04-02 11:10:59.589415+00:00,meta,llama3.3:70b,0,4457,240,Environmental concerns prioritized
+57c15570-2eb8-4f44-92bf-fccf4b33c3fc,2025-04-02 11:11:13.215303+00:00,meta,llama3.3:70b,0,4457,240,Environmental concerns prioritized
+0563dd85-b2be-4a82-9185-be41ca7e2a21,2025-04-02 11:11:38.786735+00:00,meta,llama3.3:70b,0,4460,240,Environmental protection prioritized
+86a2936b-9ac3-472c-b13f-1da10b114c42,2025-04-02 11:11:55.529735+00:00,meta,llama3.3:70b,0,4460,239,Environment over development
+8e00957e-cae3-4bd1-aa12-0ad0ba37ec35,2025-04-02 11:12:11.492980+00:00,meta,llama3.3:70b,0,4457,241,Environmental concerns outweigh development needs
+9999c861-e649-4252-a386-acfa1769d88a,2025-04-02 11:12:23.155397+00:00,meta,llama3.3:70b,0,4460,240,Environmental concerns prioritized
+026b7ebb-36f0-4dc7-9687-d517e19f26ce,2025-04-02 11:12:36.188617+00:00,meta,llama3.3:70b,0,4460,242,Environmentally conscious choices prioritized
+d0da9f7f-5af3-4db6-943b-c7bb2a0a733a,2025-04-02 11:12:55.611582+00:00,meta,llama3.3:70b,0,4460,240,Environmental concerns prioritized
+17865031-49b4-496b-a8cb-4bd0bd0d5c63,2025-04-02 11:13:06.869951+00:00,meta,llama3.3:70b,0,4460,242,Environmentally friendly options prioritized
+f9247e44-ee21-4d0f-89f6-bc363c819e39,2025-04-02 11:13:26.057252+00:00,meta,llama3.3:70b,0,4457,242,Environmentally conscious decisions prioritized
+3702e3c4-c68a-4849-80aa-c88907dc75a4,2025-04-02 11:13:36.150611+00:00,meta,llama3.3:70b,0,4460,242,Environmentally friendly options prioritized
+a3b45b1a-c761-4d54-bd5c-deb402476bec,2025-04-02 11:13:55.319617+00:00,meta,llama3.3:70b,0,4460,240,Environmental concerns prioritized
+2b9243a8-2758-441f-bad3-e74b8df826ad,2025-04-02 11:14:08.016472+00:00,meta,llama3.3:70b,0,4460,242,Environmentally friendly options prioritized
+188b2a6c-e81c-4321-bfb0-4fecb4f1f5a2,2025-04-02 11:14:34.879991+00:00,meta,llama3.3:70b,0,4460,241,Environmental concerns outweigh development needs
+bc179642-fb37-4013-971d-32c18f0695c7,2025-04-02 11:14:47.627021+00:00,meta,llama3.3:70b,0,4460,240,Environmental concerns prioritized
+0a1b8fa4-a1e0-473f-994c-db8550c0e956,2025-04-02 11:14:58.221957+00:00,meta,llama3.3:70b,0,4460,242,Environmentally friendly options prioritized
+43cac5d9-88cb-4add-8f3c-d868f7777fc5,2025-04-02 11:15:15.948560+00:00,meta,llama3.3:70b,0,4460,241,Environmental concerns outweigh development needs
+73134e7c-c914-4ddc-b5dc-39dad518108b,2025-04-02 11:15:36.776387+00:00,meta,llama3.3:70b,0,4460,242,Environmentally friendly options prioritized
+78c371ef-f853-4fec-84dc-039d6f209b6c,2025-04-02 11:15:45.650619+00:00,meta,llama3.3:70b,0,4457,240,Environmental concerns prioritized
+82038622-9cc4-48e6-87cc-e52254b83c23,2025-04-02 11:16:01.794346+00:00,meta,llama3.3:70b,0,4460,241,Environmental concerns outweigh development needs
+26fe7168-f3ca-4cad-811d-9c8bd76773fa,2025-04-02 11:16:19.328622+00:00,meta,llama3.3:70b,0,4460,242,Environmentally friendly options prioritized
+d781fcba-5202-4765-9185-39308a76bad0,2025-04-02 11:16:34.509383+00:00,meta,llama3.3:70b,0,4460,240,Environmental concerns prioritized
+8cac43d5-b385-4535-ad3d-5324875ef17e,2025-04-02 11:16:55.795176+00:00,meta,llama3.3:70b,0,4460,242,Environmentally friendly options prioritized
+67e2e76b-096a-4838-ad1b-987163b8c51f,2025-04-02 11:17:08.100923+00:00,meta,llama3.3:70b,0,4460,240,Environmental concerns prioritized
+9258ffbb-c941-4090-a066-62a79880e0b7,2025-04-02 11:17:24.024102+00:00,meta,llama3.3:70b,0,4460,242,Environmentally friendly options prioritized
+13e9ca14-2f8a-44b8-85ba-1f047d25d83e,2025-04-02 11:17:37.553074+00:00,meta,llama3.3:70b,0,4457,240,Environmental concerns prioritized
+c56ead03-47d9-42e2-9493-02b2f6f3360a,2025-04-02 11:17:59.858499+00:00,meta,llama3.3:70b,0,4460,240,Environmental protection prioritized
+9f71cd33-b48b-4a2b-94d4-661906d27a01,2025-04-02 11:18:11.260421+00:00,meta,llama3.3:70b,0,4460,240,Environmental concerns prioritized
+10dc966b-c4da-467b-9c92-1ea091e77ad7,2025-04-02 11:18:26.740099+00:00,meta,llama3.3:70b,0,4460,240,Environmental concerns prioritized
+88db2fb4-ab7c-44e5-bd04-17de7996519f,2025-04-02 11:18:39.720878+00:00,meta,llama3.3:70b,0,4460,242,Environmentally friendly options prioritized

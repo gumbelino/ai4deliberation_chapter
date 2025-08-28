@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+3857f478-859b-4c7b-b216-df49140fe357,2025-04-28 12:28:45.317802+00:00,xai,grok-3-mini-beta-r=high,0,10661,225,Prioritized environmental protection and climate action over economic growth and status quo.
+50271189-f54f-4f6c-8d76-a2c84385feba,2025-04-28 12:29:12.504591+00:00,xai,grok-3-mini-beta-r=high,0,11730,226,Prioritized environmental protection and climate action over economic development based on threat concerns.
+b0da2f76-87b3-4a83-aff9-ba76b36f4667,2025-04-28 12:29:42.605222+00:00,xai,grok-3-mini-beta-r=high,0,10381,226,Prioritized environmental protection and climate action over economic growth based on prior ratings.
+5150e431-0995-46af-b7a7-084d0ee1cec9,2025-04-28 12:30:10.110027+00:00,xai,grok-3-mini-beta-r=high,0,13982,222,Prioritized policies combating climate change and enhancing reef protection.
+a388d970-67d8-4b71-92b2-05d9387cfeeb,2025-04-28 12:30:44.560573+00:00,xai,grok-3-mini-beta-r=high,0,13968,223,Prioritized environmental and climate actions over policies weakening reef protection.

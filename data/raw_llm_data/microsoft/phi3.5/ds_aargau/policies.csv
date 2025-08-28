@@ -1,0 +1,12 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Leave the policy settings as they are.,P2. Policies that emphasise economic growth over climate change adaptation or mitigation.,P3. Policies that involve a moderate cut in CO2 emissions (at least 25% in over the next 10 years).,P4. Policies that involve a dramatic cut back in CO2 emissions (at least 50% in the next 10 years).,P5. Adaptation policies and expenditure. Planning controls and emergency response programs.,"P6. Adaptation policies that target individual, small business or community-based actions (e.g., support the installation of alternative energy generators, insulation, water use efficiency)",P7. Preparing for climate risk through the development of new approaches and technologies that enhance resilience to the impacts of climate variability or change.
+eeb5eca1-9ed4-4b92-8a2c-dd89dba61b67,2025-03-26 00:40:53.871729+00:00,microsoft,phi3.5,0,0,0,1,7,4,2,3,6,5
+72a8c9f7-4f6e-4be5-8c9d-ada5007d4b60,2025-03-26 00:49:18.414346+00:00,microsoft,phi3.5,0,0,0,3,7,5,2,1,6,4
+774992e3-07ec-4737-b7f5-13314d554d8b,2025-03-26 00:50:06.552514+00:00,microsoft,phi3.5,0,0,0,5,2,1,4,6,3,7
+57688930-8123-4b37-8728-d7917b1bed11,2025-03-26 00:53:46.392320+00:00,microsoft,phi3.5,0,0,0,6,3,1,5,4,2,7
+06b22506-7606-447a-8d5a-50eddfb69bee,2025-03-26 00:54:17.800998+00:00,microsoft,phi3.5,0,0,0,6,7,3,2,5,4,1
+68852ed3-e58b-4ec4-bd46-630b1ce001fc,2025-03-26 00:54:41.649255+00:00,microsoft,phi3.5,0,0,0,5,7,2,4,1,6,3
+e41ac8a9-9c4d-43dd-b555-7da99e0a5961,2025-04-04 14:38:06.453458+00:00,microsoft,phi3.5,0,0,0,3,6,5,2,7,1,4
+5c9e0232-1d00-4a9f-8f80-5f6bf6777384,2025-04-04 14:38:18.116474+00:00,microsoft,phi3.5,0,0,0,6,7,4,2,1,5,3
+aae47b4f-30ff-4559-a266-ae0d77171d98,2025-04-04 14:38:39.566998+00:00,microsoft,phi3.5,0,0,0,4,2,5,3,6,7,1
+f04e9059-dedf-42ff-8295-c420bbb11a0e,2025-04-04 14:40:29.485618+00:00,microsoft,phi3.5,0,0,0,5,7,3,1,2,6,4
+0f6c0618-cef2-4630-ae8b-4ca17fda67d0,2025-04-04 14:41:03.881185+00:00,microsoft,phi3.5,0,0,0,3,1,4,5,2,7,6

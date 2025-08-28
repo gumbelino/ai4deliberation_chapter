@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+51a1d163-9db4-4274-8a1a-ec5d97cba8f3,2025-03-20 11:01:15.316830+00:00,google,gemini-2.0-flash,0,3941,258,"Safety and efficiency are paramount, heritage is secondary but should be considered."
+890c4db9-4d0d-46e7-a393-986f425c20e9,2025-03-20 11:01:20.090612+00:00,google,gemini-2.0-flash,0,3941,258,Safety and heritage are key; new bridge with retained section is best.
+8c7484de-9d94-48b9-a1a9-f264b0e4b7a5,2025-03-20 11:01:24.734271+00:00,google,gemini-2.0-flash,0,3941,260,Safety and efficiency are paramount; heritage is secondary but should be considered where viable.
+96c359ba-9c14-41bc-8095-d05e79fdee83,2025-03-20 11:01:28.949796+00:00,google,gemini-2.0-flash,0,3941,260,Safety and function are key; heritage is secondary but should be considered where viable.
+e8832c34-00e2-48a9-893e-31b6c816eade,2025-03-20 11:01:33.742815+00:00,google,gemini-2.0-flash,0,3935,258,"Safety and function are key, heritage is secondary, new bridge with pedestrian access preferred."
+4520b53c-5692-44ac-8d6b-7af71712805a,2025-03-20 11:01:37.945978+00:00,google,gemini-2.0-flash,0,3941,263,"Safety, traffic flow, and long-term solutions are prioritized, with heritage considered where viable."
+bd004e22-60ca-46b7-a938-8ec969c6572c,2025-03-20 11:01:42.702291+00:00,google,gemini-2.0-flash,0,3937,257,"Safety and efficiency are paramount; retain heritage where viable, but prioritize function."
+23bb4b14-8523-4d60-8daa-4c20dd7580a3,2025-03-20 11:01:47.258824+00:00,google,gemini-2.0-flash,0,3939,259,Safety and efficiency are paramount; heritage is secondary but should be considered where viable.
+68fe9a64-0859-49af-9710-72b270f41508,2025-03-20 11:01:51.945395+00:00,google,gemini-2.0-flash,0,3941,260,Safety and function are key; heritage is secondary but should be considered where viable.
+ffe1a5b5-7bed-4672-92b2-3dee17e33bd5,2025-03-20 11:01:56.683593+00:00,google,gemini-2.0-flash,0,3941,259,Safety and environment are key; a new bridge with heritage retention is best.
+0a823b20-45e2-46d1-971d-b5794e60c3a9,2025-03-25 13:54:56.925137+00:00,google,gemini-2.0-flash,0,3941,261,Safety and efficiency are paramount; heritage is important but not at the expense of functionality.
+7dd7659a-ca04-413d-9aa8-4bcacb641856,2025-03-25 13:55:00.732881+00:00,google,gemini-2.0-flash,0,3939,262,Safety and heritage are key; new bridge with old preserved for pedestrian/cycle use is best.
+ee5719e5-2b3d-4d14-b7e2-6db53d01f319,2025-03-25 13:55:04.622839+00:00,google,gemini-2.0-flash,0,3941,260,Safety and efficiency are paramount; heritage is secondary but should be considered if viable.
+6349fd10-00f2-4b62-8484-fe20b23385dc,2025-03-25 13:55:07.890820+00:00,google,gemini-2.0-flash,0,3943,261,Safety and function are key; heritage is secondary but should be considered where viable.
+291131f0-ee58-43ba-a2e0-e9a111844d14,2025-03-25 13:55:11.924566+00:00,google,gemini-2.0-flash,0,3935,258,"Safety and function are key, heritage is secondary, new bridge with pedestrian access preferred."
+fa4c7ff9-6964-402d-88d4-58b15c954f6e,2025-03-25 13:55:15.662948+00:00,google,gemini-2.0-flash,0,3939,261,"Safety, access, and long-term solutions are key; heritage is secondary to function."
+f73e0bc8-34ef-4b5c-b617-9c452c2353f0,2025-03-25 13:55:19.567017+00:00,google,gemini-2.0-flash,0,3937,257,"Safety and efficiency are paramount; retain heritage where viable, but prioritize function."
+42a271cb-c3cb-49c1-8e56-30e61c71d663,2025-03-25 13:55:23.338677+00:00,google,gemini-2.0-flash,0,3939,260,Safety and long-term solutions are key; heritage is secondary to function and cost.
+0e2afdad-85c1-4077-b614-575fec0bbff1,2025-03-25 13:55:26.990296+00:00,google,gemini-2.0-flash,0,3941,260,Safety and function are key; heritage is secondary but should be considered where viable.
+8baa8363-211e-4229-a943-fcd3a8b74b7b,2025-03-25 13:55:30.550490+00:00,google,gemini-2.0-flash,0,3941,260,"Safety and environment are key; retain bridge elements where viable, but prioritize function."
+e828c41a-8255-4d2b-afbf-b07e1006adcd,2025-03-27 09:31:48.029330+00:00,google,gemini-2.0-flash,0,3941,260,Safety and efficiency are paramount; heritage is secondary but should be considered where viable.
+1694e15d-0a7e-494c-a541-09b0e90f73d1,2025-03-27 09:31:51.657038+00:00,google,gemini-2.0-flash,0,3941,258,Safety and heritage are key; new bridge with retained section is best.
+f761695a-19dd-4c44-bf46-13f523bd306c,2025-03-27 09:31:55.372586+00:00,google,gemini-2.0-flash,0,3941,260,Safety and efficiency are paramount; heritage is secondary but should be considered where viable.
+58e98bf3-c1fe-4b26-beb3-0d5d30e57172,2025-03-27 09:31:58.679054+00:00,google,gemini-2.0-flash,0,3943,261,Safety and function are key; heritage is secondary but should be considered where viable.
+2a7aa1dc-b483-4bd3-8f8c-f44b42a3bccc,2025-03-27 09:32:02.448132+00:00,google,gemini-2.0-flash,0,3939,256,"Safety and efficiency are paramount, heritage is secondary but worth considering."
+9de0d86c-336e-469f-8c90-27f7373d9dbe,2025-03-27 09:32:05.727379+00:00,google,gemini-2.0-flash,0,3941,263,"Safety, traffic flow, and long-term solutions are prioritized, with heritage considered where viable."
+523c8567-049e-46f9-a728-b1110c963465,2025-03-27 09:32:09.501970+00:00,google,gemini-2.0-flash,0,3937,257,"Safety and efficiency are paramount; retain heritage where viable, but prioritize function."
+539f9faa-37fb-467f-a473-a72b437adabf,2025-03-27 09:32:13.102901+00:00,google,gemini-2.0-flash,0,3939,259,Safety and efficiency are paramount; heritage is secondary but should be considered where viable.
+76d86b82-1ce9-4418-a5a6-40f1156c5a73,2025-03-27 09:32:16.747222+00:00,google,gemini-2.0-flash,0,3943,259,Safety and function are key; retain some heritage but prioritize modern needs.
+6e6b05ba-a314-47f5-a16c-4b431854fb8c,2025-03-27 09:32:20.494331+00:00,google,gemini-2.0-flash,0,3941,264,"Safety and long-term solutions are key, heritage is important but not at the expense of function."

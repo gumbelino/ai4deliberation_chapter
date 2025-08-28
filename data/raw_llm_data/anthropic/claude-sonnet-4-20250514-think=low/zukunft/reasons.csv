@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d43aaaaa-2216-4561-bb82-290b95e74e73,2025-05-29 14:57:40.829174+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,4448,1335,Prioritized expanding services and addressing root causes over maintaining status quo or reducing care
+d04b3ea8-5321-4d10-9e10-565082026ebd,2025-05-29 14:58:13.599256+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5669,2273,Ranked policies expanding mental health access and addressing social barriers highest
+efcee8fc-2e09-4893-b079-7f233d31d72a,2025-05-29 14:59:05.076531+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,4951,1768,Favored addressing social factors and awareness campaigns while opposing service reductions
+bbaec676-53cf-4db9-b26c-377399e73968,2025-05-29 14:59:48.429881+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5356,1989,Ranked by addressing root socioeconomic causes first then expanding services over cuts
+101aa043-9594-4b3a-9846-c753ce93e61d,2025-05-29 15:00:38.917803+00:00,anthropic,claude-sonnet-4-20250514-think=low,0,5130,1911,I prioritized integrated holistic care then moderate approaches over major funding changes or cuts.

@@ -1,0 +1,19 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Increase the power unione,P2. Leave things things as they are,P3. Go ahead with the amalgamation as proposed,P4. Postpone the amalgamation
+55da1638-1463-48ed-975a-16b92a214cac,2025-03-25 15:18:23.293417+00:00,mistralai,open-mistral-7b,0,4690,281,4,2,3,1
+797b986a-d530-4f19-a301-a9b62b280f79,2025-03-27 13:17:41.680371+00:00,mistralai,open-mistral-7b,0,4700,278,1,3,2,4
+9ccafb2f-6d52-4a62-a77f-bfebcd7adbff,2025-03-27 13:17:45.717211+00:00,mistralai,open-mistral-7b,0,4680,273,2,3,4,1
+61824cdd-1500-4bac-acd5-0fbc9612bb51,2025-03-27 13:17:51.717545+00:00,mistralai,open-mistral-7b,0,4686,276,2,3,4,1
+32aa74c8-6f7c-41b1-8f8b-3a7f4152fa29,2025-03-27 13:17:58.062531+00:00,mistralai,open-mistral-7b,0,4688,277,1,4,3,2
+5b3ed302-a55d-4636-8c81-56fb053494e7,2025-03-27 13:18:06.995169+00:00,mistralai,open-mistral-7b,0,4708,276,3,1,4,2
+9b39d7e9-651b-4df4-b1f6-b89f3be0deee,2025-03-27 13:22:39.293397+00:00,mistralai,open-mistral-7b,0,4688,275,4,2,1,3
+2afaff2c-eb7b-41bd-919a-863448090631,2025-03-27 13:27:22.343610+00:00,mistralai,open-mistral-7b,0,4688,278,2,4,1,3
+62198d2a-752d-4181-9568-792fd9e3801f,2025-03-27 13:27:26.755966+00:00,mistralai,open-mistral-7b,0,4682,278,1,2,3,4
+ee25c38f-d945-4c23-b3ba-7456470c9292,2025-03-27 13:32:19.368582+00:00,mistralai,open-mistral-7b,0,4688,282,3,4,1,2
+3963d461-20d7-46c8-9015-20f695745681,2025-04-03 08:35:55.354880+00:00,mistralai,open-mistral-7b,0,4676,275,3,4,2,1
+2b16fd25-4acc-4778-af08-f14d95fc650d,2025-04-03 08:36:02.163251+00:00,mistralai,open-mistral-7b,0,4672,268,1,2,4,3
+5769231f-1338-4c80-aa5f-6b83fd86dc19,2025-04-03 08:36:11.184916+00:00,mistralai,open-mistral-7b,0,4686,293,3,2,1,4
+9cc4fb31-df52-44e7-aed9-a142bed64b54,2025-04-03 08:41:10.466812+00:00,mistralai,open-mistral-7b,0,4674,274,1,2,3,4
+a8981d63-dfdd-42a9-8cf9-850e05e6e67e,2025-04-03 08:41:14.251857+00:00,mistralai,open-mistral-7b,0,4692,283,4,3,1,2
+8fcb7aed-53bb-40f4-8267-7cb64784d96e,2025-04-03 08:52:52.040145+00:00,mistralai,open-mistral-7b,0,4706,290,2,3,1,4
+964e4d5e-b4ed-4e4d-8cf2-c312f7628be1,2025-04-03 08:57:46.160534+00:00,mistralai,open-mistral-7b,0,4686,268,3,2,4,1
+822e4557-be07-406b-b0e1-b5aaae71049f,2025-04-04 13:20:12.032891+00:00,mistralai,open-mistral-7b,0,4688,274,2,4,1,3

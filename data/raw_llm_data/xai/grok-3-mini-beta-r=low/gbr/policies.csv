@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,"P1. Invest in innovation and the development of environmentally-friendly practices and industries (e.g. eco-tourism, sustainable agriculture). ",P2. Reduce funding for extractive and resource-intensive industries. ,"P3. No new coal mines, close all existing coal-fired power plants as soon as possible.","P4. Strengthen environmental protection regulations, such as regulation around mining and agriculture, to better protect the reef.",P5. Maintain current levels of environmental protection.,P6. Reduce current environmental regulations to boost local business.,"P7. Maintain current mixture of industries, land uses and practices (e.g. mining, refineries, agriculture and tourism)."
+dd3ff8b9-22b9-4d50-8521-f53c1d19d53e,2025-04-28 10:59:29.955872+00:00,xai,grok-3-mini-beta-r=low,0,9511,222,3,4,1,2,5,7,6
+9f3c8240-b197-410c-b2ea-ca271acbe215,2025-04-28 11:00:00.417531+00:00,xai,grok-3-mini-beta-r=low,0,9300,225,3,4,1,2,5,7,6
+c93d14af-e499-47e3-90eb-fc63f8131ff9,2025-04-28 11:00:36.139050+00:00,xai,grok-3-mini-beta-r=low,0,9193,225,3,4,1,2,5,7,6
+bb01e2ec-0c3f-48fd-9ab7-9c0649055c20,2025-04-28 11:01:05.261448+00:00,xai,grok-3-mini-beta-r=low,0,8819,222,3,4,2,1,5,7,6
+85e558a0-72ee-4653-a91e-23a4830d4e08,2025-04-28 11:01:33.291706+00:00,xai,grok-3-mini-beta-r=low,0,8717,223,3,4,2,1,5,7,6

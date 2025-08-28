@@ -1,0 +1,40 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+fd4f38f2-bac7-4141-b339-4dd94dfbced8,2025-03-20 15:24:30.545358+00:00,mistralai,mistral-small-latest,0,4790,326,Prioritize renewables and nuclear. Avoid coal and gas. Geothermal and biomass are promising.
+d1ac4a8f-3905-4d36-884c-88d1fd0e02d9,2025-03-20 15:24:47.472937+00:00,mistralai,mistral-small-latest,0,4798,322,Prioritize renewables and hydro. Avoid coal. Nuclear and gas are acceptable.
+60a4d6fe-12a8-442e-adca-fe1a3a4bcee9,2025-03-20 15:24:54.443010+00:00,mistralai,mistral-small-latest,0,4796,320,"I prioritize renewable and sustainable energy sources, avoiding fossil fuels and risky technologies."
+a67ee8d7-5881-403e-987b-099c0f99ff6d,2025-03-20 15:25:01.552037+00:00,mistralai,mistral-small-latest,0,4796,320,I prioritize renewable energy and conservation. I am cautious about nuclear and coal.
+25e98ef9-5968-4f56-ad6a-d10600317960,2025-03-20 15:25:14.297057+00:00,mistralai,mistral-small-latest,0,4796,317,I prioritize renewable energy and conservation over fossil fuels and nuclear.
+34e53361-507a-48ae-8c81-8c5e3e7bdbb1,2025-03-20 15:25:21.452732+00:00,mistralai,mistral-small-latest,0,4796,322,"I prioritize renewable energy and conservation, with hydroelectric and solar being the most favorable."
+b6a7391b-d6a1-43d3-97f0-625925bfe0bd,2025-03-20 15:25:28.397325+00:00,mistralai,mistral-small-latest,0,4790,321,I prioritize renewable energy and conservation. I am skeptical of coal and geothermal.
+ee07a53f-6db9-4e89-8c0c-88292d56c0b1,2025-03-25 14:19:49.935380+00:00,mistralai,mistral-small-latest,0,4802,326,Prioritize nuclear and geothermal for reliability and low emissions. Avoid coal and wind.
+7812108b-160b-43d8-abe0-6fd3b432ca00,2025-03-25 14:19:54.767240+00:00,mistralai,mistral-small-latest,0,4794,322,I prioritize renewable energy and conservation. I am skeptical of coal and nuclear.
+c126ad77-6e89-41d9-b614-b0d41529fa85,2025-03-25 14:20:01.344781+00:00,mistralai,mistral-small-latest,0,4796,330,"I prioritize renewable energy, with a focus on solar, hydroelectric, and wind. I am cautious about nuclear and coal."
+4343616f-3e39-4eca-97e2-be2715ba2f51,2025-03-25 14:20:06.183235+00:00,mistralai,mistral-small-latest,0,4802,326,"I prioritize renewable and low-emission energy sources, with a focus on safety and sustainability."
+435eb894-0124-412f-ae16-393d6921e788,2025-03-25 14:20:10.285643+00:00,mistralai,mistral-small-latest,0,4796,329,Prioritize renewables and nuclear. Avoid coal. Natural gas is a bridge. Hydroelectric is reliable.
+28eb928c-e59e-4d55-b35a-961a43df5933,2025-03-25 14:20:18.035503+00:00,mistralai,mistral-small-latest,0,4798,320,Prioritize renewables and conservation. Avoid fossil fuels and risky technologies.
+43411b53-bb9a-4989-83d9-be4b92b17c26,2025-03-25 14:20:35.012536+00:00,mistralai,mistral-small-latest,0,4798,319,I prioritize renewable energy and conservation over fossil fuels and risky technologies.
+2b13a30f-a835-4740-a5c6-7d28d961f48e,2025-03-25 14:20:40.271560+00:00,mistralai,mistral-small-latest,0,4794,323,I prioritize renewable energy and conservation. I am skeptical of coal and natural gas.
+a02303cc-e214-43eb-90e2-37d5ec800b70,2025-03-25 14:20:45.106047+00:00,mistralai,mistral-small-latest,0,4796,325,Prioritize renewables and nuclear. Avoid coal and gas. Wind is best for conservation.
+2a36f98f-a595-405a-9bd9-ebc8e9fc4469,2025-03-25 14:20:50.083864+00:00,mistralai,mistral-small-latest,0,4796,321,"I prioritize renewable and low-emission sources, with a focus on proven technologies."
+ee4c3393-5724-4f54-8616-6318ceaa509d,2025-03-25 14:20:54.438175+00:00,mistralai,mistral-small-latest,0,4796,315,Prioritize reducing emissions and supporting reliable energy sources.
+2a10aeb2-02be-4119-b505-f85feb062731,2025-03-25 14:20:59.534016+00:00,mistralai,mistral-small-latest,0,4798,319,"Prioritize renewables and nuclear, avoid coal and natural gas."
+3f11434a-b29b-46d8-adaf-ec4342bba47a,2025-04-01 13:16:22.170994+00:00,mistralai,mistral-small-latest,0,4798,322,Prioritize renewable energy and conservation. Avoid coal. Nuclear is acceptable.
+9122c717-e484-4136-8ba3-3417441cc303,2025-04-01 13:16:26.987757+00:00,mistralai,mistral-small-latest,0,4796,322,"I prioritize proven, low-emission technologies. I am skeptical of coal and biomass."
+e88bf2ab-52b2-4f6d-879b-3021d16878a1,2025-04-01 13:16:33.372431+00:00,mistralai,mistral-small-latest,0,4800,323,I prioritize renewable energy sources and conservation. I am skeptical of coal and nuclear.
+87ad053b-984a-40f6-b741-d6dd1eae85dc,2025-04-01 13:16:39.702239+00:00,mistralai,mistral-small-latest,0,4798,319,"Prioritize conservation and renewables, avoid fossil fuels and nuclear."
+0d9b3cb0-8d95-4cbb-9741-fbd4199f9e00,2025-04-01 13:16:48.623037+00:00,mistralai,mistral-small-latest,0,4796,322,"Prioritize renewable and low-emission sources, avoid coal, and support proven technologies."
+5cd24088-d8f8-458d-85ef-52d578b4008b,2025-04-01 13:16:52.818724+00:00,mistralai,mistral-small-latest,0,4796,317,I prioritize renewable energy and conservation over fossil fuels and nuclear.
+c0a22a42-a026-43bb-a147-625d9d59b313,2025-04-01 13:16:57.777268+00:00,mistralai,mistral-small-latest,0,4800,322,"I prioritize renewable energy and conservation, avoiding risky or unsustainable options."
+c61d300e-fe33-4ed4-9635-026524eacac1,2025-04-01 13:17:03.153676+00:00,mistralai,mistral-small-latest,0,4796,323,"Prioritize renewable energy, especially solar. Support nuclear and biomass. Avoid coal."
+070b2aa5-a6c8-45d5-b310-3955eaa169be,2025-04-01 13:17:08.325966+00:00,mistralai,mistral-small-latest,0,4798,319,Prioritize renewables and conservation over fossil fuels and risky technologies.
+fc5b31f9-c214-448d-9553-5954499c5cc1,2025-04-01 13:17:13.848433+00:00,mistralai,mistral-small-latest,0,4790,320,"I prioritize renewable and low-emission sources, avoiding coal and natural gas."
+677675c0-4564-4ee8-98b6-3ea6d91081e0,2025-04-01 13:17:18.616643+00:00,mistralai,mistral-small-latest,0,4800,322,Prioritize renewable and low-emission sources. Avoid coal and uncertain technologies.
+197f072f-6bd0-4078-a8f8-0e90b6bf8838,2025-04-01 13:17:23.431254+00:00,mistralai,mistral-small-latest,0,4798,327,Prioritize renewables and geothermal. Avoid coal. Natural gas is a bridge. Nuclear is acceptable.
+718c4290-3bad-4602-978d-4c9bc26978ed,2025-04-01 13:17:30.078543+00:00,mistralai,mistral-small-latest,0,4798,322,"I prioritized renewable and low-emission sources, while avoiding coal and natural gas."
+68a3d21e-b0f3-48cb-a6df-6591b3c36b47,2025-04-01 13:17:34.069903+00:00,mistralai,mistral-small-latest,0,4796,322,"I prioritize renewable and low-emission sources, avoiding risky or unsustainable options."
+1ddfe3f8-beda-44b9-8b7b-0de8f03e255c,2025-04-01 13:17:39.610841+00:00,mistralai,mistral-small-latest,0,4798,320,Prioritize renewables and conservation. Avoid coal and uncertain technologies.
+3818eab2-3d97-465e-9505-224934fd41c8,2025-04-01 13:17:45.072455+00:00,mistralai,mistral-small-latest,0,4798,332,"I prioritize renewable and low-emission sources, with hydroelectric and biomass at the top. I am skeptical of coal and nuclear."
+86b7ffc6-045e-4f10-8305-3fbbdf3dbc26,2025-04-01 13:17:50.509384+00:00,mistralai,mistral-small-latest,0,4796,319,"I prioritize renewable and low-emission sources, avoiding coal and nuclear."
+3a122711-85a2-4c5f-898c-6c2d9e7c46c5,2025-04-01 13:17:54.606246+00:00,mistralai,mistral-small-latest,0,4796,319,"Prioritize renewables, support natural gas and nuclear, avoid coal."
+6504e746-7935-421d-bcc0-c7debd6b9405,2025-04-01 13:18:01.810972+00:00,mistralai,mistral-small-latest,0,4796,321,"I prioritize renewable and sustainable energy sources, with hydroelectric being the most favored."
+5b6e500c-e2e5-458f-aeed-3d902964d534,2025-04-01 13:18:06.106407+00:00,mistralai,mistral-small-latest,0,4800,323,I prioritize renewable energy and conservation. I am skeptical of coal and natural gas.

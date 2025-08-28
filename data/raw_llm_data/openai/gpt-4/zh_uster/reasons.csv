@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+913d496b-a6ae-457b-96cc-43bbe01e0b13,2025-03-26 08:02:45.432533+00:00,openai,gpt-4,0,3336,206,I prioritize climate change mitigation and adaptation over economic growth and current policy settings.
+deee1d54-f11a-4903-8168-25dca18790f7,2025-04-01 10:29:24.635134+00:00,openai,gpt-4,0,3336,205,I prioritize policies that aggressively cut CO2 emissions and enhance climate resilience.
+48d7ba30-c0c3-4ce1-8aea-66090fe1b503,2025-04-01 10:29:34.881143+00:00,openai,gpt-4,0,3336,207,I prioritize policies that focus on climate change adaptation and significant CO2 emission reductions.
+6957f822-8836-4bf0-8516-80836fa46ce0,2025-04-01 10:29:43.544589+00:00,openai,gpt-4,0,3336,206,I prioritize policies that focus on reducing CO2 emissions and enhancing climate resilience.
+dc5aa499-7f0c-4a88-b8fa-a619814aff64,2025-04-01 10:29:55.697757+00:00,openai,gpt-4,0,3336,207,I prioritize policies that focus on significant CO2 reduction and community-based adaptation actions.
+4e5c74ed-355f-4a65-bcc5-8eb37ebc0bdb,2025-04-01 10:30:04.765891+00:00,openai,gpt-4,0,3336,206,"I prioritize aggressive emission cuts, adaptation policies, and resilience over economic growth."
+0f845093-3792-4d41-bab2-5864068a0f15,2025-04-03 16:55:45.692201+00:00,openai,gpt-4,0,3336,204,I prioritize aggressive CO2 reduction and adaptation policies over economic growth.
+f9be9728-15df-4572-86c4-2a6fd7750f20,2025-04-03 16:55:55.542226+00:00,openai,gpt-4,0,3336,206,I prioritize policies that aggressively cut CO2 emissions and enhance climate change adaptation.
+4b661b71-af0e-4751-9e72-be5bb6f06e61,2025-04-03 16:56:09.597309+00:00,openai,gpt-4,0,3336,206,I prioritize policies that focus on drastic CO2 reduction and climate risk preparation.
+4ea4741c-3ce2-435d-b47e-d5c86383d022,2025-04-03 16:56:20.599981+00:00,openai,gpt-4,0,3336,206,I prioritize policies that cut CO2 emissions and support adaptation and resilience measures.
+51f18723-6d82-49ec-9ac8-b32369751987,2025-04-08 09:19:43.206756+00:00,openai,gpt-4,0,3336,205,I prioritize policies that significantly reduce CO2 emissions and enhance climate resilience.
+c02b8ed5-96cc-48f5-a72a-7c3c38d8865b,2025-04-08 09:19:54.373076+00:00,openai,gpt-4,0,3336,203,I prioritize aggressive emission cuts and adaptation policies over economic growth.
+055a9f19-d928-4a4e-8959-844ffc757b43,2025-04-08 09:20:06.291113+00:00,openai,gpt-4,0,3336,207,"I prioritize policies that focus on dramatic emission cuts, adaptation, and resilience development."
+f2cc903d-d3b7-4cb1-9dda-c0c631736898,2025-04-08 09:20:15.885297+00:00,openai,gpt-4,0,3336,204,I prioritize policies that focus on drastic emission cuts and climate resilience.
+b0bade63-8ef5-4986-a657-437cc7d79777,2025-04-08 09:20:26.318323+00:00,openai,gpt-4,0,3336,207,I prioritize policies that focus on climate change adaptation and significant CO2 emissions reduction.
+8e784dde-5ada-419e-92dd-b9aff5cb60ea,2025-04-08 09:20:37.433739+00:00,openai,gpt-4,0,3336,207,I prioritize policies that focus on significant CO2 reduction and community-based adaptation actions.
+26a9cbec-8eb0-4aa7-a47a-daf6149f3add,2025-04-08 09:20:54.103474+00:00,openai,gpt-4,0,3336,207,I prioritize aggressive emission cuts and adaptation strategies over maintaining current policies or economic growth.
+9e307d34-8593-4f7e-be59-fd88ad16f1f8,2025-04-08 09:21:04.534864+00:00,openai,gpt-4,0,3336,209,"I prioritize policies that focus on climate resilience, CO2 reduction, and community-based actions."
+eb6b5a07-aa8f-43c1-aeb2-35519cd1ee5d,2025-04-08 09:21:15.988560+00:00,openai,gpt-4,0,3336,204,"I prioritize adaptation and moderate emission cuts, while maintaining economic growth."
+2e15b1f2-6f91-4a83-822b-285037bc2b13,2025-04-08 09:21:26.424909+00:00,openai,gpt-4,0,3336,206,"I prioritize drastic emission cuts, resilience technologies, and individual/community-based actions."
+c9998646-c66b-4291-abbf-bae5f53179f0,2025-04-08 09:21:39.326425+00:00,openai,gpt-4,0,3336,206,I prioritize policies that focus on reducing CO2 emissions and enhancing climate resilience.
+14074904-b389-436d-adb2-d30f537d358d,2025-04-08 09:21:52.866187+00:00,openai,gpt-4,0,3336,207,I prioritize policies that focus on climate change adaptation and significant CO2 emissions reduction.
+eac1b7e7-9fa7-4a9b-902a-bc65b42989d7,2025-04-08 09:22:03.270822+00:00,openai,gpt-4,0,3336,206,I prioritize policies that focus on reducing CO2 emissions and enhancing climate resilience.
+2b4ef527-d769-46f8-96f3-d9921777b4a4,2025-04-08 09:22:14.569330+00:00,openai,gpt-4,0,3336,206,I prioritize aggressive emission cuts and adaptation policies over economic growth or status quo.
+3a995cac-e634-4384-9be9-9f2c37c3a988,2025-04-08 09:22:26.233320+00:00,openai,gpt-4,0,3336,206,I prioritize policies that cut CO2 emissions and enhance resilience to climate impacts.
+0075fabf-5af2-40da-9ec0-09065c8eb8d0,2025-04-08 09:22:37.192089+00:00,openai,gpt-4,0,3336,205,"I prioritize aggressive emission cuts, community-based actions, and resilience technologies."
+994f6bea-85c8-473e-a95c-11d6ee33f9b9,2025-04-08 09:22:47.842496+00:00,openai,gpt-4,0,3336,207,"I prioritize policies that enhance resilience, support adaptation, and reduce CO2 emissions."
+c01c29eb-cc65-47c6-94ea-ac21c3f7ed3e,2025-04-08 09:22:59.806666+00:00,openai,gpt-4,0,3336,204,I prioritize policies that focus on significant emission reductions and climate resilience.
+91b170c7-0cb7-46e1-a629-a3d6c2665eb3,2025-04-08 11:52:54.551310+00:00,openai,gpt-4,0,3336,206,I prioritize policies that focus on reducing emissions and enhancing resilience to climate impacts.
+af488227-6779-45cf-8d97-ac883380e719,2025-04-08 11:53:07.257791+00:00,openai,gpt-4,0,3336,203,I prioritize aggressive emission cuts and adaptation policies over economic growth.

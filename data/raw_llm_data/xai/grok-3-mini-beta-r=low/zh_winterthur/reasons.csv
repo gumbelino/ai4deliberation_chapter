@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+6ee12a72-df95-453f-b922-2a8b0a5a0119,2025-04-28 10:33:57.079599+00:00,xai,grok-3-mini-beta-r=low,0,8963,197,"I support policies promoting sustainable incentives and research most, opposing deregulation and status quo."
+72ac3b65-2970-410a-a3f0-a1b79a420e6c,2025-04-28 10:34:25.829367+00:00,xai,grok-3-mini-beta-r=low,0,9685,192,I prioritized incentives and research over radical changes and deregulation.
+543efd69-4c64-4da2-9fb5-afb1d98cc3d8,2025-04-28 10:34:59.770468+00:00,xai,grok-3-mini-beta-r=low,0,9533,200,"I support incentives and moderate regulations for sustainable food production most, as they balance environment and practicality."
+ff7569c9-05ac-4aec-b236-ef7fdb41a7f0,2025-04-28 10:35:34.039252+00:00,xai,grok-3-mini-beta-r=low,0,9067,195,I support incentives and research for sustainable progress over radical or lax policies.
+3fc50557-2062-4337-b6b4-6018208f2dcd,2025-04-28 10:36:05.396478+00:00,xai,grok-3-mini-beta-r=low,0,9586,196,I prioritized sustainable incentives and moderate regulations based on my support for environmental actions.

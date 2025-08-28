@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d339f53a-e05a-4f1e-9981-5c8e57b7175b,2025-05-22 14:14:17.849334+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,6221,1888,Prioritize reef protection and climate action through sustainable development and stronger regulations.
+55800aee-a831-4a2f-8123-244e9b3cfb9f,2025-05-22 14:14:49.981893+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,5793,1700,Prioritized immediate climate action and reef protection over maintaining or expanding fossil fuels.
+ac7389f9-5c7c-4f41-8a47-afdf3b550b93,2025-05-22 14:15:19.333681+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,4798,1063,Prioritized reef protection and climate action through innovation and stronger regulations.
+7de49e6c-c4f9-4edf-b515-9dff4087a2d3,2025-05-22 14:15:40.351925+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,6195,1926,Favored reef protection through innovation and stronger regulations over economic status quo.
+65e09ccd-5d02-4e9a-84bf-c9b0082a005e,2025-05-22 14:25:59.583403+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,5302,1337,Prioritize sustainable development and reef protection while transitioning away from harmful industries.

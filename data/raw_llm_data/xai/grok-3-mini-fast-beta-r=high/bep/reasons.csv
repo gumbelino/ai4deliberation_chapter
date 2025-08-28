@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+24c12401-1d8b-4bff-b66f-c2e1dab0ca6b,2025-05-21 12:23:17.447169+00:00,xai,grok-3-mini-fast-beta-r=high,0,14555,267,Ranked policies based on strong support for climate adaptation and sustainability from prior ratings.
+89853736-4d01-4698-9f09-35e045b05a5e,2025-05-21 12:23:48.841364+00:00,xai,grok-3-mini-fast-beta-r=high,0,15397,264,Prioritized sustainable incentives and moderate regulations over radical changes and inaction.
+2123eb77-0566-40de-acaf-ea595d24129e,2025-05-21 12:24:24.470318+00:00,xai,grok-3-mini-fast-beta-r=high,0,13652,270,"Ranked policies favoring sustainability, adaptation, and incentives most, while least supporting deregulation and inaction."
+e01a191f-d0ff-44c1-9989-91bf2b911bb2,2025-05-21 12:24:55.127034+00:00,xai,grok-3-mini-fast-beta-r=high,0,13383,268,"Prioritized moderate sustainability and adaptation policies for balance, disliking inaction and deregulation."
+3d1a3dea-e36f-41d3-890e-d6c55ec876ca,2025-05-21 12:25:22.941523+00:00,xai,grok-3-mini-fast-beta-r=high,0,14558,263,Prioritized sustainable incentives and adaptation over deregulation and radical changes.

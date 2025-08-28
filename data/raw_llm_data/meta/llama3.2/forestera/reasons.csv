@@ -1,0 +1,37 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+1d6741ed-6faf-4f34-bb75-2dae9938721e,2025-03-20 17:42:10.045759+00:00,meta,llama3.2,0,0,0,Prioritizing ecological values over economic gain.
+5b5e0e5c-35b4-48ca-a3e8-23d6701fc398,2025-03-20 17:42:20.934024+00:00,meta,llama3.2,0,0,0,Prioritize ecological and social values over economic gain.
+ed74955f-dbc2-4f63-a011-63e333722f94,2025-03-20 17:42:31.831965+00:00,meta,llama3.2,0,0,0,Prioritize ecological restoration and wildlife protection over economic gain.
+d9d39248-2589-4c42-8a29-71e86ac87062,2025-03-20 17:42:55.762946+00:00,meta,llama3.2,0,0,0,Ratings reflect prioritizing ecological restoration over economic gain and local control.
+690a4820-6988-4d8a-99ae-eeab531263aa,2025-03-20 17:43:13.070745+00:00,meta,llama3.2,0,0,0,Prioritize ecological and social balance over economic gains.
+1be8b00d-9f57-4a92-afcc-68b570d65611,2025-03-20 17:43:45.700241+00:00,meta,llama3.2,0,0,0,Ranking options from most to least supported by my previous ratings.
+36617445-ba83-429f-ae4c-9fbad890685f,2025-03-20 17:53:29.835046+00:00,meta,llama3.2,0,0,0,Prioritizing ecological and social values over economic gain.
+d98c2a21-c907-4a15-88e7-a12bf9cd77b0,2025-03-20 17:53:47.846824+00:00,meta,llama3.2,0,0,0,"Prioritizing local, adaptive management over strict protection and aggressive fuels reduction."
+4f36f069-2f1d-44f3-8891-f29bbf1d30c3,2025-03-20 17:54:05.239363+00:00,meta,llama3.2,0,0,0,"Prioritize restoring ecosystems, with emphasis on fire as natural disturbance."
+7614341f-5cb5-49f2-9d5c-701ab61b6ee4,2025-03-20 17:54:37.684012+00:00,meta,llama3.2,0,0,0,Prioritize ecological and social balance over reduction of fuels.
+d8b2fd7a-8422-4d88-9242-180e90b3d81c,2025-03-20 17:54:54.580800+00:00,meta,llama3.2,0,0,0,Prioritizing ecological balance and local needs over economic gain.
+c15e78c1-ce1b-41cd-8c2b-2d13560e3264,2025-03-20 17:55:30.643592+00:00,meta,llama3.2,0,0,0,Higher ranks prioritize ecological balance and local needs over fuel reduction and economic gain.
+0832573a-76e1-4436-99d6-d13fc1cf19cf,2025-03-27 14:40:22.298512+00:00,meta,llama3.2,0,0,0,Prioritize ecosystem balance over economic gain and special interests.
+bdd75840-895f-4b2d-b8a8-dbdb6d345aaa,2025-03-27 14:40:31.737583+00:00,meta,llama3.2,0,0,0,Prioritize ecological balance and community needs over economic gain.
+673bd9c8-9da5-4a75-bc83-6af61096121c,2025-03-27 14:40:41.216172+00:00,meta,llama3.2,0,0,0,Prioritize ecological restoration over economic gain and public protection.
+90598fe1-260b-4132-a336-39c3b630c16f,2025-03-27 14:40:59.247237+00:00,meta,llama3.2,0,0,0,Aggressive fuels reduction favored over economic gain and thinning.
+99523018-9160-4093-8f44-9e86493878b2,2025-03-27 14:41:08.748929+00:00,meta,llama3.2,0,0,0,Prioritize ecological balance and public land management.
+efc9d634-e043-4670-a74c-82976ccea578,2025-03-27 14:41:26.748909+00:00,meta,llama3.2,0,0,0,"Thinning projects benefit communities, while others prioritize ecological and social values over economic gain."
+91bf0a92-5442-4988-b533-33c4b1507f8b,2025-03-27 15:18:11.689803+00:00,meta,llama3.2,0,0,0,Prioritizing ecosystem function and local needs over wildlife protection and fuel reduction.
+2075b33e-95a6-48f8-afa2-9ecd952aa77b,2025-03-27 15:18:21.361858+00:00,meta,llama3.2,0,0,0,Prioritize ecological balance and restoration over economic gain.
+02f70f78-fe39-4144-b1c5-be6aa70c8d90,2025-03-27 15:18:30.827546+00:00,meta,llama3.2,0,0,0,"Policies favoring restoration and social values ranked highest, followed by economic gain."
+571deedf-d30f-4cd5-b8ac-47852cda4a77,2025-03-27 15:18:40.425156+00:00,meta,llama3.2,0,0,0,Restoration-focused management gains top priority over thinning for economic gain and aggressive fire suppression.
+14201001-3222-4608-bac2-cd5a5c5a3715,2025-03-27 15:18:58.490009+00:00,meta,llama3.2,0,0,0,Prioritize ecosystem health and balance economic needs with environmental concerns.
+3ce85a5a-7ce5-4716-9261-a95de82fdfd3,2025-03-27 15:19:07.950163+00:00,meta,llama3.2,0,0,0,Restoring forests to presettlement conditions is the most supported policy with thinning second.
+035081b2-b571-4eaa-9e8b-d238a6b4b736,2025-03-27 15:19:17.581443+00:00,meta,llama3.2,0,0,0,Supported policies prioritize ecological balance and local needs over strict protection.
+c579e7a3-e020-451e-8f4d-50a169248620,2025-03-27 15:19:35.490129+00:00,meta,llama3.2,0,0,0,Prioritize ecosystem restoration over economic gain and social interests.
+db6c4bae-b073-418d-8edc-d05d92ecf550,2025-03-27 15:19:44.873471+00:00,meta,llama3.2,0,0,0,Prioritize ecosystem health over economic gain and social values.
+c3efc60c-625d-4b50-97cd-e9842d7e418c,2025-03-27 15:19:54.375013+00:00,meta,llama3.2,0,0,0,Prioritize ecological and social values over economic gain and protection of wildlife.
+6295e21c-cced-4a08-9939-735a22f1020a,2025-03-27 15:20:04.085055+00:00,meta,llama3.2,0,0,0,Prioritize ecological values over economic gains and social considerations.
+e98ce9bd-d13d-403f-ac10-6d370f333ea7,2025-03-27 15:20:13.596783+00:00,meta,llama3.2,0,0,0,Prioritize ecosystem function over economic gain and social values.
+980e6928-9a0a-4fe0-9a44-5399f482076f,2025-03-27 15:20:23.093176+00:00,meta,llama3.2,0,0,0,Prioritizing ecosystem function over economic gain and local interests.
+ea03cf1e-2b92-4569-b11d-9d31d4f48872,2025-03-27 15:20:33.180448+00:00,meta,llama3.2,0,0,0,Prioritizing natural conditions and ecosystem balance over economic gain.
+96538d1e-a832-4309-8a49-866d8b4df855,2025-03-27 15:20:42.884578+00:00,meta,llama3.2,0,0,0,Prioritizing ecological and social values over fuel reduction and economic gain.
+ed1a116f-3f63-47ab-9f94-146c8ba8444a,2025-03-27 15:20:52.710433+00:00,meta,llama3.2,0,0,0,Prioritizing ecosystem restoration and local values over economic gain and fire suppression.
+dfd015f2-48a7-4278-9758-4c4f40bccbe9,2025-03-27 15:21:02.371445+00:00,meta,llama3.2,0,0,0,Prioritize ecological and social values over economic gain.
+e8190241-5bdd-4ee0-91c7-0e99d4d1dfb1,2025-03-27 15:21:12.090207+00:00,meta,llama3.2,0,0,0,Prioritizing ecological and social values wins over economic gains.

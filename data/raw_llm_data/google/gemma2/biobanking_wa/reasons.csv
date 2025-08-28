@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d2a87b4c-e6b3-45e5-8c1c-649ae046712d,2025-03-21 08:04:12.228584+00:00,google,gemma2,0,0,0,Prioritize individual privacy and stringent government oversight for biobanks.
+44080580-493d-46ed-b63f-eb0a4e325458,2025-03-21 08:04:39.788931+00:00,google,gemma2,0,0,0,Prioritize individual privacy and control over data while ensuring government oversight and ethical considerations.
+684e1a87-ae1f-4e59-86f7-b45645ed8a01,2025-03-21 08:05:06.838979+00:00,google,gemma2,0,0,0,Strong individual privacy with government oversight preferred over minimal regulation.
+11fde8c8-2fc0-4ee4-a62d-a7d9a48a0afe,2025-03-21 08:05:33.809036+00:00,google,gemma2,0,0,0,Publicly funded biobanks with strong privacy protections and oversight are best.
+7e926803-edf3-49d2-84c0-58846b1c4696,2025-03-21 08:06:01.300031+00:00,google,gemma2,0,0,0,Publicly funded biobanks with strong regulation and individual privacy are preferred.
+0ea4bf4c-ad83-4e50-8730-b02cf4d9b4a7,2025-03-21 08:06:28.978865+00:00,google,gemma2,0,0,0,Prioritizing individual privacy and control over data while allowing for some private sector involvement.
+21f18bf6-a16b-4792-977c-77e475847c4c,2025-03-21 08:06:56.778182+00:00,google,gemma2,0,0,0,Prioritize public funding and strong regulation with individual privacy protection.
+eed121c2-7ef6-42b5-a578-a22ecc7ba43a,2025-03-21 08:07:24.144463+00:00,google,gemma2,0,0,0,"Prioritize privacy and regulation, but acknowledge potential public funding benefits."
+ba284b6c-7f9e-46c2-a709-731b809aa2a3,2025-03-21 08:08:18.992790+00:00,google,gemma2,0,0,0,Prioritize individual privacy and public oversight of biobanks with strong regulations.

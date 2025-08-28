@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+767c4af3-0707-4f0e-919c-557b38836633,2025-03-21 20:59:33.401889+00:00,openai,gpt-4o-mini,0,4199,283,"I support regulated non-heritable editing, prioritize safety, and oppose broad prohibitions."
+a7db1e6c-8ab3-45a2-b542-920916726632,2025-03-21 20:59:40.854092+00:00,openai,gpt-4o-mini,0,4194,282,I support regulated clinical use of genome editing while opposing unrestricted or profit-driven applications.
+05b35fa4-6dd2-4b11-aaad-9326a222be15,2025-03-21 20:59:47.406545+00:00,openai,gpt-4o-mini,0,4199,281,I support regulated non-heritable editing while opposing unrestricted heritable genome editing.
+a9db59c6-2d14-4509-9944-9262cfdbbab5,2025-03-21 20:59:55.083233+00:00,openai,gpt-4o-mini,0,4196,282,I support regulated clinical use of genome editing while opposing unrestricted or profit-driven applications.
+2bd2af28-c6fb-4643-859a-6a1ee2b8b453,2025-03-21 21:00:03.283747+00:00,openai,gpt-4o-mini,0,4199,284,"I support regulated genome editing for safety, prioritizing ethical oversight and non-heritable options."
+fb3588d6-6d36-4f97-b8b7-1ed332852829,2025-03-21 21:00:11.270133+00:00,openai,gpt-4o-mini,0,4199,282,I support regulated clinical use of genome editing while opposing unrestricted or profit-driven applications.
+f86cfd03-0130-4129-863d-942d6bccfa1b,2025-03-21 21:00:19.050999+00:00,openai,gpt-4o-mini,0,4199,283,"I support regulated genome editing for safety, while opposing total prohibitions and profit motives."
+79aad25f-f5d0-45a3-8473-db8f315ee563,2025-03-21 21:00:28.677117+00:00,openai,gpt-4o-mini,0,4199,281,"I support cautious regulation of genome editing, prioritizing safety and ethical considerations."
+76174ef7-0ea0-40ab-ad6d-8075eb57fbab,2025-03-21 21:00:36.250347+00:00,openai,gpt-4o-mini,0,4199,284,"I favor limited, non-heritable editing with oversight, prioritizing safety and ethical concerns."
+bdfa7430-545c-4116-a291-d11b90c4a8ef,2025-03-21 21:00:45.263655+00:00,openai,gpt-4o-mini,0,4199,282,"I support limited genome editing with strong oversight, prioritizing safety and ethical standards."
+54b46908-2e96-4cb5-92b0-473018270535,2025-03-21 21:00:53.352043+00:00,openai,gpt-4o-mini,0,4199,282,I support regulated clinical use of genome editing while opposing unrestricted or profit-driven applications.
+b481c502-8a73-4acf-b63c-dab8b868af57,2025-03-21 21:01:00.523088+00:00,openai,gpt-4o-mini,0,4199,282,"I support regulated genome editing for safety, while opposing profit-driven or unrestricted use."
+f21071e9-daff-4935-9c6e-c17797087c8a,2025-03-21 21:01:07.794617+00:00,openai,gpt-4o-mini,0,4196,280,I support oversight and safety in genome editing while prioritizing ethical considerations.
+e2ad2b8d-bce8-4302-9daf-a6fe647dd5a5,2025-03-21 21:01:14.141060+00:00,openai,gpt-4o-mini,0,4197,281,I prioritize oversight and safety while allowing beneficial uses of genome editing for health.
+cced476d-84c0-434d-983b-e28dd5d2e8c9,2025-03-21 21:01:20.664943+00:00,openai,gpt-4o-mini,0,4199,284,"I support regulated non-heritable editing, oppose unrestricted heritable editing, and prioritize safety."
+f6d791c1-5faa-4057-ad96-79655b63d134,2025-03-21 21:01:28.028483+00:00,openai,gpt-4o-mini,0,4199,280,I prioritized oversight and safety while allowing some flexibility in genome editing policies.
+a33215fe-4f01-4f6d-b791-e1e838b78d5d,2025-03-21 21:01:35.855105+00:00,openai,gpt-4o-mini,0,4197,281,I support regulated genome editing for health but oppose unrestricted or profit-driven uses.
+99ee552d-1621-4458-9bc3-e5b48240e745,2025-03-21 21:01:42.711604+00:00,openai,gpt-4o-mini,0,4199,282,I support oversight and safety in genome editing while prioritizing non-heritable options.
+3f518ab4-23e7-4de0-a22d-80f31d9f33af,2025-03-21 21:01:50.346993+00:00,openai,gpt-4o-mini,0,4199,282,"I support regulated genome editing for safety, prioritizing ethical standards and community input."
+b1302952-65d7-4930-a0c6-13c8bd06ab25,2025-03-21 21:01:57.460286+00:00,openai,gpt-4o-mini,0,4199,284,"I support regulated non-heritable editing, prioritizing safety and ethical oversight over unrestricted use."
+ebf21a2a-ca9e-49bc-b11a-3784e3b2f277,2025-03-28 07:01:01.515070+00:00,openai,gpt-4o-mini,0,4199,282,I support regulated clinical use of genome editing while opposing profit-driven or unrestricted applications.
+dcc4bb26-3bd1-4c68-aeea-603b6f6e2365,2025-03-28 07:01:12.429485+00:00,openai,gpt-4o-mini,0,4199,282,I support regulated non-heritable editing while opposing unrestricted or all heritable uses.
+703ad196-96bc-4062-8363-d2a46fc44c40,2025-03-28 07:01:27.375235+00:00,openai,gpt-4o-mini,0,4199,281,I support regulated clinical use of genome editing while opposing unrestricted or total bans.
+ed20ffb0-1412-4375-9ce9-4a337042e9c3,2025-03-28 07:01:34.512375+00:00,openai,gpt-4o-mini,0,4199,283,"I support limited, safe genome editing with oversight while opposing broad or prohibitive measures."
+0b69c94c-55ca-4efe-8d35-64df7d281bab,2025-03-28 07:01:40.806977+00:00,openai,gpt-4o-mini,0,4199,282,I favor oversight and safety in genome editing while opposing unrestricted use and profit motives.
+6b1c8c67-7795-48a6-8970-c2a8f073ab1f,2025-03-28 07:01:49.455056+00:00,openai,gpt-4o-mini,0,4199,282,I favor oversight and safety in genome editing while opposing unrestricted or profit-driven uses.
+5473ac98-3737-439c-be93-fc3543894e7e,2025-03-28 07:01:57.354388+00:00,openai,gpt-4o-mini,0,4196,282,I support regulated clinical use of genome editing while opposing unrestricted or profit-driven applications.
+235a917b-965a-4a2b-8b5b-dec70cf590f4,2025-03-28 07:02:05.566648+00:00,openai,gpt-4o-mini,0,4199,282,I support regulated clinical use of genome editing while opposing unrestricted or profit-driven applications.
+cd043d48-9ad7-47e3-9952-3143e04015dc,2025-03-28 07:02:14.062357+00:00,openai,gpt-4o-mini,0,4199,282,I support oversight and safety in genome editing while prioritizing non-heritable options.
+96b6962f-6dbf-4535-86df-8fcea45bf266,2025-03-28 07:02:22.567660+00:00,openai,gpt-4o-mini,0,4199,282,"I support regulated non-heritable editing for treatment, oppose unrestricted heritable editing."
+e61602e7-f194-47ac-b7eb-b929f9548ed6,2025-03-28 07:02:30.192562+00:00,openai,gpt-4o-mini,0,4199,284,"I support regulated genome editing for safety and ethics, prioritizing clinical uses over prohibitions."
+d5f1cff8-cff3-417d-acbb-c1c0cf5bc86a,2025-03-28 07:02:38.956395+00:00,openai,gpt-4o-mini,0,4199,280,I support cautious approaches to genome editing prioritizing safety and ethical oversight.

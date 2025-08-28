@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+e9dbff34-127a-4240-9de6-f983974006e7,2025-03-20 16:56:35.429960+00:00,mistralai,open-mistral-nemo,0,3483,223,"Prioritize mitigation, support adaptation"
+3054b572-c33e-4a46-b09f-80c9d017f4bf,2025-03-20 16:56:46.962083+00:00,mistralai,open-mistral-nemo,0,3483,227,"Prioritize adaptation, moderate reduction, leave status quo"
+f407eb48-3140-4093-9f2e-94e63153e68b,2025-03-20 16:56:54.542295+00:00,mistralai,open-mistral-nemo,0,3483,223,"Adapt locally, reduce emissions moderately"
+6b421ef8-191b-49e3-8e13-1a8f2724f673,2025-03-20 16:57:01.057557+00:00,mistralai,open-mistral-nemo,0,3483,231,"Prioritize radical emission cuts, adapt, innovate; reject status quo"
+0be3f170-df74-45dd-a654-302c7fc718c3,2025-04-02 16:18:16.526666+00:00,mistralai,open-mistral-nemo,0,3483,229,"Prioritize radical emission reduction, support individual adaptation"
+52020de0-4584-4107-b052-9328f2395a3f,2025-04-02 16:18:20.272396+00:00,mistralai,open-mistral-nemo,0,3483,230,"Prioritize adaptation and innovation, prefer moderate emission reduction"
+cb731d59-9152-450d-96ec-8cce92242801,2025-04-02 16:18:23.835839+00:00,mistralai,open-mistral-nemo,0,3483,231,"Prioritize adaptation, moderate mitigation, avoid economic growth focus"
+2921608f-8a45-4916-8683-6115e143a8ce,2025-04-02 16:18:31.699587+00:00,mistralai,open-mistral-nemo,0,3483,230,"Prioritize radical emission cuts, adapt, innovate"
+001e9fd9-3db6-4ded-83ff-a5ddd2b798a7,2025-04-02 16:18:36.055164+00:00,mistralai,open-mistral-nemo,0,3483,228,"Prioritize adaptation, prefer moderate emission reduction"
+b3012b49-fa99-4487-bd29-1c60532c29a4,2025-04-02 16:18:39.398270+00:00,mistralai,open-mistral-nemo,0,3483,232,"Prioritize adaptation, reduce emissions moderately, avoid economic growth focus"
+818ecf42-1063-49af-a2fc-7c5694bf6151,2025-04-02 16:41:22.130931+00:00,mistralai,open-mistral-nemo,0,3483,233,"Mitigate now, adapt later; avoid inaction and growth over climate"
+d0c99e8c-6da6-411a-932b-13f8d4a2ca06,2025-04-02 16:41:25.746657+00:00,mistralai,open-mistral-nemo,0,3483,232,"Prioritize radical reduction, support individual action, prepare for risk"
+6a444d9e-7e4b-45b4-a81b-bda110ebeb6d,2025-04-02 16:41:29.118227+00:00,mistralai,open-mistral-nemo,0,3483,231,"Preferred moderate emission reduction, tech & resilience, least economic growth"
+1700330b-ab8b-4cb8-92b4-94393c365847,2025-04-02 16:41:33.322523+00:00,mistralai,open-mistral-nemo,0,3483,234,"Radical reduction, prepare, adapt, maintain, grow, emergency, individual"
+f8fc9c37-5603-4f94-9a62-4cd3009ccde3,2025-04-02 16:41:37.793361+00:00,mistralai,open-mistral-nemo,0,3483,228,Mitigation > Adaptation > Status Quo
+1e47b687-909f-4dba-ba9a-b80a2b8c4138,2025-04-02 16:41:41.539245+00:00,mistralai,open-mistral-nemo,0,3483,224,Support adaptation & strong mitigation
+45a6054d-622e-4af0-af47-10ffd1035962,2025-04-02 16:41:44.798499+00:00,mistralai,open-mistral-nemo,0,3483,230,"Prioritize emission reduction, adapt, then innovate"
+cd6fa392-b311-450a-992c-6ddd597d914c,2025-04-02 16:41:48.320741+00:00,mistralai,open-mistral-nemo,0,3483,229,"Support local action, reduce emissions, oppose status quo"
+11a400f6-c50a-42a8-839e-a2ec3f3b0df5,2025-04-02 16:41:52.384509+00:00,mistralai,open-mistral-nemo,0,3483,230,"Prioritize adaptation, moderate emission cuts, individual actions"
+d8c229cc-b5c8-44ae-9b35-174f8f81756a,2025-04-02 16:41:56.586270+00:00,mistralai,open-mistral-nemo,0,3483,228,Prioritize reduction & resilience over status quo
+6759d996-6ca3-49c3-9548-e8240d407f32,2025-04-02 16:41:59.901174+00:00,mistralai,open-mistral-nemo,0,3483,227,Prioritize moderate emission reduction and adaptation
+98263644-0542-4fcd-8f3c-0e1d26fe5bcd,2025-04-02 16:42:03.399143+00:00,mistralai,open-mistral-nemo,0,3483,235,"Support individual actions, tech, moderate cuts, oppose status quo, growth over climate"
+7428bbc7-3f1f-4ce5-a898-f9e488ab509a,2025-04-02 16:42:07.254112+00:00,mistralai,open-mistral-nemo,0,3483,228,"Adapt, moderate cut, radical cut last"
+45a867fd-1e67-4067-a28b-ef552ace200b,2025-04-02 16:42:11.233155+00:00,mistralai,open-mistral-nemo,0,3483,230,"Prioritized adaptation, moderate reduction, left policy settings"
+afa38df0-d343-4bcb-b746-39e8206e89eb,2025-04-02 16:42:16.997020+00:00,mistralai,open-mistral-nemo,0,3483,233,"Prioritize individual, community actions; prepare for risks; moderate emissions"
+430b90c0-212f-4929-b1a8-949cc986b7d8,2025-04-02 16:42:24.108375+00:00,mistralai,open-mistral-nemo,0,3483,240,"Support local action, tech, planning; oppose status quo, growth, moderate cuts; prefer radical emissions reduction"
+07c4c76d-5441-4f59-be08-b6eddab783c0,2025-04-02 16:42:30.782414+00:00,mistralai,open-mistral-nemo,0,3483,228,"Radical emission cuts most important, adaptation next"
+74c29b4f-9cbc-47c9-ba4c-c1bd9ba729ba,2025-04-02 16:42:34.305646+00:00,mistralai,open-mistral-nemo,0,3483,232,"Preferred radical emission cuts, adaptation, innovation; least: economic growth"
+27117d73-a943-42c0-9b2c-cc7f50f86558,2025-04-02 16:42:37.969201+00:00,mistralai,open-mistral-nemo,0,3483,228,"Prioritize radical emission cuts, support adaptation"
+b78aa333-e3c5-4b91-9723-7bf8bc0797e7,2025-04-02 16:42:41.322697+00:00,mistralai,open-mistral-nemo,0,3483,234,"Prioritize radical reduction, adapt, innovate; avoid economic growth focus"

@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+95c8f9e4-561b-4d41-9029-f34c64b416a8,2025-04-02 10:31:33.276100+00:00,google,gemma2:27b,0,4935,322,"Prioritize ecological and social values, protect wildlife, and restore forest health through balanced approaches."
+0b80b726-2294-4fa5-8e2d-86cd9fa7299f,2025-04-02 10:31:45.891257+00:00,google,gemma2:27b,0,4937,322,Prioritize balanced management for ecological and social values while allowing for local use and restoration.
+ca68f9a8-4811-43f0-b028-a250e6cb24cb,2025-04-02 10:54:48.380597+00:00,google,gemma2:27b,0,4925,318,"Prioritize balance of ecological and social values, minimal intervention, and fire's natural role."
+650ac211-f5f8-4a0f-9c1b-be1ade44b1e8,2025-04-02 10:54:57.068216+00:00,google,gemma2:27b,0,4937,321,I favor ecological restoration with fire and local harvesting while balancing social and wildlife needs.
+c323d7af-4713-4a4f-bd89-a201c00398e1,2025-04-02 10:55:06.920963+00:00,google,gemma2:27b,0,4933,321,"Prioritize ecological and social values, support local harvesting, balance wildlife protection with fuel reduction."
+e9e6b833-304e-46eb-b0e2-ed3231875c38,2025-04-02 10:55:20.005315+00:00,google,gemma2:27b,0,4941,322,"Prioritize balanced approach considering ecology, social values, and wildfire risk reduction."
+8abdb9da-a2cb-4be8-b85e-8dc910b73f93,2025-04-02 10:55:29.071717+00:00,google,gemma2:27b,0,4935,327,"Prioritize balance of ecological and social values, restoration, and local needs over solely economic or hands-off approaches."
+d39c73cb-c290-45db-88f3-15968441aa67,2025-04-02 10:55:39.611414+00:00,google,gemma2:27b,0,4931,318,I favor restoring forests to presettlement conditions and prioritize ecological values over economic gain.
+459c92ea-42ef-4ca5-84f1-e316032d55dd,2025-04-02 10:55:54.141136+00:00,google,gemma2:27b,0,4931,318,"Prioritize balanced management, favoring ecological and social values while allowing for natural processes."
+f1b76bea-02cb-4ef8-9df3-2dd1b4ec79e1,2025-04-02 10:56:03.130124+00:00,google,gemma2:27b,0,4927,316,"Prioritize balanced management considering ecology, society, and local needs over extreme approaches."
+504e832f-7de0-4bc6-a405-29f4aac61413,2025-04-02 10:56:12.971435+00:00,google,gemma2:27b,0,4938,324,"Prioritize balanced management, favoring local needs and wildlife while allowing for restoration and fire."
+959c4ac6-345e-4b15-b450-e755c76fb558,2025-04-02 10:56:22.686264+00:00,google,gemma2:27b,0,4939,323,"Prioritize ecological and social values, minimize economic gain, balance wildlife protection with restoration."
+52ca3ccf-c70a-4a72-a051-49c221296a5f,2025-04-02 10:56:32.077854+00:00,google,gemma2:27b,0,4937,319,"Prioritize balanced approach considering ecology, social values, and responsible use."
+85b1a6b3-d900-4d53-ab80-eb355a7d42d5,2025-04-02 10:56:39.675296+00:00,google,gemma2:27b,0,4924,316,"Prioritize ecological and social values, restore presettlement conditions, minimize human intervention."
+4285e3dd-0487-47af-82f6-6ee3edae0d8d,2025-04-02 10:56:47.338837+00:00,google,gemma2:27b,0,4933,319,"Prioritize balanced management considering ecology, society, and local needs over extreme approaches."
+c2dc4259-9167-4b65-9aa7-12d56133c901,2025-04-02 10:56:55.170253+00:00,google,gemma2:27b,0,4931,319,Prioritize ecological restoration with balanced social considerations over purely economic or hands-off approaches.
+7d03b918-f6f1-4ca6-b079-d21d7a237ad0,2025-04-02 10:57:06.390153+00:00,google,gemma2:27b,0,4929,321,"Prioritize balanced ecological and social values, favoring restoration and local use over aggressive fuel reduction or inaction."
+9ebe0579-1efc-46b4-82e9-568a8b608387,2025-04-02 10:57:16.976233+00:00,google,gemma2:27b,0,4932,320,Prioritize ecological and social values in forest management while allowing for sustainable local use.
+63abc55c-a0fc-4e6b-8734-4eb265ae5198,2025-04-02 10:57:26.739327+00:00,google,gemma2:27b,0,4935,321,"Prioritize balanced management, wildlife protection, and local needs over aggressive thinning or inaction."
+784ee34c-4f36-492f-8dee-3257eab3197d,2025-04-02 10:57:35.523773+00:00,google,gemma2:27b,0,4929,316,Prioritize ecological restoration with social considerations while minimizing economic gain and avoiding inaction.
+7cf4a693-affa-4831-afc1-879aae3d7ffa,2025-04-02 10:57:44.164932+00:00,google,gemma2:27b,0,4931,317,I favor restoring forests to presettlement conditions while balancing ecological and social values.
+fbbd31cd-327f-4215-9159-7709cec8a6bb,2025-04-02 10:58:00.144291+00:00,google,gemma2:27b,0,4927,312,Prioritize ecological restoration with consideration for social values and wildlife.
+e30a3b6f-dc97-42cb-8a4a-066dfa0491aa,2025-04-02 10:58:11.456115+00:00,google,gemma2:27b,0,4929,317,"Prioritize balance of ecological and social values, with wildlife protection as top priority."
+73936c0b-4714-49cf-8d73-478900c7eb53,2025-04-02 10:58:23.581796+00:00,google,gemma2:27b,0,4926,314,"Balance of ecology, community needs, and responsible management is key."
+f0497789-230a-4d7a-b329-15d9b192b7ab,2025-04-02 10:58:35.275509+00:00,google,gemma2:27b,0,4929,318,"Prioritize balanced approach considering ecology, social values, and local needs over extreme solutions."
+5aba9f9e-54d7-4cec-b3bf-ae3aae078c93,2025-04-02 10:58:43.683754+00:00,google,gemma2:27b,0,4935,319,"Balance of ecological and social values is key, prioritizing community and habitat protection."
+a445e561-75fd-4430-9052-ed632c928d15,2025-04-02 10:58:54.906947+00:00,google,gemma2:27b,0,4938,320,Prioritize balanced management for ecological and social values over extreme approaches.
+0d37ea4b-71c1-4003-abe8-5d25d66295d6,2025-04-02 10:59:03.178975+00:00,google,gemma2:27b,0,4931,318,Prioritize balanced management for ecological and social values over purely economic or extreme approaches.
+4dc6d1ed-01b0-4c70-8bc8-fcc3dda0eea7,2025-04-02 10:59:12.620896+00:00,google,gemma2:27b,0,4933,316,"Balance of ecology, social values, and sustainable use is key."
+4d59c9ec-cb93-4f05-be26-4ce8661f2415,2025-04-02 10:59:20.577786+00:00,google,gemma2:27b,0,4931,319,"Prioritize balance of ecological and social values, with wildlife protection and restoration as key."

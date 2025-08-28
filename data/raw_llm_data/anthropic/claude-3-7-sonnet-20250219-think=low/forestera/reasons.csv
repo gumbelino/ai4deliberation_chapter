@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+aca24aa4-1d17-4f33-aeca-6c7de173a981,2025-05-22 13:33:23.100630+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,6438,1546,I prioritize balanced ecological-social approaches over purely economic or hands-off management.
+e0ef9939-62ab-4ff5-898f-f06e369ad974,2025-05-22 13:50:56.719617+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,6098,1467,"Prioritized proactive fuel reduction with ecological restoration, while valuing local input and opposing passive management."
+3892bc57-38b3-424c-89df-9a16dfce1826,2025-05-22 13:51:24.314817+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,7443,2169,"I prioritize ecological restoration with natural fire, balanced with social needs, over single-focus approaches."
+fede71e4-5023-434e-a7a0-298394789a03,2025-05-22 13:52:00.889199+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,8004,2379,I prioritize balanced approaches that integrate ecological health with community needs over purely economic ones.
+afadab51-988e-45ad-95ce-343fbc7674db,2025-05-22 13:52:43.261166+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,6669,1609,I prioritize balanced ecological-social approaches over purely economic or hands-off management.

@@ -1,0 +1,18 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,"P1. There are too many mental health services in Switzerland, and they should be reduced.","P2. There are enough mental health services in Switzerland, and funding should remain as it is.",P3. Initiatives focused on improving the socioeconomic conditions of disadvantaged people should be implemented to address mental health disparities.,P4. Private mental health clinics should receive more government funding to allow more people to access them.,P5. There should be more public awareness campaigns that empower people to seek mental health support and destigmatize help-seeking behaviors.,"P6. There should be more integrated mental health clinics that provide a range of services, such as sports or artistic activities in addition to therapy and medication","P7. There are not enough mental health services in Switzerland, so their funding should be increased."
+f23ba696-b7a7-4314-a70f-a5b17e3d866c,2025-03-26 01:03:59.164042+00:00,microsoft,phi3.5,0,0,0,5,6,3,7,4,1,2
+0abb4338-6549-4bbe-944f-04c7b5a9b8e8,2025-03-26 01:04:06.778015+00:00,microsoft,phi3.5,0,0,0,3,5,6,1,7,4,2
+147194dd-86c9-4f10-bad3-5301c6db0c71,2025-03-26 01:04:24.043853+00:00,microsoft,phi3.5,0,0,0,5,2,1,7,4,3,6
+9f580827-6b63-4d59-ad4a-48870491fc2a,2025-03-26 01:04:32.713751+00:00,microsoft,phi3.5,0,0,0,2,5,7,3,6,4,1
+d3363968-d6cc-4d8f-a7e1-1611f310a8c4,2025-03-26 01:04:42.782573+00:00,microsoft,phi3.5,0,0,0,3,5,2,4,7,1,6
+86b81f4e-d2d0-4232-b65d-1a7974e3fa34,2025-03-26 01:12:00.009508+00:00,microsoft,phi3.5,0,0,0,7,6,5,4,3,1,2
+3601a05c-43f9-45cb-81d8-8cf5a277c330,2025-03-26 01:13:06.386391+00:00,microsoft,phi3.5,0,0,0,3,7,5,2,1,4,6
+c7a25ac5-d2b7-4192-b5f3-ed7e5bf41551,2025-03-26 01:13:52.317778+00:00,microsoft,phi3.5,0,0,0,7,2,5,4,1,3,6
+ab99d6d6-cd1c-4a11-a86a-f98ea56b7cdb,2025-03-26 01:14:01.238378+00:00,microsoft,phi3.5,0,0,0,5,7,4,2,6,3,1
+0fd41fb2-9000-4038-8866-fa9257b1f317,2025-04-04 14:45:34.668768+00:00,microsoft,phi3.5,0,0,0,7,2,5,4,6,1,3
+f3678a2d-03d9-49c6-874f-74ec502fa4c2,2025-04-04 14:46:15.706560+00:00,microsoft,phi3.5,0,0,0,7,1,6,2,4,3,5
+92ef3268-c299-4bbc-ae66-1dc879bf6c11,2025-04-04 14:46:32.919193+00:00,microsoft,phi3.5,0,0,0,5,1,7,2,4,3,6
+c3019677-ee82-4df1-8b08-586a2b6f2fa1,2025-04-04 14:46:59.699393+00:00,microsoft,phi3.5,0,0,0,6,5,7,1,4,2,3
+53686bec-89aa-4b5a-8211-237b98a8a125,2025-04-04 14:47:09.741946+00:00,microsoft,phi3.5,0,0,0,3,7,4,2,1,5,6
+afdd09ca-74c9-436e-890d-9c3d8a623117,2025-04-04 14:47:33.932832+00:00,microsoft,phi3.5,0,0,0,3,1,5,4,2,7,6
+e73e6e62-a60b-4346-9ea1-306b1f544246,2025-04-04 14:47:51.978021+00:00,microsoft,phi3.5,0,0,0,2,4,5,7,6,1,3
+505dae87-59bf-4f9a-a13b-d831a778a2c6,2025-04-04 14:49:26.991032+00:00,microsoft,phi3.5,0,0,0,4,7,1,3,2,6,5

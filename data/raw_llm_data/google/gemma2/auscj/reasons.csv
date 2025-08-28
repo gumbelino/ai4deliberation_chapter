@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+a0318a80-c0f5-49c9-bd91-dcc7dc88b1ea,2025-03-21 07:57:45.682075+00:00,google,gemma2,0,0,0,Prioritize non-heritable editing for medical use with strong oversight and public input while researching further.
+0e92213b-a11a-4615-aea6-dec7cd74febd,2025-03-21 07:58:10.433451+00:00,google,gemma2,0,0,0,"Prioritize clinical use with oversight, allowing non-heritable edits for research and treatment while cautiously approaching heritable changes."
+6df0089e-5f68-4156-883a-7a74630aa213,2025-03-21 07:58:34.908932+00:00,google,gemma2,0,0,0,Prioritize safety and ethics with limited heritable editing allowed for medical purposes.
+77ebb6f0-6de3-47f7-93d1-78fa2748ea9a,2025-03-21 07:58:59.098696+00:00,google,gemma2,0,0,0,Prioritize safety and ethical oversight with careful regulation of genome editing for clinical purposes.
+b06f07e7-871a-41db-9124-175473145401,2025-03-21 07:59:22.861776+00:00,google,gemma2,0,0,0,"Prioritize safety and clinical use while allowing research, but oppose unrestricted editing."
+a4d88fa5-0e81-454a-8c00-4bdf467d1e56,2025-03-21 07:59:46.779906+00:00,google,gemma2,0,0,0,Leaning towards regulated clinical use with strong oversight and public input for both heritable and non-heritable genome editing.
+77324ead-9572-42d4-a71f-a458da7b8e30,2025-03-21 08:00:11.159572+00:00,google,gemma2,0,0,0,"Prioritize safety, ethics, and research while allowing therapeutic use of non-heritable editing."
+d22a04f6-82a9-4e37-90c1-4103e6057bc0,2025-03-21 08:00:35.129462+00:00,google,gemma2,0,0,0,Prioritize safety and clinical use with public input while allowing research.
+5134107c-a6d4-4d21-b75a-2f1bd5317799,2025-03-21 08:00:59.022747+00:00,google,gemma2,0,0,0,"Prioritize clinical use with oversight, but allow some non-heritable editing research."
+52105b26-def4-451c-9656-81169ce4021c,2025-03-21 08:01:22.865478+00:00,google,gemma2,0,0,0,"Prioritize safety and ethical oversight with cautious, limited application of genome editing for medical purposes."

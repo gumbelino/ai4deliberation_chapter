@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+63b7073f-85ec-46ea-a992-2afe0f01ab55,2025-04-08 10:13:12.369308+00:00,openai,o1,0,3579,4033,Prioritized bold climate policies and stronger regulations over weaker oversight and status quo.
+f7db8015-c7bf-4f24-af80-bdaef2a07cee,2025-04-08 10:14:45.220368+00:00,openai,o1,0,3579,3391,"Favor green innovation and balanced industries; cautious oversight, minimal regulation cuts."
+c829f37c-386b-4e1e-9e3d-863deb81cea8,2025-04-08 10:19:49.820531+00:00,openai,o1,0,3579,5827,"Prioritize rapid climate action, strong regulations, and green innovation over weaker protections."
+8ee341ca-b1b0-4a2c-b202-0b9e2206f895,2025-04-08 10:31:13.084507+00:00,openai,o1,0,3579,5756,I prioritized policies balancing reef protection and economic development
+54257bc1-a05e-43fb-870a-b47e41e8da5a,2025-04-08 10:33:02.345125+00:00,openai,o1,0,3579,5630,These rankings emphasize immediate climate action and innovation over resource extraction

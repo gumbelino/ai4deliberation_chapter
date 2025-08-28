@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+6a945322-87a7-4edc-8363-f8d0028fd02d,2025-04-02 10:35:07.519629+00:00,google,gemma2:27b,0,3921,251,Balance environmental protection with economic growth through innovation and sustainable practices.
+c46cac26-f43b-434c-8713-aff0eddc4803,2025-04-02 10:35:17.366851+00:00,google,gemma2:27b,0,3921,253,Prioritize eco-friendly innovation and reef protection over extractive industries.
+cb1b40ce-2acb-4053-ae4a-a07399bdf3a8,2025-04-02 11:44:07.800772+00:00,google,gemma2:27b,0,3923,255,Prioritize eco-friendly industries and strong reef protection over current practices and deregulation.
+887bcc5e-bfd6-4a83-9181-abf54b7cf8ce,2025-04-02 11:44:15.181410+00:00,google,gemma2:27b,0,3923,251,Prioritize reef protection and sustainable industries over extractive industries.
+d7281316-2646-4e27-99a7-4b3a3c90cd85,2025-04-02 11:44:30.566795+00:00,google,gemma2:27b,0,3923,253,Prioritize eco-friendly industries and phase out coal for reef protection.
+9d99ada5-3128-41d7-b29e-aaf5dedca650,2025-04-02 11:44:39.698689+00:00,google,gemma2:27b,0,3923,256,Prioritize eco-friendly industries and strong environmental protection for the reef's future.
+4a6c165a-f87d-490a-bff8-6e5e2d25ec63,2025-04-02 11:44:50.031603+00:00,google,gemma2:27b,0,3920,257,Prioritize eco-friendly industries and phase out coal for reef protection while maintaining some regulations.
+bf796abc-72eb-41f3-92cf-0c934d5238ba,2025-04-02 11:44:59.294407+00:00,google,gemma2:27b,0,3923,253,Balance innovation and environmental protection while phasing out coal for a sustainable future.
+dadc83a7-61d0-4ec1-ab7f-0db36ec0836d,2025-04-02 11:45:06.704617+00:00,google,gemma2:27b,0,3921,255,Prioritize eco-friendly innovation and strong environmental protection over current practices and coal.
+139d6425-fc58-4847-bbd1-64bf8cdf87b9,2025-04-02 11:45:23.617824+00:00,google,gemma2:27b,0,3921,251,Prioritize reef protection and sustainable industries over coal and deregulation.
+fe5176ee-e2b1-4edd-b7bb-7a35282b21e9,2025-04-02 11:45:31.635058+00:00,google,gemma2:27b,0,3923,252,Prioritize climate action and reef protection over current industries and regulations.
+e3e9e2a1-0ffc-44e6-baa9-6273bbf4ad74,2025-04-02 11:45:42.369359+00:00,google,gemma2:27b,0,3920,252,Prioritize reef protection and sustainable industries over mining and current practices.
+6ad0d80e-0a01-43c8-95b7-038a02eb74fa,2025-04-02 11:45:49.815805+00:00,google,gemma2:27b,0,3921,251,Prioritize reef protection and renewable energy over extractive industries.
+b76c7b88-ffbe-4213-84eb-d2d2bc9497cc,2025-04-02 11:46:04.325541+00:00,google,gemma2:27b,0,3920,250,Prioritize climate action and reef protection over current industries.
+01431c7b-f956-439b-b83c-0a9083531256,2025-04-02 11:46:14.109133+00:00,google,gemma2:27b,0,3923,252,Prioritize reef protection and renewable energy over mining and current practices.
+4e7fa37b-d5bb-4c58-9649-e842c02740e5,2025-04-02 11:46:23.999947+00:00,google,gemma2:27b,0,3918,251,Prioritize reef protection and sustainable practices over extractive industries.
+d635575e-69da-4b64-8954-5bdee6ff1204,2025-04-02 11:46:32.867146+00:00,google,gemma2:27b,0,3923,254,"Strong environmental protection and innovation are key, while maintaining current practices is unsustainable."
+fc53e609-0f65-4d5f-a373-2b52d43d1ee3,2025-04-02 11:46:41.253717+00:00,google,gemma2:27b,0,3923,251,Prioritize reef protection and sustainable industries over extractive ones.
+e128d3a4-d14f-4381-a3bb-f3ec5cf3803e,2025-04-02 11:46:49.058528+00:00,google,gemma2:27b,0,3923,252,Prioritize reef protection and sustainable industries over mining and current practices.
+c711a4d0-48e5-48ac-8c71-e1ef550d840a,2025-04-02 11:46:56.525397+00:00,google,gemma2:27b,0,3923,257,Prioritize reef protection through strong regulations and phasing out coal while supporting innovation and sustainable practices.
+a529e3a3-744d-4489-997d-f27f6a6b4a6e,2025-04-02 11:47:06.377728+00:00,google,gemma2:27b,0,3921,254,"Strongest support for protecting the reef, even if it means economic impact."
+ecf7ac96-ce24-48c0-8410-f62f5c589dc5,2025-04-02 11:47:16.245148+00:00,google,gemma2:27b,0,3923,253,Prioritize reef protection through innovation and strong regulations while phasing out coal.
+3acc6243-6e56-4b65-85c7-793b15fb44ea,2025-04-02 11:47:25.039970+00:00,google,gemma2:27b,0,3920,252,Prioritize reef protection and sustainable industries over mining and current practices.
+7bee0122-f564-422f-84f1-40302ea9d07c,2025-04-02 11:47:33.932385+00:00,google,gemma2:27b,0,3923,252,Prioritize reef protection and renewable energy over mining and current practices.
+378921df-23f2-4eb5-9fcc-2228c45ad187,2025-04-02 11:47:42.653170+00:00,google,gemma2:27b,0,3920,251,Prioritize reef protection and sustainable industries over extractive ones.
+6498788e-b7fa-4b42-aa28-272735e4a76b,2025-04-02 11:47:52.260071+00:00,google,gemma2:27b,0,3923,255,Prioritize eco-friendly industries and strong reef protection over mining and current practices.
+fd1246a7-272b-4d29-b792-db0559f076d7,2025-04-02 11:48:02.822499+00:00,google,gemma2:27b,0,3923,251,Prioritize reef protection and sustainable industries over extractive industries.
+108f1380-368b-4e3d-b3f6-9af6877b313d,2025-04-02 15:26:45.930952+00:00,google,gemma2:27b,0,3918,259,"Stronger regulations and renewable energy are key, while reducing regulations and funding extractive industries is harmful."
+8b7008e6-5326-4ccd-ae0d-867e6586ba44,2025-04-02 15:26:55.350158+00:00,google,gemma2:27b,0,3920,252,Prioritize reef protection and sustainable industries over mining and current practices.
+316720d8-c131-49a9-a573-417852cdd171,2025-04-02 15:27:02.503994+00:00,google,gemma2:27b,0,3923,251,Prioritize reef protection and sustainable industries over extractive industries.

@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+8a8d4463-8517-4114-9127-fd01111be39d,2025-04-17 10:42:47.331465+00:00,google,gemini-2.0-flash-thinking-exp,0,3318,119,Concerned wants strong action favors adaptation and emissions cuts skeptical individual impact
+b7eabc36-ade0-4842-bb3a-a067c1a85a35,2025-04-17 10:43:07.373599+00:00,google,gemini-2.0-flash-thinking-exp,0,3560,240,"Believe climate change, want strong action and adaptation, dislike inaction."
+605185fd-0f5d-4b5e-81e4-94ef0219c336,2025-04-17 10:43:22.249142+00:00,google,gemini-2.0-flash-thinking-exp,0,3566,244,"Adaptation, moderate cuts, concerned, against inaction/econ focus."
+77fdbdf1-39b6-4a43-a284-593505d35064,2025-04-17 10:43:39.225276+00:00,google,gemini-2.0-flash-thinking-exp,0,3318,117,"Concerned but realistic, prefer moderate action and adaptation."
+e9c25492-167e-4807-9b30-b19eb32f27b8,2025-04-17 10:43:52.934752+00:00,google,gemini-2.0-flash-thinking-exp,0,3564,242,"Climate real, action needed, cuts, adapt, no inaction."
+b8563350-6050-4a25-9197-431fef80933d,2025-04-17 10:44:09.656255+00:00,google,gemini-2.0-flash-thinking-exp,0,3566,243,Concerned want action but skeptical feel helpless and need strong policy.
+05227620-67b2-4efb-847e-b775b757557f,2025-04-17 10:44:26.477107+00:00,google,gemini-2.0-flash-thinking-exp,0,3570,249,"Believes in climate change, action needed, prefers moderate CO2 cuts and adaptation."
+de8346d9-42dd-4c01-8b59-b3f074bf241a,2025-04-17 10:44:41.369333+00:00,google,gemini-2.0-flash-thinking-exp,0,3566,242,"Support strong climate action, prioritize drastic emissions cuts and adaptation."
+2f118979-36a5-4f54-b75a-c009700a878e,2025-04-17 10:45:00.047297+00:00,google,gemini-2.0-flash-thinking-exp,0,3566,240,Believe in strong climate action prioritize emissions cuts and adaptation

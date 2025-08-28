@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+40d8dee1-11fb-4519-b809-47e104b8114d,2025-06-02 02:32:29.643784+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,8577,4320,I prioritized strong regulation and oversight over funding source with public systems preferred
+0926ecdf-9597-410d-a2c6-9a9c76f48812,2025-06-02 02:33:45.044177+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,8496,3850,Prioritized privacy protection and strong oversight while avoiding minimal regulation options
+8c37e996-a800-43c1-8c4e-905800bfece8,2025-06-02 02:34:48.138743+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,8692,4089,"Prioritized privacy and strong regulation over funding source, ranked minimal regulation lowest"
+9784d8c5-d764-464f-b0b7-969ea5ab0ef3,2025-06-02 02:35:56.833885+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,10609,4538,Strong privacy and regulation with public funding ranked highest minimal oversight lowest
+4623077d-7548-4254-a672-f63941a70f94,2025-06-02 02:37:19.578166+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,8990,4761,Prioritized privacy and cautious oversight over funding models and regulatory approaches

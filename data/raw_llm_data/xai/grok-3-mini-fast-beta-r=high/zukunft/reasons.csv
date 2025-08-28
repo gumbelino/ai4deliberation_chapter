@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+77dcaf78-30c8-4ddf-af32-8429d3d63007,2025-05-21 12:21:10.616357+00:00,xai,grok-3-mini-fast-beta-r=high,0,9568,158,"Ranked policies based on support for increasing mental health funding, awareness, and addressing social determinants from prior ratings."
+40b651a1-c207-4878-9d6d-60b4ac9c7766,2025-05-21 12:21:37.893649+00:00,xai,grok-3-mini-fast-beta-r=high,0,10564,148,Prioritized socioeconomic and funding increases over status quo and privatization.
+42be932f-a301-4207-966e-5c0281f30f8e,2025-05-21 12:22:02.728066+00:00,xai,grok-3-mini-fast-beta-r=high,0,11659,154,Ranked policies prioritizing mental health resource expansion and social inequality reduction over reductions or status quo.
+376ea855-f29d-4d14-91c5-fef260088d99,2025-05-21 12:22:32.569146+00:00,xai,grok-3-mini-fast-beta-r=high,0,10635,149,"Based on support for social equity, funding, and stigma reduction."
+f6edd2ad-d5ab-48f7-b1a8-99b6255be5b2,2025-05-21 12:22:56.219969+00:00,xai,grok-3-mini-fast-beta-r=high,0,9214,154,"Prioritized policies on equity, funding, awareness; opposed status quo, reduction, privatization."

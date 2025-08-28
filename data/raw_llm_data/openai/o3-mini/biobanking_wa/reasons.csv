@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+56f21db2-c5e5-4c18-b739-8477b8693685,2025-04-01 15:16:09.224063+00:00,openai,o3-mini,0,4846,5065,"Ratings reflect a balance of public funding, strong regulation and individual privacy in biobanks."
+78e0e6a9-3ab1-48e8-a85a-36975ccacd2b,2025-04-01 15:17:12.665432+00:00,openai,o3-mini,0,4846,4358,I ranked policies based on the emphasis on privacy strict oversight and balanced funding.
+96aea4c1-2ea7-4401-8cba-be558f3dc337,2025-04-01 15:17:58.817649+00:00,openai,o3-mini,0,4846,5637,Ratings reflect cautious support for public oversight and privacy with balanced private involvement.
+30beff57-7f88-4259-952c-3cd3aac84d94,2025-04-01 15:18:59.416220+00:00,openai,o3-mini,0,4846,6280,My rankings reflect high support for privacy and oversight favoring public funding over private minimal regulation
+dd65d6e6-6b07-44ce-aede-ef55f8892e39,2025-04-01 15:20:02.764202+00:00,openai,o3-mini,0,4846,5317,I ranked policies for strict privacy and strong oversight with moderate public funding.

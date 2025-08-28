@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+a39ef459-d7d4-4200-a2b6-77ce425ee6a2,2025-04-02 10:39:15.755203+00:00,meta,llama3.3:70b,0,3696,217,Prioritizing environment over economy
+40ad233c-f28c-4760-a989-c1906babebba,2025-04-02 14:34:26.494358+00:00,meta,llama3.3:70b,0,3691,219,Prioritizing reef protection over economic growth
+45984039-4f80-4dd8-b10d-28cdef3faae5,2025-04-02 14:34:41.045874+00:00,meta,llama3.3:70b,0,3696,219,Prioritizing reef protection over economic growth
+8268dccd-ee1a-4766-a8c7-2ce945b70809,2025-04-02 14:34:50.960101+00:00,meta,llama3.3:70b,0,3696,219,Prioritizing reef protection over economic growth
+e5a6f6ad-5c6c-4cb9-bd4b-301ec41b7549,2025-04-02 14:35:03.315979+00:00,meta,llama3.3:70b,0,3696,219,Prioritizing reef protection over economic growth
+24d19f43-bd92-4f12-81ae-ba225c8a88b3,2025-04-02 14:35:20.841728+00:00,meta,llama3.3:70b,0,3696,219,Prioritizing reef protection over economic growth
+00062ba5-5f6e-4ad4-8f36-f9d1a4ffc329,2025-04-02 14:35:34.985949+00:00,meta,llama3.3:70b,0,3696,219,Prioritizing reef protection over economic growth
+d7f88036-089e-4370-9c64-bbe0f06fd26d,2025-04-02 14:35:56.659228+00:00,meta,llama3.3:70b,0,3696,219,Prioritizing reef protection over economic growth
+5efc2a98-d6d6-435a-8ed0-72e5e4525603,2025-04-02 14:36:18.034169+00:00,meta,llama3.3:70b,0,3694,219,Prioritizing reef protection over economic growth
+019d4585-7a37-4272-8aa1-89559ed8b007,2025-04-02 14:37:08.529970+00:00,meta,llama3.3:70b,0,3696,217,Prioritizing environment over economy
+72af0768-a1b4-4452-b5f7-3bef501e779c,2025-04-02 14:37:23.920916+00:00,meta,llama3.3:70b,0,3694,217,Prioritizing environment over economy
+c98cd554-69c2-4411-bc55-33819ee06bb4,2025-04-02 14:37:36.096147+00:00,meta,llama3.3:70b,0,3696,217,Prioritizing environment over economy
+6dba6ea3-859f-4728-aad3-0fb8b04817c2,2025-04-02 14:38:28.395850+00:00,meta,llama3.3:70b,0,3693,219,Prioritizing reef protection over economic growth
+4ef154f2-ea4d-4385-a23f-7e9e2c9fdf4c,2025-04-02 14:38:38.798062+00:00,meta,llama3.3:70b,0,3694,219,Prioritizing reef protection over economic gain
+805266bf-d154-41f4-81ba-aa02286582ff,2025-04-02 14:39:13.889206+00:00,meta,llama3.3:70b,0,3696,217,Prioritizing environment over economy
+6ed6612c-785a-477f-a32a-0f4e863fbdb3,2025-04-02 14:39:24.405861+00:00,meta,llama3.3:70b,0,3694,217,Prioritizing environment over economy
+7f2a3b33-e368-4156-a0d9-e92cf15ece7e,2025-04-02 14:39:40.545219+00:00,meta,llama3.3:70b,0,3696,219,Prioritizing reef protection over economic growth
+796e1ab2-5c3d-44bd-9d78-9a84c56d4850,2025-04-02 14:40:05.737612+00:00,meta,llama3.3:70b,0,3696,217,Prioritizing environment over economy
+ba468719-9cd3-40ca-9662-ee3d5851e808,2025-04-02 14:40:22.117022+00:00,meta,llama3.3:70b,0,3696,217,Prioritizing environment over economy
+a2955f5f-d82e-47fb-9751-6ded1157da99,2025-04-02 14:40:44.215870+00:00,meta,llama3.3:70b,0,3696,217,Prioritizing environment over economy
+f9447150-8a4f-4a90-881a-9cbd71a14f2c,2025-04-02 14:40:55.302976+00:00,meta,llama3.3:70b,0,3696,216,Prioritized environment over economy
+09b8f2df-2847-4006-bf3b-96d46617ba33,2025-04-02 14:41:07.737692+00:00,meta,llama3.3:70b,0,3694,219,Prioritizing reef protection over economic growth
+838e3087-336b-4fdb-b835-da9f79762166,2025-04-02 16:38:11.442054+00:00,meta,llama3.3:70b,0,3691,219,Prioritizing reef protection over economic growth
+08066cac-5b8d-4f5e-9206-1c924a6f3177,2025-04-02 16:39:01.545457+00:00,meta,llama3.3:70b,0,3696,219,Prioritizing reef protection over economic growth
+e686c973-de97-4228-aadc-89dc9aab5903,2025-04-02 16:39:15.388109+00:00,meta,llama3.3:70b,0,3696,216,Prioritized environment over economy
+55a94019-c450-40e7-a4ef-d0fa0c3e98ef,2025-04-02 16:40:01.097904+00:00,meta,llama3.3:70b,0,3694,219,Prioritizing reef protection over economic growth
+fa9282dc-a5de-4c64-8e33-169a11443427,2025-04-02 16:50:49.693025+00:00,meta,llama3.3:70b,0,3691,219,Prioritizing reef protection over economic growth
+f5d20523-1de9-448f-b1f7-ebfc78c3185c,2025-04-02 16:50:59.123254+00:00,meta,llama3.3:70b,0,3693,219,Prioritizing reef protection over economic growth
+6091413c-ab33-4a26-9839-27f6b22a42c2,2025-04-02 16:51:20.991726+00:00,meta,llama3.3:70b,0,3696,217,Prioritizing environment over economy
+f2809b0a-b696-466e-b3eb-101e618be02a,2025-04-02 16:51:35.335189+00:00,meta,llama3.3:70b,0,3696,219,Prioritizing reef protection over economic growth

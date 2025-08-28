@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+e7f7aa4c-a5e8-4b9a-b2b5-becf278b72e2,2025-05-22 18:24:52.178890+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,11197,4321,Balanced sustainability measures with practical regulations and incentives over inaction or extremes.
+92b528d0-584d-48e9-83e1-a538bbe36cd9,2025-05-22 18:26:09.538225+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,9713,3564,Balanced sustainability measures and innovation over radical change or inaction.
+6977df84-1695-484f-8a24-a250b7768263,2025-05-22 18:27:19.195349+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,10196,3922,Supporting sustainable local production with moderate regulation and climate adaptation is most effective.
+78b28bb4-25f0-4ecb-ba9f-dcdcf13ba30a,2025-05-22 18:28:28.399673+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,9529,3682,Favor incentives and moderate regulation for sustainable food; oppose deregulation or status quo.
+20a95f12-d83c-474e-b5f7-eb926088f122,2025-05-22 18:29:39.040256+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,9521,3515,Support incentives and innovation for sustainability while avoiding extreme regulation or deregulation.

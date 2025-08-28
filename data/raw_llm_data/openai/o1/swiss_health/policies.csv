@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,"P1. A universal, public, and unified healthcare system, where people pay according to their income, would ensure healthcare access for everyone.",P2. Encouraging more personal responsibility by abolishing mandatory health insurance and increasing out-of-pocket payments.,"P3. No changes are needed to the current healthcare system, as it functions well as it is.","P4. More government control over pricing and greater financial support (e.g., individual premium subsidies) would help those in need.",P5. Fixing financial inefficiencies in the healthcare system could save a lot of money without major changes to the system.,P6. Less government regulation and more private competition would make healthcare more efficient and cost-effective.
+e514133c-3e43-4f2a-8b9f-8628a25f4434,2025-04-08 13:05:55.073366+00:00,openai,o1,0,2717,4613,1,6,4,2,3,5
+f9c3db0d-d84d-485e-9455-bb2c5b2b4938,2025-04-08 13:07:32.378409+00:00,openai,o1,0,2717,5512,1,6,5,2,3,4
+781b363e-b048-4769-ad76-9eb0b21451d5,2025-04-08 13:09:06.039720+00:00,openai,o1,0,2717,5059,1,6,4,2,3,5
+575890d5-e6d5-4867-9da3-bc074cdb78f6,2025-04-08 13:10:49.260959+00:00,openai,o1,0,2717,4039,1,2,3,6,4,5
+31fdeaf6-89a3-47b9-996c-1fb1a017add6,2025-04-08 13:11:58.615007+00:00,openai,o1,0,2717,3269,5,1,6,4,3,2

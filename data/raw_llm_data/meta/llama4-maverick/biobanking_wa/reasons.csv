@@ -1,0 +1,35 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+5066375f-9c1d-4a5d-acb7-b9cb1f8a4b5b,2025-04-10 17:16:17.866349+00:00,meta,llama4-maverick,0,4812,293,I prefer publicly funded with strong regulation for biobanking.
+48304fe6-2ec4-4b8e-93ff-bbb0cd7dc107,2025-04-10 17:16:23.010999+00:00,meta,llama4-maverick,0,4815,298,Publicly funded with strong regulation is preferred for its balance of oversight and public good.
+3c6719ca-a7a3-4644-a4ca-337f7323f2d4,2025-04-10 17:16:28.026471+00:00,meta,llama4-maverick,0,4815,295,I prioritized strong regulation and high privacy in biobanking policies.
+24562d46-3104-4b61-8272-e0d1260ec27d,2025-04-10 17:16:33.007707+00:00,meta,llama4-maverick,0,4812,299,"I prioritized public funding and strong regulation for biobanks, valuing privacy and oversight."
+c0ee76bb-70ae-44a1-8bce-49c3f7c66ca5,2025-04-10 17:16:38.157990+00:00,meta,llama4-maverick,0,4815,294,I prioritized strong regulation and public funding with high privacy provisions.
+723df8f7-c39c-477f-9d18-6200ea14f46f,2025-04-10 17:16:43.232232+00:00,meta,llama4-maverick,0,4815,294,Publicly funded with strong regulation is preferred for balance and oversight.
+1ae58339-2f7e-4412-b9b1-b208d16c4247,2025-04-10 17:16:48.277017+00:00,meta,llama4-maverick,0,4815,294,I prioritized strong regulation and public funding for biobanking.
+2621386b-da6f-4bae-ab5c-96c0c2c65f6d,2025-04-10 17:16:53.691517+00:00,meta,llama4-maverick,0,4815,297,Publicly funded with strong regulation is most supported due to trust in government oversight.
+6aeb9776-37be-4751-b818-97cf067f1a14,2025-04-10 17:16:59.832191+00:00,meta,llama4-maverick,0,4812,294,I prioritized public funding and strong regulation for biobanking.
+6a7ef4b3-dbe5-49dd-a3f5-aa930ac375c5,2025-04-10 17:17:05.054979+00:00,meta,llama4-maverick,0,4815,293,I prefer publicly funded with strong regulation for biobanking.
+776a1f72-588c-4f9a-8cc6-6a80d8e594df,2025-04-10 17:17:09.766375+00:00,meta,llama4-maverick,0,4815,292,Preferred public funding with strong regulation for biobanking.
+492b53c3-5cfe-49a1-a830-27bdc4127631,2025-04-10 17:17:18.791700+00:00,meta,llama4-maverick,0,4815,298,Publicly funded with strong regulation is most supported due to balance between access and privacy.
+24e79df6-751a-4180-8fbc-8716236aac17,2025-04-10 17:17:24.143029+00:00,meta,llama4-maverick,0,4812,294,I prioritized public funding and strong regulation for biobanking.
+600b0c23-56da-4198-8f0d-ba8f74a2bccc,2025-04-10 17:17:28.988132+00:00,meta,llama4-maverick,0,4815,294,Publicly funded with strong regulation is preferred for balance and oversight.
+4efb4414-02f4-4636-926d-669490407349,2025-04-10 17:17:34.956089+00:00,meta,llama4-maverick,0,4815,294,"I prefer publicly funded with strong regulation, prioritizing privacy and oversight."
+a0bd2a33-ea23-4f41-b785-b54963bbaf48,2025-04-10 17:17:40.677770+00:00,meta,llama4-maverick,0,4815,294,I prioritized public funding and strong regulation for biobanking.
+fea14461-c202-4968-ac2d-9ed28a11cb5f,2025-04-10 17:17:45.912963+00:00,meta,llama4-maverick,0,4815,299,"I prioritized public funding and strong regulation for biobanking, emphasizing privacy and oversight."
+d9a316b3-f4a3-438b-a5ce-6f1ba051443b,2025-04-10 17:17:50.800872+00:00,meta,llama4-maverick,0,4815,293,I prioritized regulated and privacy-focused biobanking policies.
+66db67f6-b691-4876-93d5-c11cc203bdd0,2025-04-10 17:17:55.845002+00:00,meta,llama4-maverick,0,4812,294,"Ranked policies based on previous ratings, prioritizing strong regulation and privacy."
+9674f086-c096-407a-9b90-f571da6ee179,2025-04-10 17:18:00.667539+00:00,meta,llama4-maverick,0,4815,299,Publicly Funded with strong regulation is preferred for its balance of oversight and public benefit.
+fde0dcbb-199e-4859-a691-64fe3845e2fb,2025-04-10 17:18:05.333259+00:00,meta,llama4-maverick,0,4815,293,I prefer public funding and strong regulation for biobanking.
+7cc04396-8431-4f7d-b483-28f748d4c46b,2025-04-10 17:18:10.662628+00:00,meta,llama4-maverick,0,4815,293,I prefer publicly funded biobanks with strong regulation and oversight.
+84aaa48e-842c-42b1-8e86-ea2df22d4d2e,2025-04-10 17:18:15.402636+00:00,meta,llama4-maverick,0,4815,293,I prefer strong regulation and public funding for biobanking.
+174eb42a-89f6-432b-b381-4bffbda225ae,2025-04-10 17:18:20.379524+00:00,meta,llama4-maverick,0,4815,294,I prioritized strong regulation and public funding for biobanking.
+a5e1512e-26f4-417b-911c-990fdae89b67,2025-04-10 17:18:25.486416+00:00,meta,llama4-maverick,0,4815,294,I prioritized strong regulation and public funding for biobanking.
+76336a87-da3a-4a42-8f01-9983536ab9c1,2025-04-10 17:18:31.948603+00:00,meta,llama4-maverick,0,4815,295,I prioritized strong regulation and public funding for biobanking systems.
+c31683d8-1c50-4118-8b76-60570de29ecd,2025-04-10 17:18:37.423452+00:00,meta,llama4-maverick,0,4815,294,Publicly funded with strong regulation is preferred for oversight and privacy.
+e48f421a-9513-4aa2-ad7b-c9cecf6dddcc,2025-04-10 17:18:45.818680+00:00,meta,llama4-maverick,0,4815,294,I prefer publicly funded with strong regulation due to trust and oversight.
+186b2ebb-ebcc-40a7-b9d7-770befeb9595,2025-04-10 17:18:57.197563+00:00,meta,llama4-maverick,0,4815,294,Publicly funded with strong regulation is preferred for balance and oversight.
+41c398ab-5bcb-42e2-8944-98fcf805c101,2025-04-10 17:32:07.291431+00:00,meta,llama4-maverick,0,4815,292,"Strong regulation and public funding preferred, high privacy valued."
+7d2b71db-fb5d-4e1f-8d79-4c520e6f8e05,2025-04-10 17:32:12.169655+00:00,meta,llama4-maverick,0,4815,295,I prioritized strong regulation and public funding for biobanking systems.
+61947df3-9c10-452e-9749-7906f95de075,2025-04-10 17:32:17.630217+00:00,meta,llama4-maverick,0,4815,300,"I prioritized strong regulation and public funding for biobanking, emphasizing privacy and government oversight."
+0cef1f78-7b9e-4311-971a-05c9ceac9685,2025-04-10 17:32:22.824519+00:00,meta,llama4-maverick,0,4815,294,I prioritized strong regulation and public funding for biobanking.
+911f1bd1-38d9-4996-978f-2270eb57a74e,2025-04-10 17:32:28.192295+00:00,meta,llama4-maverick,0,4815,292,"Preferred publicly funded with strong regulation, high privacy provisions."

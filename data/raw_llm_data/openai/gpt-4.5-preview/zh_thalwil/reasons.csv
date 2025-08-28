@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+106ba5cd-1a8f-45c0-a1ec-cae51fb6df4b,2025-04-08 14:40:06.508208+00:00,openai,gpt-4.5-preview,0,3231,206,"Prioritized strong emissions cuts, adaptation planning, and community resilience over economy."
+7f7441b0-c9fd-48a3-be4f-13a25f803fea,2025-04-08 14:40:37.769235+00:00,openai,gpt-4.5-preview,0,3231,208,"Prioritized adaptation, resilience, moderate emissions cuts; rejected status quo and growth focus."
+b6aa48aa-7fc6-4093-a9f8-460dcafbd61d,2025-04-08 14:41:09.300277+00:00,openai,gpt-4.5-preview,0,3231,208,"Prioritized strong emissions cuts, resilience tech, community actions; status quo least favored."
+ad2036d8-5d89-41a8-bd0f-619edd222383,2025-04-08 14:41:34.938350+00:00,openai,gpt-4.5-preview,0,3231,207,"Strongly support emission cuts, adaptation planning, least support economic growth over climate."
+e6bc88d8-49cc-42e5-8765-a6c62057e954,2025-04-08 14:42:04.678952+00:00,openai,gpt-4.5-preview,0,3231,208,"Prioritized emissions cuts, community actions; deprioritized economic growth and status quo."
+106a6dde-c518-461e-94c9-e3f4996e2c94,2025-04-10 08:06:13.923493+00:00,openai,gpt-4.5-preview,0,3231,208,"Prioritized adaptation, resilience, strong emissions cuts; rejected status quo and growth focus."
+e7ecd7b0-04b7-4c79-9cc1-78651391524d,2025-04-10 08:06:22.803465+00:00,openai,gpt-4.5-preview,0,3231,208,"Prioritized adaptation, resilience, moderate emissions cuts; rejected status quo and growth focus."
+55b68880-324f-4f91-ad28-f9402f5c5e53,2025-04-10 08:06:32.291247+00:00,openai,gpt-4.5-preview,0,3231,209,"Prioritized strong emissions cuts, resilience tech, community actions; opposed status quo/growth."
+5e4213de-cfd9-4a7b-9904-90bd984cf6f9,2025-04-10 08:06:47.244966+00:00,openai,gpt-4.5-preview,0,3231,207,"Prioritized emission cuts, adaptation planning, moderate actions; least favored economic growth."
+3daf80c4-dad3-4cf8-a0da-f02f365f675b,2025-04-10 08:07:00.576941+00:00,openai,gpt-4.5-preview,0,3231,207,"Prioritized strong emissions cuts, community actions, resilience tech; opposed status quo."

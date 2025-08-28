@@ -1,0 +1,5 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+66422c88-8866-460e-8ffd-92432e6557d9,2025-04-01 13:06:06.358399+00:00,openai,o1-mini,0,4817,3707,I favor strict prohibition of genome editing except for research with strong oversight.
+9db8feb6-292b-4390-bac0-319c8b96eddc,2025-04-03 14:32:48.967220+00:00,openai,o1-mini,0,4817,4928,"Support limited non-heritable editing for treatments, prefer oversight, oppose unrestricted or all-use policies"
+e6187f04-f8dd-48d1-8447-eeddd80c30ef,2025-04-03 14:33:19.431797+00:00,openai,o1-mini,0,4817,3324,I prioritize regulated clinical use of genome editing with oversight over unrestricted or bans.
+beb777db-e825-4a4b-8b6c-58652cc651fc,2025-04-03 14:33:42.781248+00:00,openai,o1-mini,0,4817,4481,"Support limited non-heritable editing and mitochondrial donation, with restrictions on heritable and profit-driven uses."

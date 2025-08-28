@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+f51a45d4-5950-4ca6-b557-1ebf6bc4a31d,2025-05-22 18:30:39.004852+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,13818,5564,Favored renewables and proven low-carbon tech over fossil fuels; prioritized climate impact and reliability.
+b3a9ea85-8a3e-4a76-bf29-6dc984caf3ff,2025-05-22 18:32:10.601008+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,10846,4245,"Prioritized proven renewables, then low-carbon options, with fossil fuels last due to climate impact."
+236f87b9-0fbc-445c-b50b-289b40d8f00f,2025-05-22 18:33:21.270465+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,11759,4358,"Prioritized renewables first, then low-carbon alternatives, ranked high-emission sources last."
+06a7af8a-a778-44ad-a745-b4d3a3a1a086,2025-05-22 18:34:36.204368+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,10982,4082,"Preferred clean, renewable sources with lowest carbon footprint and decreasing costs."
+99fcc335-0e6c-4fd9-8d20-c75a5b19b2b4,2025-05-22 18:35:48.797014+00:00,anthropic,claude-3-7-sonnet-20250219-think=high,0,11514,4811,"Favored solar, hydro and nuclear for clean reliable energy; coal ranked lowest for emissions."

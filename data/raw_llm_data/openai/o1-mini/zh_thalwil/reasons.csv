@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c216ee4c-77c8-4c75-a16e-9cd3528bfa2a,2025-04-01 12:56:56.373315+00:00,openai,o1-mini,0,3703,2550,"Favored drastic CO₂ cuts and resilience technologies, supported planning and community adaptations, opposed status quo."
+72135efd-7c06-44fa-950a-ea9523888ec5,2025-04-01 12:57:18.168242+00:00,openai,o1-mini,0,3703,2295,Prefer resilience and emergency planning support moderate CO2 cuts and local actions oppose status quo and pro-growth focus
+65053eb9-b6f8-4505-81cf-13fbfe077c8a,2025-04-03 14:19:52.887749+00:00,openai,o1-mini,0,3703,2992,Favor emergency response and adaptive measures more than emission cuts or inaction.
+4064b4f3-3b78-4119-bc48-c1461bb5778c,2025-04-03 14:20:14.694376+00:00,openai,o1-mini,0,3703,4094,"Prioritize community actions, emergency response, resilient tech, moderate CO2 cuts, strong reductions, maintain status quo, least economic growth focus."
+32493c99-8372-47b0-a828-0144760b33b1,2025-04-03 14:20:43.246507+00:00,openai,o1-mini,0,3703,3571,"Support strong adaptation and resilience measures, prefer moderate emissions cuts, oppose status quo."

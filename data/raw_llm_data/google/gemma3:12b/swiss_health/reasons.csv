@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c2f89e11-6d6c-4f76-b466-192a3578abfd,2025-04-03 12:40:16.223634+00:00,google,gemma3:12b,0,0,0,"Prioritizing efficiency & financial aid, rejecting drastic changes or inaction."
+f2528ac9-0ad5-4fa8-b753-1e7aa5854842,2025-04-03 12:40:35.589138+00:00,google,gemma3:12b,0,0,0,Universal access is best. Current system needs minor fixes. Less regulation is concerning.
+7d0c3472-d7aa-4a05-8a71-d902e1176063,2025-04-03 12:40:54.736281+00:00,google,gemma3:12b,0,0,0,Efficiency and accessibility are key. Minor fixes are preferred over drastic changes.
+92ef452d-907c-49cf-8b0b-2840566149ea,2025-04-03 12:41:13.045197+00:00,google,gemma3:12b,0,0,0,Universal access prioritized. Minor tweaks preferred over radical change or heavy control.
+c88558e7-527c-4fc6-9281-1317d9461752,2025-04-03 12:41:31.371408+00:00,google,gemma3:12b,0,0,0,Universal access and fixing inefficiencies are best; less regulation is least preferred.
+85ab3777-2ce9-4ccc-8ec1-3bf5db2bf570,2025-04-03 12:41:49.806446+00:00,google,gemma3:12b,0,0,0,"Efficiency first, then controlled expansion, private competition, less regulation, careful change, and lastly no change."
+4e86ce0c-7f3d-4f92-ae5b-b842263e26bd,2025-04-03 12:42:08.385113+00:00,google,gemma3:12b,0,0,0,Efficiency and access are key. Incremental fixes preferred over radical changes or deregulation.
+0ac4b692-c356-41cd-8be4-63799c1dd2a0,2025-04-03 12:42:26.927376+00:00,google,gemma3:12b,0,0,0,Prioritized fairness/access; disliked abolishing mandates/favored efficiency.
+6f9be99d-0f0f-4a3a-821e-f6077ba7a28f,2025-04-03 12:42:45.313177+00:00,google,gemma3:12b,0,0,0,"Prioritized efficiency and targeted support, favoring incremental changes over radical shifts or individual burden."
+8240d854-6cf9-4d51-a109-8c40f7808316,2025-04-03 12:43:03.851945+00:00,google,gemma3:12b,0,0,0,"Universal access prioritized, followed by efficiency, then minimal change, and lastly, deregulation."
+7094b7f0-ae80-448f-856a-7bb54e11df45,2025-04-03 15:48:09.825055+00:00,google,gemma3:12b,0,0,0,"Public system, then efficiencies, then less regulation, current system, abolition, and finally more competition."
+26c44e0f-0c67-44fd-868f-2ddd3b77bdfd,2025-04-03 15:48:32.357402+00:00,google,gemma3:12b,0,0,0,Minor adjustments and efficiency fixes are preferable to drastic changes or increased government control.
+d053b418-5eb4-48c3-b42c-ea9c0d7cabd1,2025-04-03 15:48:52.117263+00:00,google,gemma3:12b,0,0,0,Prioritized equitable access and system improvements; least supportive of abolishing mandates or no change.
+501dc12e-31f0-4154-865e-b973711a7341,2025-04-03 15:49:11.871455+00:00,google,gemma3:12b,0,0,0,"I favor incremental fixes and market forces while helping those in need, avoiding radical shifts."
+90cec76b-0b83-4ea3-9882-12fe5c8a6529,2025-04-03 15:49:32.064181+00:00,google,gemma3:12b,0,0,0,"Efficiency first, then competition. Less gov't control, more personal responsibility, and minimal change overall."
+c1e915b9-6de4-4d28-b7e1-5959b1dd4286,2025-04-03 15:49:51.941934+00:00,google,gemma3:12b,0,0,0,Minor fixes are best; universal systems are ideal but complex; less regulation is positive.
+929fe707-e39a-4613-a326-68806be2066c,2025-04-03 15:50:11.974594+00:00,google,gemma3:12b,0,0,0,Fixing inefficiencies and universal access are key. Competition needs guardrails. Current system needs tweaks.
+4d9cc27a-cfdf-4c8e-ad9c-9e302743353d,2025-04-03 15:50:32.173177+00:00,google,gemma3:12b,0,0,0,"Efficiency first, then universal access, followed by reduced mandates and some government support."
+9efafe0a-9ee8-4fa7-87fc-8b43ee9b2c0f,2025-04-03 15:50:51.695796+00:00,google,gemma3:12b,0,0,0,Efficiency and incremental improvements are prioritized over radical changes or heavy government intervention.
+494f44a0-a983-4b57-8aa4-cafaac1bc1bf,2025-04-03 15:51:11.917405+00:00,google,gemma3:12b,0,0,0,"I favor gradual fixes. Big changes risk disruption, so minor adjustments are best."
+76c6db11-550c-4e89-a343-217db59deff1,2025-04-03 15:51:32.930909+00:00,google,gemma3:12b,0,0,0,I favor efficiency and universal access; I oppose abolishing mandates and minimal change.
+69d597f8-810f-4527-87cf-82968cb0bb08,2025-04-03 15:51:53.416372+00:00,google,gemma3:12b,0,0,0,"Universal access is key, but efficiency & less regulation are important too."
+7dbd7d72-f557-46ee-b3bc-ac76dd550bda,2025-04-03 15:52:14.136067+00:00,google,gemma3:12b,0,0,0,Favored universal care & fixes; opposed abolishing insurance & less regulation.
+85448576-d351-4803-b775-dd36fab4b055,2025-04-03 15:52:34.531764+00:00,google,gemma3:12b,0,0,0,"Prioritized efficiency, rejected abolishing insurance, favored universal access, disliked excessive control."
+6e7403b5-5285-42a5-b74d-a782ad36089c,2025-04-03 15:52:54.720446+00:00,google,gemma3:12b,0,0,0,"Prioritized efficiency, then universal access, then minimizing disruption, disliking abolishing mandates."
+154894cd-19b0-4005-9f7e-d7958a87ae43,2025-04-03 15:53:14.626736+00:00,google,gemma3:12b,0,0,0,Prioritize support & fairness; believe in improvements over radical change or inaction.
+3f95319c-6e81-4258-bca1-b06d6a92f0af,2025-04-03 15:53:34.693101+00:00,google,gemma3:12b,0,0,0,Prioritize equity and broader access. Small adjustments are preferable to major upheaval or radical change.
+013d9064-d01e-4050-b45d-c22127c3bef3,2025-04-03 15:53:54.975297+00:00,google,gemma3:12b,0,0,0,Prioritized efficiency and targeted assistance over sweeping changes or deregulation.
+d1c18499-5c32-4dc5-9f03-a3f506a09e17,2025-04-03 15:54:14.574014+00:00,google,gemma3:12b,0,0,0,Prioritized efficiency and accessibility with some personal responsibility and minimal disruption.
+02daf16b-b021-4dd3-ad01-7a3adc57e1c3,2025-04-03 15:54:34.328909+00:00,google,gemma3:12b,0,0,0,"Efficiency first, then broad access, less regulation, personal responsibility, minimal change, and some support."
+56f6017a-462a-42e4-8ba6-9af9c62d743d,2025-04-03 15:54:54.780635+00:00,google,gemma3:12b,0,0,0,Favored competition/efficiency. Rejected radical changes. Supported some assistance.
+64d1f027-bf0f-497a-ab45-7c9ceb91bd3f,2025-04-03 15:55:15.302254+00:00,google,gemma3:12b,0,0,0,"Prioritize competition/efficiency. Public systems are good, but not essential. Current system needs minor fixes."

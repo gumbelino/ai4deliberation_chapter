@@ -1,0 +1,34 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c2bf9e11-12bb-4754-9921-78070ec4d7a5,2025-03-20 16:58:04.467863+00:00,mistralai,open-mistral-nemo,0,3884,231,"Preferred: New bridge, keep old for heritage."
+3bfc2337-a015-47ff-87aa-59f8ae48a9c7,2025-03-20 16:58:11.130880+00:00,mistralai,open-mistral-nemo,0,3882,229,"Prioritize safety, accessibility, and heritage"
+de4b6591-d077-4e1d-b282-30d5c9864613,2025-03-20 16:58:17.768053+00:00,mistralai,open-mistral-nemo,0,3882,230,"Prioritize safety, heritage, and multi-use"
+efdc33fb-a215-472b-b0f5-6598f6cd63fb,2025-03-20 16:58:26.559025+00:00,mistralai,open-mistral-nemo,0,3906,258,"Preferred: modernize, widen; next: repair; least: demolish, replace"
+648b75dc-3e79-4f69-a083-9f5396c7e99e,2025-03-20 16:58:33.309928+00:00,mistralai,open-mistral-nemo,0,3904,254,"Preferred: Retain & Enhance, Least: New Standard Bridge"
+c996ce4a-b0fe-41ab-a35a-37b74c4d974e,2025-04-02 16:20:27.473163+00:00,mistralai,open-mistral-nemo,0,3882,235,"Prioritize heritage, then function, least: major changes"
+dbbddcaf-ee9a-4c2a-8856-99cd6abb973a,2025-04-02 16:20:32.274660+00:00,mistralai,open-mistral-nemo,0,3910,254,"Preferred modern, functional bridge with heritage retention"
+c6d5a760-b3fd-40de-a060-90d599c8d304,2025-04-02 16:20:36.622209+00:00,mistralai,open-mistral-nemo,0,3912,257,"Preferred: Improve existing, least: New standard"
+d0548e0d-5308-4c45-b82b-abdd277be360,2025-04-02 16:20:40.756430+00:00,mistralai,open-mistral-nemo,0,3902,255,"Preferred: repair & improve, least: new bridge & demolish"
+cf094aec-92e2-4140-9bdf-240eee2b47ab,2025-04-02 16:20:44.967815+00:00,mistralai,open-mistral-nemo,0,3892,242,"Preserve heritage, prioritize safety, balance traffic needs"
+26cc274a-a3ac-4b8b-b798-0f02dfc0f7c6,2025-04-02 16:20:49.526210+00:00,mistralai,open-mistral-nemo,0,3902,257,Preferred: retain & repair; widen if needed; new bridge as last resort
+8c28c572-fa3f-4abd-8828-c75b8d44f580,2025-04-02 16:20:53.188912+00:00,mistralai,open-mistral-nemo,0,3902,256,"Preferred: Retain & enhance, New & heritage, New & iconic"
+d5a5daee-6708-4acc-b843-f327cb2e4fff,2025-04-02 16:20:57.366582+00:00,mistralai,open-mistral-nemo,0,3906,254,Retain & repair; new bridge as last resort
+2df2546a-3a23-43e0-8c13-a75b5158dac2,2025-04-02 16:21:01.240762+00:00,mistralai,open-mistral-nemo,0,3894,251,"Preferred modern bridge with heritage section, next best is repair and widen"
+55eaff72-b79d-4ba8-a6e9-92aa4c18b414,2025-04-02 16:21:04.805775+00:00,mistralai,open-mistral-nemo,0,3915,262,"Preferred: repair & widen, least: new & demolish"
+19bf24bf-9a21-4ffd-8516-fa127401a3a4,2025-04-02 16:21:09.111362+00:00,mistralai,open-mistral-nemo,0,3887,238,"Prioritize safety, preserve heritage, minimize environmental impact"
+a4794ee1-f01b-46b9-93ae-dab68a5e9c26,2025-04-02 16:21:12.530573+00:00,mistralai,open-mistral-nemo,0,3910,255,"Preferred: repair & widen, then modern replacement"
+1a3b6fb1-bdff-486c-a52f-89783f2c70a1,2025-04-02 16:21:16.598615+00:00,mistralai,open-mistral-nemo,0,3910,260,"Preferred: New iconic bridge, keep old for recreation."
+64cb8876-e408-4ee2-a6af-6b38e0c83436,2025-04-02 16:21:20.459269+00:00,mistralai,open-mistral-nemo,0,3891,242,"Preferred: New bridge, retain old for pedestrians/cyclists"
+f601b7ba-7090-48f0-829a-95a08ad833b4,2025-04-02 16:21:24.140816+00:00,mistralai,open-mistral-nemo,0,3908,259,Preferred: Retain & Improve; Least: New Standard Bridge
+94308fd2-a9e1-4c4c-a8b3-92a3dc0384fc,2025-04-02 16:21:28.085683+00:00,mistralai,open-mistral-nemo,0,3914,267,"Preferred: repair & widen, next: new+retain, least: new+heritage"
+fd461cfc-3ce1-4d00-a066-38c2a46659f2,2025-04-02 16:21:31.724847+00:00,mistralai,open-mistral-nemo,0,3924,268,Preferred: Retain & Improve; Least: New & Widen
+a9c43dfa-451c-40a8-882c-e1c5f2782377,2025-04-02 16:21:35.677849+00:00,mistralai,open-mistral-nemo,0,3884,235,"Preferred new bridge, keep old for recreation"
+6ffa8b0a-4500-4ede-94c4-fbd6070b1b07,2025-04-02 16:21:39.433595+00:00,mistralai,open-mistral-nemo,0,3908,261,"Preferred: repair & widen, next: new & heritage, least: new only"
+4985d5b4-631c-413e-b3d4-1e0ab05a583f,2025-04-02 16:21:43.219536+00:00,mistralai,open-mistral-nemo,0,3906,258,"Retain, repair, improve; new bridge last resort"
+90cf659a-8285-490c-87d8-7ad676491aaa,2025-04-02 16:21:46.962134+00:00,mistralai,open-mistral-nemo,0,3905,256,"Preferred: retain & improve, new bridge with heritage section"
+c8f5bfe7-f702-4b90-8f24-1b08b8c427d6,2025-04-02 16:21:53.436178+00:00,mistralai,open-mistral-nemo,0,3892,237,"Prioritize safety, functionality, and heritage"
+9d6021a5-4076-4c8f-859b-8467280b0015,2025-04-02 16:21:57.484290+00:00,mistralai,open-mistral-nemo,0,3902,258,Preferred: heritage & function. Least: new & remove.
+7b06ed7f-e8d8-45a2-8a28-df86d944f800,2025-04-02 16:22:01.394085+00:00,mistralai,open-mistral-nemo,0,3902,252,"Retain & repair, prioritize safety & access"
+f8ea3c62-3d4b-4cf3-b8f4-bac20bc23eac,2025-04-02 16:22:05.369958+00:00,mistralai,open-mistral-nemo,0,3910,258,"Minimal change, prioritize safety, balance heritage and function"
+ac2da5c5-fa27-4768-831d-f631081b3fbb,2025-04-02 16:22:09.396868+00:00,mistralai,open-mistral-nemo,0,3912,258,"Preferred: repair & widen, next: new & heritage"
+feb4d2cd-b8d6-4290-afc9-ce396dc0925c,2025-04-02 16:22:14.510486+00:00,mistralai,open-mistral-nemo,0,3884,233,"Prioritize heritage, safety, and functionality"
+863e3431-a292-4ea1-b3d5-9075eb2c5cb2,2025-04-02 16:22:18.097005+00:00,mistralai,open-mistral-nemo,0,3894,239,"Prioritize safety, preserve heritage, minimize impact"

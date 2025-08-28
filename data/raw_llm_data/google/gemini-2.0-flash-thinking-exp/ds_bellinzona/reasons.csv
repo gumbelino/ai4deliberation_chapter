@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+daa39087-c60d-4963-8e0c-368ab1ce1d21,2025-04-17 12:32:45.573636+00:00,google,gemini-2.0-flash-thinking-exp,0,3387,109,"Believe in climate change, prioritize adaptation and moderate emission reduction."
+0c4aa9ae-ca0c-4330-a582-b8d42542f210,2025-04-17 12:33:04.455215+00:00,google,gemini-2.0-flash-thinking-exp,0,3625,232,"Believe in climate change, human cause, adaptation needed, moderate emission reduction preferred."
+7530e454-3f90-4a8f-a887-dbff1d66a323,2025-04-17 12:33:21.790118+00:00,google,gemini-2.0-flash-thinking-exp,0,3387,110,"Climate action needed, prioritize adaptation, resilience, moderate emissions cut."
+6613187b-67be-4451-bb2a-24b21aeb9b4a,2025-04-17 12:33:36.822343+00:00,google,gemini-2.0-flash-thinking-exp,0,3625,226,Adaptation & radical CO2 reduction are key.
+762a4b81-f220-43bf-a8cd-d5e72dea49d0,2025-04-17 12:33:53.436833+00:00,google,gemini-2.0-flash-thinking-exp,0,3625,227,"Climate action needed, prioritize adaptation and radical emissions reduction."
+c6e99dd4-06ab-4b8e-9c71-8e7e51bbfb52,2025-04-17 12:34:12.029480+00:00,google,gemini-2.0-flash-thinking-exp,0,3387,110,"Support radical emissions reduction and adaptation, prioritize action, not denial."
+a8fd995f-fae1-4fcc-a2d5-762cc9bcfdf4,2025-04-17 12:34:24.428970+00:00,google,gemini-2.0-flash-thinking-exp,0,3625,230,"Pro-adaptation, moderate emissions reduction, concerned, action-oriented."
+bbba28cd-9fc2-4118-81f2-343322ad1ada,2025-04-17 12:38:51.861091+00:00,google,gemini-2.0-flash-thinking-exp,0,3387,109,"Believe in climate change, prioritize adaptation and moderate emission reduction."
+fa2cc5bb-1bae-4175-924b-6607955ec09e,2025-04-17 12:39:11.827275+00:00,google,gemini-2.0-flash-thinking-exp,0,3625,232,"Believe in climate change, human cause, adaptation needed, moderate emission reduction preferred."

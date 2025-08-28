@@ -1,0 +1,36 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+0a26f2e1-e733-4ecd-8ca0-bbc9163f4ca2,2025-03-20 22:04:04.189940+00:00,microsoft,phi4,0,0,0,I prioritize strong CO2 emission cuts and resilience development for climate adaptation.
+efb5d0dc-53d6-4ed1-bb21-b634c06f333c,2025-03-20 22:20:30.696542+00:00,microsoft,phi4,0,0,0,Support moderate emissions cuts and adaptation policies. Prioritize resilience and economic balance over extreme measures.
+23622306-2d6c-444b-8cf1-1255ead7bb5d,2025-03-20 22:20:57.080126+00:00,microsoft,phi4,0,0,0,Prioritize cutting emissions and resilience strategies over current policies. Support economic growth cautiously with climate considerations. Focus on local adaptation actions.
+20eed9ff-39dc-4663-b7b8-a21f13a71a96,2025-03-20 22:21:23.939438+00:00,microsoft,phi4,0,0,0,Supports drastic CO2 cuts and emergency response over economic growth.
+bf3162c8-fc8b-477f-b1d8-7fa46f6e5155,2025-03-20 22:21:49.710040+00:00,microsoft,phi4,0,0,0,Ranking based on effectiveness for immediate climate change impact and economic feasibility.
+57dfaab7-dc2b-4198-820e-84f734186fa0,2025-03-20 22:22:15.606135+00:00,microsoft,phi4,0,0,0,Supports strong CO2 cuts and adaptation measures while opposing economic growth over climate policies.
+cc252753-92d4-49f1-80cf-18a10e152f47,2025-03-20 22:22:41.554814+00:00,microsoft,phi4,0,0,0,Supports strong CO2 cuts and adaptation measures with community focus. Avoids economic prioritization over climate goals.
+c0b48fe8-6ce3-4254-97bc-772ef3acf5db,2025-03-20 22:23:10.112476+00:00,microsoft,phi4,0,0,0,Support strong CO2 cuts and adaptation actions for climate resilience.
+03d81ad1-65db-40fc-a16d-29c16122207d,2025-03-20 22:25:30.612402+00:00,microsoft,phi4,0,0,0,Support strong emission cuts and resilience-building adaptation policies.
+e7f738a6-24ee-4106-a899-22f7e0794aa3,2025-03-20 22:25:55.911746+00:00,microsoft,phi4,0,0,0,Climate urgency demands rapid CO2 reduction and adaptation strategies. Economic growth is secondary to climate actions.
+e3978449-d675-46cb-9835-d9a2fc034ca4,2025-03-27 17:19:10.505915+00:00,microsoft,phi4,0,0,0,Support moderate CO2 cuts; value adaptation and resilience efforts.
+2e340f3c-482c-43a0-80ce-c780bad89309,2025-03-27 17:20:04.488665+00:00,microsoft,phi4,0,0,0,Support adaptation and resilience; oppose static policies and prioritize growth over climate action.
+fa107bbe-5c14-4467-9d14-a3267e31551a,2025-03-27 17:20:30.542698+00:00,microsoft,phi4,0,0,0,4 > 2 > 7 > 1 > 6 > 5 > 3 due to CO2 emissions cut priority.
+551a2591-f790-4d8e-9c26-4c38c6c0e7d5,2025-03-27 17:20:58.025680+00:00,microsoft,phi4,0,0,0,Supports adaptation policies and emissions reduction for resilience and climate change mitigation.
+fec0256a-7a57-4912-b61c-618f26d7f402,2025-03-27 17:21:24.297642+00:00,microsoft,phi4,0,0,0,Prefer active emissions cuts and local resilience over maintaining current policies.
+adb581fd-6e4f-4f5d-ba39-29ab4a8efca3,2025-03-27 17:21:50.401450+00:00,microsoft,phi4,0,0,0,Supports aggressive CO2 cuts and local resilience measures.
+bc3497d5-5338-4ebf-9973-bcb2de51fe67,2025-03-27 17:22:16.161262+00:00,microsoft,phi4,0,0,0,Support adaptation and moderate CO2 cuts; oppose status quo and growth-focused policies.
+9663f1e3-25fe-4c18-bd46-f32c0bb656ad,2025-03-27 17:22:42.250194+00:00,microsoft,phi4,0,0,0,"Focus on individual/community actions, moderate CO2 cuts, and planning controls for climate adaptation."
+2d332b70-b7da-4382-b713-434c15213ce3,2025-03-27 17:23:08.898686+00:00,microsoft,phi4,0,0,0,Priority on CO2 cuts; support local actions; innovation for resilience.
+d6b1aa34-8029-48ab-88d5-f0050348ca87,2025-03-28 01:01:43.336491+00:00,microsoft,phi4,0,0,0,Supports strong emission cuts and adaptation over maintaining the status quo.
+8dc442a0-7821-42d8-bc34-9ef2308519d0,2025-03-28 01:02:10.222963+00:00,microsoft,phi4,0,0,0,Rank based on urgency and effectiveness of policies to combat climate change.
+1cfc9a76-b216-4035-8050-ca86401f8956,2025-03-28 01:02:36.304612+00:00,microsoft,phi4,0,0,0,Ranked policies for effective climate change adaptation and emission reduction.
+b46e1503-04ea-461b-ba73-5edc0ac5f51b,2025-03-28 01:03:01.859548+00:00,microsoft,phi4,0,0,0,Support policies focusing on emissions reduction and resilience development.
+d83ab609-8319-4fc9-8c2e-86b7d4286465,2025-03-28 01:03:27.335240+00:00,microsoft,phi4,0,0,0,Support strong emissions cuts and resilient adaptation strategies.
+0c90a616-e1c6-425a-af52-6a565b00bfe9,2025-03-28 01:03:52.809966+00:00,microsoft,phi4,0,0,0,Favor moderate CO2 cuts and community adaptation measures over economic-focused policies.
+ec366cdd-02aa-495b-b537-0df0ad406fe5,2025-03-28 01:04:19.094994+00:00,microsoft,phi4,0,0,0,Support for moderate emission cuts and resilience-enhancing technologies over static policies.
+a4886833-b2b1-43d6-acb6-93d8dad7511d,2025-03-28 01:04:45.260174+00:00,microsoft,phi4,0,0,0,Support policies enhancing resilience and moderate CO2 cuts.
+c8fa0659-0e6e-4e93-a37a-4588d7f1a7a8,2025-03-28 01:05:11.240773+00:00,microsoft,phi4,0,0,0,Prioritize resilience and adaptation through technology and community action over economic growth or minimal CO2 cuts.
+236446dc-d7aa-4a76-a1e0-64497638f90d,2025-03-28 01:05:44.762728+00:00,microsoft,phi4,0,0,0,Prefer moderate CO2 cuts and community adaptation over economic growth priority.
+bee969b7-c87a-4d3f-b03f-760c1fa43442,2025-03-28 01:06:17.578887+00:00,microsoft,phi4,0,0,0,Supports strong CO2 cuts and adaptation over economic growth.
+2e57244e-6354-4817-854c-cf6b3be87560,2025-03-28 01:06:49.157420+00:00,microsoft,phi4,0,0,0,Ranked policies by CO2 reduction emphasis and community resilience.
+e5c9c713-4dd8-466a-9527-3e2c6bd4d08e,2025-03-28 01:07:15.874634+00:00,microsoft,phi4,0,0,0,Support moderate emissions cuts and resilience technologies over drastic measures or status quo.
+579daf2b-70d3-4891-9dd5-78960e65e022,2025-03-28 01:07:43.473482+00:00,microsoft,phi4,0,0,0,Moderate cuts supported due to economic balance and technological growth.
+8b446f95-f02e-40f8-b86f-b3509416f2b2,2025-03-28 01:08:10.800515+00:00,microsoft,phi4,0,0,0,Ranked policies by potential impact and feasibility.
+2895aa71-c10f-43da-9b76-90cc325e70a5,2025-03-28 01:08:37.503900+00:00,microsoft,phi4,0,0,0,Support strong CO2 cuts and community adaptation measures for resilience and sustainability.

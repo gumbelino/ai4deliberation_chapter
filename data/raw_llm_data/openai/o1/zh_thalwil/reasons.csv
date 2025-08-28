@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+68443c1c-5185-4127-bf2c-be025941d826,2025-04-08 12:37:20.618031+00:00,openai,o1,0,3228,5552,"Dramatic cuts and adaptation first, moderate actions next, leaving growth priority last."
+de3b2faf-461b-4241-a674-3a1e1fbbce6c,2025-04-08 12:38:36.061081+00:00,openai,o1,0,3228,3885,"Preferred immediate, significant emission cuts and robust adaptation measures over minimal policies."
+27a62c1b-f751-4e89-ac15-ffdb55627a45,2025-04-08 12:39:30.007971+00:00,openai,o1,0,3228,3054,Strong CO2 cuts and balanced adaptation outrank ignoring climate or focusing solely on growth.
+f23bb7db-94a4-475c-a189-c865d2767d4f,2025-04-08 12:40:15.171446+00:00,openai,o1,0,3228,6313,Major emission cuts and resilience strategies take priority over weaker measures.
+927076a3-1d35-4880-962a-d8301a99140f,2025-04-08 12:43:00.580140+00:00,openai,o1,0,3228,5170,"Dramatic cuts, strong adaptation, local action, and innovation outrank moderate or zero changes."

@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+7234fcb2-7381-41b2-8470-fa8dad25619d,2025-04-01 13:04:23.948141+00:00,openai,o1-mini,0,4713,2434,"I support proceeding with amalgamation, favor increasing union power, prefer postponing, least support leaving as is"
+ea782594-96e6-4812-bb06-f648f580c940,2025-04-01 13:04:52.961031+00:00,openai,o1-mini,0,4717,3972,"I prioritize proceeding with amalgamation, enhancing union power, postponing changes, and leaving things unchanged."
+80c3d5c1-3875-47c6-87ea-e22474110006,2025-04-03 14:30:18.302465+00:00,openai,o1-mini,0,4713,3390,"Support amalgamation to enhance efficiency and resource use, oppose postponement and maintain status quo."
+611a936d-58f1-4aae-a619-17fb6e2de39a,2025-04-03 14:30:41.975868+00:00,openai,o1-mini,0,4713,3798,"Prefer leaving things as they are, otherwise postponing, then proceeding with amalgamation, least support increasing union power"
+f9c5212f-a246-4153-9a20-a41354ea3cf5,2025-04-03 14:31:13.629630+00:00,openai,o1-mini,0,4713,2755,"I support proceeding with amalgamation most, then increasing union power, postponing it, and least supporting status quo."

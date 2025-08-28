@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+a40c4ce7-7771-4cd9-b31b-5dcf35945f06,2025-03-24 22:07:04.618753+00:00,cohere,command-r,0,4776.0,304.0,Upgrading the road or maintaining its current condition seems most beneficial with a focus on the environment and local communities.
+326e8e8a-db37-4f5f-8881-f08386a17731,2025-03-24 22:07:09.568422+00:00,cohere,command-r,0,4778.0,300.0,My ratings reflect a desire to protect the environment and tourism access while considering local interests.
+bbf0b366-2760-46dc-b826-51f9e37add29,2025-03-24 22:07:14.496233+00:00,cohere,command-r,0,4786.0,308.0,Upgrading Bloomfield Track to a sealed road or maintaining as a 4WD track are the best options.
+5db2df6c-3a1b-4d28-9928-116ad505e29c,2025-03-24 22:07:19.430300+00:00,cohere,command-r,0,4776.0,312.0,"Upgrading Bloomfield Track benefits community and economy, so 3rd place to preserve access; 1st to close and rehabilitate it ranks lowest."
+499f3324-d934-4924-99ba-bd2d625107df,2025-03-24 22:07:28.455829+00:00,cohere,command-r,0,4782.0,308.0,Upgrading Bloomfield Track to bitumen road ranked lowest as it's environmentally damaging; 4WD maintenance is best.
+2d6e8b1b-4f68-4ce1-8274-4f4b6f461458,2025-03-24 22:07:33.469977+00:00,cohere,command-r,0,4790.0,300.0,My ratings reflect a balance between environmental concerns and accessibility.
+9c5a9e6c-7296-4dd6-9129-495b164c5d03,2025-03-24 22:07:38.379649+00:00,cohere,command-r,0,4790.0,305.0,Sealing the track is best; upgrades or maintenance are second-best options.
+c95f400d-2e64-454f-8673-573b8b4fc6c2,2025-03-24 22:07:43.402101+00:00,cohere,command-r,0,4782.0,297.0,My ratings reflect a balance between environmental concerns and community benefits.
+d096d2d3-3a63-41b8-9430-5e69376478eb,2025-03-24 22:07:48.292025+00:00,cohere,command-r,0,4778.0,300.0,Upgrading the road or maintaining its current state is more preferable than the other options.

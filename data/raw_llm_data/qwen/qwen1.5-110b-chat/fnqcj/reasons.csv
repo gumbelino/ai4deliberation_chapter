@@ -1,0 +1,2 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+2595c84b-05d7-40f7-bc3a-9158a88cb4ac,2025-03-27 17:56:59.958757+00:00,qwen,qwen1.5-110b-chat,0,4575,297,"Ranked policies based on ecological preservation, local impact, and sustainable access, prioritizing minimal intervention and conservation over extensive development."

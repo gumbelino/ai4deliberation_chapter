@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+77908762-049f-42fd-b520-6bfe12ad71eb,2025-04-03 12:43:23.060909+00:00,google,gemma3:12b,0,0,0,"Cautious, privacy, then public funding, then private, minimal input, last public minimal."
+4afc4383-0b99-4b55-b8a2-2ac48fccabb9,2025-04-03 12:43:58.698143+00:00,google,gemma3:12b,0,0,0,Public control and privacy are key. Minimal regulation is risky. Strong oversight is preferred.
+46885e97-b37d-47a8-b9eb-9bef225c3b53,2025-04-03 12:44:34.715164+00:00,google,gemma3:12b,0,0,0,Prioritize privacy and cautious implementation; minimal government or private control is less desirable.
+e55e5c89-62df-4397-8f59-98127657870a,2025-04-03 12:45:08.765666+00:00,google,gemma3:12b,0,0,0,"Prioritize high privacy and government oversight, cautious implementation is least preferred."
+7a65a471-bf8e-43bf-a949-28d4fc7e0e9d,2025-04-03 12:45:43.361404+00:00,google,gemma3:12b,0,0,0,"Prioritize public funding & strong privacy; cautious implementation is key, minimal oversight isn't ideal."
+81d41c25-a62a-46d9-84ad-a006417eda54,2025-04-03 12:46:18.815700+00:00,google,gemma3:12b,0,0,0,"Prioritize public funding, strong privacy, and minimal commercial influence for ethical biobanking practices."
+4de144b2-259f-49f4-9e12-497b725a7329,2025-04-03 12:46:53.937843+00:00,google,gemma3:12b,0,0,0,Public funding and strong oversight are best. Minimal input/regulation are least desirable due to privacy concerns.
+10e3678a-bfd7-4c6b-9187-5aaa9900974a,2025-04-03 12:47:28.431183+00:00,google,gemma3:12b,0,0,0,"Favored public/regulated systems, cautious implementation, opposed minimal regulation/privacy."
+9cde4a43-af7c-4d8b-8d97-86d771270e7c,2025-04-03 12:48:03.545759+00:00,google,gemma3:12b,0,0,0,"Prioritize public, regulated biobanks with strong privacy. Minimal government input and private, unregulated are least favored."
+e0e26c0a-17bd-44cd-8086-0117b7137549,2025-04-03 12:48:37.892331+00:00,google,gemma3:12b,0,0,0,"Prioritize privacy and public funding, cautious implementation, minimal risk."
+9a720280-16b6-4397-a5dd-69083ab0cb53,2025-04-03 15:55:36.568730+00:00,google,gemma3:12b,0,0,0,Privately funded needs balance. Caution is needed. Strong public control is good.
+d37e4ec1-9192-4be2-b76f-43e01185aac0,2025-04-03 15:56:13.091158+00:00,google,gemma3:12b,0,0,0,Strong public oversight and privacy are vital; minimal regulation is risky; cautious investment preferred.
+3f71bbac-0269-467d-8b54-13e3af3e04f0,2025-04-03 15:56:50.315939+00:00,google,gemma3:12b,0,0,0,"Cautious and private funding preferred, strong privacy vital. Gov't control least desirable."
+2aaff582-676a-4fe1-8a29-c473bbbd57ba,2025-04-03 15:57:26.492783+00:00,google,gemma3:12b,0,0,0,"Prioritize strong regulation and public funding for ethical, accessible biobanking with privacy."
+271e0822-155c-4095-952e-596e0b91a44f,2025-04-03 15:58:02.215257+00:00,google,gemma3:12b,0,0,0,Balance privacy and innovation; public oversight essential.
+16c6ec39-9e97-4cf7-a71e-6d3a32972e97,2025-04-03 15:58:37.217680+00:00,google,gemma3:12b,0,0,0,Cautious approach is best; minimal regulation is worst; strong oversight is crucial.
+35bb3753-06d1-4554-af47-6f68e27fe4ee,2025-04-03 15:59:13.984068+00:00,google,gemma3:12b,0,0,0,Cautious/regulated public systems best. Minimal/private systems risk privacy. Strong oversight is key.
+9c972a60-cdb9-43c8-a073-9a6fd8135ae7,2025-04-03 15:59:51.031991+00:00,google,gemma3:12b,0,0,0,"Strong regulation and public funding are best, private less so, minimal input least preferred."
+dc1332f4-4797-45db-bf47-0e6bdf67c73b,2025-04-03 16:00:26.286589+00:00,google,gemma3:12b,0,0,0,"Strong regulation and public funding are best, cautious approach acceptable, private funding less desirable."
+bb2cfd1b-d7bf-424e-852e-243a19dc90e5,2025-04-03 16:01:03.185337+00:00,google,gemma3:12b,0,0,0,"Prioritize strong oversight and privacy, with public funding preferred over minimal government input."
+75f66b1d-c75b-48b6-a521-00b7167354e6,2025-04-03 16:01:40.214902+00:00,google,gemma3:12b,0,0,0,Prioritize strong privacy and public funding with cautious implementation and minimal risk.
+40670875-ac6a-4954-b695-15bfd96dca1e,2025-04-03 16:02:17.050634+00:00,google,gemma3:12b,0,0,0,Favored public control and privacy. Opposed minimal regulation and private dominance.
+d9bbd7b4-5a65-4dc0-a01d-a92f13193f4e,2025-04-03 16:03:30.794687+00:00,google,gemma3:12b,0,0,0,"Public funding with strong regulation is best, followed by private, then cautious, then minimal input."
+a4d07e49-0c69-4bd1-b4c4-b5edb88223f8,2025-04-03 16:04:08.427259+00:00,google,gemma3:12b,0,0,0,Public control & strong ethics are best. Minimal input/relaxed rules are least desirable.
+6da874b3-b762-4442-b23e-e89c6c81774b,2025-04-03 16:04:45.642375+00:00,google,gemma3:12b,0,0,0,Cautious/regulated public & private systems are best. Minimal or lax ones are least desirable.
+45363829-cdeb-4742-a7fe-42b9dbb8b71f,2025-04-03 16:05:24.861077+00:00,google,gemma3:12b,0,0,0,Strong public control and privacy are key. Minimal regulation is risky.
+f1c89fa6-fe9a-40ff-a584-9e3d79c41d40,2025-04-03 16:06:01.953843+00:00,google,gemma3:12b,0,0,0,"Government oversight and privacy are important, but minimal regulation is preferred to avoid stifling progress."
+e3b69584-0033-4549-9d1e-59c37202cccc,2025-04-03 16:06:39.382313+00:00,google,gemma3:12b,0,0,0,"Prioritize cautious, privacy-focused, and public systems; minimal regulation is least desirable."
+f8edbcdc-f480-4eff-bb8d-1558e8eba3b2,2025-04-03 16:07:16.358410+00:00,google,gemma3:12b,0,0,0,"Prioritize minimal public funds, cautious implementation, and balanced privacy with broader access."
+3f3a6364-2d77-4187-9cef-55a630b31d52,2025-04-03 16:07:51.892364+00:00,google,gemma3:12b,0,0,0,"Public ownership and strong privacy are preferred, with minimal public resource use as a distant option."
+0147b571-e272-4d8f-ade3-e40dc33031bb,2025-04-03 16:08:28.173930+00:00,google,gemma3:12b,0,0,0,Cautious & regulated public funding is best. Minimal gov/privacy are worst. Private options are middling.

@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+ed29d5ac-d092-4421-b9bc-dc819498480d,2025-04-08 14:29:34.206600+00:00,openai,gpt-4.5-preview,0,3218,218,"Strongly support emission cuts, adaptation, resilience; oppose economic growth priority/status quo."
+37fa5a85-f6d1-4ff0-89ee-0365a3ee3953,2025-04-08 14:30:03.562979+00:00,openai,gpt-4.5-preview,0,3218,219,"Strongly support emission cuts, adaptation, resilience; oppose economic-only or no-action policies."
+adc399bd-9466-4b85-8591-0e2d7eb90cc3,2025-04-08 14:30:34.704408+00:00,openai,gpt-4.5-preview,0,3218,218,"Strongly support deep emissions cuts, resilience tech, moderate cuts, community actions last."
+ac1a6a28-8f8a-4080-9b0e-1b80d60a4eb1,2025-04-08 14:31:06.947900+00:00,openai,gpt-4.5-preview,0,3218,215,"Strongly support emission cuts, oppose prioritizing economy over climate action."
+515c0a85-28f5-4411-8eb0-33ac7a3adbb8,2025-04-08 14:31:32.516072+00:00,openai,gpt-4.5-preview,0,3218,216,"Prioritized strong emissions cuts, community actions, and technological resilience over economy."
+bb80af65-3a30-45fd-b52a-6b32b051e334,2025-04-10 08:01:12.744345+00:00,openai,gpt-4.5-preview,0,3218,219,"Strongly support emissions cuts, adaptation, resilience; oppose status quo and growth-only policy."
+668277a4-179d-4240-8fc3-15ed1ba7de96,2025-04-10 08:01:24.679949+00:00,openai,gpt-4.5-preview,0,3218,219,"Strongly support emission cuts, adaptation, resilience; oppose economic-only or no-action policies."
+e573260e-382c-437e-b2dd-e7320290dc97,2025-04-10 08:01:35.665588+00:00,openai,gpt-4.5-preview,0,3218,217,"Strongly support deep emission cuts, adaptation, resilience; oppose economic-only approaches."
+258f8701-ce75-44cd-a9c9-afdd7d209df3,2025-04-10 08:01:46.259765+00:00,openai,gpt-4.5-preview,0,3218,216,"Strongly support deep emission cuts, oppose prioritizing economy over climate action."
+9e48ee32-9381-42a5-820e-f6fa782b50e7,2025-04-10 08:01:56.497778+00:00,openai,gpt-4.5-preview,0,3218,219,"Strongly support deep emission cuts, moderate adaptation, oppose economic-only or no-action policy."

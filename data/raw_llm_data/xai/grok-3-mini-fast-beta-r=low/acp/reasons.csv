@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+f808fb7a-4219-499c-9e8c-7974c16af061,2025-05-20 12:46:20.151104+00:00,xai,grok-3-mini-fast-beta-r=low,0,11616,290,"Ranked policies by support: 2 first for inclusivity, 1 last for moral enforcement, others by neutrality."
+226f885a-c35c-4b09-8d15-c7b531cafeff,2025-05-20 12:46:45.435026+00:00,xai,grok-3-mini-fast-beta-r=low,0,10208,278,"I prioritized inclusion, democracy, and markets over moral enforcement."
+f73a51d2-adf4-498b-9609-5eeeda05af7b,2025-05-20 12:47:05.636708+00:00,xai,grok-3-mini-fast-beta-r=low,0,11369,287,"Prioritized minority involvement, free markets, status quo, equality over special benefits, and moral enforcement last."
+a0cb03e9-380c-4958-8546-60f318fefad8,2025-05-20 12:47:30.594533+00:00,xai,grok-3-mini-fast-beta-r=low,0,12695,282,"Prioritized policies promoting inclusion and equality most, deprioritizing moral enforcement."
+ab5467a8-9583-48d1-b5e6-7731f17b38a6,2025-05-20 12:47:52.538256+00:00,xai,grok-3-mini-fast-beta-r=low,0,13749,285,"Ranked policies by alignment with my high ratings on inclusivity, equality, and democratic representation."

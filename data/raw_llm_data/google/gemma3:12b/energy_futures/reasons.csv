@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d66085b1-1bdd-4b62-8cd1-2b15419482f0,2025-04-03 12:20:58.354624+00:00,google,gemma3:12b,0,0,0,"Nuclear is best, coal worst. Prioritized reliability and lower risk options based on prior ratings."
+4cbf7c25-51b6-4abf-8f12-e61568f6ffbf,2025-04-03 12:21:31.772473+00:00,google,gemma3:12b,0,0,0,"Geothermal and nuclear are best, coal and gas are worst. Wind, solar, biomass are mid-tier options."
+36860dd0-9bec-495a-814a-c014a5f10a1d,2025-04-03 12:22:04.475448+00:00,google,gemma3:12b,0,0,0,"Favored geothermal, biomass, and natural gas. Least favored solar, wind, and coal."
+63c46c5f-d67f-4ae5-82d1-0f59e456c97e,2025-04-03 12:22:36.970729+00:00,google,gemma3:12b,0,0,0,"Geothermal and nuclear are best, coal is worst. Renewables are middling; natural gas is acceptable."
+add08c62-2f30-4627-a81b-8ffa489d6d18,2025-04-03 12:23:09.502745+00:00,google,gemma3:12b,0,0,0,"Favored geothermal, biomass, nuclear. Disliked coal, wind. Balanced view on others."
+e89dff9f-cd09-472a-8410-c31b43692417,2025-04-03 12:23:41.786366+00:00,google,gemma3:12b,0,0,0,"Nuclear and geothermal are preferred; coal and wind are least favored, reflecting prior ratings' emphasis on reliability."
+52a41d17-605e-45e6-8c20-8f3f89c00ef2,2025-04-03 12:24:15.026775+00:00,google,gemma3:12b,0,0,0,"Favored geothermal/nuclear, least solar/coal. Balanced approach needed for energy security and environment."
+8a6d2f33-faee-4b4c-a8c1-8afd849c0796,2025-04-03 12:24:47.101890+00:00,google,gemma3:12b,0,0,0,Nuclear and geothermal are best; coal and solar are least preferred reflecting previous rating trends.
+fe332656-edb9-4a67-b725-a603ccecaf8d,2025-04-03 12:25:19.070572+00:00,google,gemma3:12b,0,0,0,"Prioritize geothermal, biomass, nuclear. Concerned about wind's impact & solar's reliability. Coal is last choice."
+7f0aad00-a651-4fbd-88da-fc46778cc0de,2025-04-03 12:25:51.653970+00:00,google,gemma3:12b,0,0,0,"Prioritizing renewables, cautiously supporting natural gas, least supportive of coal and geothermal."
+003d6e56-4e2e-4275-b6a4-638cae7ad476,2025-04-03 15:03:10.002130+00:00,google,gemma3:12b,0,0,0,"Favored geothermal, biomass, and natural gas; least favored coal and hydroelectric due to environmental and cost concerns."
+8914cf0f-4333-499a-bc70-4c1c29e2462e,2025-04-03 15:03:43.785406+00:00,google,gemma3:12b,0,0,0,"Nuclear, geothermal, and wind are preferred; solar and hydro are less favored due to intermittency and environmental concerns."
+14b10d3d-eff9-410e-956b-acfd99c91050,2025-04-03 15:04:16.434338+00:00,google,gemma3:12b,0,0,0,"Geothermal and nuclear are preferred; coal and solar are least favored, reflecting technological risk/benefit assessment."
+78b1bbfa-6dde-4b44-8e93-ef8393f55e7b,2025-04-03 15:04:49.340435+00:00,google,gemma3:12b,0,0,0,"Nuclear, geothermal, biomass seem best. Coal, gas, hydro are least appealing due to environmental or reliability concerns."
+6185e9f8-50ee-4080-b298-7c95e8a7bb1a,2025-04-03 15:05:22.578744+00:00,google,gemma3:12b,0,0,0,"Geothermal/Nuclear best, wind/solar okay, coal worst. Biomass a good middle ground."
+722d2c34-2e9f-465a-a4fe-88fd2e63830b,2025-04-03 15:05:56.026257+00:00,google,gemma3:12b,0,0,0,Natural gas is least preferred due to emissions; geothermal and hydro are most favored for sustainability and reliability.
+ec1c5a14-fe82-459b-aacf-c36ef7ac1ab5,2025-04-03 15:06:28.662611+00:00,google,gemma3:12b,0,0,0,"Favored gas, biomass, nuclear; disliked coal, solar, hydro; neutral on geothermal and wind."
+06630381-9c64-4019-a424-8aaaaaac784f,2025-04-03 15:07:01.258436+00:00,google,gemma3:12b,0,0,0,"Nuclear is best, renewables are middling, coal is worst due to environmental impact and safety concerns."
+3ddda22d-37ca-4a70-8536-2decc478fbdc,2025-04-03 15:07:33.737545+00:00,google,gemma3:12b,0,0,0,"Natural gas and nuclear are best, coal/hydro worst. Biomass/geothermal mid-range reflecting previous ratings."
+6965ea23-c7e8-452e-ae08-8fc4e1c23245,2025-04-03 15:08:07.094671+00:00,google,gemma3:12b,0,0,0,"Geothermal and renewables favored, wary of coal/nuclear, biomass promising, natural gas a bridge."
+5af8c6bc-757c-4a8a-9e16-90a970ebc647,2025-04-03 15:08:40.141607+00:00,google,gemma3:12b,0,0,0,"Prioritize natural gas, geothermal, biomass, nuclear. Wind & coal are last due to environmental concerns."
+44fe2626-7c42-4436-a834-b5ddbffa4819,2025-04-03 15:09:13.485986+00:00,google,gemma3:12b,0,0,0,"Favored geothermal/nuclear, wary of coal/solar. Balance practicality/environmental concerns."
+20c482a5-f5bc-46aa-8db9-c7ef04135acf,2025-04-03 15:09:46.334293+00:00,google,gemma3:12b,0,0,0,"Balanced approach favoring natural gas and geothermal, with caution on wind and nuclear."
+5174aa0a-3c50-47cf-b365-3131649a0680,2025-04-03 15:10:19.480021+00:00,google,gemma3:12b,0,0,0,"Nuclear and geothermal are best; coal and biomass are worst given safety, emissions, and resource concerns."
+ebcae8f6-43a2-4816-8aa5-a14b22a8fad8,2025-04-03 15:10:52.476775+00:00,google,gemma3:12b,0,0,0,"Nuclear and geothermal best, coal and wind worst. Biomass and natural gas in the middle."
+97709a3f-9c9f-4526-a32b-ba17700bb651,2025-04-03 15:11:25.777489+00:00,google,gemma3:12b,0,0,0,Favored natural gas & geothermal; less keen on hydroelectric & renewables due to reliability concerns.
+30c9ea4c-a106-4db6-acb9-b0e87a00abb9,2025-04-03 15:11:58.240813+00:00,google,gemma3:12b,0,0,0,Nuclear and geothermal are preferred. Coal and solar are least favored due to environmental and reliability concerns.
+3c816452-6cb0-43b1-bcb5-b3397b7cc687,2025-04-03 15:12:32.111633+00:00,google,gemma3:12b,0,0,0,Favored geothermal and nuclear; least favored coal and coal with carbon burial due to environmental concerns.
+7f37c941-dcc8-4d38-958e-f8259337b6f1,2025-04-03 15:13:04.368030+00:00,google,gemma3:12b,0,0,0,"Geothermal and nuclear are best, coal and hydro are worst. Balance needed for transition."
+99eca0c3-1914-49b4-bc6f-00f51b7a1b16,2025-04-03 15:13:36.972260+00:00,google,gemma3:12b,0,0,0,"Geothermal and nuclear seem promising, wind is least favorable given concerns."
+7d938002-639a-439e-a628-c873adca4023,2025-04-03 15:14:09.546485+00:00,google,gemma3:12b,0,0,0,"Nuclear and geothermal are best, coal/hydro are worst, others in between based on previous responses."
+f63913ba-61d8-40b2-baf6-6a9dd8828eb4,2025-04-03 15:14:41.919534+00:00,google,gemma3:12b,0,0,0,"Nuclear, geothermal, biomass good. Coal, gas bad. Renewables somewhere in between with wind/solar less ideal."

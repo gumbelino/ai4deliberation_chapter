@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+b4023170-f6a9-4b7b-a37e-db5840fa9cb1,2025-05-22 17:19:05.180832+00:00,xai,grok-3-mini-fast-beta,0,2701,166,"I prioritize equitable access, efficiency, and government support based on my ratings."
+577c147c-ce0f-4310-89e4-f83cb94455a6,2025-05-22 17:19:44.043636+00:00,xai,grok-3-mini-fast-beta,0,2701,168,I support universal public healthcare most for equitable access and efficiency over deregulation or no changes.
+324117d0-5252-4f49-ab70-21b409b37c06,2025-05-22 17:20:23.000731+00:00,xai,grok-3-mini-fast-beta,0,2701,169,I prioritize universal access and government support to ensure affordability and efficiency over deregulation or no changes.
+fb4f0f5f-a139-4845-8378-5ea0bfc4ff2d,2025-05-22 17:21:00.645947+00:00,xai,grok-3-mini-fast-beta,0,2701,170,"I support universal public healthcare most for equity, and least personal responsibility due to potential access issues."
+8167a0ad-74cc-4e08-b2c9-41914c97f449,2025-05-22 17:21:42.999819+00:00,xai,grok-3-mini-fast-beta,0,2701,166,"Prioritized efficiency, universal access, and subsidies over deregulation and no changes."

@@ -1,0 +1,20 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Leave the policy settings as they are.,P2. Policies that emphasise economic growth over climate change adaptation or mitigation.,P3. Policies that involve a moderate cut in CO2 emissions (at least 25% in over the next 10 years).,P4. Policies that involve a dramatic cut back in CO2 emissions (at least 50% in the next 10 years).,P5. Adaptation policies and expenditure. Planning controls and emergency response programs.,"P6. Adaptation policies that target individual, small business or community-based actions (e.g., support the installation of alternative energy generators, insulation, water use efficiency)",P7. Preparing for climate risk through the development of new approaches and technologies that enhance resilience to the impacts of climate variability or change.
+55199830-df49-4898-a7eb-57207be7b8e4,2025-03-25 23:35:48.517099+00:00,microsoft,phi3.5,0,0,0,4,1,6,5,2,7,3
+cba0c111-554d-43f6-864d-dffc60bd4218,2025-03-25 23:36:31.996476+00:00,microsoft,phi3.5,0,0,0,6,7,4,5,1,2,3
+6abf4eff-3ca2-4fbb-a3cc-077d5619c613,2025-03-25 23:37:01.923285+00:00,microsoft,phi3.5,0,0,0,5,7,4,2,6,1,3
+1cf5c32e-de4f-43e3-9593-da1f540d14b5,2025-03-25 23:37:12.314002+00:00,microsoft,phi3.5,0,0,0,3,7,5,4,6,2,1
+ecc67180-1055-4cc1-9cfc-6146fa807ec0,2025-03-25 23:38:17.593114+00:00,microsoft,phi3.5,0,0,0,7,6,2,1,4,5,3
+2b2a7457-867b-4f45-910e-4b663ff5ae4b,2025-03-25 23:38:47.824771+00:00,microsoft,phi3.5,0,0,0,6,7,5,4,2,1,3
+6e282e9a-8b2d-4ccf-83fe-8bdcf47af3d5,2025-03-25 23:39:13.668072+00:00,microsoft,phi3.5,0,0,0,3,7,2,5,6,4,1
+c9f3acf4-3766-41fe-9beb-cce28f8b9181,2025-03-25 23:39:46.239476+00:00,microsoft,phi3.5,0,0,0,2,1,3,7,5,4,6
+9ba549a3-f004-4e15-82cd-af320cdf0799,2025-03-25 23:40:17.768609+00:00,microsoft,phi3.5,0,0,0,2,3,5,6,7,4,1
+f128404f-080c-4aa0-8421-858687981f86,2025-04-04 13:54:42.034000+00:00,microsoft,phi3.5,0,0,0,3,7,1,2,5,6,4
+34a8ac25-d631-427e-9735-04b716b28e33,2025-04-04 13:54:52.874391+00:00,microsoft,phi3.5,0,0,0,1,7,6,2,5,3,4
+5bc05074-3c1a-42e2-ad88-614d74462635,2025-04-04 13:55:25.811224+00:00,microsoft,phi3.5,0,0,0,3,7,1,2,6,5,4
+aa6deb99-3409-4a68-b4f8-5c4b58745047,2025-04-04 13:56:09.063324+00:00,microsoft,phi3.5,0,0,0,5,3,2,1,6,4,7
+c83e998a-37d6-4f35-aa8f-8f6244f2b61b,2025-04-04 13:56:19.276066+00:00,microsoft,phi3.5,0,0,0,2,1,5,6,7,4,3
+08cecafe-96de-4489-b4ac-092a6cfc4b64,2025-04-04 13:56:30.164073+00:00,microsoft,phi3.5,0,0,0,2,3,4,7,1,5,6
+ca9cb472-9257-44b8-b0a6-e09f5e133e10,2025-04-04 13:57:10.488853+00:00,microsoft,phi3.5,0,0,0,7,5,2,3,4,6,1
+b761deb9-36c6-4b89-be92-bf9625c61bbd,2025-04-04 13:57:21.743764+00:00,microsoft,phi3.5,0,0,0,5,7,3,1,6,4,2
+f520d5ec-90db-43eb-80a5-e0b139784a41,2025-04-04 13:57:32.329522+00:00,microsoft,phi3.5,0,0,0,4,1,2,7,6,5,3
+4e2cc9d0-6efc-4526-a5ca-5c9d820861f9,2025-04-04 13:57:54.399314+00:00,microsoft,phi3.5,0,0,0,7,6,3,1,4,2,5

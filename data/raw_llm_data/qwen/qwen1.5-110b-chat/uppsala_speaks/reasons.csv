@@ -1,0 +1,2 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+915b2fb0-e71b-4da9-9f38-02771558ebd9,2025-03-27 17:56:25.126952+00:00,qwen,qwen1.5-110b-chat,0,3717,302,"Ranked policies based on supporting a balanced approach to addressing the乞讨 issue, prioritizing assistance and addressing root causes over punitive measures."

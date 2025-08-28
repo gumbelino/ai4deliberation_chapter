@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+75b24128-c2d3-4fd0-980a-d64dd6f02dbd,2025-04-02 10:40:55.359568+00:00,meta,llama3.3:70b,0,4973,287,Prioritizing regulation and privacy
+1200d645-18b3-4b97-8361-c308f74cccd2,2025-04-02 10:41:12.170599+00:00,meta,llama3.3:70b,0,4973,287,Prioritizing privacy and regulation
+877373a3-6f22-4148-9a60-0769461cd575,2025-04-02 14:50:36.275371+00:00,meta,llama3.3:70b,0,4973,289,Prioritizing public funding and strong regulation
+edce16db-12a2-43d8-9f97-6dd142869153,2025-04-02 14:50:52.878006+00:00,meta,llama3.3:70b,0,4973,287,Prioritizing privacy and regulation
+96d5b10d-e088-4236-9e75-6a9fe74b4ff7,2025-04-02 14:51:07.697379+00:00,meta,llama3.3:70b,0,4973,287,Prioritizing privacy and regulation
+03d0ddc2-5bfe-4dec-8383-abbdf6931794,2025-04-02 14:51:24.051256+00:00,meta,llama3.3:70b,0,4970,288,Prioritizing privacy and public oversight
+013cfc86-e921-49db-bdf7-ad39c45796d2,2025-04-02 14:51:34.635775+00:00,meta,llama3.3:70b,0,4973,287,Prioritizing privacy and regulation
+912fe97f-fa07-4057-9be7-1ce4e9665cab,2025-04-02 14:51:50.314895+00:00,meta,llama3.3:70b,0,4973,290,Prioritizing public funding and strong regulation.
+709231e6-d28d-4e91-8f6a-ee55a25aced4,2025-04-02 14:52:05.380508+00:00,meta,llama3.3:70b,0,4973,287,Prioritizing privacy and regulation
+dcc9cc43-2caa-4fe9-9da8-5639e469e6fd,2025-04-02 14:52:25.854289+00:00,meta,llama3.3:70b,0,4973,287,Prioritizing privacy and regulation
+f0f0727b-5cab-49c7-8764-d5a6f6a6a7f5,2025-04-02 14:52:41.662543+00:00,meta,llama3.3:70b,0,4973,287,Prioritizing privacy and regulation
+c8612386-08c3-429a-9ac5-176df363ba82,2025-04-02 14:53:05.277886+00:00,meta,llama3.3:70b,0,4973,287,Prioritizing privacy and regulation
+5163de47-3fc6-41f5-9702-7e1aaa7dcd27,2025-04-02 14:53:13.516631+00:00,meta,llama3.3:70b,0,4973,287,Prioritizing privacy and regulation
+4c7ec82e-d12d-4e4e-881d-f496c22c93cf,2025-04-02 14:53:30.171035+00:00,meta,llama3.3:70b,0,4973,287,Prioritizing privacy and regulation
+34c3d230-c2a5-4426-a88c-bd7e3e5db8eb,2025-04-02 14:54:08.635036+00:00,meta,llama3.3:70b,0,4973,287,Prioritizing privacy and regulation
+bc630875-a02a-4c92-833c-3d58e9f6573d,2025-04-02 14:54:20.100845+00:00,meta,llama3.3:70b,0,4970,287,Prioritizing privacy and regulation
+a794e3ca-66d9-4b79-bfc8-433c3238d14d,2025-04-02 14:54:32.316045+00:00,meta,llama3.3:70b,0,4970,289,Prioritizing public funding and strong regulation
+61678b88-11f2-434c-ba15-4859f0a46dcc,2025-04-02 14:54:45.226987+00:00,meta,llama3.3:70b,0,4970,289,Prioritizing public control and strong regulation
+ae71a99a-3571-498d-870d-f12027313983,2025-04-02 14:54:57.077495+00:00,meta,llama3.3:70b,0,4973,288,Prioritizing public control and privacy
+3bbc36b1-1afd-4db8-a82a-4c3b4936e94c,2025-04-02 14:55:12.993629+00:00,meta,llama3.3:70b,0,4973,289,Prioritizing public control and strong regulation
+033808f2-b06a-4d7d-a8d1-54e15c1506a0,2025-04-02 14:55:24.201852+00:00,meta,llama3.3:70b,0,4973,287,Prioritizing privacy and regulation
+90a61039-cce2-4752-93ed-4fa7bfdc586a,2025-04-02 14:55:39.813347+00:00,meta,llama3.3:70b,0,4970,287,Prioritizing privacy and regulation
+d95d5287-a282-49ab-958a-00d7299a9f45,2025-04-02 14:55:54.489982+00:00,meta,llama3.3:70b,0,4973,288,Prioritizing public control and privacy
+e4e0a428-2c65-4a60-af6f-8dceb0f93475,2025-04-02 14:56:08.018240+00:00,meta,llama3.3:70b,0,4973,289,Prioritizing public control and strong regulation
+f5a15c8d-f9ed-4342-9599-01ae71971ec8,2025-04-02 14:56:26.650477+00:00,meta,llama3.3:70b,0,4973,289,Prioritizing public funding and strong regulation
+e95aaafa-f6d9-4dd1-8c08-937bebdc0842,2025-04-02 14:56:37.797300+00:00,meta,llama3.3:70b,0,4973,288,Prioritizing public control and privacy
+df4f6fc5-0069-419d-93cc-cf773aa634b9,2025-04-02 14:56:48.314048+00:00,meta,llama3.3:70b,0,4973,289,Prioritizing public funding and strong regulation
+2764c30b-5430-41c1-937e-d937a467732b,2025-04-02 14:56:59.077467+00:00,meta,llama3.3:70b,0,4973,287,Prioritizing privacy and regulation
+81c6b61d-2454-4e87-b7be-dd9c417240af,2025-04-02 14:57:10.975768+00:00,meta,llama3.3:70b,0,4973,287,Prioritizing privacy and regulation
+15c8e8ed-43de-42b8-8340-1e93401d1f33,2025-04-02 16:53:34.893075+00:00,meta,llama3.3:70b,0,4973,289,Prioritizing public funding and strong regulation
+349b0c9d-e9a4-41d3-8f6a-4899be847c11,2025-04-02 16:53:43.252743+00:00,meta,llama3.3:70b,0,4973,287,Prioritizing privacy and regulation

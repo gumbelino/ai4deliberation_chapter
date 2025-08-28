@@ -1,0 +1,9 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+e08d9d5c-0b20-486a-a996-f459f9805656,2025-03-21 07:54:33.392808+00:00,google,gemma2,0,0,0,Prioritize reef protection and sustainable industries over coal dependence.
+362c55e5-c69c-449c-8df9-771ecccb957b,2025-03-21 07:54:52.998754+00:00,google,gemma2,0,0,0,Prioritize reef protection with sustainable development and phasing out coal.
+64c6b17d-e633-4b1c-873c-df916af94675,2025-03-21 07:55:12.137962+00:00,google,gemma2,0,0,0,Prioritize sustainable development over extractive industries while maintaining existing protections.
+49a0e034-a466-4ac8-8f58-06e248539d38,2025-03-21 07:55:31.268287+00:00,google,gemma2,0,0,0,Prioritize renewable energy and reef protection while supporting sustainable economic growth.
+fcc98c13-5d1b-4bae-8e63-ba6c75fbebb5,2025-03-21 07:56:28.296550+00:00,google,gemma2,0,0,0,"Prioritize green industries, strengthen reef protection, and phase out coal."
+b7692b15-90ef-442f-8d20-e64edb4ee65d,2025-03-21 07:56:47.402767+00:00,google,gemma2,0,0,0,"Prioritize renewable energy, protect the reef through stronger regulations and innovation."
+0da4ab80-334b-42d5-869c-c41ccb4a7619,2025-03-21 07:57:06.747675+00:00,google,gemma2,0,0,0,Prioritize reef protection and sustainable industries over mining and deregulation.
+0bad9289-6ef1-43a3-a164-86d1a64e6868,2025-03-21 07:57:26.155065+00:00,google,gemma2,0,0,0,Prioritize clean energy and reef protection over extractive industries and deregulation.

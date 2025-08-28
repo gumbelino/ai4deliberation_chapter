@@ -1,0 +1,5 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+beb3f401-abdb-46b1-a702-d1d393e1045f,2025-06-02 02:25:52.923082+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,8940,3946,"Prioritized clean renewables like solar and wind, then reliable low-carbon options, avoiding coal"
+cab46d20-4f24-49d1-9496-4330b29ddb41,2025-06-02 02:27:03.836174+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,7927,3169,Prioritized renewables for climate benefits then nuclear then fossil fuels with coal ranked lowest
+ba76189c-9a5d-4773-99ba-d0ea60255574,2025-06-02 02:27:56.750114+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,10007,5721,"Ranked renewables highest, nuclear and gas middle, coal lowest due to climate impact"
+de767a1b-ea30-4c63-a94d-b418654d0ae8,2025-06-02 02:30:44.473282+00:00,anthropic,claude-sonnet-4-20250514-think=high,0,8194,4429,Ranked in listed order by mistake prioritizing transition over long term clean energy goals

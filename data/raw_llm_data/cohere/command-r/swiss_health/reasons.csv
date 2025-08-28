@@ -1,0 +1,8 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+8100f0de-3a13-42da-9275-0b7760b1abd2,2025-03-24 22:19:22.916499+00:00,cohere,command-r,0,3131.0,177.0,I support universal healthcare and government intervention to improve access and reduce costs.
+6c364ad7-c460-4fe0-bc60-d8dabd59545a,2025-03-24 22:19:26.471890+00:00,cohere,command-r,0,3131.0,178.0,"Free-market solutions rank high; universal public healthcare, the least effective."
+74fd2f24-e0dd-41e0-bee0-ec01a05c9d16,2025-03-24 22:19:32.647328+00:00,cohere,command-r,0,3131.0,181.0,My ratings reflect a preference for public healthcare and financial reform to improve accessibility and reduce costs.
+96c0f042-1503-4bd7-84b3-e6a10b1ca470,2025-03-24 22:19:41.524290+00:00,cohere,command-r,0,3131.0,180.0,"My ratings reflect a preference for public, income-based healthcare and government price regulation."
+c0f9d43b-2d01-47b1-a463-1041d8429c83,2025-03-24 22:19:45.126217+00:00,cohere,command-r,0,3131.0,184.0,"My ratings reflect a preference for public, income-based healthcare, with government price regulation to reduce costs."
+3cf8b9f3-652b-47da-853f-e5c840a2e314,2025-03-24 22:19:48.816071+00:00,cohere,command-r,0,3131.0,184.0,"My ratings reflect a balance between government intervention and market forces to improve healthcare access, cost, and efficiency."
+a6935884-817e-4ce1-a810-44cd7994010a,2025-03-24 22:19:52.435201+00:00,cohere,command-r,0,3131.0,182.0,"My ratings reflect a preference for publicly funded, income-based healthcare and reducing private insurance influence."

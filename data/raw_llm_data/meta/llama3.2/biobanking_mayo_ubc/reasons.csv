@@ -1,0 +1,51 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+f09fb3d5-214e-42ec-8f8b-ddbb0411383c,2025-03-20 17:44:18.338867+00:00,meta,llama3.2,0,0,0,Individual authorization and oversight are key to addressing privacy and discrimination concerns.
+4e7c41a4-043b-4fa1-9113-c728a9c2d444,2025-03-20 17:44:33.468895+00:00,meta,llama3.2,0,0,0,"Ratings reflect balance between individual privacy and societal benefits, with oversight ensuring fairness."
+38d6bd4b-cae8-4b46-8ed4-84c9ffe799bd,2025-03-20 17:44:48.102999+00:00,meta,llama3.2,0,0,0,"Generally support minimal oversight, with stronger emphasis on individual privacy and governing body approval."
+22e16c52-8690-49df-9e8a-fe60765048da,2025-03-20 17:45:03.013406+00:00,meta,llama3.2,0,0,0,Prioritizing society benefits and oversight over individual consent.
+c32e7c93-96e1-4a7e-ba75-700560dcba77,2025-03-20 17:45:17.877181+00:00,meta,llama3.2,0,0,0,Prioritize individual privacy and oversight over societal benefits.
+bacdbfc8-4873-4502-921d-083a788bdc71,2025-03-20 17:45:34.090432+00:00,meta,llama3.2,0,0,0,Ranked policies from strongest support to weakest.
+0e087585-65d6-4eb0-af9a-a2f92bed8707,2025-03-20 17:45:50.041439+00:00,meta,llama3.2,0,0,0,I prioritized individual control and societal benefits over governance flexibility.
+8814c549-c261-46f9-8e5d-061c87cb6694,2025-03-20 17:46:05.711941+00:00,meta,llama3.2,0,0,0,Prioritize governance approval over individual control.
+76b1cdb0-8e23-4387-956d-7640c737eaf4,2025-03-20 17:46:21.178525+00:00,meta,llama3.2,0,0,0,ranked policies based on importance of individual vs societal benefits and oversight.
+362fcfc4-6dc4-47f2-bdb3-e637ec41e45a,2025-03-20 17:46:37.341571+00:00,meta,llama3.2,0,0,0,Ranked policies by strictest individual consent and oversight.
+233a8dd9-afa1-439a-ae92-9f507e320ed4,2025-03-20 17:56:03.806457+00:00,meta,llama3.2,0,0,0,Rated policies prioritize individual consent and oversight over societal benefits.
+892f7bbd-e5db-4f79-83e8-19506242d81a,2025-03-20 17:56:19.081704+00:00,meta,llama3.2,0,0,0,"Ratings reflect balance between individual privacy, research benefits and societal interests."
+a79263ee-1fd2-4863-b927-1011a14fe0af,2025-03-20 17:56:34.442291+00:00,meta,llama3.2,0,0,0,Rated policies with increasing oversight and governance for protecting privacy and preventing discrimination.
+08653e5a-5647-4d21-b05c-8b1ef9856c03,2025-03-20 17:56:49.340538+00:00,meta,llama3.2,0,0,0,Prioritize individual privacy and benefits to society.
+18055678-79d1-4448-b32f-e0735758e54e,2025-03-20 17:57:04.053806+00:00,meta,llama3.2,0,0,0,Ranked policies by balancing individual control with societal benefits.
+255d5a55-b7b2-4faa-b577-87082206bcad,2025-03-20 17:57:18.553871+00:00,meta,llama3.2,0,0,0,I ranked policies prioritizing society benefits and individual authorization over governance approval.
+67960ec8-3df9-4eac-931b-f43c6b3b52c9,2025-03-20 17:57:33.659368+00:00,meta,llama3.2,0,0,0,Prioritize individual authorization with oversight from governing bodies.
+922425ce-2a5d-42ae-ab8c-495ee564af78,2025-03-20 17:57:49.740641+00:00,meta,llama3.2,0,0,0,Rated options based on balance between individual control and societal benefits.
+9ae255bd-0207-4e5c-a0f8-935be3aeeb47,2025-03-20 17:58:04.755715+00:00,meta,llama3.2,0,0,0,Prioritize individual control and oversight over societal benefits and anonymity.
+296c1fbf-7ea9-499c-abf6-6b161f372360,2025-03-20 17:58:20.011591+00:00,meta,llama3.2,0,0,0,Supports strict individual authorization and oversight over research use.
+26b6630a-5db3-4e70-a2da-ae3543eefac0,2025-03-27 14:41:44.795671+00:00,meta,llama3.2,0,0,0,I prioritized society benefits and governance oversight over individual privacy.
+9799b562-924a-4ef1-b63d-38b44cf293ec,2025-03-27 14:41:53.000446+00:00,meta,llama3.2,0,0,0,Prioritize benefits to society and community over individual privacy and oversight.
+2c9db0eb-0c5c-439a-9676-10c3ea51e3d0,2025-03-27 14:42:01.125805+00:00,meta,llama3.2,0,0,0,Prioritize individual control and oversight over societal benefits and governing body approval.
+294ecbb0-51ab-428f-beab-fc1e50ca6126,2025-03-27 14:42:09.287555+00:00,meta,llama3.2,0,0,0,Higher ranked options prioritize individual privacy and oversight with governing bodies.
+2a3c4c98-4e2a-4ca8-86ce-f58a45c5be20,2025-03-27 14:42:17.362816+00:00,meta,llama3.2,0,0,0,Prioritize individual control over data use.
+0b2bc63c-475b-41df-925d-43f724b69d99,2025-03-27 14:42:25.335589+00:00,meta,llama3.2,0,0,0,Prioritize individual privacy and oversight over societal benefits and government regulation.
+f6887e7e-a728-4430-8d20-8fa895413212,2025-03-27 14:42:33.400336+00:00,meta,llama3.2,0,0,0,Individuals require authorization and oversight for biobank research regardless of identification.
+3485dc2a-0866-438d-94b4-ea4cffadeec6,2025-03-27 14:42:41.519816+00:00,meta,llama3.2,0,0,0,Generally support governance and oversight with individual authorization before research.
+21b79d95-fa31-4af5-b9dd-dc8e2892b600,2025-03-27 14:42:49.550126+00:00,meta,llama3.2,0,0,0,Prioritize societal benefits over individual privacy and oversight.
+1bf28115-2f70-44a9-9cd6-b210a8b83812,2025-03-27 14:42:57.498342+00:00,meta,llama3.2,0,0,0,Prioritize individual privacy and oversight with governing body approval for research use.
+d6fe97f8-7970-42ad-9784-463b1e608c53,2025-03-27 15:21:21.842667+00:00,meta,llama3.2,0,0,0,Prioritizing individual and community benefits over strict authorization.
+13bf52ca-fbc3-4e39-a2fe-4cb7b7fa560f,2025-03-27 15:21:30.077263+00:00,meta,llama3.2,0,0,0,Prioritizing individual autonomy over societal benefits and oversight.
+63138494-7c2a-49a6-909c-f92e357e4053,2025-03-27 15:21:38.154920+00:00,meta,llama3.2,0,0,0,I prioritized public benefit and oversight for research using stored data and biological samples.
+987d98c7-84fa-4fe6-a8be-3144fc7b38af,2025-03-27 15:21:46.419900+00:00,meta,llama3.2,0,0,0,Prioritize societal benefits and oversight over individual control.
+cde9d6e8-9b37-421a-93f1-89227d75f30a,2025-03-27 15:21:54.466592+00:00,meta,llama3.2,0,0,0,Precedent approval governs identifiable samples while benefits outweigh privacy for non-identifiable.
+aff66372-40f9-449b-bcf6-ded3f26320e2,2025-03-27 15:22:02.705040+00:00,meta,llama3.2,0,0,0,Higher rankings value individual control and anonymity over community benefits and approval.
+749d6884-65a3-4929-8278-fe3b368aa52b,2025-03-27 15:22:10.883077+00:00,meta,llama3.2,0,0,0,Prioritize benefits to society over individual control.
+3b399a9e-dda1-4a11-b665-92783a5e1c36,2025-03-27 15:22:18.975719+00:00,meta,llama3.2,0,0,0,"Ratings reflect balance between individual privacy, community benefits, and governance oversight."
+86f888b1-ac9e-4cc8-abda-dcffcb07845c,2025-03-27 15:22:27.259404+00:00,meta,llama3.2,0,0,0,Prioritize individual control and benefit to society over governing body oversight.
+411ac20c-3abd-4e32-9f6e-655b920f28f9,2025-03-27 15:22:35.476802+00:00,meta,llama3.2,0,0,0,Prioritize individual consent and oversight over societal benefits.
+8210356e-2205-4d6a-8428-71710a8791e1,2025-03-27 15:22:43.591346+00:00,meta,llama3.2,0,0,0,Prioritizing societal benefits and oversight outweighs individual control over data use.
+856bbd83-2668-4b87-9f33-69085add03c0,2025-03-27 15:22:51.850273+00:00,meta,llama3.2,0,0,0,Generally support policy with least oversight but most approval required.
+7cb4cf5f-7d99-43b7-a9fc-d68d4c09ce8c,2025-03-27 15:22:59.926523+00:00,meta,llama3.2,0,0,0,Prioritize individual autonomy and oversight over societal benefits.
+6aba2a32-916f-4b03-89fb-41422c605021,2025-03-27 15:23:08.113710+00:00,meta,llama3.2,0,0,0,Prioritize individual control over societal benefits and governing body oversight.
+48b77fd2-933b-4cb2-969f-458cf5e105d6,2025-03-27 15:23:16.275882+00:00,meta,llama3.2,0,0,0,"I ranked policies from least restrictive to most: privacy over community benefit, individual consent over governance."
+1fde515c-f3bd-4f35-b8a1-672df72e60cf,2025-03-27 15:23:24.588945+00:00,meta,llama3.2,0,0,0,Prioritizing individual control and oversight over societal benefits.
+44e51218-cd25-4a91-86d1-e4c6d9101af1,2025-03-27 15:23:32.758541+00:00,meta,llama3.2,0,0,0,Supporting stricter governance and oversight over individual data and sample use.
+684c9bbb-e8fb-4f88-8e40-96c1ade24a53,2025-03-27 15:23:40.988474+00:00,meta,llama3.2,0,0,0,Prioritize individual consent and oversight before societal benefits.
+4e5218b2-7317-44aa-9b38-1715730d979a,2025-03-27 15:23:49.032767+00:00,meta,llama3.2,0,0,0,"Prioritize oversight for identifiable samples, benefits to society over individual privacy."
+239c2c24-9043-4784-a70d-ed6792dabb20,2025-03-27 15:23:57.168057+00:00,meta,llama3.2,0,0,0,I ranked policies based on balancing individual rights with societal benefits and oversight.

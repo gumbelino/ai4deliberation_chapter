@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d2b2120e-8475-4c56-b5dd-974211fa8112,2025-04-01 13:43:42.668257+00:00,openai,o3-mini,0,4301,4759,I favored protecting the environment and local input over aggressive road upgrades.
+90b7905e-30ee-4f0d-9b6d-202130f82956,2025-04-01 13:44:24.999061+00:00,openai,o3-mini,0,4304,5846,I favored minimal modifications enhancing safety with little environmental disruption.
+2735869f-b342-4d82-bccd-086ab0f7b2ae,2025-04-01 13:45:25.163421+00:00,openai,o3-mini,0,4304,3996,"I balanced environmental and access needs, favoring moderate 4WD upgrades over drastic changes."
+46e83b4a-89fa-4486-87ac-90d584400385,2025-04-01 13:46:11.535237+00:00,openai,o3-mini,0,4301,3672,I prioritized moderate maintenance and minimal upgrades to balance local and environmental interests.
+4bb8ee44-81e6-45de-ade5-f73ef0c05bf3,2025-04-01 13:46:53.601727+00:00,openai,o3-mini,0,4304,5977,I prioritized stabilizing trouble spots over extensive upgrades to balance access and conservation.

@@ -1,0 +1,85 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+83b487ec-9bf4-4fd2-908d-b393c0ad9ee2,2025-03-20 12:06:12.149940+00:00,google,gemini-1.5-flash-8b,0,4523,295,"Preferring stabilization, then dirt road, then closing is least desirable. Bitumen is worst."
+5136d752-bdaa-4a4e-976a-116d5a18b5fa,2025-03-20 12:06:16.685836+00:00,google,gemini-1.5-flash-8b,0,4535,298,"Preferring stabilization, then maintenance, then upgrade, then closure, and finally bitumen."
+27ae08f0-85b8-48aa-b959-ca76ee9b1ae8,2025-03-20 12:06:21.152378+00:00,google,gemini-1.5-flash-8b,0,4523,285,Preferring controlled improvement over full upgrade or closure.
+92d558ad-6956-4aa9-8556-28de126fe2fc,2025-03-20 12:06:25.552328+00:00,google,gemini-1.5-flash-8b,0,4519,293,"Preferring a maintained 4WD track, with targeted fixes, over full closure or bitumen upgrade."
+6648439c-ff79-4644-bd00-b3a76e33c8ca,2025-03-20 12:06:30.106889+00:00,google,gemini-1.5-flash-8b,0,4529,292,"Preferring targeted fixes over full upgrade, closing is least desirable."
+123e7cce-487d-4c12-8a93-c4ad5646f4c2,2025-03-20 12:06:34.721195+00:00,google,gemini-1.5-flash-8b,0,4529,289,Preferring a 4WD track with minimal intervention.
+27b57592-d9d4-4bd8-9495-8ee2b93ea115,2025-03-20 12:06:39.178082+00:00,google,gemini-1.5-flash-8b,0,4527,299,"Prefer stabilizing trouble spots, then a 4WD track. Closing is best, but upgrading is worst."
+dd9280fe-e7d4-4f9a-8834-2e457fc8eaf6,2025-03-20 12:06:43.827680+00:00,google,gemini-1.5-flash-8b,0,4525,296,"Preferring stabilization, then closure/rehab is next best. Bitumen is least desirable."
+9e54018a-b248-4827-9a14-2ae30f703c61,2025-03-20 12:06:48.451903+00:00,google,gemini-1.5-flash-8b,0,4529,293,"Preferring stabilization, then dirt road, then other options are less desirable."
+7af3f286-9948-4771-8202-e356de68881a,2025-03-20 12:06:52.977864+00:00,google,gemini-1.5-flash-8b,0,4523,285,Preferring stability over complete closure or bitumen upgrade.
+4cd86543-6f18-40c4-9899-f5a8618228d1,2025-03-25 10:04:10.212513+00:00,google,gemini-1.5-flash-8b,0,4531,294,Preferring a stable 4WD track over full closure or bitumen upgrade.
+0ed7c30f-dbcc-4ff1-8aac-df009215a913,2025-03-25 10:04:14.109380+00:00,google,gemini-1.5-flash-8b,0,4529,296,"Preferring targeted fixes over full upgrade or closure, with a dirt road as least preferred."
+30af6827-0b98-4782-aaa2-9b9e1eea47b3,2025-03-25 10:04:17.589931+00:00,google,gemini-1.5-flash-8b,0,4523,311,"Preferring minimal impact, stabilizing trouble spots is best. Dirt road is next best. Current state is acceptable. Bitumen is worst. Closure is last resort."
+ac0111f0-3263-4931-b35b-5fdbb237e659,2025-03-25 10:04:21.339757+00:00,google,gemini-1.5-flash-8b,0,4523,293,"Prefer stabilizing trouble spots, then a dirt road, then 4WD, lastly bitumen."
+aa58f0cc-9796-471f-835f-24c61ab44576,2025-03-25 10:04:25.029181+00:00,google,gemini-1.5-flash-8b,0,4523,294,"Preferring a maintained 4WD track, with targeted repairs, over full upgrade or closure."
+76610425-c33e-48f7-94b9-03da73af74c3,2025-03-25 10:25:51.227988+00:00,google,gemini-1.5-flash-8b,0,4531,294,Preferring a stable 4WD track over full closure or bitumen upgrade.
+99ce7e80-7555-40c7-9b16-c96296ae09d5,2025-03-25 10:25:54.881935+00:00,google,gemini-1.5-flash-8b,0,4529,292,"Preferring targeted fixes over full upgrade or closure, prioritizing environmental concerns."
+aa1224f8-46b9-484a-8e9b-c0d33b0dd349,2025-03-25 10:25:58.771392+00:00,google,gemini-1.5-flash-8b,0,4523,311,"Preferring minimal impact, stabilizing trouble spots is best. Dirt road is next best. Current state is acceptable. Bitumen is worst. Closure is last resort."
+45bea712-c6a0-4e11-942b-f17a56ad5b66,2025-03-25 10:26:02.530373+00:00,google,gemini-1.5-flash-8b,0,4523,293,"Prefer stabilizing trouble spots, then a dirt road, then 4WD, lastly bitumen."
+01e91ffb-501f-4290-a268-9bfe6b436c85,2025-03-25 10:26:06.252168+00:00,google,gemini-1.5-flash-8b,0,4523,294,"Preferring a maintained 4WD track, with targeted repairs, over full upgrade or closure."
+c09da771-658b-4af3-b615-9cf2534661c2,2025-03-25 15:37:24.887558+00:00,google,gemini-1.5-flash-8b,0,4523,285,Preferring closure/rehabilitation to further development.
+a24ed8d4-ea51-41e9-bb3a-57fe1994ff7f,2025-03-25 15:37:28.646990+00:00,google,gemini-1.5-flash-8b,0,4533,298,"Preferring targeted fixes over full upgrade or closure, with a dirt road as least preferred."
+e6d007f9-4959-48f9-8eed-f2dd8e69b273,2025-03-25 15:37:32.250761+00:00,google,gemini-1.5-flash-8b,0,4521,284,Preferring controlled improvement over full upgrade or closure.
+5384be0d-0597-432b-b127-50e8c1ba6b85,2025-03-25 15:37:35.936046+00:00,google,gemini-1.5-flash-8b,0,4519,293,"Preferring a maintained 4WD track, with targeted fixes, over full closure or bitumen upgrade."
+c4b4fd4d-c71c-4c40-8294-44e994cc0b4b,2025-03-25 15:37:39.495038+00:00,google,gemini-1.5-flash-8b,0,4529,296,"Preferring targeted fixes over full upgrade, closing is least desirable, bitumen is worst."
+834b1416-2028-4493-96ea-ddc4f7e341fd,2025-03-25 15:37:43.228249+00:00,google,gemini-1.5-flash-8b,0,4529,289,Preferring a 4WD track with minimal intervention.
+39bece1d-70a9-4f7c-a528-a40da2e6ab46,2025-03-25 15:37:46.849784+00:00,google,gemini-1.5-flash-8b,0,4525,290,"Prefer stabilizing trouble spots, then closing/rehabilitating is best."
+e7a3be62-a677-4477-8057-9cf33b0c5a37,2025-03-25 15:37:50.477036+00:00,google,gemini-1.5-flash-8b,0,4525,306,"Preferring stabilization, then closure/rehabilitation is best, followed by dirt upgrade. Bitumen is least desirable. Current condition is worst."
+fffcfab6-1804-4898-9b15-152fa46d6a67,2025-03-25 15:37:53.913500+00:00,google,gemini-1.5-flash-8b,0,4529,289,"Preferring minimal intervention, prioritizing stability over full upgrade."
+24286c34-47cb-4c0f-9149-d8b9d9e8f545,2025-03-25 15:37:57.544314+00:00,google,gemini-1.5-flash-8b,0,4523,285,Preferring stability over complete closure or bitumen upgrade.
+9f8be7b9-d578-4960-8a6b-1223357ca72e,2025-03-27 09:25:40.375740+00:00,google,gemini-1.5-flash-8b,0,4527,302,"Preferring stabilization, then closure/rehabilitation is best, followed by dirt road upgrade. Bitumen is least desirable."
+7ad08439-f6b5-4798-8277-d32dd0c12948,2025-03-27 09:25:43.829647+00:00,google,gemini-1.5-flash-8b,0,4529,290,"Preferring localized fixes over full upgrades, prioritizing environmental concerns."
+e6e4c50a-1593-4b63-8ce4-6d321820a255,2025-03-27 09:25:47.215837+00:00,google,gemini-1.5-flash-8b,0,4523,285,Preferring stability over complete closure or bitumen upgrade.
+d1e7c56c-b69f-4067-a586-13a5a87837f4,2025-03-27 09:25:50.638099+00:00,google,gemini-1.5-flash-8b,0,4527,297,"Preferring a maintained 4WD track, with targeted repairs, over full closure or bitumen upgrade."
+b18cdc2e-b08d-4b82-ad9d-ba4272288d00,2025-03-27 09:25:54.038060+00:00,google,gemini-1.5-flash-8b,0,4527,292,"Preferring targeted fixes over full upgrade, and closing is least desirable."
+e7c733b0-75e6-41ff-96e7-26d8912e20f2,2025-03-27 09:25:57.518054+00:00,google,gemini-1.5-flash-8b,0,4523,299,"Preferring minimal impact, stabilizing is best; closing is next; upgrading to dirt is acceptable, but bitumen is worst."
+30c625f9-a0a8-44d9-a011-c671300f2bc2,2025-03-27 09:26:01.166434+00:00,google,gemini-1.5-flash-8b,0,4529,297,"Closing and rehabilitating is best; stabilizing is next, then maintaining. Upgrades are undesirable."
+89c4c0c8-f2a7-4721-926c-b083c45d6dfe,2025-03-27 09:26:04.630751+00:00,google,gemini-1.5-flash-8b,0,4523,293,"Prefer stabilizing trouble spots, then maintaining as 4WD. Closing is next best."
+6874331b-e233-4a17-b6b0-bd725531e661,2025-03-27 09:26:08.102007+00:00,google,gemini-1.5-flash-8b,0,4533,305,"Preferring stabilization, then closure/rehabilitation is best, followed by dirt road upgrade. Bitumen is least desirable."
+eee159ef-05f2-485b-ab69-ddf3e0a43429,2025-03-27 09:26:11.513860+00:00,google,gemini-1.5-flash-8b,0,4519,291,"Prefer stabilizing trouble spots, then a dirt road, then 4WD, lastly bitumen."
+ae15790b-210c-4d76-9deb-1afff2e0b6a7,2025-03-27 09:26:15.059131+00:00,google,gemini-1.5-flash-8b,0,4527,306,Closing and rehabilitating is best; bitumen is worst. Dirt upgrade is okay. Stabilizing is better than status quo.
+213df58a-a7f2-416f-a44b-176f3290dfea,2025-03-27 09:26:18.504381+00:00,google,gemini-1.5-flash-8b,0,4523,293,"Preferring maintenance as 4WD track, with stabilization, over full closure or upgrade."
+1d10fce5-ae85-4ec4-b358-f5de279ebd9f,2025-03-27 09:26:21.927499+00:00,google,gemini-1.5-flash-8b,0,4521,301,"Preferring a maintained 4WD track, then stabilized sections, then dirt road, rehabilitation last, and bitumen least."
+10e8dcfa-5b22-4fd4-8327-9f570b9beecf,2025-03-27 09:26:25.512778+00:00,google,gemini-1.5-flash-8b,0,4523,295,Prefer rehabilitation/stabilization over full closure or bitumen. Dirt upgrade is better than current state.
+61854885-1e18-4413-8169-c03caa51479c,2025-03-27 09:26:29.100823+00:00,google,gemini-1.5-flash-8b,0,4527,307,"Prefer stabilizing problem areas while keeping it a 4WD track, then a dirt road, then bitumen is least preferred, and closing it is best."
+eabd9c9d-d11a-4788-835f-1e4f5592ce96,2025-03-27 09:26:32.688218+00:00,google,gemini-1.5-flash-8b,0,4527,302,"Preferring the current 4WD status, then stabilization, then dirt road, then closure, and finally bitumen is worst."
+78d9b2d6-97d7-44a6-bd58-4da37f08a6a2,2025-03-27 09:26:36.153586+00:00,google,gemini-1.5-flash-8b,0,4525,287,"Preferring minimal intervention, prioritizing stability over full upgrade."
+411bc5e2-8808-450c-997e-8d2f2a9e9f03,2025-03-27 10:07:34.207416+00:00,google,gemini-1.5-flash-8b,0,4531,294,Preferring a stable 4WD track over full closure or bitumen upgrade.
+27dbb7b4-17b3-4667-8f20-146a74b36992,2025-03-27 10:07:37.773958+00:00,google,gemini-1.5-flash-8b,0,4529,296,"Preferring targeted fixes over full upgrade or closure, with a dirt road as least preferred."
+4dd5c264-7c07-4895-978e-9697d4676b64,2025-03-27 10:07:41.156191+00:00,google,gemini-1.5-flash-8b,0,4523,311,"Preferring minimal impact, stabilizing trouble spots is best. Dirt road is next best. Current state is acceptable. Bitumen is too much. Closing is worst."
+04d45728-4ffd-456f-9270-a0c91d9de791,2025-03-27 10:07:44.716025+00:00,google,gemini-1.5-flash-8b,0,4523,293,"Prefer stabilizing trouble spots, then a dirt road, then 4WD, lastly bitumen."
+acf16b09-f734-469e-8b2a-d33e560c2e7b,2025-03-27 10:07:48.117564+00:00,google,gemini-1.5-flash-8b,0,4523,294,"Preferring a maintained 4WD track, with targeted fixes, over full upgrade or closure."
+885d0d83-5ca6-42a4-9929-2a0cc788382a,2025-04-28 08:30:54.865151+00:00,google,gemini-1.5-flash-8b,1.0,4531,309,"Preferring the current 4WD track, then stabilization, then dirt road, followed by closure/rehabilitation, and finally bitumen is least preferred."
+136b7817-fe13-4c09-9332-e9222eb922b4,2025-04-28 08:30:58.681721+00:00,google,gemini-1.5-flash-8b,1.0,4527,294,"Preferring stability and minimal impact over bitumen, with closing a distant last choice."
+2a2ee8c1-4b7a-4865-85ec-57d8263b8de4,2025-04-28 08:31:02.558384+00:00,google,gemini-1.5-flash-8b,1.0,4525,293,"Preferring the current 4WD status, with minor fixes, as best option."
+59ebecbb-6855-44ae-a37c-15fa4e84283b,2025-04-28 08:31:06.186760+00:00,google,gemini-1.5-flash-8b,1.0,4523,302,Preferring rehabilitation (2) over complete closure (1) and minimizing further damage. Stabilization (3) is next best.
+720f6621-3dd0-442f-887f-b1f36bc45d54,2025-04-28 08:31:09.874381+00:00,google,gemini-1.5-flash-8b,1.0,4523,285,Preferring a stable but limited road access option.
+1d78d3e3-1dc3-4bdc-b9d7-eda2b9b11cee,2025-04-28 08:31:13.461003+00:00,google,gemini-1.5-flash-8b,1.0,4525,289,"Prefer phased improvements, minimizing impact, over full upgrade or closure."
+ad15c124-ca2d-4d91-a98c-e0f617950e74,2025-04-28 08:31:17.093070+00:00,google,gemini-1.5-flash-8b,1.0,4527,287,Preferring localized fixes over complete upgrades or closures.
+99b30322-1d17-4679-841d-73a39f32470f,2025-04-28 08:31:20.659591+00:00,google,gemini-1.5-flash-8b,1.0,4533,299,"Prioritizes stabilizing issues, then maintaining 4WD, with other options less preferred."
+94aa92e5-0794-4ad1-b4df-5757064501d8,2025-04-28 08:31:24.490561+00:00,google,gemini-1.5-flash-8b,1.0,4525,292,"Prefer rehabilitation, then stabilization, followed by dirt road, and least is bitumen."
+91991cba-f95f-4908-a5a2-66f54eb934cd,2025-04-28 08:31:27.919046+00:00,google,gemini-1.5-flash-8b,1.0,4523,293,Least impact on environment is best; closing is too drastic; upgrades are a poor choice.
+4a45fd0e-b038-4010-b365-09f0f66fb764,2025-04-28 08:31:31.553020+00:00,google,gemini-1.5-flash-8b,1.0,4529,316,Prefer rehabilitation (2) over bitumen (4) or upgrade (5) for environmental reasons. Stabilize (3) is better than current (1) but still has impact.
+f81e4f0a-4778-496a-8c21-0b963c5203f2,2025-04-28 08:31:35.404655+00:00,google,gemini-1.5-flash-8b,1.0,4519,290,"Closing and rehabilitating is best, followed by stabilization. Bitumen is worst."
+8ebdf65f-84b7-4017-9e8c-072cf219680f,2025-04-28 08:31:39.192690+00:00,google,gemini-1.5-flash-8b,1.0,4521,296,"Prefer stabilized 4WD, then maintained dirt, then current, then upgrade to bitumen, least is close."
+859cc39b-0327-4393-b8c2-2106da2f9810,2025-04-28 08:31:42.926429+00:00,google,gemini-1.5-flash-8b,1.0,4523,288,"Preferring minimal intervention, prioritizing stabilization, and then gradual improvement."
+97e2ecf9-5703-4a48-a8b0-d15884c0a93b,2025-04-28 08:31:46.623166+00:00,google,gemini-1.5-flash-8b,1.0,4529,287,Prioritizing environmental stability while maintaining some accessibility.
+bcd1ac95-a97c-497c-a5f5-056edc4976a9,2025-04-28 08:31:50.192335+00:00,google,gemini-1.5-flash-8b,1.0,4529,297,"Preferring a maintained 4WD track, with targeted repairs, over full closure or upgrade."
+aff36be9-6322-4d4c-bc76-c2360bff28bf,2025-04-28 08:31:53.773470+00:00,google,gemini-1.5-flash-8b,1.0,4527,292,"Preferring stabilization, then closure is best. Bitumen is worst."
+b355f111-4500-41de-ace8-c1445cde3d55,2025-04-28 08:31:57.564228+00:00,google,gemini-1.5-flash-8b,1.0,4521,288,"Preferring stabilization over full closure or upgrade, with upgrade last."
+9e2d58a2-e15b-4648-aed3-130e731ddf8a,2025-04-28 08:32:01.159124+00:00,google,gemini-1.5-flash-8b,1.0,4527,291,"Preferring closure/rehab, least supportive of bitumen upgrade."
+18c85cab-98d5-4cfb-95a4-7318205ad61e,2025-04-28 08:32:04.890546+00:00,google,gemini-1.5-flash-8b,1.0,4525,295,"Prefer maintaining current 4WD status, with targeted fixes, over full closure or bitumen upgrade."
+ed6f2419-dfa9-41ba-8c28-cff995019b53,2025-04-28 08:32:08.603764+00:00,google,gemini-1.5-flash-8b,1.0,4527,310,"Closing the road (2) is best to protect the environment, followed by stabilizing trouble spots (1). Bitumen (5) and upgrades are least favored."
+cbcd30ac-6eeb-4abf-be0c-445f0195545d,2025-04-28 08:32:12.397413+00:00,google,gemini-1.5-flash-8b,1.0,4525,293,"Prefer a maintained 4WD track, upgrade undesirable sections, avoid bitumen."
+4c443e7e-e63a-4e74-981f-3c26e867f350,2025-04-28 08:32:16.009584+00:00,google,gemini-1.5-flash-8b,1.0,4533,295,Closing the road is best; stabilizing is okay; upgrading is not ideal.
+fe96b251-c750-4ca6-ae08-c84bfc86a016,2025-04-28 08:32:19.657846+00:00,google,gemini-1.5-flash-8b,1.0,4521,283,"Prefer minimal impact, least support for bitumen."
+13510442-61ff-4536-82a3-3e544c4112ee,2025-04-28 08:32:23.269529+00:00,google,gemini-1.5-flash-8b,1.0,4519,288,"Least impact, then upgrade, then close, then improve, then maintain."
+06e4e064-6235-4b3a-8278-b0de327b8c2d,2025-04-28 08:32:26.952955+00:00,google,gemini-1.5-flash-8b,1.0,4527,291,"Preferring targeted fixes over full upgrade or closure, prioritizing environmental concerns."
+3a33bd99-18ca-427e-baae-d29cd053efcb,2025-04-28 08:32:30.588911+00:00,google,gemini-1.5-flash-8b,1.0,4525,295,"Prefer complete closure and rehabilitation, then stabilization, upgrade to dirt, and lastly the current state."
+af16286d-23e2-4da5-b9ee-7d54b3025d99,2025-04-28 08:32:34.194664+00:00,google,gemini-1.5-flash-8b,1.0,4527,286,Prioritizing minimal impact while maintaining some access.
+6609395e-2b34-4b29-8e4d-86671be880bb,2025-04-28 08:32:37.705395+00:00,google,gemini-1.5-flash-8b,1.0,4529,293,"Preferring stabilized 4WD over bitumen, and closure least desirable."
+7c22b638-bc46-4272-8367-9325ea518a42,2025-04-28 08:32:41.429016+00:00,google,gemini-1.5-flash-8b,1.0,4527,299,"Prioritizes stabilization, then 4WD, then conventional, lastly bitumen. Closing is least preferred."
+b5748673-87ce-430e-8d1f-44253d028410,2025-04-28 08:32:45.119427+00:00,google,gemini-1.5-flash-8b,1.0,4521,290,Preferring stabilization over full closure or upgrade. Least support for full upgrade.
+0b7923ee-4c1a-416f-89f4-2ad14c9b98ce,2025-04-28 08:32:48.866483+00:00,google,gemini-1.5-flash-8b,1.0,4527,297,"Preferring a maintained 4WD track, upgrading is a step too far, closing is drastic."

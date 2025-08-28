@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+a39b7fad-b6a4-4f9c-97c2-bc0783a7abbe,2025-04-28 11:51:55.183954+00:00,xai,grok-3-mini-beta-r=high,0,14895,204,Prioritized resilience tech and emission reductions over inaction and economic dominance.
+f4c6edd5-7e46-4184-b78d-673fca3c6fa2,2025-04-28 11:52:27.531432+00:00,xai,grok-3-mini-beta-r=high,0,12053,208,"Prioritized adaptation for resilience, supported emission cuts, opposed inaction and growth over climate."
+e5ff0d98-2d46-47b2-b302-d62ee0e5521c,2025-04-28 11:52:57.991460+00:00,xai,grok-3-mini-beta-r=high,0,12513,208,"Prioritized adaptation for resilience, favored mitigation, disfavored inaction and economic focus."
+11eb8e1f-32cc-4870-afc9-814900ab7299,2025-04-28 11:53:26.819352+00:00,xai,grok-3-mini-beta-r=high,0,13357,207,"Prioritized adaptation policies and emission cuts, disfavoring inaction and economic dominance."
+cb6d230e-9285-4cb8-b0fa-0523cc6b1252,2025-04-28 11:54:03.540986+00:00,xai,grok-3-mini-beta-r=high,0,13352,205,Prioritized aggressive emission cuts and adaptive innovations over moderate actions and inaction.

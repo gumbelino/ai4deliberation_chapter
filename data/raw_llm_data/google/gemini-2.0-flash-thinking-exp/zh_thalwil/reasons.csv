@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+060f06ac-1881-4a1d-a4bd-a2e324d11096,2025-04-17 10:58:22.763435+00:00,google,gemini-2.0-flash-thinking-exp,0,3520,224,"Prioritize adaptation, resilience, and strong climate action. Against denial."
+552f2dc8-b288-4a7d-9c0a-5bfbcbf73f39,2025-04-17 10:58:40.176750+00:00,google,gemini-2.0-flash-thinking-exp,0,3290,106,Prioritize adaptation local action moderate emission cuts not economic growth
+4ddaa0dc-800a-4ea5-ae1a-0bd2788fc46c,2025-04-17 10:58:57.579165+00:00,google,gemini-2.0-flash-thinking-exp,0,3290,105,Prioritize adaptation and resilience with moderate emissions cuts.
+d50374ab-3a31-4957-9523-5a42218f0588,2025-04-17 10:59:15.196186+00:00,google,gemini-2.0-flash-thinking-exp,0,3290,107,"Adaptation priority, local action, moderate cuts, worried."
+689af2bd-aa16-4c1d-ab01-9a65c66b4eab,2025-04-17 10:59:34.654268+00:00,google,gemini-2.0-flash-thinking-exp,0,3520,226,"Climate change is real, adaptation is key, moderate emission cuts, resilience focus."
+5457bb4f-b1e5-46d9-903a-12a36bfd93f8,2025-04-17 10:59:48.473979+00:00,google,gemini-2.0-flash-thinking-exp,0,3290,107,"Believe in climate change, prioritize adaptation and strong emission cuts."
+14d8784a-6ee8-4bca-ab9f-a048fa8adbe8,2025-04-17 11:00:05.004014+00:00,google,gemini-2.0-flash-thinking-exp,0,3520,222,"Prioritize adaptation, community action, and moderate emissions cuts."
+da56e1b0-2b54-4c8e-aa69-dd34703d1098,2025-04-17 11:00:20.277630+00:00,google,gemini-2.0-flash-thinking-exp,0,3520,227,"Adaptation is key, support individuals, moderate emission cuts, not economic growth first."
+e8615ec9-e394-4ecb-be8e-eadd94a615de,2025-04-17 11:00:37.947431+00:00,google,gemini-2.0-flash-thinking-exp,0,3290,108,"Climate action needed, prioritize adaptation, resilience, moderate emission cuts."
+b06471b1-fc09-49ef-829c-4adbf76595d6,2025-04-17 11:00:53.537584+00:00,google,gemini-2.0-flash-thinking-exp,0,3290,106,"Prioritize adaptation, moderate emissions cuts, not inaction."

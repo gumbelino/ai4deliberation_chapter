@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+6814c96e-99b5-4444-8a3f-aae898841f06,2025-04-03 11:19:55.820348+00:00,google,gemma3:12b,0,0,0,Prioritize source solutions. Deportation is extreme. Ban begging is problematic. Focus on support.
+e78843d2-c96b-41ab-ab29-e978b8548c0c,2025-04-03 11:20:25.036563+00:00,google,gemma3:12b,0,0,0,"Prioritize source country aid, enforce laws, limited accommodation, ban begging, deport long-term beggars, less direct aid."
+d6f5210a-6819-452e-acb4-f0a758d215bc,2025-04-03 11:20:52.972793+00:00,google,gemma3:12b,0,0,0,"Focus on source countries, enforce laws, deport those overstaying, prioritize local aid, then ban begging."
+339017b4-f45c-4ec8-87e8-26e010c0dba2,2025-04-03 11:21:21.534241+00:00,google,gemma3:12b,0,0,0,"Prioritize source country solutions, less restrictive, but address safety, discourage aid, housing last."
+894dbe06-e717-42ec-b5b6-8b2039964cde,2025-04-03 11:21:49.721373+00:00,google,gemma3:12b,0,0,0,"Addressing root causes is best; deportation harsh. Bans & accommodation less effective, enforcement needed."
+bfc88295-02a4-4922-a1af-6d1a6d8cb89d,2025-04-03 11:22:17.580141+00:00,google,gemma3:12b,0,0,0,"Focus on source problems, deporting is harsh, accommodation helps, enforcing laws is needed."
+4e5e0f07-3f9a-45e7-8a52-f830d4d20f61,2025-04-03 11:22:46.258435+00:00,google,gemma3:12b,0,0,0,"Prioritize source country solutions, enforce laws, and limit support, deporting those who overstay."
+a0cb59bf-a415-4f87-8836-0e57c17f714e,2025-04-03 11:23:14.551405+00:00,google,gemma3:12b,0,0,0,Root causes matter. Deportation is harsh. Helping locally is needed. Banning is ineffective.
+0e2951bb-2615-4d28-98bc-f9f761d594f3,2025-04-03 11:23:42.620176+00:00,google,gemma3:12b,0,0,0,Deportation is harshest. Source country aid preferred. Existing laws upheld. Begging ban & money ban are less desirable.
+06f991f9-1adf-4253-94c9-bffc2eedbd37,2025-04-03 11:24:10.469420+00:00,google,gemma3:12b,0,0,0,"Focus on source countries, discourage handouts, enforce laws, and prioritize help where it originates."
+e40a559d-e1d7-4793-864f-8b9d80e47ab9,2025-04-03 12:50:08.009001+00:00,google,gemma3:12b,0,0,0,Deportation is extreme. Prioritize solutions abroad. Laws should apply equally. Moderate assistance is needed.
+2b1e7d79-bbbd-4679-ba25-c8ff8e0540d8,2025-04-03 12:50:37.518908+00:00,google,gemma3:12b,0,0,0,Addressing root causes is key. Deportation is harsh. Bans aren't effective. Supporting those in need is important.
+91ea1b14-e973-4f7b-8bc6-b32863777683,2025-04-03 12:51:05.745930+00:00,google,gemma3:12b,0,0,0,Source country focus is best. Deportation is harsh. Accommodation is needed. Ban is too broad.
+b9b794cc-fe10-4b76-8443-25a69c0f6c25,2025-04-03 12:51:33.341834+00:00,google,gemma3:12b,0,0,0,"Prioritize source country solutions, but not full bans; accommodation last due to cost."
+0ca22514-4d0a-45dd-ba42-d89696fb4e2c,2025-04-03 12:52:00.785862+00:00,google,gemma3:12b,0,0,0,"Focusing on source countries is key, begging bans are harsh, deportation is extreme, accommodation is needed."
+6d7b8c7a-f4cb-4564-9b5a-2f329b52a97a,2025-04-03 12:53:23.714541+00:00,google,gemma3:12b,0,0,0,"Prioritize source solutions, some aid, ban begging, deport sparingly, oppose settlements, dislike widespread aid."
+0e0b3ce3-41e4-40b0-9ba9-7a37da418560,2025-04-03 12:53:51.571541+00:00,google,gemma3:12b,0,0,0,Deportation is last; helping source countries and basic enforcement are priorities; banning begging is less favored.
+b5834e2d-b3aa-4bcb-a7a7-74ed8a0e4b53,2025-04-03 12:54:19.188032+00:00,google,gemma3:12b,0,0,0,"Prioritize helping at source, prevent exploitation, enforce laws, shelter is important."
+9e1e29fb-d6e1-4ec8-a310-985cc66a9eca,2025-04-03 12:54:46.626431+00:00,google,gemma3:12b,0,0,0,"Source country focus and assistance are best. Deportation and bans are harmful, while accommodation is needed."
+c4485b4a-18af-4fef-8353-e7bb913db4d8,2025-04-03 12:56:08.268467+00:00,google,gemma3:12b,0,0,0,"Prioritize source countries, least support for deportations/accommodation, balance enforcement."
+d6fa3cd8-3362-44d2-8d55-d33abb884957,2025-04-03 12:57:02.372026+00:00,google,gemma3:12b,0,0,0,"Prioritize addressing root causes, but enforce laws; deportation extreme, housing least preferred option."
+dabbaa01-46c0-4120-b9c6-791935f0322a,2025-04-03 12:57:56.677973+00:00,google,gemma3:12b,0,0,0,"Prioritize source countries, enforce laws, but source-country aid is vital. Deportation is harsh, forbidding aid is unkind."
+5918fc1b-b8eb-452c-9083-350b7c5ed352,2025-04-03 12:58:51.062720+00:00,google,gemma3:12b,0,0,0,"Addressing root causes is key. Deportation extreme. Housing good, but source country solutions preferred."
+bc160d40-36f0-4e73-842e-e6e5bde58949,2025-04-03 12:59:18.442150+00:00,google,gemma3:12b,0,0,0,"Prioritize source solutions, deportation is harsh, avoid blanket bans, accommodation last resort."
+ef4b046b-7101-4382-abe7-b5a7b6906403,2025-04-03 16:12:06.343910+00:00,google,gemma3:12b,0,0,0,"Prioritize source country aid, enforce laws, aid beggars, but deport long-term beggars."
+c37ad2d0-529c-4148-b5b3-a2f1ae2e34f1,2025-04-03 16:14:56.093040+00:00,google,gemma3:12b,0,0,0,"Prioritize source solutions, aid, and enforce laws. Deportation is least favored."
+087decf0-b2ea-459a-aad6-ae2fede56eeb,2025-04-03 16:28:47.727268+00:00,google,gemma3:12b,0,0,0,"Prioritize source solutions, then shelter, enforce laws fairly, limit begging, reject deportation, and end financial support."
+01734c93-205b-4ea9-8e2c-365343840a09,2025-04-03 16:32:41.620226+00:00,google,gemma3:12b,0,0,0,"Prioritize source country aid, provide housing, enforce laws, avoid deportation and banning."
+44778f43-e97f-4159-ba27-3680f4c42233,2025-04-03 16:33:09.008943+00:00,google,gemma3:12b,0,0,0,"Focus on source countries, aid beggars, enforce laws, deport long-term, ban begging, limit giving, prioritize Sweden."
+16998fe2-8ef9-4acd-86cd-613d55152d24,2025-04-03 16:33:37.632438+00:00,google,gemma3:12b,0,0,0,Prioritize source country aid and enforcement. Deportation and bans seem too harsh; accommodation needed but limited.

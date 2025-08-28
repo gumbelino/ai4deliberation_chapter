@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+7f5803bb-4244-4265-bc9e-f86a68cd149d,2025-04-01 13:47:52.156089+00:00,openai,o3-mini,0,4853,6200,"I ranked highest inclusive, democratic policies and lowest market-only or moralistic governance."
+13ee44fe-b88f-46be-8dda-74562b1918c8,2025-04-01 13:49:09.335611+00:00,openai,o3-mini,0,4853,4662,I support inclusive minority input and strong market rules over unchanged conservative systems.
+7e77bc9b-d9f6-47f7-b850-03106529acbf,2025-04-01 13:49:34.458559+00:00,openai,o3-mini,0,4855,5557,I weighed market efficiency minority inclusion and traditional values to rank policies.
+92be9f48-ea6f-40d0-8452-17ae34a328ca,2025-04-01 13:50:18.715110+00:00,openai,o3-mini,0,4853,5881,I favor inclusive minority governance and market freedom over moral control or preserving the status quo.
+0a465f36-684d-4ae1-b4b4-f7c511a0f216,2025-04-01 13:50:59.393920+00:00,openai,o3-mini,0,4853,6201,Market focus tops; balanced minority support follows; status quo and moral rules ranked lower.

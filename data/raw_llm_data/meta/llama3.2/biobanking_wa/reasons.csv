@@ -1,0 +1,35 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+041cf26f-c1e3-409b-b739-e8262ce86b20,2025-03-20 18:14:54.822216+00:00,meta,llama3.2,0,0,0,Strongest support for cautious implementation with minimal public resources and strict oversight.
+5389dc6c-6fc5-4940-9db5-1650d668b45a,2025-03-20 18:15:14.356639+00:00,meta,llama3.2,0,0,0,Strong regulation and minimal government input preferred over minimal oversight and private funding.
+bf06f80b-39ec-4433-9305-3e5641315a11,2025-03-20 18:15:50.662123+00:00,meta,llama3.2,0,0,0,Publicly funded with strong regulation is most preferred for balance between privacy and benefits.
+a37693bb-11e1-4a52-a3ca-b4b9e77211b6,2025-03-20 18:16:10.680373+00:00,meta,llama3.2,0,0,0,"Publicly funded with strong regulation is the best option, followed by private funding with strict oversight, due to balancing privacy and public benefit."
+06ba6aac-495c-4f24-9121-6a6605274446,2025-03-20 18:16:31.420972+00:00,meta,llama3.2,0,0,0,"Strongest support for public oversight and minimal regulation, followed by caution and high privacy measures."
+e6880647-9f1e-4945-bbf3-ad63e250bb95,2025-03-20 18:16:51.718140+00:00,meta,llama3.2,0,0,0,Prioritizing public transparency and control over private profits.
+3f5ac803-83d9-488c-90d3-74dfe33ecf63,2025-03-20 18:17:11.906765+00:00,meta,llama3.2,0,0,0,Publicly funded with strong regulation is least supported and privately funded with minimal regulation is most supported.
+7810a54f-9e4d-402a-8aea-f5c494ecd543,2025-03-20 18:24:38.376967+00:00,meta,llama3.2,0,0,0,Strongest support for cautious implementation with minimal public input and regulation.
+d45f4c44-804f-420e-b98e-c3a91d52bacb,2025-03-20 18:24:52.284516+00:00,meta,llama3.2,0,0,0,Publicly funded with regulation offers best balance between access and privacy.
+108ec083-b555-4e9b-9667-fe9a35a26f8a,2025-03-20 18:25:18.484259+00:00,meta,llama3.2,0,0,0,I ranked policies from strongest to weakest government regulation and oversight with public input.
+e2226838-4459-4a98-b640-85310c12e779,2025-03-20 18:25:32.695241+00:00,meta,llama3.2,0,0,0,Strongest support for minimal government input with regulation and strongest public oversight.
+b63b140e-0bb5-4259-98c2-b98acdf30749,2025-03-20 18:25:47.055342+00:00,meta,llama3.2,0,0,0,Strongest support for cautious regulation with high privacy and government oversight.
+3dea8dea-a015-4f58-9666-32c5ab659bb8,2025-03-20 18:26:01.362636+00:00,meta,llama3.2,0,0,0,Publicly funded with strong regulation is most trusted to balance public and individual rights.
+7711f66a-7052-463f-ad38-6091623bb661,2025-03-20 18:26:15.787298+00:00,meta,llama3.2,0,0,0,Publicly funded with regulation is preferred for its balance of access and privacy.
+c326b5b6-54c9-4cb0-a259-e662c1b63aab,2025-03-27 14:57:46.263498+00:00,meta,llama3.2,0,0,0,Publicly funded with strong regulation is most preferred over private with minimal oversight.
+a8f5d63d-bcc5-4969-a4df-6e555b289f73,2025-03-27 14:57:56.683418+00:00,meta,llama3.2,0,0,0,"Strongest support for publicly funded with strong regulation, followed by cautious implementation."
+edd3223e-29d9-4aff-bf24-f0abed1f38c4,2025-03-27 14:58:16.079568+00:00,meta,llama3.2,0,0,0,Strongest support for publicly funded with minimal regulation and strong oversight.
+8243f29b-0e85-4cb9-b3d6-a3a76d1a7d68,2025-03-27 14:58:26.289051+00:00,meta,llama3.2,0,0,0,Publicly funded with strong regulation is the most supported option.
+4f30e2bb-95ee-45a1-8291-b4cc74ae662a,2025-03-27 14:58:36.476708+00:00,meta,llama3.2,0,0,0,Strong regulation and public funding preferred over minimal oversight and private interests.
+d4ca2f1a-5f6b-4b47-88ab-15ec3f78058d,2025-03-27 14:58:46.783040+00:00,meta,llama3.2,0,0,0,Publicly funded with strong regulation is the best option due to balance of public oversight and private investment.
+98040b53-a837-4133-ad33-25280496d48e,2025-03-27 14:58:57.302850+00:00,meta,llama3.2,0,0,0,Publicly funded with regulation is the best option for strong privacy and accountability.
+6b3310e0-7b17-4e0c-996b-3bd629e2d38a,2025-03-27 15:53:26.000436+00:00,meta,llama3.2,0,0,0,Strongest support for publicly funded with strong regulation and cautious implementation.
+af54cb36-106d-4efd-902f-3aef9918ed5e,2025-03-27 15:53:36.217061+00:00,meta,llama3.2,0,0,0,Publicly funded with regulation seems most fair and safe with minimal compromise on benefits.
+a99890d0-5155-4b10-a2b6-a16550abb466,2025-03-27 15:53:46.668916+00:00,meta,llama3.2,0,0,0,Cautious implementation with strong regulation is preferred over minimal or lax oversight and privacy provisions.
+75e3715c-554c-48a1-b4d4-fd3b37a540e4,2025-03-27 15:53:56.951101+00:00,meta,llama3.2,0,0,0,Publicly funded with minimal regulation has the strongest support and least support for privacy provisions.
+6d506c1e-5243-40b8-8228-69503e36d26e,2025-03-27 15:54:07.505073+00:00,meta,llama3.2,0,0,0,Strongly support publicly funded and regulated biobanking for best balance of privacy and public benefit.
+26db54e2-9225-4faa-8d0e-f9bf1811c384,2025-03-27 15:54:17.888176+00:00,meta,llama3.2,0,0,0,Cautious Implementation has lowest level of regulation and most privacy provisions.
+fca965c5-38d0-483b-82f0-c300839c4fbf,2025-03-27 15:54:46.358679+00:00,meta,llama3.2,0,0,0,Publicly funded with strong regulation ranked highest due to balance of privacy and benefits.
+b2b0bed9-4755-4c9f-8009-4f51dea1f03e,2025-03-27 15:54:56.714958+00:00,meta,llama3.2,0,0,0,Publicly funded with strong regulation is preferred over privatized options due to increased oversight and privacy protection.
+a3f70c45-a06d-4f9c-9a33-7ae0cf7356df,2025-03-27 15:55:07.144350+00:00,meta,llama3.2,0,0,0,Publicly funded with minimal regulation is least preferred due to high privacy concerns and strong government oversight.
+4e729e35-1f08-4ce8-b325-2348dc94d473,2025-03-27 15:55:26.890895+00:00,meta,llama3.2,0,0,0,Cautious approach with minimal regulation seems safest for individual privacy.
+ccc2b10d-911e-4aef-ba30-e8d074c2addd,2025-03-27 15:55:46.522278+00:00,meta,llama3.2,0,0,0,"Publicly funded with strong regulation is most supported, then privately funded with minimal regulation."
+d7fb721f-6023-47d4-bd79-7259e1a00668,2025-03-27 15:55:57.063624+00:00,meta,llama3.2,0,0,0,Strongly support high privacy and cautious implementation of biobanking.
+b691d078-ac53-48c8-9173-c5e1befeb3ff,2025-03-27 15:56:26.020210+00:00,meta,llama3.2,0,0,0,"Strongest support for publicly funded with regulation, then cautious implementation and strong privacy."

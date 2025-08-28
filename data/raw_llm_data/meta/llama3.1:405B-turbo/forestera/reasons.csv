@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+27db7855-8971-4529-af15-c42733ca6b83,2025-04-01 13:17:18.492258+00:00,meta,llama3.1:405B-turbo,0,4666,272,Prioritized balanced management considering ecological social and economic values.
+357f2a0b-4a0c-45e8-a81e-1e9953a3da77,2025-04-01 13:17:27.827000+00:00,meta,llama3.1:405B-turbo,0,4661,271,Prioritized balanced management considering ecological and social values.
+5cca358d-1180-46ba-a797-263349ab939d,2025-04-02 12:02:22.444207+00:00,meta,llama3.1:405B-turbo,0,4666,272,Prioritized balanced management that considers ecological and social values.
+8c07de68-fbea-4cec-a871-ea98c69c332a,2025-04-02 12:02:27.702583+00:00,meta,llama3.1:405B-turbo,0,4666,271,Prioritized balanced management considering ecological and social values.
+508bfd28-390c-4b45-88dc-a6374d149cb3,2025-04-02 12:02:33.678170+00:00,meta,llama3.1:405B-turbo,0,4666,274,Prioritized policies balancing ecological and social values with sustainable management practices.
+9caebca4-4354-45c4-b045-213f1de6c8f5,2025-04-02 12:02:39.140981+00:00,meta,llama3.1:405B-turbo,0,4663,272,Prioritized balanced management that considers ecological and social values.
+8fd27981-2041-4311-a8fa-819e12206467,2025-04-02 12:02:44.733386+00:00,meta,llama3.1:405B-turbo,0,4663,274,Prioritized policies balancing ecological and social values with restoration and protection.
+a62cf3fa-411c-4c74-8189-c5e816f05a04,2025-04-02 12:02:51.373859+00:00,meta,llama3.1:405B-turbo,0,4666,273,Prioritized balanced management approaches that consider ecological and social values.
+1bf18a53-77e5-40d3-afb0-0e324711ea24,2025-04-02 12:02:57.321657+00:00,meta,llama3.1:405B-turbo,0,4661,271,Prioritized balanced management considering ecological and social values.
+f918c43d-760c-435f-a7d1-51fb39df505d,2025-04-02 12:03:04.023931+00:00,meta,llama3.1:405B-turbo,0,4664,271,Prioritized balanced management considering ecological and social values.
+3563a171-04e8-4626-bb83-db464bd19c23,2025-04-02 12:03:09.853500+00:00,meta,llama3.1:405B-turbo,0,4666,272,Prioritized balanced management considering both ecological and social values.
+30a5511d-b350-4c59-b4c2-21962bb009a5,2025-04-02 12:03:15.356497+00:00,meta,llama3.1:405B-turbo,0,4666,275,Prioritized ecological balance and community protection over economic gain and no management.
+734dd9e2-229d-4383-bf34-156c728d79c2,2025-04-02 12:03:37.264513+00:00,meta,llama3.1:405B-turbo,0,4666,272,Prioritized balanced management considering ecological social and economic values.
+5294ea9d-58da-49d0-8a9c-af76382b9406,2025-04-02 12:03:45.279458+00:00,meta,llama3.1:405B-turbo,0,4666,271,Prioritized balanced management considering ecological and social values.
+45bfe24d-bd82-4e4f-8b60-6dd712e1c88e,2025-04-02 12:03:52.919717+00:00,meta,llama3.1:405B-turbo,0,4663,271,Prioritized balanced management considering ecological and social values.
+0b7846bb-f95b-439e-9f6e-b06621e9e5f3,2025-04-02 12:04:00.580172+00:00,meta,llama3.1:405B-turbo,0,4663,275,Prioritized management that balances ecological and social values with restoration and protection.
+d9f409b0-0fd5-4dce-ac65-be6d60161656,2025-04-02 12:04:06.143737+00:00,meta,llama3.1:405B-turbo,0,4666,272,Prioritized balanced management considering both ecological and social values.
+d10b47f0-9dd6-4f50-b35c-3a03564d7fa8,2025-04-02 12:04:13.827872+00:00,meta,llama3.1:405B-turbo,0,4666,274,Prioritized policies balancing ecological and social values with restoration and protection.
+7f95e12d-1745-4afa-afe0-da240c6b33c3,2025-04-02 12:04:20.792900+00:00,meta,llama3.1:405B-turbo,0,4664,271,Prioritized balanced management considering ecological and social values.
+93dd5b11-b174-4797-84d4-a2b512c902a3,2025-04-02 12:04:26.650465+00:00,meta,llama3.1:405B-turbo,0,4663,272,Prioritized balanced management that considers ecological and social values.
+f1e5dacd-9031-46c3-bd2b-946c390e7876,2025-04-02 12:04:40.477381+00:00,meta,llama3.1:405B-turbo,0,4666,271,Prioritized balanced management considering ecological and social values.
+be5f8159-2b4e-4b05-9442-860453b05d0a,2025-04-02 12:04:49.339700+00:00,meta,llama3.1:405B-turbo,0,4664,271,Prioritized balanced management considering ecological and social values.
+03b36dd7-2a24-4987-987d-c27dab322750,2025-04-02 12:04:57.530031+00:00,meta,llama3.1:405B-turbo,0,4663,275,Prioritized ecological balance and sustainable management over economic gain and no management.
+f61dcee6-bb5f-48cf-88a4-fa376dcf71f6,2025-04-02 12:05:04.458260+00:00,meta,llama3.1:405B-turbo,0,4666,271,Prioritized balanced management considering ecological and social values.
+b9ab2768-a29e-4f84-85f1-a70dd04743b1,2025-04-02 12:05:10.052631+00:00,meta,llama3.1:405B-turbo,0,4664,271,Prioritized balanced management considering ecological and social values.
+4a5e12ab-02f4-49f9-a77e-428c4bfe77b4,2025-04-02 12:05:29.883083+00:00,meta,llama3.1:405B-turbo,0,4664,273,Prioritized balanced management that considers both ecological and social values.
+d0c20083-7c68-42fd-b4f3-11d763fb7315,2025-04-02 12:05:36.707635+00:00,meta,llama3.1:405B-turbo,0,4663,275,Prioritized management that balances ecological and social values with minimal economic focus.
+34f70e74-8a4c-488f-ba8e-3912b143dd28,2025-04-02 12:05:44.550880+00:00,meta,llama3.1:405B-turbo,0,4666,272,Prioritized balanced management considering ecological social and economic values.
+3564445a-0b09-4fc4-8450-a79aca43263d,2025-04-02 12:05:50.789780+00:00,meta,llama3.1:405B-turbo,0,4666,271,Prioritized balanced management considering ecological and social values.
+a0ec24b3-9234-4e9d-9b7b-e58221c03778,2025-04-02 12:05:56.744851+00:00,meta,llama3.1:405B-turbo,0,4663,271,Prioritized balanced management considering ecological and social values.
+48f68931-7370-4b7a-bca6-cc473e563f29,2025-04-02 12:06:11.785419+00:00,meta,llama3.1:405B-turbo,0,4666,271,Prioritized balanced management considering ecological and social values.

@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Management that favors aggressive reduction of hazardous fuels,P2. Management that favors thinning treatments to realize economic gain.,"P3. Management that favors treatments to restore structure, function and composition of the forest to presettlement conditions, and allowing the introduction of fire as a natural disturbance.",P4. No fire or fuels management. Leaving the forests as they stand without active management.,P5. Management that favors local-based harvesting for fuel and timber needs.,P6. Management that favors the protection of wildlife and wildlife habitat.,"P7. Management that prioritizes the location and level of treatments favoring both ecological and social values (i.e. wildlife, watersheds, community protection, special cultural places)."
+656c69a0-a62d-4308-8810-c7db41ec7123,2025-04-28 09:54:59.911912+00:00,xai,grok-3-mini-beta-r=low,0,4517,275,1,6,3,7,5,4,2
+18467256-6b84-49b2-b48d-ccf049019e72,2025-04-28 09:55:34.242512+00:00,xai,grok-3-mini-beta-r=low,0,4517,278,2,6,1,7,5,4,3
+cef87974-6e8c-4542-83a0-eeb56dd05852,2025-04-28 09:56:11.413259+00:00,xai,grok-3-mini-beta-r=low,0,4517,276,2,6,3,7,5,4,1
+3f1db489-9369-48ff-bfac-866ac2277089,2025-04-28 09:56:46.420627+00:00,xai,grok-3-mini-beta-r=low,0,4517,281,2,6,3,7,5,4,1
+1add8849-4edc-4d89-a72e-8c319f98ce91,2025-04-28 10:21:07.522921+00:00,xai,grok-3-mini-beta-r=low,0,11850,278,2,6,4,7,5,3,1
+522ada80-5085-477d-823f-3f874e693af9,2025-04-28 10:21:49.067911+00:00,xai,grok-3-mini-beta-r=low,0,9623,282,1,6,4,7,5,3,2
+aa2aa58f-242c-4075-8567-188bd7d077a5,2025-04-28 10:22:19.478096+00:00,xai,grok-3-mini-beta-r=low,0,11212,279,3,6,4,7,5,2,1
+fcc95bd6-9c18-48db-83fe-48e9664c739a,2025-04-28 10:22:57.732241+00:00,xai,grok-3-mini-beta-r=low,0,11163,274,2,6,4,7,5,3,1
+010d23e3-e319-43b9-b6c8-c00db0dc375d,2025-04-28 10:23:36.174869+00:00,xai,grok-3-mini-beta-r=low,0,11537,274,4,6,3,7,5,1,2

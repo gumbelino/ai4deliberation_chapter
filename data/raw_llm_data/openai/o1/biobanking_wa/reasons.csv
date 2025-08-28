@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+61daf9db-ec8d-4eb5-985a-0a5648c1e863,2025-04-08 11:53:17.238868+00:00,openai,o1,0,4846,6214,"Prefer public minimal regulation, value strong oversight and privacy, avoid minimal gov input"
+a441a64e-1e34-431d-a231-fdc2e2d535d9,2025-04-08 11:54:23.795740+00:00,openai,o1,0,4843,5255,"Favor government funding and robust privacy, less preference for minimal oversight."
+b55387cb-cff7-4310-a500-b35b49e24cd9,2025-04-08 11:55:39.014069+00:00,openai,o1,0,4843,5580,"Emphasized public oversight and strong privacy, balanced caution, and disfavored minimal regulation."
+c24e01a2-105f-4085-8de3-d30327f1b946,2025-04-08 11:56:41.007634+00:00,openai,o1,0,4843,8849,Minimally regulated private funding first strong private second others follow high privacy last
+bfbf27b7-1549-47be-a6c5-ee84d943fdad,2025-04-08 11:58:21.123564+00:00,openai,o1,0,4843,3401,"I prefer strong regulation, oversight, and privacy, while minimal government input is least favored."

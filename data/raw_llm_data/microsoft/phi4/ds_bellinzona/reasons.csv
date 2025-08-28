@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+450173c5-3870-460e-b1e8-763e12a26a0a,2025-03-20 21:44:10.705554+00:00,microsoft,phi4,0,0,0,"I prioritize adaptation and emergency response to effectively address climate change. Moderate emission reductions are also important, while economic growth should not overshadow these efforts."
+08660873-971c-4623-9ea8-760651d42767,2025-03-20 21:44:37.932509+00:00,microsoft,phi4,0,0,0,Prioritize moderate emissions reduction and resilience technologies.
+e1ee1470-3b4c-43c4-9143-12032d056e63,2025-03-20 21:45:02.847869+00:00,microsoft,phi4,0,0,0,Strong support for practical individual and community adaptation measures; cautious about drastic emission cuts.
+04b471f9-e97d-4ac7-9dfd-8d71e2f8c579,2025-03-20 21:45:28.567379+00:00,microsoft,phi4,0,0,0,I prioritize community-focused adaptation and radical emission reductions.
+5f36bfd4-ce1f-4eef-a5e6-7f515c46cd09,2025-03-20 21:46:51.580187+00:00,microsoft,phi4,0,0,0,Ranking based on importance of CO₂ reduction and adaptation strategies.
+92346e15-f9c2-449c-8271-bf04a2d9368c,2025-03-20 21:47:16.924386+00:00,microsoft,phi4,0,0,0,Support moderate CO₂ reduction and resilience strategies.
+5ce56561-6d55-454a-9b54-980239c9d99e,2025-03-20 21:47:42.285510+00:00,microsoft,phi4,0,0,0,Support community-based actions and moderate emission reductions. Prioritize adaptation over economic growth.
+7a1dce67-42fd-43a3-8c99-82dfb079a066,2025-03-20 21:48:07.991110+00:00,microsoft,phi4,0,0,0,"1. Support community-focused adaptation measures for direct impact. 2. Radical CO₂ reduction is vital but challenging. 3. Economic growth at the expense of climate action is least favorable. 4. Current policies are insufficient; change is needed. 5. Moderate CO₂ reductions are important but need to be part of broader efforts. 6. Prioritize localized, actionable adaptation strategies. 7. While necessary, planning controls and emergency responses should support proactive measures."
+d7925558-eac8-4706-a404-afcfbca58b08,2025-03-20 22:03:38.859270+00:00,microsoft,phi4,0,0,0,Prioritize resilience and substantial CO₂ reduction for impactful climate action.
+ba959700-1cbf-4a2f-b27b-e65ddbf3a5be,2025-03-27 17:14:54.629888+00:00,microsoft,phi4,0,0,0,Prioritize adaptation and resilience over current economic growth; moderate CO2 reductions are preferred.
+a72a26ac-81ab-4fb2-bff3-d208b44e9c24,2025-03-27 17:15:21.572516+00:00,microsoft,phi4,0,0,0,2 is most because it enhances resilience through new approaches and technologies.
+4dcf885b-772b-4e52-922b-6ebf3175b8be,2025-03-27 17:15:47.007939+00:00,microsoft,phi4,0,0,0,Supports radical CO2 reduction and resilience over maintaining status quo.
+6dc5f444-e1ae-4f8a-93e1-d45117cf0638,2025-03-27 17:16:12.354358+00:00,microsoft,phi4,0,0,0,Ranked policies by effectiveness and importance for climate change adaptation.
+b0cfaecd-23aa-4703-b635-c28d181c8cbc,2025-03-27 17:17:02.523528+00:00,microsoft,phi4,0,0,0,Supports adaptation and moderate CO2 reduction policies.
+7fc30dc9-ca6c-4375-a4e9-8a3118a0b2b0,2025-03-27 17:17:27.809822+00:00,microsoft,phi4,0,0,0,Supports proactive adaptation and resilience-enhancing policies for climate change.
+7eed84aa-33a5-48c8-9c5a-3fdc5f1d9300,2025-03-27 17:17:53.316474+00:00,microsoft,phi4,0,0,0,Support moderate CO2 reduction and resilience over radical cuts or economic focus.
+c6e88491-bb8a-4d3e-8a5b-3b898ca79396,2025-03-27 17:18:18.744405+00:00,microsoft,phi4,0,0,0,Supports adaptation and moderate emission reduction policies over status quo.
+b9e76c5c-f63b-4d5c-bd2e-de0bc0dfd16c,2025-03-27 17:18:43.916674+00:00,microsoft,phi4,0,0,0,Prefer resilience-enhancing policies; prioritize significant CO2 reduction and adaptation over maintaining status quo.
+2f2638c0-55a9-4699-ad2e-f5489468f58e,2025-03-28 00:54:57.513397+00:00,microsoft,phi4,0,0,0,Support progressive CO2 reduction and adaptation measures for climate resilience.
+c46c7639-79c7-43cd-8e8e-cb27bbe298d9,2025-03-28 00:55:48.502174+00:00,microsoft,phi4,0,0,0,I prioritize radical CO2 reductions and community-based adaptation.
+57f0edc2-091a-4b5b-863f-103911a0993a,2025-03-28 00:56:13.664059+00:00,microsoft,phi4,0,0,0,Ranked policies focus on resilience and adaptation to climate change while balancing economic growth.
+69120e00-af53-4f66-a9ef-5bc5ed9daa97,2025-03-28 00:56:39.573037+00:00,microsoft,phi4,0,0,0,Support adaptation and moderate emission reductions over growth-focused policies.
+9b8f7c3b-faf5-497a-b260-d4a153dec723,2025-03-28 00:57:04.756195+00:00,microsoft,phi4,0,0,0,I prioritize radical CO2 reduction and resilience development over moderate policies.
+159ccac0-dea1-4268-8bdd-6c89dc9e262b,2025-03-28 00:57:30.301130+00:00,microsoft,phi4,0,0,0,Support proactive adaptation and radical emissions reduction for climate resilience.
+2ff0e010-82dc-463e-a3ff-41591029abd9,2025-03-28 00:57:55.820479+00:00,microsoft,phi4,0,0,0,Support policies that enhance resilience and target community-based actions for climate adaptation.
+1ee87bf5-3e4c-4fc4-b334-34cde278fd43,2025-03-28 00:58:21.931732+00:00,microsoft,phi4,0,0,0,Support resilience and moderate emission reductions over radical changes.
+b175fd4d-aa91-47be-87a2-fb1bafa45e02,2025-03-28 00:58:47.026136+00:00,microsoft,phi4,0,0,0,Supports moderate emission reductions and community-based adaptation.
+dfa780a0-fc9b-4e0b-ad2a-0e2e24d982b5,2025-03-28 00:59:12.097283+00:00,microsoft,phi4,0,0,0,Prioritize significant CO₂ reduction and adaptation policies for effective climate action.
+cc567c2e-4941-4a83-8521-4f130e491591,2025-03-28 00:59:37.561637+00:00,microsoft,phi4,0,0,0,Emphasize resilience and moderate CO2 reduction for effective adaptation.
+b1d052ef-d2ee-474e-a1cf-a35972f9676d,2025-03-28 01:00:02.860119+00:00,microsoft,phi4,0,0,0,Ranking based on urgency and potential impact of policies.
+7e18ae4a-cffd-4df5-9039-30ec81f0c770,2025-03-28 01:00:28.056002+00:00,microsoft,phi4,0,0,0,I ranked based on prioritizing community resilience and adaptation strategies.
+5267f02d-47de-457e-96b8-86d50e4287ba,2025-03-28 01:01:18.280946+00:00,microsoft,phi4,0,0,0,Supports strong emissions reduction and adaptation measures.

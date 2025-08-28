@@ -1,0 +1,4 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+ecf5b6e7-7eca-4d15-9a6e-104f0d620978,2025-04-01 12:52:39.380962+00:00,openai,o1-mini,0,5488,4673,"Support inclusive policymaking and stability, prefer limited government intervention, oppose strong leaders and removing minority benefits"
+116095e3-7e43-4588-9b05-19ddad63066b,2025-04-01 12:53:11.724660+00:00,openai,o1-mini,0,5488,2369,"I support equal influence, inclusive policies, moral governance, maintaining status quo, and minimal economic intervention"
+2ad92326-ddf9-4985-8371-f4b8aff1c491,2025-04-03 14:14:33.136622+00:00,openai,o1-mini,0,5488,2437,"I prioritize equal influence, minimal intervention, maintaining current government, limited group involvement, and least support for strong moral legislation."

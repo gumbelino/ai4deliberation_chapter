@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+92c04a19-4025-4768-b074-73cb95339185,2025-03-26 08:05:36.959217+00:00,openai,gpt-4,0,4590,285,I prioritized renewable energy sources and technologies that reduce greenhouse gas emissions.
+c48f9390-e16c-446b-bc83-1f874b584f42,2025-04-01 11:53:06.576127+00:00,openai,gpt-4,0,4590,285,I prioritized renewable energy sources and technologies that reduce greenhouse gas emissions.
+76be0930-d1ee-4d6f-a1d0-1451d20463e3,2025-04-01 11:53:25.114485+00:00,openai,gpt-4,0,4590,290,"I prioritized renewable and clean energy sources, while ranking fossil fuels lower due to environmental concerns."
+deb8b9cd-a06c-43bf-b639-78e7711f84cc,2025-04-01 11:53:39.715295+00:00,openai,gpt-4,0,4590,287,I prioritized renewable and clean energy sources over fossil fuels due to environmental concerns.
+c0496244-000a-4389-a6d2-b66412ea4e10,2025-04-01 11:53:52.150667+00:00,openai,gpt-4,0,4590,286,I prioritized renewable and sustainable energy sources over fossil fuels and nuclear energy.
+e1c7d370-11e8-49f6-bbbc-8e04685b6c38,2025-04-01 11:54:06.632489+00:00,openai,gpt-4,0,4590,286,I prioritized renewable and clean energy sources over fossil fuels and nuclear energy.
+cc7d8764-6c4f-442a-acf6-3def9853fa80,2025-04-03 17:01:54.007634+00:00,openai,gpt-4,0,4590,291,"I prioritized renewable and clean energy sources, while ranking coal and nuclear lower due to their risks."
+19155a25-0eba-4d13-a633-361b880b03f4,2025-04-03 17:02:09.020488+00:00,openai,gpt-4,0,4590,289,I prioritized renewable energy sources and ranked coal and nuclear energy lower due to their risks.
+eb3a460a-d444-4fe9-9faa-9d10f29c0088,2025-04-03 17:02:24.788596+00:00,openai,gpt-4,0,4590,286,I prioritized renewable and clean energy sources over fossil fuels and nuclear energy.
+62a8997b-c587-470f-8d14-0d62a2f66156,2025-04-03 17:02:39.842603+00:00,openai,gpt-4,0,4590,286,I prioritized renewable and clean energy sources over traditional and potentially harmful ones.
+8ecc8112-a8fb-44d7-bc57-64d6e2755bee,2025-04-08 09:51:20.977140+00:00,openai,gpt-4,0,4590,289,I prioritized renewable energy sources and ranked coal and nuclear energy lower due to their risks.
+5428ffc1-9b58-49eb-85f2-5d5ab300109c,2025-04-08 09:51:34.651658+00:00,openai,gpt-4,0,4590,286,I prioritized renewable and clean energy sources over fossil fuels and nuclear energy.
+ed1505aa-a25d-48f0-ac5d-64791d35708d,2025-04-08 09:51:48.104937+00:00,openai,gpt-4,0,4590,288,I prioritized renewable energy sources and ranked coal and nuclear lower due to environmental concerns.
+1c256981-c7ff-40ab-86e2-d4ef969a9df1,2025-04-08 09:52:03.333501+00:00,openai,gpt-4,0,4590,284,I prioritized renewable energy sources and technologies with lower environmental impact.
+53999adb-6a63-42db-aff3-fa7b0686b443,2025-04-08 09:52:19.935604+00:00,openai,gpt-4,0,4590,287,"I prioritized renewable and cleaner energy sources over traditional, more polluting ones."
+956069af-086c-406b-a196-f812b51b0185,2025-04-08 09:52:33.898981+00:00,openai,gpt-4,0,4590,286,I prioritized renewable and clean energy sources over fossil fuels and nuclear energy.
+e1001ee3-dd08-4b1c-b1b1-a799180c3a74,2025-04-08 09:52:46.253176+00:00,openai,gpt-4,0,4590,286,I prioritized renewable and clean energy sources over fossil fuels and nuclear energy.
+2ddf8621-6b5f-4b71-b308-50b17b2d8958,2025-04-08 09:53:01.706852+00:00,openai,gpt-4,0,4590,284,I prioritized renewable and clean energy sources over traditional fossil fuels.
+77dee09e-8be3-4ffd-9b3b-43354cacaffd,2025-04-08 09:53:17.673236+00:00,openai,gpt-4,0,4590,289,I prioritized renewable energy sources and ranked coal and nuclear energy lower due to their risks.
+0728262b-d87f-4e68-98f0-55af0dd0a164,2025-04-08 09:53:33.125778+00:00,openai,gpt-4,0,4590,286,I prioritized renewable sources and nuclear energy over coal due to environmental concerns.
+fa43bd69-1351-4c4f-9bd8-19f00e2df814,2025-04-08 09:53:47.263173+00:00,openai,gpt-4,0,4590,286,I prioritized renewable and low-emission energy sources over traditional fossil fuels.
+8ca7ebd1-48c4-48a7-b885-2dbcbd4a9fd3,2025-04-08 09:54:04.224378+00:00,openai,gpt-4,0,4590,286,I prioritized renewable and clean energy sources over traditional and potentially harmful ones.
+ff085bc9-27e0-496e-9fb3-9be44ebcccca,2025-04-08 09:54:18.103314+00:00,openai,gpt-4,0,4590,286,I prioritized renewable and sustainable energy sources over fossil fuels and nuclear energy.
+6ad77373-2d5d-4866-9414-4a4ea074ba4d,2025-04-08 09:54:30.378930+00:00,openai,gpt-4,0,4590,286,I prioritized renewable energy sources and expressed concern for coal and nuclear power.
+0c8e006a-ad31-4d1f-b1b5-17ecc2317173,2025-04-08 09:54:42.758775+00:00,openai,gpt-4,0,4590,288,I prioritized renewable energy sources and ranked coal-based options lowest due to environmental concerns.
+db318c2b-8254-4976-9e4b-b9974025192a,2025-04-08 09:55:14.405478+00:00,openai,gpt-4,0,4590,285,I prioritized renewable and clean energy sources over traditional and nuclear energy.
+f4667c2c-277e-47cd-92ad-7ba975d34089,2025-04-08 09:55:29.905536+00:00,openai,gpt-4,0,4590,284,I prioritized renewable energy sources and technologies with lower environmental impact.
+05b70a9b-8c47-4568-be20-3e38b53c7e37,2025-04-08 09:55:45.649567+00:00,openai,gpt-4,0,4590,284,I prioritized renewable and clean energy sources over traditional fossil fuels.
+ee671ef9-a80f-4986-ad3c-8a61ba9f2df0,2025-04-08 09:56:00.400287+00:00,openai,gpt-4,0,4590,286,"I prioritized renewable and clean energy sources, while ranking fossil fuels lower."
+46eb42a2-7733-4e75-a1d9-1c81534f9b66,2025-04-08 11:54:26.874196+00:00,openai,gpt-4,0,4590,286,I prioritized renewable and clean energy sources over fossil fuels and nuclear energy.

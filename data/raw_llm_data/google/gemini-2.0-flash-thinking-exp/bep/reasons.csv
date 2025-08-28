@@ -1,0 +1,2 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+0c5a8406-b240-449b-a10d-24775231da95,2025-04-17 10:19:33.329654+00:00,google,gemini-2.0-flash-thinking-exp,0,4160,129,"Favor moderate sustainable policies and adaptation, against inaction."

@@ -1,0 +1,34 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+5e40eb7d-93a9-4adb-8c37-4953f880c3ec,2025-04-10 17:14:23.592445+00:00,meta,llama4-maverick,0,2742,170,"I ranked policies based on my previous ratings, favoring universal public healthcare and fixing inefficiencies."
+172f832d-f7ee-474e-a9df-53bfb9140bed,2025-04-10 17:14:27.475128+00:00,meta,llama4-maverick,0,2742,169,"I ranked policies based on my previous ratings, favoring universal public healthcare and financial efficiency."
+a9ca5297-39dc-405e-a490-4b1f5a1cdeb9,2025-04-10 17:14:31.583664+00:00,meta,llama4-maverick,0,2742,164,I support a universal public healthcare system and fixing financial inefficiencies.
+be0fe868-59d3-4dee-ac6d-9d88c45eb924,2025-04-10 17:14:35.164727+00:00,meta,llama4-maverick,0,2742,167,"I ranked policies based on my previous ratings, favoring universal access and efficiency."
+d7b006f7-c2e1-4c2a-966f-1843b173721b,2025-04-10 17:14:38.824172+00:00,meta,llama4-maverick,0,2742,165,I ranked fixing inefficiencies as most supported and no changes as least.
+0647cbaa-37ec-409d-be59-8915200486bd,2025-04-10 17:14:42.940015+00:00,meta,llama4-maverick,0,2742,167,I ranked policies based on perceived effectiveness and fairness in improving healthcare access and affordability.
+9dd896e5-4671-4858-930f-6b6ba630d9a2,2025-04-10 17:14:46.677969+00:00,meta,llama4-maverick,0,2742,167,I ranked policies based on perceived effectiveness and fairness in improving healthcare access and affordability.
+a4a1443a-75cc-41f2-9125-fc140ba44886,2025-04-10 17:14:50.297049+00:00,meta,llama4-maverick,0,2742,164,I ranked universal public healthcare highest and abolishing mandatory insurance lowest.
+9a60d96d-f8fc-4044-9020-0016bc327256,2025-04-10 17:14:53.811197+00:00,meta,llama4-maverick,0,2742,166,I support a universal public healthcare system with financial support for those in need.
+217e56a8-56d6-40dd-8624-054ab1b08f59,2025-04-10 17:14:57.344828+00:00,meta,llama4-maverick,0,2742,170,"I ranked policies based on my previous ratings, favoring universal public healthcare and fixing inefficiencies."
+d5e5b2b8-f869-44d2-b972-8770a3c5b312,2025-04-10 17:15:00.942186+00:00,meta,llama4-maverick,0,2742,163,I ranked policies based on my previous agreement with related considerations.
+fdb12de0-6d59-4cdd-a53d-43ab0a7ec1f7,2025-04-10 17:15:04.425520+00:00,meta,llama4-maverick,0,2742,169,"I ranked fixing inefficiencies and public unified system highly, and abolishing mandatory insurance low."
+b88d66f0-c0ef-4cc0-a852-e938324a81a8,2025-04-10 17:15:08.729957+00:00,meta,llama4-maverick,0,2742,170,"I ranked policies based on my previous ratings, favoring universal public healthcare and fixing inefficiencies."
+b21bb552-f8b2-4ffc-b55a-c407ed11a61c,2025-04-10 17:15:12.799744+00:00,meta,llama4-maverick,0,2742,164,I ranked universal public healthcare highest and abolishing mandatory insurance lowest.
+86e38791-9cd4-4089-98ad-3fcc55433a5a,2025-04-10 17:15:20.808083+00:00,meta,llama4-maverick,0,2742,169,"I ranked policies based on my previous ratings, favoring more government control and financial support."
+f236938e-a416-4269-9edf-b85c0966a08f,2025-04-10 17:15:24.701870+00:00,meta,llama4-maverick,0,2742,164,I ranked universal public healthcare highest and abolishing mandatory insurance lowest.
+6ddd19bf-8644-4e46-a706-e475305a2445,2025-04-10 17:15:29.328473+00:00,meta,llama4-maverick,0,2742,167,"I ranked policies based on my previous ratings, favoring universal access and efficiency."
+61e5bc4d-ff80-4ded-b2e5-c4572f9322c3,2025-04-10 17:15:33.291558+00:00,meta,llama4-maverick,0,2742,168,"I ranked policies based on my previous ratings, favoring universal access and financial support."
+d4908b5c-d8a7-42a1-aae3-cebc60d086e6,2025-04-10 17:15:37.039955+00:00,meta,llama4-maverick,0,2742,167,I ranked universal public healthcare first and less regulation last based on my previous ratings.
+e8c016af-4cc7-4af7-9597-daa81809630c,2025-04-10 17:15:40.883185+00:00,meta,llama4-maverick,0,2742,170,"I ranked policies based on my previous ratings, favoring universal public healthcare and fixing inefficiencies."
+fa564059-cbd3-4b62-892d-8fdb8c454fa6,2025-04-10 17:15:44.715245+00:00,meta,llama4-maverick,0,2742,171,"I ranked policies based on my previous ratings, favoring universal public healthcare and fixing financial inefficiencies."
+5e6da13b-098e-4046-a89d-9f20624df007,2025-04-10 17:15:48.181162+00:00,meta,llama4-maverick,0,2742,164,I support a universal public healthcare system and fixing financial inefficiencies.
+d3271d66-b344-4361-ada6-783d83714857,2025-04-10 17:15:51.840540+00:00,meta,llama4-maverick,0,2742,172,"I ranked universal public healthcare and fixing inefficiencies highest, and abolishing mandatory insurance and no changes lowest."
+5802e276-9b5b-4b96-bbd1-8a5d671b559c,2025-04-10 17:15:55.483744+00:00,meta,llama4-maverick,0,2742,172,"I ranked fixing financial inefficiencies as my top choice, followed by less government regulation and more private competition."
+27cc751c-55b5-4a20-a70d-cf09f0adebe5,2025-04-10 17:15:59.117956+00:00,meta,llama4-maverick,0,2742,170,"Ranked policies based on previous consideration ratings, favoring universal public healthcare and fixing financial inefficiencies."
+4c342068-ea6c-458f-99ca-fb90eb5efba4,2025-04-10 17:16:02.660888+00:00,meta,llama4-maverick,0,2742,170,"I ranked policies based on my previous ratings, favoring universal public healthcare and rejecting minimal changes."
+73d7da3c-ae4f-4b00-b6e1-ef2043294665,2025-04-10 17:16:06.363660+00:00,meta,llama4-maverick,0,2742,163,I prioritized policies that promote universal access and financial efficiency.
+8c20b317-624b-415b-87ad-bbbfeefc002c,2025-04-10 17:16:09.735097+00:00,meta,llama4-maverick,0,2742,164,I ranked policies based on my previous agreement with their underlying principles.
+9469cefd-4c37-4d83-8e43-93f0969ea2c1,2025-04-10 17:16:14.405972+00:00,meta,llama4-maverick,0,2742,171,"I support universal public healthcare and fixing financial inefficiencies, opposing less regulation and abolishing mandatory insurance."
+356eb4c9-d94a-40f8-a948-c167febe4c4e,2025-04-10 17:31:49.150122+00:00,meta,llama4-maverick,0,2742,168,"I ranked policies based on my previous ratings, favoring universal access and government support."
+369fcf80-6421-4150-8a7a-3704f18b5d89,2025-04-10 17:31:53.039057+00:00,meta,llama4-maverick,0,2742,164,I support a universal public healthcare system and fixing financial inefficiencies.
+f40ab30b-a9cc-4bd3-a0c1-acb034bda43c,2025-04-10 17:32:00.077974+00:00,meta,llama4-maverick,0,2742,170,"I ranked policies based on my previous consideration ratings, favoring more government support and unified healthcare."
+cba3bf45-505f-4870-8f66-bfbcb617257b,2025-04-10 17:32:03.675497+00:00,meta,llama4-maverick,0,2742,172,I ranked universal public healthcare highest and no changes needed lowest due to my previous ratings emphasizing fairness and efficiency.

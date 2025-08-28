@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+4a4e25f8-0804-4bf2-bd79-c2a89769d40b,2025-04-02 10:38:04.171792+00:00,meta,llama3.3:70b,0,4680,276,Prioritized renewable energy sources
+7e9f4c8e-0435-4510-9cfa-5f89fdc2b386,2025-04-02 10:38:21.473579+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+9d3bd6c6-cda2-4202-b7f5-17b8e8ef9bcd,2025-04-02 16:01:30.283211+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+59a3fe3c-91a6-4fa5-b8c1-bada3a513b6a,2025-04-02 16:01:43.025003+00:00,meta,llama3.3:70b,0,4680,276,Prioritized renewable energy sources
+527d5820-15ac-49f7-8b94-118baf03f1bc,2025-04-02 16:02:00.207546+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+430b7539-4634-4cad-b30f-cc5569e63ac1,2025-04-02 16:02:17.904020+00:00,meta,llama3.3:70b,0,4680,276,Prioritized renewable energy sources
+2e29106e-8cb5-4e7c-82a9-92f1f940d705,2025-04-02 16:02:33.029758+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+30d9a6c3-428b-481f-9bd3-af522a1e0fe2,2025-04-02 16:02:48.373065+00:00,meta,llama3.3:70b,0,4680,279,Renewables prioritized over fossil fuels
+a6502464-becd-4876-85a1-3e3e5c9fb3bd,2025-04-02 16:02:59.349741+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+9781a521-8b43-4951-bc3a-9cbde2dc56c5,2025-04-02 16:03:16.544071+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+52033cb2-e1c5-4937-b9d7-bc39a352006a,2025-04-02 16:03:37.439555+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+5df4849f-366a-4125-accf-62fc7172f195,2025-04-02 16:03:52.626013+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+e198a339-b9d7-459d-971b-1529f9f19fef,2025-04-02 16:04:04.095278+00:00,meta,llama3.3:70b,0,4677,277,Prioritized renewables over fossil fuels
+eabd3efa-59dc-4603-8dee-ae58c2004e29,2025-04-02 16:04:17.822625+00:00,meta,llama3.3:70b,0,4677,277,Prioritized renewables over fossil fuels
+63f3f7f3-aab8-4da7-b01a-1916ac0b8f8f,2025-04-02 16:04:33.588075+00:00,meta,llama3.3:70b,0,4680,278,Prioritizing renewables over fossil fuels
+43fc65b5-1afb-491f-a03e-a7ff49d1ddc5,2025-04-02 16:04:50.544642+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+a539e1ce-da28-4229-aa7b-2ce422e020e2,2025-04-02 16:05:04.816036+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+5b178ea0-c0e3-42c1-8e08-749887cd7bc2,2025-04-02 16:05:20.489910+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+90e9fae4-1d62-445e-ac1d-d2871efa87b3,2025-04-02 16:05:37.780220+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+fba65f6e-986c-4af6-8557-a04fb21fe70c,2025-04-02 16:05:49.296723+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+67ae2966-6094-4c36-a809-cf2a4bc72514,2025-04-02 16:06:15.602087+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+42346c76-7bb4-4bf1-bdc2-ac0aba9f098d,2025-04-02 16:06:27.379642+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+2ffd2661-e511-4e30-b62e-82c6580ed613,2025-04-02 16:06:44.914198+00:00,meta,llama3.3:70b,0,4680,279,Renewables prioritized over fossil fuels
+2286b7fd-e0e7-4b5c-a5bb-8945ff688a51,2025-04-02 16:07:02.378184+00:00,meta,llama3.3:70b,0,4677,277,Prioritized renewables over fossil fuels
+1c1b1b1e-f436-442d-a0f8-076165e4a780,2025-04-02 16:07:15.710446+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+41b337e8-01ef-4051-9371-0b88b20c4462,2025-04-02 16:07:31.800215+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+3a8c613e-0f38-45ca-96c2-b18cd779c1c8,2025-04-02 16:07:44.039158+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels
+82edf85d-adaa-480e-b86a-c39431baa46b,2025-04-02 16:08:02.386613+00:00,meta,llama3.3:70b,0,4680,276,Prioritized renewable energy sources
+7c0e77cc-11c3-4c80-8a02-9863e32cf604,2025-04-02 16:08:15.367032+00:00,meta,llama3.3:70b,0,4677,277,Prioritized renewables over fossil fuels
+f066c04c-2e92-4651-92dd-da52e6288c5f,2025-04-02 16:08:39.214588+00:00,meta,llama3.3:70b,0,4680,277,Prioritized renewables over fossil fuels

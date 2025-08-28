@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+4edcf0b4-2f33-45c8-b401-1c4416544c23,2025-04-01 14:10:46.815775+00:00,openai,o3-mini,0,3228,5739,I favored emergency response and adaptation over extreme emissions cuts and economic growth.
+f7384264-3da9-4264-a64c-cf556ba3e748,2025-04-01 14:11:47.421303+00:00,openai,o3-mini,0,3228,4845,I prioritized robust adaptation and moderate emission cuts over extremes or maintaining the status quo.
+44505e3e-e413-4e21-9e7b-dba8cfaba691,2025-04-01 14:12:16.492568+00:00,openai,o3-mini,0,3228,5289,I prioritized resilient adaptation and tech development with moderate emissions cuts.
+4851b719-f711-48e0-be0d-774ed9703f78,2025-04-01 14:13:26.363146+00:00,openai,o3-mini,0,3228,4780,I prioritized proactive adaptation and resilience with moderate mitigation over growth or inaction.
+0836ca55-8255-4ae5-bef9-ac556ff04087,2025-04-01 14:14:06.608998+00:00,openai,o3-mini,0,3228,5995,I prioritized policies focused on robust adaptation and resilience with balanced emission cuts.

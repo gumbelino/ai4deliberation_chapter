@@ -1,0 +1,36 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+7d799a76-b622-4648-b74a-694caa4928e0,2025-04-10 16:31:11.820902+00:00,meta,llama4-maverick,0,4343,246,I prioritized environmental concerns and maintenance over upgrades.
+d5027048-3e92-4d8b-941b-c47f79ac2572,2025-04-10 16:31:17.616163+00:00,meta,llama4-maverick,0,4343,247,Balancing environmental concerns with accessibility guided my policy rankings.
+85a1ce82-f122-4c39-be04-dbcb54bc86ce,2025-04-10 16:31:22.400505+00:00,meta,llama4-maverick,0,4343,252,"I prioritized minimal intervention and conservation, favoring stabilization over upgrades or closure."
+17baa975-b6b2-42db-8b8a-5240de6f5846,2025-04-10 16:31:28.210815+00:00,meta,llama4-maverick,0,4343,253,"Stabilizing trouble spots is most supported, followed by upgrading to a dirt road."
+9be2f424-5164-436f-9172-46ea07546c44,2025-04-10 16:31:33.399914+00:00,meta,llama4-maverick,0,4343,254,"Stabilizing trouble spots is a balanced approach, maintaining the road is a close second."
+9ef9eea5-e508-4c86-b4de-86bac6efbd1c,2025-04-10 16:31:38.614168+00:00,meta,llama4-maverick,0,4343,252,"Balancing environmental concerns and accessibility, stabilizing trouble spots is the most reasonable option."
+f1b90184-be33-496f-9b93-0e406338c799,2025-04-10 16:31:46.812032+00:00,meta,llama4-maverick,0,4343,245,Prioritizing environmental concerns and minimal intervention.
+6269d925-ccd9-4c36-acf5-96aed18bdc85,2025-04-10 16:31:52.259425+00:00,meta,llama4-maverick,0,4343,251,"Balancing environmental concerns and practicality, stabilizing trouble spots is most reasonable."
+f1092c39-b69c-4d30-b433-b7cdecd935b4,2025-04-10 16:31:57.748756+00:00,meta,llama4-maverick,0,4343,247,I prioritized minimal intervention while ensuring stability and safety.
+1381da63-f245-4463-ba48-7854e2dc3bf1,2025-04-10 16:32:02.946877+00:00,meta,llama4-maverick,0,4343,254,I prioritized stabilizing and maintaining the 4WD track to balance environmental and community needs.
+6bb2d83c-7fad-46ae-a44b-bc43496e4760,2025-04-10 16:32:10.011795+00:00,meta,llama4-maverick,0,4343,246,Ranked policies based on environmental concerns and previous ratings.
+e3204786-eb37-4e9d-86c7-8120b7067287,2025-04-10 16:32:17.844643+00:00,meta,llama4-maverick,0,4343,249,Prioritizing environmental concerns and current maintenance over upgrades or closure.
+e0d8ffe8-bc50-457a-9b03-f7eee9eccbb4,2025-04-10 16:32:22.586313+00:00,meta,llama4-maverick,0,4343,252,"Stabilizing trouble spots is best, upgrading is bad, closing is okay."
+d5057980-2831-4dd2-a7f1-f3900f4506e3,2025-04-10 16:32:27.786756+00:00,meta,llama4-maverick,0,4343,253,I prioritized environmental concerns and supported stabilizing trouble spots on the 4WD track.
+a106d745-88b7-4e47-b9dd-32eb35e6c948,2025-04-10 16:32:33.087288+00:00,meta,llama4-maverick,0,4343,258,"I prioritized stabilizing trouble spots, maintaining the current 4WD track, and upgrading to a dirt road."
+e8c6e031-189d-41f9-ab28-a1a8f85a0f2b,2025-04-10 16:32:38.474743+00:00,meta,llama4-maverick,0,4343,245,I prioritized environmental concerns and minimal intervention.
+59e415d1-b513-452b-bcf5-badf55ae54c3,2025-04-10 16:32:46.140016+00:00,meta,llama4-maverick,0,4343,253,"Balancing environmental concerns and practicality, stabilizing trouble spots is the most reasonable option."
+5bdd42f1-9e89-4118-b412-6d7637c79067,2025-04-10 16:32:54.038998+00:00,meta,llama4-maverick,0,4343,252,"Balancing environmental concerns and practicality, stabilizing trouble spots is a moderate solution."
+f950ac4e-d429-4999-8e51-a12e71a2eea6,2025-04-10 16:33:01.359201+00:00,meta,llama4-maverick,0,4343,245,I prioritized environmental concerns and minimal intervention.
+3da214ce-f0b6-4b58-9d98-bdea030ba9bf,2025-04-10 16:33:07.433417+00:00,meta,llama4-maverick,0,4343,245,I prioritized environmental concerns and minimal intervention.
+3cdabcfa-1d8e-4207-a5a5-7e99911ece22,2025-04-10 16:33:15.290600+00:00,meta,llama4-maverick,0,4343,246,Ranked policies based on environmental concerns and previous ratings.
+9d86aa36-e0ef-42bf-9cd2-56eb142c5253,2025-04-10 16:33:21.851722+00:00,meta,llama4-maverick,0,4343,247,Ranked policies based on environmental concerns and previous consideration ratings.
+6422e0b7-abe7-40a5-94c0-9828e20eb26d,2025-04-10 16:33:26.908305+00:00,meta,llama4-maverick,0,4343,253,"I prioritized environmental concerns and minimal intervention, favoring stabilization over upgrades or closure."
+26b5f7a8-83a2-496a-a179-9e995fec7cd8,2025-04-10 16:33:32.201516+00:00,meta,llama4-maverick,0,4343,248,Prioritizing stabilization and maintenance over major upgrades or closure.
+682e7b56-b63c-4d21-b90f-651abfe90b7b,2025-04-10 16:33:36.911767+00:00,meta,llama4-maverick,0,4343,248,Prioritizing environmental concerns and minimal intervention guided my ratings.
+8a3e599c-b529-4c61-acd9-92c70008c451,2025-04-10 16:33:42.789378+00:00,meta,llama4-maverick,0,4343,256,I prioritized environmental concerns and supported closing or maintaining the road in its current 4WD state.
+82bec9f0-de23-461e-8a7c-49f942b6f2e8,2025-04-10 16:33:49.092600+00:00,meta,llama4-maverick,0,4343,253,Stabilizing trouble spots on the 4WD track is the most preferred option.
+a894c416-7ed3-4017-bb67-2df4be2a925f,2025-04-10 16:33:53.574898+00:00,meta,llama4-maverick,0,4343,245,I prioritized environmental concerns and minimal intervention.
+00d977da-9003-457e-8b0b-286587c8c614,2025-04-10 16:33:58.120378+00:00,meta,llama4-maverick,0,4343,245,Prioritizing environmental concerns and minimal intervention.
+58e3375c-2f7c-4562-a1db-f01057167f5e,2025-04-10 16:34:03.949398+00:00,meta,llama4-maverick,0,4343,254,I prioritized maintaining and stabilizing the 4WD track to balance access and environmental concerns.
+9927edb3-a661-4fe0-88d9-4a3dee5ebfba,2025-04-10 17:25:01.193971+00:00,meta,llama4-maverick,0,4340,253,I prioritized environmental concerns and supported stabilizing trouble spots on the 4WD track.
+67a57ec1-7bec-4335-b04a-1c793037890b,2025-04-10 17:25:05.640575+00:00,meta,llama4-maverick,0,4343,245,I prioritized environmental concerns and minimal intervention.
+deabb665-3cb0-4ca6-a89f-105352432a08,2025-04-10 17:25:11.178913+00:00,meta,llama4-maverick,0,4343,245,I prioritized environmental concerns and minimal intervention.
+2723fb8d-b2d8-4bc5-9880-d1e3f2241285,2025-04-10 17:25:15.406063+00:00,meta,llama4-maverick,0,4340,251,I prioritized environmental concerns and practical maintenance over upgrading or closing the road.
+38c63f49-1b1e-44f4-9590-db95d6c60f05,2025-04-10 17:25:19.928152+00:00,meta,llama4-maverick,0,4343,259,"Stabilizing trouble spots on the 4WD track was my top choice, maintaining it as is was second."

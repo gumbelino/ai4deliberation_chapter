@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+4928b7d8-6f1e-47c5-aa57-2413cfd87b44,2025-03-21 05:18:35.789161+00:00,google,gemma2,0,0,0,Prioritize addressing root causes abroad and support while upholding laws equitably.
+dbdc7e4f-c260-44fa-a61b-e3a1da66bd38,2025-03-21 05:19:02.561175+00:00,google,gemma2,0,0,0,"Prioritize root causes, provide aid while upholding laws and discouraging dependency."
+c1f3c1c9-01f5-432a-8a1c-2d961c1c6ed6,2025-03-21 05:19:23.722394+00:00,google,gemma2,0,0,0,Prioritizing root causes and existing laws over harsh measures.
+47524335-fc5d-4fea-b73d-4fc7951fa6ce,2025-03-21 05:19:44.694470+00:00,google,gemma2,0,0,0,"Prioritize root causes, discourage begging while protecting vulnerable individuals."
+be8a7a8c-58f2-4f5f-bc4f-cf949c66d9c0,2025-03-21 05:20:05.925621+00:00,google,gemma2,0,0,0,"Addressing root causes, enforcing laws while offering some help and ultimately discouraging begging."
+7d7af221-1760-4311-8f77-a6b2fb4ae1d2,2025-03-21 05:20:27.185441+00:00,google,gemma2,0,0,0,Prioritizing legal action and addressing root causes while limiting direct aid to beggars in Sweden.
+092babc9-9470-4f8c-8954-018499bf06ea,2025-03-21 05:20:48.766919+00:00,google,gemma2,0,0,0,"Addressing root causes is best, while enforcing laws and deterring begging are secondary."
+f1783fc5-f3bd-4f9d-9e3f-0bb6a909a72b,2025-03-21 05:21:10.093681+00:00,google,gemma2,0,0,0,Prioritize addressing root causes and legal solutions over harsh measures.
+0b57025a-d941-47e7-af6f-908e46ac7d15,2025-03-21 05:21:31.365310+00:00,google,gemma2,0,0,0,"Addressing root causes, providing support, and enforcing existing laws are preferable to bans or deportations."
+1324a35e-f890-4454-93d9-b4e14c8f5283,2025-03-21 05:21:52.681789+00:00,google,gemma2,0,0,0,Focus on root causes and support while discouraging harmful begging practices.

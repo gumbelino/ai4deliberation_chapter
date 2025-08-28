@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+ebab7135-b6fe-41f2-a816-9a97058d92f1,2025-05-21 11:54:25.830564+00:00,xai,grok-3-mini-fast-beta-r=high,0,14045,279,Prioritized fuels reduction and balanced ecological-social values; least supported no management and economic gain.
+c25696f7-35ad-4bbb-849c-2fb71cd99aa0,2025-05-21 11:55:04.582825+00:00,xai,grok-3-mini-fast-beta-r=high,0,14050,283,"Ranked policies based on support for balanced ecology, fire management, and community values over economic gain or inaction."
+dd592e9a-a40e-42ac-88a4-ec13bee491c8,2025-05-21 11:55:38.254236+00:00,xai,grok-3-mini-fast-beta-r=high,0,14127,277,"Prioritized ecological and social balance, wildlife protection, over economic gain and inaction."
+3cc0929b-99b6-46cd-9c60-f9d08dd8a0e7,2025-05-21 11:56:10.123418+00:00,xai,grok-3-mini-fast-beta-r=high,0,15927,283,"Ranked policies based on support for balanced management emphasizing fire risk reduction and ecology, with no action least favored."
+aab0c974-2f22-47a2-9b72-0b9348798c24,2025-05-21 11:56:54.129834+00:00,xai,grok-3-mini-fast-beta-r=high,0,14173,284,"Ranked policies favoring balanced ecological and social management, prioritizing science, safety, and wildlife over economic or inactive approaches."

@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+b9789421-431a-4ad1-8a30-aa83ba570cdd,2025-05-29 15:38:53.481854+00:00,anthropic,claude-sonnet-4-20250514,0,2908,159,I prioritized increased funding and integrated services over private funding and awareness campaigns.
+d5f7d7b6-968c-48f3-9982-1a14e0159509,2025-05-29 15:39:02.381444+00:00,anthropic,claude-sonnet-4-20250514,0,2908,163,I prioritize addressing socioeconomic disparities and integrated care over awareness campaigns and funding.
+b08145c9-f281-43e8-b4ce-62e617775a71,2025-05-29 15:39:12.038036+00:00,anthropic,claude-sonnet-4-20250514,0,2908,164,"I prioritize integrated services, awareness campaigns, and addressing socioeconomic factors over funding cuts."
+5f99c3ec-f944-4b69-a719-eec7959474a6,2025-05-29 15:39:21.828194+00:00,anthropic,claude-sonnet-4-20250514,0,2908,162,I prioritized increasing funding and awareness while opposing service reduction or maintaining inadequate status quo.
+08e3e2d2-2357-47f8-8f2b-36c8be85e697,2025-05-29 15:39:30.485466+00:00,anthropic,claude-sonnet-4-20250514,0,2908,161,I prioritized increased funding and integrated services over awareness campaigns and strongly opposed reducing services.

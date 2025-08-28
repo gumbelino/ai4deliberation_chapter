@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+02243376-e925-4131-8596-dae20907dc03,2025-04-01 12:53:34.623182+00:00,openai,o1-mini,0,3710,3965,"Prefer moderate emission cuts and resilience, support infrastructure, reject economic focus and inaction."
+b312b104-7e5d-4354-881f-14647cb8f491,2025-04-01 12:53:59.999034+00:00,openai,o1-mini,0,3710,2751,"Prioritized dramatic CO2 cuts and resilience technologies, supported adaptation policies, opposed economic growth focus"
+ae84ce0d-df00-498a-9ac6-cf3856c56e1c,2025-04-03 14:15:23.299585+00:00,openai,o1-mini,0,3710,2558,Support dramatic and moderate emission cuts and adaptive measures opposed to inaction or prioritizing growth
+e89b3d5d-a1b4-4a15-aafd-884e78512b13,2025-04-03 14:15:44.472801+00:00,openai,o1-mini,0,3710,3133,I prioritize strong adaptation measures and moderate CO2 cuts over drastic actions and minimal changes
+e02a1ca1-ffdc-45a6-b655-45e1598a13ac,2025-04-03 14:16:04.613285+00:00,openai,o1-mini,0,3710,2368,"I prioritize moderate CO2 cuts, strong emission reduction, adaptation measures, and reject maintaining status quo"

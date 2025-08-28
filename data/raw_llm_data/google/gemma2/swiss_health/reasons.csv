@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+7099b752-a120-4e65-8185-bc840fb193d8,2025-03-21 08:01:47.154752+00:00,google,gemma2,0,0,0,"Prefer public healthcare with income-based costs, but recognize system inefficiencies need fixing."
+2eb71b74-2720-4ba9-ac71-6bd66f2c4b23,2025-03-21 08:02:16.225832+00:00,google,gemma2,0,0,0,"Leaning towards public control with cost-saving measures, but cautious about abolishing mandatory insurance."
+082e04fe-39e4-4428-af3b-5ebb427c1754,2025-03-21 08:02:31.061511+00:00,google,gemma2,0,0,0,"Favor public healthcare funded by income, with some government control over costs and efficiency improvements."
+418bf70b-0796-4c4e-9897-eed08d25cb81,2025-03-21 08:02:45.938663+00:00,google,gemma2,0,0,0,Universal healthcare with income-based payments is the best solution to ensure access and affordability.
+596e4cf8-fce5-4af8-922d-6fcb7fc2b848,2025-03-21 08:03:00.578747+00:00,google,gemma2,0,0,0,"Prioritize efficiency and equity with income-based solutions, while minimizing disruption to the current system."
+b6c5215b-bed9-4365-9ddf-8be662ed49f0,2025-03-21 08:03:14.837349+00:00,google,gemma2,0,0,0,"Support government support, universal healthcare, and efficiency over radical change."
+cae8deee-ca1f-49b5-9871-49fc7648d357,2025-03-21 08:03:29.015983+00:00,google,gemma2,0,0,0,Universal healthcare with income-based contributions and efficient system improvements are preferred over deregulation and personal responsibility measures.
+f8444619-339b-4e45-92e9-888d42ca6dcf,2025-03-21 08:03:43.541895+00:00,google,gemma2,0,0,0,Public option with income-based contributions alongside cost efficiency measures.
+6570265e-1770-423e-a9a7-cc6390e222e9,2025-03-21 08:03:57.920551+00:00,google,gemma2,0,0,0,Prioritize universal access with income-based contributions while addressing inefficiencies through targeted government action.

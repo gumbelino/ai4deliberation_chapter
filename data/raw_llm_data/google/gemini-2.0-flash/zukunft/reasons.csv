@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+9c4103e3-52da-4e8d-a9f6-5449ac537487,2025-03-20 11:02:00.988195+00:00,google,gemini-2.0-flash,0,2799,165,"Mental health is vital; address social factors, increase access, and destigmatize."
+7a17788c-d850-4d4a-94fa-aa2db61d48d3,2025-03-20 11:02:05.151858+00:00,google,gemini-2.0-flash,0,2799,164,Socioeconomic factors & prevention are key; current services are inadequate & need more funding.
+1050d006-1b11-4536-a901-3e9c5efb0ac2,2025-03-20 11:02:09.375861+00:00,google,gemini-2.0-flash,0,2799,167,"Mental health is vital; address social factors, destigmatize, and increase access to services."
+f79c0ca5-e40f-45eb-a69f-ac4a9643c8ac,2025-03-20 11:02:13.784324+00:00,google,gemini-2.0-flash,0,2799,162,"Mental health is important and needs more funding, awareness, and social support."
+ce9c0b78-3650-4d88-a164-a2400b58ff6b,2025-03-20 11:02:18.010875+00:00,google,gemini-2.0-flash,0,2799,165,Socioeconomic factors and destigmatization are key; prevention and public services are vital.
+0d02f158-e43f-476c-9707-0d7899f98246,2025-03-20 11:02:22.171909+00:00,google,gemini-2.0-flash,0,2799,166,Socioeconomic factors are key; prevention and destigmatization are crucial; funding needs increase.
+89bf55e4-b1fc-4f76-9c11-102344c79612,2025-03-20 11:02:26.368596+00:00,google,gemini-2.0-flash,0,2799,166,"Prioritize prevention, address social factors, increase access, and destigmatize mental health."
+fab006cb-dc9d-494b-aaad-d7f807c73169,2025-03-20 11:02:30.577838+00:00,google,gemini-2.0-flash,0,2799,164,Socioeconomic factors and destigmatization are key; prevention and access are crucial.
+1d29982f-3985-4c0c-ae74-ca4d70c2a309,2025-03-20 11:02:34.154998+00:00,google,gemini-2.0-flash,0,2799,161,"Prevention, accessibility, and addressing social factors are key for mental health."
+0d24ab06-0130-496f-b8fd-1b31c9520c7d,2025-03-20 11:02:38.027720+00:00,google,gemini-2.0-flash,0,2799,160,Prevention and addressing social determinants are key; more services are needed.
+0db4f0a0-3a25-4c7e-8b45-245e6e21f7d0,2025-03-25 13:55:33.852127+00:00,google,gemini-2.0-flash,0,2799,165,"Mental health is vital; address social factors, increase access, and destigmatize."
+5f7fa04d-58be-413e-a2c7-8bf6274215ff,2025-03-25 13:55:37.051918+00:00,google,gemini-2.0-flash,0,2799,164,Socioeconomic factors & prevention are key; current services are inadequate & need more funding.
+ad86f9a9-095b-4311-84fa-32825ddf44c7,2025-03-25 13:55:40.785508+00:00,google,gemini-2.0-flash,0,2799,167,"Mental health is vital; address social factors, destigmatize, and increase access to services."
+c176ef90-5502-4f39-a1f6-acc44af02e80,2025-03-25 13:55:44.043899+00:00,google,gemini-2.0-flash,0,2799,162,"Mental health needs more funding, awareness, and social support, not less."
+8f1e7aab-2338-4716-8f04-5731bd69cc9f,2025-03-25 13:55:47.029323+00:00,google,gemini-2.0-flash,0,2799,165,Socioeconomic factors and destigmatization are key; prevention and public services are crucial.
+0b57a661-602a-426a-9c19-f5b6b3762cac,2025-03-25 13:55:50.258874+00:00,google,gemini-2.0-flash,0,2799,166,Socioeconomic factors are key; prevention and destigmatization are crucial; funding needs increase.
+bba541aa-502b-4a73-a2c3-f955a662651b,2025-03-25 13:55:53.420030+00:00,google,gemini-2.0-flash,0,2799,164,"Prevention, access, and addressing social determinants are key; privatization and cuts are not."
+7389c9b9-2957-4d54-8c8b-6e9281466d69,2025-03-25 13:55:56.622223+00:00,google,gemini-2.0-flash,0,2799,164,Socioeconomic factors & destigmatization are key; prevention & access are crucial.
+5d5b9dd5-c18f-422f-a468-bda83dd259ff,2025-03-25 13:55:59.409412+00:00,google,gemini-2.0-flash,0,2799,161,"Prevention, access, and addressing social determinants are key for mental health."
+cd98f4cd-c132-478e-ab57-c7b87fd5216d,2025-03-25 13:56:02.333925+00:00,google,gemini-2.0-flash,0,2799,162,"Prevention, access, and addressing social determinants are key; privatization is not."
+a6f97025-7d8f-46c2-896d-a6843676698e,2025-03-27 09:32:23.782028+00:00,google,gemini-2.0-flash,0,2799,165,"Mental health is vital; address social factors, increase access, and destigmatize."
+16f7f7ef-4177-4aa3-8f54-848baf8b1297,2025-03-27 09:32:26.968117+00:00,google,gemini-2.0-flash,0,2799,164,Socioeconomic factors & prevention are key; current services are inadequate & need more funding.
+7a8d717c-9bb7-4cc6-a05c-42e550eb184e,2025-03-27 09:32:30.029343+00:00,google,gemini-2.0-flash,0,2799,167,"Mental health is vital; address social factors, destigmatize, and increase access to services."
+df91ed91-5bf7-4508-a6c8-378d50058c87,2025-03-27 09:32:33.262365+00:00,google,gemini-2.0-flash,0,2799,163,"Mental health is important; prevention, funding, and addressing social factors are key."
+5fa3fdc7-4c04-454b-94e2-786b9e2b09d4,2025-03-27 09:32:36.416319+00:00,google,gemini-2.0-flash,0,2799,165,Socioeconomic factors and destigmatization are key; prevention and public services are crucial.
+dbaa94fe-d0c1-4ebb-a9fe-08047440a7df,2025-03-27 09:32:39.568227+00:00,google,gemini-2.0-flash,0,2799,166,Socioeconomic factors are key; prevention and destigmatization are crucial; funding needs increase.
+e29acf2a-5737-4e42-aa2b-2e87c705fee4,2025-03-27 09:32:42.660904+00:00,google,gemini-2.0-flash,0,2799,166,"Prioritize prevention, address social factors, increase access, and destigmatize mental health."
+9f718639-39f4-4bc9-aba4-2ecfccc7a274,2025-03-27 09:32:45.703859+00:00,google,gemini-2.0-flash,0,2799,164,Socioeconomic factors and destigmatization are key; prevention and access are crucial.
+1af83522-01b1-4d7a-966d-4ea80e27913f,2025-03-27 09:32:48.467211+00:00,google,gemini-2.0-flash,0,2799,161,"Prevention, accessibility, and addressing social factors are key for mental health."
+0191e997-086d-483e-a8a1-e536b05a0f20,2025-03-27 09:32:51.526595+00:00,google,gemini-2.0-flash,0,2799,164,"Prevention, access, and addressing social determinants are key; privatization and cuts are bad."

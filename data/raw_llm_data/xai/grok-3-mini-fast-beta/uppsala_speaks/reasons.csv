@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+f9b62c77-7301-4bc8-b0ee-52de5043558e,2025-05-22 16:41:04.932233+00:00,xai,grok-3-mini-fast-beta,0,3475,261,"I prioritize aid in source countries over restrictions, per my ratings on responsibility."
+725d429e-cebf-4bd2-adf1-760ad02e09fd,2025-05-22 16:41:30.902126+00:00,xai,grok-3-mini-fast-beta,0,3475,262,"I support addressing issues in source countries most, as it tackles root causes effectively."
+c568aa69-d08a-42d4-8c72-9d3e3b36239f,2025-05-22 16:41:52.056956+00:00,xai,grok-3-mini-fast-beta,0,3475,256,I prioritize aid and root causes over punitive measures.
+a1275ed9-e757-4d11-b44a-de6574a7dd36,2025-05-22 16:42:11.934126+00:00,xai,grok-3-mini-fast-beta,0,3477,259,I support policies addressing root causes in source countries over punitive measures.
+c2293630-289e-4f52-94af-161ea535c1a6,2025-05-22 16:42:34.948781+00:00,xai,grok-3-mini-fast-beta,0,3475,259,Prioritize addressing root causes and enforcement over enabling or banning begging.

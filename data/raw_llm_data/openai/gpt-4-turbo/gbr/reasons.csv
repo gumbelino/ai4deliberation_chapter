@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+da416587-984b-44d7-b86c-1d1d4e95778c,2025-03-26 07:56:58.906327+00:00,openai,gpt-4-turbo,0,3606,223,Prioritized sustainable practices and strong environmental protections over traditional industries.
+94008796-c4f7-4859-84e9-cb225d8f9c8f,2025-03-26 07:57:07.412738+00:00,openai,gpt-4-turbo,0,3606,223,Prioritized environmental protection and sustainable practices over extractive industries.
+d826f9ed-9cc8-460e-8af3-c6f9924bd2ff,2025-04-01 08:35:05.912058+00:00,openai,gpt-4-turbo,0,3606,226,"Prioritized strong environmental protection and innovation, least support for maintaining status quo."
+0bf9c57f-9cf4-4409-9248-dda93c422bfe,2025-04-01 08:35:15.879298+00:00,openai,gpt-4-turbo,0,3606,223,Prioritized environmental protection and sustainable practices over extractive industries.
+f9c2644e-79b3-455a-9d20-7b6f57126258,2025-04-01 08:35:27.049673+00:00,openai,gpt-4-turbo,0,3606,225,"Prioritized environmental protection and innovation, least support for maintaining harmful industries."
+a2cc859f-db4e-4eaf-934c-b205424a3008,2025-04-01 08:35:38.165977+00:00,openai,gpt-4-turbo,0,3606,223,Prioritized environmental protection and innovation over maintaining or reducing regulations.
+6d627d2d-e9b0-4501-b952-04fe9ed8e1b2,2025-04-01 08:35:55.307373+00:00,openai,gpt-4-turbo,0,3606,223,Prioritized environmental protection and innovation over maintaining or reducing regulations.
+214528dc-f05e-4c53-b107-2ffa355083f7,2025-04-01 08:36:07.447074+00:00,openai,gpt-4-turbo,0,3606,224,Prioritized strong environmental protection and innovation over maintaining or reducing regulations.
+e4bab1ed-ad91-49b7-8881-0d471c3c8061,2025-04-01 08:36:16.095951+00:00,openai,gpt-4-turbo,0,3606,226,"Prioritized eco-friendly innovation and strong regulations, least support for reducing protections."
+af6200e3-bc62-42e0-9ea5-b9dfe14df88a,2025-04-01 08:36:26.526393+00:00,openai,gpt-4-turbo,0,3606,225,"Prioritized strong environmental protection and innovation, least support for reducing regulations."
+a96781ee-a418-40f3-bb4d-1d4c1acbc311,2025-04-01 08:36:38.590829+00:00,openai,gpt-4-turbo,0,3606,222,Prioritized environmental protection and sustainable practices over traditional industries.
+7768bbf2-46bf-4629-aaa3-29889b69b22d,2025-04-01 08:36:47.406487+00:00,openai,gpt-4-turbo,0,3606,222,Prioritized environmental protection and sustainable practices over traditional industries.
+2beeff17-28ed-4f69-9d50-cea88a9ce698,2025-04-03 12:23:51.581712+00:00,openai,gpt-4-turbo,0,3606,222,Prioritized environmental protection and sustainable practices over industry expansion.
+07f104a0-aff6-49b5-8c59-4cafe145422c,2025-04-03 12:24:00.479916+00:00,openai,gpt-4-turbo,0,3606,225,"Prioritized strong environmental actions and innovation, least support for reducing regulations."
+9b42e052-a749-4eb0-b5e5-28644e60450e,2025-04-03 12:24:16.139122+00:00,openai,gpt-4-turbo,0,3606,223,Prioritized strong environmental protection and sustainable practices over industry maintenance.
+46eb077c-5bd1-4614-9ba8-03c8fb1d2fef,2025-04-03 12:24:27.180141+00:00,openai,gpt-4-turbo,0,3606,226,Prioritized eco-friendly practices and reduced reliance on harmful industries for reef protection.
+bceb78ac-d756-43a3-8667-c123b13e3f18,2025-04-03 12:24:36.733484+00:00,openai,gpt-4-turbo,0,3606,224,Prioritized sustainable practices and strong environmental protections over maintaining harmful industries.
+daa974be-1cc0-4cfe-8038-e5236f9f6a0b,2025-04-03 12:24:47.100056+00:00,openai,gpt-4-turbo,0,3606,222,Prioritized environmental protection and sustainable practices over traditional industries.
+452cc7e5-54ae-49db-b880-6a3916e46597,2025-04-03 12:24:58.025066+00:00,openai,gpt-4-turbo,0,3606,222,Prioritized environmental protection and sustainable practices over traditional industries.
+78592315-84d3-4a6f-a933-04c1d4f68845,2025-04-03 12:25:07.677591+00:00,openai,gpt-4-turbo,0,3606,226,"Prioritized strong environmental protection and innovation, least support for maintaining status quo."
+d5780282-f9d0-4cb9-a0bc-f4445d934393,2025-04-03 12:25:20.537880+00:00,openai,gpt-4-turbo,0,3606,225,"Prioritized strong environmental protection and innovation, least support for reducing regulations."
+eab9f16d-b54d-4fd6-aa10-359b43b40bf6,2025-04-03 12:25:30.755533+00:00,openai,gpt-4-turbo,0,3606,226,Prioritized policies that protect the reef and reduce environmental impact over economic growth.
+94d503c6-cd9a-4ab6-997f-ab8059685438,2025-04-03 12:25:45.901236+00:00,openai,gpt-4-turbo,0,3606,224,Prioritized strong environmental protection and sustainable practices over business deregulation.
+f9674a9f-9934-4603-a209-69c07d0eb023,2025-04-03 12:26:05.705052+00:00,openai,gpt-4-turbo,0,3606,225,Prioritized environmental protection and sustainable practices over maintaining or boosting harmful industries.
+6ef965f3-e795-4438-9d66-d177e34e3503,2025-04-03 12:26:19.839481+00:00,openai,gpt-4-turbo,0,3606,223,Prioritized environmental protection and sustainable practices over extractive industries.
+51483404-bc44-4599-b8a7-950c0957b5b1,2025-04-03 12:26:35.483190+00:00,openai,gpt-4-turbo,0,3606,225,Prioritized policies that protect the reef and reduce reliance on harmful industries.
+346edaf8-fc0d-496e-b363-5a741cd7c2c2,2025-04-03 12:26:44.585147+00:00,openai,gpt-4-turbo,0,3606,226,"Prioritized environmental protection and innovation, least support for reducing regulations and coal."
+186e884a-6a03-4331-9afa-73fafc65e1b1,2025-04-03 12:26:55.109471+00:00,openai,gpt-4-turbo,0,3606,223,Prioritized environmental protection and sustainable industries over traditional harmful practices.
+0c7f67d1-a255-4b79-92e2-fd9587c1cc4a,2025-04-03 12:27:07.770610+00:00,openai,gpt-4-turbo,0,3606,222,Prioritized environmental protection and sustainable practices over traditional industries.
+2d6459c9-7a7c-4d55-9f8f-c4e591543988,2025-04-03 12:41:48.255172+00:00,openai,gpt-4-turbo,0,3606,226,"Prioritized strong environmental protection and innovation, least support for maintaining status quo."

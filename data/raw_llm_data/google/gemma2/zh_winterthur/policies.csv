@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Leave the policy settings as they are.,"P2. Political measures that focus on less regulation  (e.g., policies that promote free trade agreements by reducing food regulations)","P3. Political measures that include moderate regulation toward sustainable food production (e.g., banning certain pesticides, providing incentives for organic farming).","P4. Political measures that include radical regulation toward sustainable food production (e.g., banning all pesticides, banning the import of foods produced using unsustainable methods).","P5. Political measures that create incentives for local producers to produce sustainable foods (e.g., subsidies or tax breaks for local farmers who produce organic products).",P6. Political measures aimed at investing in research to develop sustainable agricultural techniques or materials.
+cf33e4b1-c47e-4166-9d44-306571063c8c,2025-03-21 06:56:53.579567+00:00,google,gemma2,0,0,0,2,1,6,3,5,4
+b651634b-da69-4685-b943-a1ea1d495d17,2025-03-21 06:57:10.243489+00:00,google,gemma2,0,0,0,2,1,5,3,6,4
+d9aa5751-5132-4bba-b9f4-639e8771e999,2025-03-21 07:14:09.826006+00:00,google,gemma2,0,0,0,4,6,1,2,3,5
+a837473d-d173-4b3b-8096-d113c71736d2,2025-03-21 07:14:26.434733+00:00,google,gemma2,0,0,0,5,4,3,6,1,2
+8346c69f-67a4-4baf-a5f2-b87c327250e4,2025-03-21 07:28:26.330309+00:00,google,gemma2,0,0,0,2,6,1,5,3,4
+7d85bd24-a626-4c39-bca8-8d3d6489d15b,2025-03-21 07:28:43.396751+00:00,google,gemma2,0,0,0,6,2,1,3,4,5
+7b26bc10-d511-44e5-8e57-15988b4056c1,2025-03-21 07:29:00.119622+00:00,google,gemma2,0,0,0,2,5,4,6,1,3
+b6f5d141-46b1-40ce-9a44-c248cd302f85,2025-03-21 07:29:19.964074+00:00,google,gemma2,0,0,0,3,2,4,6,1,5
+6146c398-c179-4835-af7a-05f88244fb26,2025-03-21 07:29:36.435244+00:00,google,gemma2,0,0,0,1,4,5,6,3,2
+a167df92-9e6e-4fd2-bd22-dfd97557fe53,2025-03-21 07:29:52.703506+00:00,google,gemma2,0,0,0,3,5,2,6,1,4

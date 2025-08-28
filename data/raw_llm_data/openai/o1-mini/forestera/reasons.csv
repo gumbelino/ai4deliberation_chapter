@@ -1,0 +1,5 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+411db3f9-c7f1-48c2-be0a-ab6934b063f5,2025-04-01 12:54:20.081958+00:00,openai,o1-mini,0,5156,2937,Favor policies balancing ecology wildlife protection social values and fuel reduction over economic or no management
+f95c0aff-3fb8-4a0e-9598-fdb988ae0c1e,2025-04-01 12:54:40.343625+00:00,openai,o1-mini,0,5156,2039,I prioritize restoring natural forest conditions and controlled fire use over other management strategies.
+1cc4b9a8-2ac2-4d35-86f2-75512470a03a,2025-04-03 14:16:41.512940+00:00,openai,o1-mini,0,5156,4037,"Prefer restoring fire and ecosystems, prioritize ecological/social values, protect wildlife, support local harvesting, reduce fuels, economic thinning, least support no management"
+f88c691b-4b2a-49db-aae8-09e2223ceab7,2025-04-03 14:17:09.828861+00:00,openai,o1-mini,0,5156,2176,"Prioritize ecological/social values, wildlife protection, restoration, hazard reduction, local harvesting, economic thinning, least no management"

@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+31cb4d85-43ba-4b7d-baef-fde3a5c06b01,2025-04-03 11:29:29.844157+00:00,google,gemma3:12b,0,0,0,Prefer minimal govt intervention; equal influence is vital; status quo is acceptable; strong moral guidance undesirable.
+91d379d8-bee1-4780-9ee6-24c2061d15f1,2025-04-03 11:30:03.458986+00:00,google,gemma3:12b,0,0,0,"Favored minimal govt intervention, status quo, moderate inclusion, rejected strong morals, opposed equal influence."
+76c174ee-2b1f-495d-8aa7-c004ad20a35c,2025-04-03 11:30:36.740932+00:00,google,gemma3:12b,0,0,0,Status quo is best; disadvantaged groups need support; markets need freedom; moralism is concerning; inclusivity is vital.
+5d6f0f80-77bd-4c25-9a05-5f638d7b7ade,2025-04-03 11:31:09.711139+00:00,google,gemma3:12b,0,0,0,"Favored status quo, then minority involvement, moral govt, markets, then minimal changes."
+616d8e6b-df2c-4180-9c9b-4d758c798724,2025-04-03 11:31:42.306332+00:00,google,gemma3:12b,0,0,0,"I favor status quo, then equal influence, then moral principles, then minimal intervention, then removing minority benefits."
+9583ce74-c23a-48c3-bee3-e0349a017406,2025-04-03 11:32:15.548484+00:00,google,gemma3:12b,0,0,0,Status quo best; morality restrictive; markets important; inclusivity valuable; equal input needed.
+16805ea3-4c33-4f5e-8082-0ae69d5cb9b7,2025-04-03 11:32:48.755816+00:00,google,gemma3:12b,0,0,0,Moral authority and market freedom are less desirable than minority inclusion and status quo.
+5f88fc0a-6231-4ce2-a939-7484ac5ed629,2025-04-03 11:33:21.090382+00:00,google,gemma3:12b,0,0,0,Status quo is acceptable. Moral govt is least favored; market-focused is preferable. Minorities need voice.
+cae5e457-ba17-4330-b8ee-f0fe3f9ec432,2025-04-03 11:33:53.915594+00:00,google,gemma3:12b,0,0,0,"Favored limited government, disliked changes, valued minority input, opposed special benefits, status quo acceptable."
+9c475ab3-14b1-4335-9afd-24b5d60b8ff9,2025-04-03 11:34:26.710703+00:00,google,gemma3:12b,0,0,0,"Favored equal influence, status quo, free markets, moral guidance, and inclusive governance least."
+1ceaadc2-c610-463a-97bc-bbce7c670222,2025-04-03 13:10:55.074377+00:00,google,gemma3:12b,0,0,0,"Minority influence is important, but equal opportunity and limited government are vital."
+43f13a52-3ded-4e9e-a36b-cd2a10012bed,2025-04-03 13:11:28.425672+00:00,google,gemma3:12b,0,0,0,"Prefer minimal government, valuing economic freedom and wary of moral/minority-focused policies."
+13a9f753-3c34-4be8-912c-dc5cb7dc1dd7,2025-04-03 13:12:01.109214+00:00,google,gemma3:12b,0,0,0,"Status quo is best, equal opportunity is vital, and intervention is undesirable."
+07b92c1c-f8ca-45e9-b0d4-3c924b8e6e93,2025-04-03 13:12:33.762407+00:00,google,gemma3:12b,0,0,0,"Prioritized change, disliked minimal intervention, opposed moral legislation, rejected equality policy, favored status quo."
+e7deebb0-985b-4d5b-bf56-347a6152836c,2025-04-03 13:13:06.760767+00:00,google,gemma3:12b,0,0,0,"Prioritize stability, minor moral adjustments, and avoid drastic shifts or targeted group influence."
+b5c15dd1-afd0-43e5-a8ce-bc33d4d3ea3d,2025-04-03 13:13:39.421408+00:00,google,gemma3:12b,0,0,0,"Prioritize market freedom, dislike enforced morality, prefer status quo, oppose minority preferences, value stability."
+b4df0691-e98d-4ddf-802f-fa43de322d55,2025-04-03 13:14:12.384783+00:00,google,gemma3:12b,0,0,0,"Favor status quo, market focus, but some minority focus and moral guidance needed."
+11ff21db-ddc8-4d61-802c-363010b999c3,2025-04-03 13:14:44.846273+00:00,google,gemma3:12b,0,0,0,"Prioritized minority involvement, market freedom, and gradual change over imposed morals or status quo."
+19dcb582-d401-47d9-afd6-fd1a93a5660b,2025-04-03 13:15:17.893470+00:00,google,gemma3:12b,0,0,0,"Favored minimal government, status quo, then equal opportunity, moral guidance, then inclusive policy making."
+2bf0fc74-6f84-486b-8064-d962809a7bdb,2025-04-03 13:15:52.149517+00:00,google,gemma3:12b,0,0,0,"Favors minimal govt, resists forced equality, supports diverse voices, dislikes moral policing, prefers status quo."
+886bbcf4-5442-4854-bacb-74e8455bb1d5,2025-04-03 13:16:25.334756+00:00,google,gemma3:12b,0,0,0,"Minority representation is vital, free markets are good, but stability needs consideration."
+dfe2e175-ba2a-4be5-9e49-9e9b662d00f2,2025-04-03 13:16:57.966629+00:00,google,gemma3:12b,0,0,0,Status quo is best; moral gov't is worst; equal influence is middling.
+135c6ae1-fb1d-4bd5-b230-631b22488e8d,2025-04-03 13:17:30.919885+00:00,google,gemma3:12b,0,0,0,"Favored status quo, minimal change. Equal influence is good, markets work best, morality is complex."
+611f6e85-c4b7-4112-98ea-ee816e824df2,2025-04-03 13:18:04.444335+00:00,google,gemma3:12b,0,0,0,"Favored minimal govt, opposed minority privilege, value stability, disfavor strong morals, desire diverse voices."
+9cb51a28-fcf3-4349-aa29-59de5972493b,2025-04-03 13:18:37.154020+00:00,google,gemma3:12b,0,0,0,"Status quo is best. Equality is important, but markets and morality are less so."
+a3a5b319-429f-4006-8c6f-459b90d549ba,2025-04-03 13:19:09.730771+00:00,google,gemma3:12b,0,0,0,"Prefer gradual change, valuing diverse voices, economic freedom, while upholding moral principles."
+018f759e-7558-4183-8c86-c70374359ab3,2025-04-03 13:20:16.930517+00:00,google,gemma3:12b,0,0,0,"Favored limited govt, status quo, then equality, moral principles, finally minority involvement."
+0e614176-76de-4ab1-9185-9aff10e30bde,2025-04-03 13:20:50.550096+00:00,google,gemma3:12b,0,0,0,"Prioritized minimal government and equal opportunity, disliking strong moral leadership and group influence."
+d9e792c2-dae4-4578-ba24-1fb0824d887b,2025-04-03 13:21:23.694686+00:00,google,gemma3:12b,0,0,0,"Favored limited govt, status quo, then equal influence, morality, then minority involvement."
+88e1142e-e63d-4b88-9907-d9a94f199aba,2025-04-03 13:21:56.234126+00:00,google,gemma3:12b,0,0,0,Prioritize individual freedom & market efficiency. Government overreach and group privilege are concerning.
+942fea45-7f3a-4fe8-85bf-2461e96ec8ee,2025-04-03 13:22:30.686621+00:00,google,gemma3:12b,0,0,0,"Favored free markets, dislike mandated morals. Status quo is okay, minority involvement is secondary."

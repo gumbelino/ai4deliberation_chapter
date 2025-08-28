@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Upgrade the track to a bitumen road.,"P2. Upgrade the road, to a dirt road suitable for conventional vehicles.","P3. Stabilize specific trouble spots, such as steep slopes, on the road but leave it as a 4WD track.",P4. Maintain the road in its current condition as a 4WD track.,P5. Close the road and rehabilitate it.
+1b720d90-8d62-48b6-88f0-ef9a0a156937,2025-05-21 11:46:11.108586+00:00,xai,grok-3-mini-fast-beta-r=high,0,14542,248,5,4,2,3,1
+27b1d02d-da95-49c9-911d-6d3006d18e3d,2025-05-21 11:46:45.749231+00:00,xai,grok-3-mini-fast-beta-r=high,0,13039,249,5,4,2,3,1
+7b783c13-de0f-44fc-8a6f-84c6b4e9b145,2025-05-21 11:47:20.502293+00:00,xai,grok-3-mini-fast-beta-r=high,0,14250,252,5,4,2,3,1
+e725856f-f8bb-423f-b505-b30165a4470d,2025-05-21 11:47:52.969799+00:00,xai,grok-3-mini-fast-beta-r=high,0,14056,248,5,4,2,3,1
+5f9379da-d17d-4fcf-91c0-f2d42a649422,2025-05-21 11:48:28.468665+00:00,xai,grok-3-mini-fast-beta-r=high,0,11378,249,5,4,2,3,1

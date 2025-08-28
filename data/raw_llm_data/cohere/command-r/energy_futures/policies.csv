@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Wind,P2. Biomass,P3. Coal with CO2 Burial,P4. Hydroelectric,P5. Natural Gas,P6. Geothermal Energy,P7. Solar Energy,P8. Nuclear Energy,P9. Coal
+a63584ab-0465-4d4a-ac38-6259f9704d6c,2025-03-24 22:16:23.439750+00:00,cohere,command-r,0,5161.0,337.0,4,1,9,5,7,3,2,6,8
+8d4858aa-fc98-4ce8-8ae0-7e5c68bf4bc8,2025-03-24 22:16:28.822246+00:00,cohere,command-r,0,5155.0,361.0,1,2,9,8,6,7,3,5,4
+8e6709ae-d7aa-4a2a-8940-9972a8e20bb0,2025-03-24 22:16:34.460058+00:00,cohere,command-r,0,5151.0,331.0,1,4,8,6,5,2,3,7,9
+079be8fb-fa44-4a03-9b7d-be48d50289ec,2025-03-24 22:16:39.784622+00:00,cohere,command-r,0,5173.0,343.0,3,7,8,4,2,6,5,1,9
+8fdbada1-3b1f-472b-8d27-1731cfcb9f75,2025-03-24 22:16:45.098248+00:00,cohere,command-r,0,5141.0,329.0,8,5,6,2,3,1,4,7,9
+8098f5cc-6330-4c81-8573-84b917a040d9,2025-03-24 22:16:50.326053+00:00,cohere,command-r,0,5143.0,333.0,2,6,4,8,3,5,9,1,7
+1709427f-fae6-4d6d-a9a7-1734df43a5fb,2025-03-24 22:16:55.757628+00:00,cohere,command-r,0,5163.0,344.0,4,6,8,7,2,5,1,3,9
+e0160d80-0bf6-426f-8337-709de6a2b663,2025-03-24 22:17:01.287764+00:00,cohere,command-r,0,5165.0,338.0,6,5,7,1,8,3,4,2,9
+e8c119fe-fa2b-436a-89cb-884f206c2290,2025-03-24 22:17:06.706248+00:00,cohere,command-r,0,5158.0,340.0,9,4,1,7,5,8,2,6,3

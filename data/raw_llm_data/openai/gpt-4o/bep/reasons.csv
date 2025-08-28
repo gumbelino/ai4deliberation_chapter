@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+048045c8-e291-472b-abde-4a6f79ee09ee,2025-03-20 17:37:49.873081+00:00,openai,gpt-4o,0,4148,265,"Support for local, sustainable, and resilient food systems with moderate regulation."
+66af2ec1-df70-41ab-ad54-c6bbe2904fc7,2025-03-20 17:38:02.285726+00:00,openai,gpt-4o,0,4148,262,Support sustainable local production and moderate regulations for climate resilience.
+e2efc035-dcd6-4e83-b4bc-8588a27ccd02,2025-03-20 17:38:12.685685+00:00,openai,gpt-4o,0,4151,268,"Support for sustainable, local, and adaptive policies over radical or minimal regulation."
+62bb3483-cab0-4d44-92f1-8eee0720c3cf,2025-03-20 17:38:22.031111+00:00,openai,gpt-4o,0,4148,262,Support sustainable local production and moderate regulations for climate resilience.
+2af88e69-b1b4-4407-b9d3-9edbaa8b47b7,2025-03-20 17:38:32.532699+00:00,openai,gpt-4o,0,4151,269,"Support sustainable, local, and adaptive policies; oppose minimal regulation and status quo."
+c5af96e4-b0d8-415f-b84d-123288931a4f,2025-03-20 17:38:42.282423+00:00,openai,gpt-4o,0,4145,268,"Support for sustainable, local, and adaptive policies; less for radical or minimal regulation."
+f0e1ca43-f5a3-40e1-befc-a38aded4926d,2025-03-20 17:38:52.319814+00:00,openai,gpt-4o,0,4148,265,"Support for local, sustainable, and adaptive policies; oppose minimal regulation."
+3d15abf9-ccd1-4a00-91c1-0ad7811eb079,2025-03-20 17:39:01.030400+00:00,openai,gpt-4o,0,4148,264,"Support sustainable practices and resilience, oppose minimal regulation and status quo."
+20b320c1-87d6-4470-aaad-05d4698177b5,2025-03-20 17:39:13.209093+00:00,openai,gpt-4o,0,4148,262,Support sustainable local production and moderate regulations for balanced adaptation.
+a8b3ffc7-c91c-49de-bd65-1cde1c87891a,2025-03-20 17:39:22.504022+00:00,openai,gpt-4o,0,4151,264,Support sustainable local production and moderate regulations for balanced adaptation.
+d4153dd6-81f6-4107-973d-92a3953c8caa,2025-04-01 10:04:11.734579+00:00,openai,gpt-4o,0,4148,268,"Prioritize sustainable, resilient, and local-focused policies over deregulation or status quo."
+09744b2f-df94-467e-9371-176ea60ce3b6,2025-04-01 10:04:17.200758+00:00,openai,gpt-4o,0,4145,262,"Support sustainable local production and resilience, oppose minimal regulation."
+6a67b49b-a617-4edd-944c-8cc1637ece27,2025-04-01 10:04:22.638370+00:00,openai,gpt-4o,0,4148,264,"Prioritize sustainable local production, moderate regulation, and climate resilience."
+cea56979-1e34-4462-8afc-7152310aff75,2025-04-01 10:04:53.320223+00:00,openai,gpt-4o,0,4145,262,Support sustainable local production and moderate regulations for balanced adaptation.
+952b9bed-8767-4eb9-8638-10312e3aaa27,2025-04-01 10:05:38.687866+00:00,openai,gpt-4o,0,4151,264,Support sustainable local production and moderate regulations for climate resilience.
+b14ac8d6-1509-4c36-989a-7db790fcf734,2025-04-01 10:05:55.835748+00:00,openai,gpt-4o,0,4151,270,"Support for local, moderate, and adaptive policies; less for radical or minimal regulation."
+040a7de8-273c-475a-adab-18d0fb966cae,2025-04-01 10:06:02.363228+00:00,openai,gpt-4o,0,4148,268,"Support for sustainable, local, and adaptive policies; oppose minimal regulation and status quo."
+bd6e95ee-a1d8-43cc-a695-828aaaa2eae5,2025-04-01 10:06:08.409892+00:00,openai,gpt-4o,0,4148,262,Prioritize sustainable local production and moderate regulations for resilience.
+bcab6678-387c-45c5-b07d-6b18f80a644a,2025-04-01 10:06:14.775940+00:00,openai,gpt-4o,0,4145,262,Support sustainable local production and moderate regulations for climate resilience.
+fc6efcf0-1320-4a51-9f12-1b0c7099fdf6,2025-04-01 10:06:20.182981+00:00,openai,gpt-4o,0,4148,268,"Support for local, sustainable, and adaptive policies; less for radical or minimal regulation."
+7fe5b608-bd85-4c7d-9c56-3c2d610cb37c,2025-04-01 10:06:26.121556+00:00,openai,gpt-4o,0,4151,264,Support sustainable local production and moderate regulations for climate resilience.
+c1c10cdc-337c-4ceb-9132-b42692f129ba,2025-04-01 10:06:31.817073+00:00,openai,gpt-4o,0,4148,264,"Support local, sustainable, and resilient food systems with moderate regulations."
+0ab33f15-56bb-44e9-8faf-30947b5c7c00,2025-04-01 10:06:37.068637+00:00,openai,gpt-4o,0,4151,269,"Prioritize local, sustainable, and adaptive policies over minimal regulation or status quo."
+54250ef7-fd9b-4a6f-9634-b76e1abf83d2,2025-04-01 10:06:44.645638+00:00,openai,gpt-4o,0,4148,267,"Prioritize local, sustainable, and adaptive policies over deregulation and status quo."
+bed24955-4c16-4774-ad90-8131a214357c,2025-04-01 10:06:51.637665+00:00,openai,gpt-4o,0,4151,264,Support sustainable local production and moderate regulations for climate resilience.
+fd21fa90-a7c1-4377-b248-a916f85026cc,2025-04-01 10:06:57.240328+00:00,openai,gpt-4o,0,4148,261,Support sustainable local production and moderate regulations for resilience.
+e3780ff0-1cf5-470b-ba7c-9e7c00197df8,2025-04-01 10:07:02.707446+00:00,openai,gpt-4o,0,4148,264,Support sustainable local production and moderate regulations for balanced adaptation.
+39f53a48-b4e2-4f9a-b312-d207572dff29,2025-04-01 10:07:10.491903+00:00,openai,gpt-4o,0,4145,264,"Prioritize local, sustainable food production and moderate regulations for resilience."
+c747a1e1-575f-4f4c-918a-58b2b706996d,2025-04-01 10:07:16.389777+00:00,openai,gpt-4o,0,4145,268,"Prioritize local, moderate, and adaptive policies; oppose minimal regulation and status quo."
+578578ae-02ca-40a0-be17-5f5b332e35a5,2025-04-01 10:07:24.460034+00:00,openai,gpt-4o,0,4151,264,Support sustainable local production and moderate regulations for climate resilience.
+db712125-eb17-49a0-924b-93789c46557e,2025-04-01 12:36:46.520676+00:00,openai,gpt-4o,0,4151,270,"Prioritize sustainable, local, and resilient food systems over deregulation and status quo."

@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+6da18dc0-cd1f-4e5f-bde5-4827e7b25756,2025-04-03 12:34:58.280200+00:00,google,gemma3:12b,0,0,0,"Cautious support for research and clinical use, oppose broad or unrestricted editing."
+6a41d6b2-a802-4e0e-b066-013097b2b959,2025-04-03 12:35:30.670287+00:00,google,gemma3:12b,0,0,0,"Prioritize safety, limited scope, research, and avoid broad use/profit."
+e9c132e5-e4f5-454c-b8b9-d214dc924c4e,2025-04-03 12:36:02.904220+00:00,google,gemma3:12b,0,0,0,Cautious approval for clinical use with oversight. Rejecting broad access and complete bans.
+ef6943b5-32b4-4737-90ff-264e5541ef5c,2025-04-03 12:36:34.861957+00:00,google,gemma3:12b,0,0,0,"I favor cautious clinical use, reject broad access, and prohibit for-profit/inheritable edits."
+ac7be910-f915-4cef-af12-4206cca7e764,2025-04-03 12:37:06.470616+00:00,google,gemma3:12b,0,0,0,"I support cautious clinical use with oversight, avoiding broad, unrestricted access or bans."
+d6ef43ac-9c73-46ef-af17-828066d082c1,2025-04-03 12:37:37.765924+00:00,google,gemma3:12b,0,0,0,"Cautious but open; balance safety, access, and ethical oversight for responsible genome editing."
+c68f5665-6c28-47f3-bd43-4cd85b194967,2025-04-03 12:38:09.250844+00:00,google,gemma3:12b,0,0,0,"Cautious support for clinical use, strict oversight needed; overall wary of broad application."
+e65152a0-660b-45fa-8603-406f00902392,2025-04-03 12:38:40.503265+00:00,google,gemma3:12b,0,0,0,Balanced approach needed. Strong oversight is key. Research is vital. Caution and limits are necessary.
+a24ff396-e807-48d7-9f2f-1580e0b4ce96,2025-04-03 12:39:12.224852+00:00,google,gemma3:12b,0,0,0,"Prioritize clinical use, cautious expansion, research allowed, but firm on preventing misuse and ethical concerns."
+e600cc59-a8fe-4063-9d26-8f6747d9d390,2025-04-03 12:39:44.303529+00:00,google,gemma3:12b,0,0,0,"Prioritize clinical use with oversight. Reject outright bans, but restrict profit-driven, unrestricted use."
+3170b907-d779-415c-b0f0-a71d3dfd0485,2025-04-03 15:35:50.581950+00:00,google,gemma3:12b,0,0,0,"Prioritize clinical use with oversight, cautious about profit and broad use."
+b4df0c0d-7f4d-4465-8e29-5c0e7e6f8277,2025-04-03 15:36:24.908229+00:00,google,gemma3:12b,0,0,0,"Cautious approach needed, balancing potential benefits with ethical concerns and safety."
+17b36231-2f3d-4a81-a0ef-9c82b3c2acd6,2025-04-03 15:36:58.915050+00:00,google,gemma3:12b,0,0,0,Heritability concerns drove ranking; cautious approach preferred with strong oversight and limited uses.
+dd63444f-0431-4879-a6e4-6f60b0e57318,2025-04-03 15:37:32.410118+00:00,google,gemma3:12b,0,0,0,"I favor cautious, limited editing with oversight, avoiding broad or unrestricted access."
+881381c5-1b91-47a1-9d42-3baeda3177a0,2025-04-03 15:38:06.043523+00:00,google,gemma3:12b,0,0,0,Clinical use with oversight is best; cautious about profit or unrestricted use.
+93062a35-d5e9-453b-9637-bdf93b35dbbb,2025-04-03 15:38:39.094766+00:00,google,gemma3:12b,0,0,0,"Cautious approach prioritizing safety, ethics, and limited scope seems most reasonable."
+60deab8d-552b-473b-9b74-0cb4fc1497bc,2025-04-03 15:39:13.594335+00:00,google,gemma3:12b,0,0,0,Prioritize clinical use with oversight; cautious about broad use/heritability; oppose blanket bans or unrestricted use.
+397b8c76-802c-4b34-a95b-39845b35e97c,2025-04-03 15:40:19.982054+00:00,google,gemma3:12b,0,0,0,"Prioritize safety and oversight, limiting genome editing and donation due to ethical and potential risks."
+82a2f917-bf5e-466b-9298-9a23460d1c50,2025-04-03 15:40:53.137597+00:00,google,gemma3:12b,0,0,0,"Balance is key: cautious approval with oversight, but open to research and non-profit applications."
+dc8c499d-8181-43d2-b3a6-a48e39b4ccd2,2025-04-03 15:41:27.017008+00:00,google,gemma3:12b,0,0,0,"I prefer cautious clinical use with oversight, minimizing risk, and avoiding broad, unregulated applications."
+24c7a91d-1e16-401b-87be-285d1887fc01,2025-04-03 15:42:00.549234+00:00,google,gemma3:12b,0,0,0,"Cautious support for regulated editing, wary of broad use or profit motives, prioritizing research now."
+b73396de-3b85-44ba-a2f5-f8867cc9b40b,2025-04-03 15:42:33.804311+00:00,google,gemma3:12b,0,0,0,"I favor cautious, limited use for clinical benefit, prioritizing safety and ethical oversight."
+8c874bf7-2258-44bf-8aac-fe6eebd34fab,2025-04-03 15:43:07.134928+00:00,google,gemma3:12b,0,0,0,"Prioritize caution and limited clinical use, resisting broad, unrestricted genome editing."
+2919109d-7c41-4e7b-977e-729a69ab4885,2025-04-03 15:43:40.262803+00:00,google,gemma3:12b,0,0,0,"I favor cautious research but oppose broad, unregulated editing; erring on the side of safety and ethical considerations."
+f3069b5d-d06d-49a7-916f-64d3af58a55c,2025-04-03 15:44:15.750603+00:00,google,gemma3:12b,0,0,0,Favored restrictions but support clinical applications with oversight.
+90245dbf-ba9f-4f87-8d55-09d1d0f23b38,2025-04-03 15:44:48.389737+00:00,google,gemma3:12b,0,0,0,"Support controlled research and clinical use, wary of unregulated uses and broader implications."
+44600f7d-47ef-43b5-8c46-770958a787d6,2025-04-03 15:45:21.955281+00:00,google,gemma3:12b,0,0,0,"Cautious approval for clinical uses, strong ethical oversight needed, broad prohibition is too restrictive."
+dde16a9b-b2f4-4b29-9c8f-0c615dcffc86,2025-04-03 15:45:55.567084+00:00,google,gemma3:12b,0,0,0,"Prioritize clinical use with oversight, but avoid complete bans or purely profit-driven applications."
+65b5663c-190b-4878-92ac-57cb7d8187c2,2025-04-03 15:46:29.848217+00:00,google,gemma3:12b,0,0,0,"I favor cautious, regulated use for clinical needs, with strict oversight and profit limits."
+d0bba0b9-ea08-4e87-9345-81ce288e83f4,2025-04-03 15:47:02.997982+00:00,google,gemma3:12b,0,0,0,"Prioritize cautious, ethical progress; research is vital but broad use needs oversight."
+f9bafe85-4635-47cf-8876-c795122f7b9c,2025-04-03 15:47:36.087306+00:00,google,gemma3:12b,0,0,0,"Prioritize clinic use, some research, cautious profit limits, avoiding broad, unregulated uses."

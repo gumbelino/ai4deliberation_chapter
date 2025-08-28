@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+3b57cd49-4f55-4e6d-a68a-4b00083e2a45,2025-03-24 22:08:53.192748+00:00,cohere,command-r,0,3749.0,248.0,Strongly support aggressive CO2 reduction policies and local adaptation strategies.
+b22295c4-e735-46dd-adf7-270a0839163d,2025-03-24 22:08:57.449879+00:00,cohere,command-r,0,3751.0,254.0,"Strongly support aggressive CO2 reduction policies and local adaptation, and value economic growth over resilience."
+37507f18-4be1-43ba-a1b3-5a4c7ea467ce,2025-03-24 22:09:01.827625+00:00,cohere,command-r,0,3753.0,252.0,Strong support for aggressive CO2 reduction policies and community-based adaptation measures.
+ac44e0fc-d464-45b6-b230-55789f80e66c,2025-03-24 22:09:06.324156+00:00,cohere,command-r,0,3753.0,254.0,"Strongly support cuts to CO2 emissions and adaptive policies, ranking economic growth lower."
+f7a26ac5-44a3-42f1-ad49-30181bd02b12,2025-03-24 22:09:10.566928+00:00,cohere,command-r,0,3751.0,267.0,"Strongly support emissions cuts, community-based actions, and adaptation policies. Moderate support for new technologies. Least support for current policies and those prioritizing economic growth."
+74355eca-21b7-4647-8d7d-955d864174dd,2025-03-24 22:09:15.019481+00:00,cohere,command-r,0,3749.0,259.0,"Strongly support emission cuts, community-based actions, and proactive government adaptation policies. Moderate cuts are better than nothing."
+f542b516-0771-4465-a340-b01b0eb325fc,2025-03-24 22:09:19.486644+00:00,cohere,command-r,0,3749.0,251.0,"Environmental action: individual efforts matter, especially when trusted; policy change is due."
+de2fe710-8e31-4cb7-9a25-d8a4c75b447b,2025-03-24 22:09:23.904811+00:00,cohere,command-r,0,3749.0,251.0,"Progressive CO2 emission cuts, adaptive policies and resilience enhancements are my top priorities."
+8c614879-5535-41d4-8090-683482a2aaeb,2025-03-24 22:09:28.223725+00:00,cohere,command-r,0,3755.0,252.0,Economic growth policies ranked lowest by me as climate action is vital and effective.

@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,"P1. There are too many mental health services in Switzerland, and they should be reduced.","P2. There are enough mental health services in Switzerland, and funding should remain as it is.",P3. Initiatives focused on improving the socioeconomic conditions of disadvantaged people should be implemented to address mental health disparities.,P4. Private mental health clinics should receive more government funding to allow more people to access them.,P5. There should be more public awareness campaigns that empower people to seek mental health support and destigmatize help-seeking behaviors.,"P6. There should be more integrated mental health clinics that provide a range of services, such as sports or artistic activities in addition to therapy and medication","P7. There are not enough mental health services in Switzerland, so their funding should be increased."
+f5326a79-dbe1-4542-add4-9f76f26567f6,2025-04-08 14:50:40.298612+00:00,openai,gpt-4.5-preview,0,2662,150,1,7,3,5,4,6,2
+cfcdc5d9-6719-4e3f-8994-7e1d92e424a1,2025-04-08 14:51:03.701602+00:00,openai,gpt-4.5-preview,0,2662,151,7,6,2,5,4,3,1
+b6172147-48ef-4fe5-a0c8-4b45bbf94a03,2025-04-08 14:51:24.534625+00:00,openai,gpt-4.5-preview,0,2662,149,3,7,2,4,5,1,6
+53beb78f-e73a-4be5-b0f7-25c1acdc128e,2025-04-08 14:51:46.714252+00:00,openai,gpt-4.5-preview,0,2662,152,7,5,1,2,6,3,4
+d2047f0c-85ef-4a0d-8335-365db40ff186,2025-04-08 14:51:57.337069+00:00,openai,gpt-4.5-preview,0,2662,150,6,2,7,4,5,3,1
+f9795a00-cb56-43b5-9273-a933ab438d9d,2025-04-10 08:11:38.078353+00:00,openai,gpt-4.5-preview,0,2662,152,1,7,3,5,4,6,2
+f4d4b12f-a2bd-4940-8f8f-99fa0314e061,2025-04-10 08:11:49.841074+00:00,openai,gpt-4.5-preview,0,2662,151,7,6,2,5,4,3,1
+d1f2b3f5-37ae-4d9e-9c4d-bd2a078d3b65,2025-04-10 08:11:59.371086+00:00,openai,gpt-4.5-preview,0,2662,152,2,7,3,6,5,1,4
+1325f8ca-64e1-4674-89d5-2409a010eaef,2025-04-10 08:12:09.593121+00:00,openai,gpt-4.5-preview,0,2662,150,7,4,1,2,6,3,5
+2ea97d36-ff1d-4933-9db4-295174a35c03,2025-04-10 08:12:18.626511+00:00,openai,gpt-4.5-preview,0,2662,150,6,2,7,4,5,3,1

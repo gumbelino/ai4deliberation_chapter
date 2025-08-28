@@ -1,0 +1,2 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+83a634d6-cfd6-4b56-b984-39497e4c8b7c,2025-04-03 17:05:43.358531+00:00,deepseek,deepseek-v2,0,0,0,"Mitigation over adaptation, moderate cuts better than drastic ones."

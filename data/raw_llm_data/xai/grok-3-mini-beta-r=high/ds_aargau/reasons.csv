@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+72e7e87e-9f57-4dc4-acdd-00ab6ecea27c,2025-04-28 12:02:44.882003+00:00,xai,grok-3-mini-beta-r=high,0,13013,214,Prioritized aggressive emission reductions and adaptation over inaction and economic focus.
+ce63a000-ce96-485d-aea9-f8c01fbae8f5,2025-04-28 12:03:23.739952+00:00,xai,grok-3-mini-beta-r=high,0,11135,216,Prioritized climate action like emission cuts and adaptation over inaction and economic dominance.
+3057b7dd-5422-4dae-9360-dea935cc3a2d,2025-04-28 12:03:51.793724+00:00,xai,grok-3-mini-beta-r=high,0,14455,215,"Supported strong emission reductions and adaptation, least status quo and economic priority."
+69f9c2e5-1114-421c-99d5-3f50f7d6085d,2025-04-28 12:04:37.844110+00:00,xai,grok-3-mini-beta-r=high,0,13955,217,"Prioritized adaptation and strong emission cuts, least supported inaction and economy over climate."
+85e9c565-3fe5-47a9-bf61-7a9452e5d323,2025-04-28 12:05:14.233947+00:00,xai,grok-3-mini-beta-r=high,0,13772,214,I prioritize strong emission reductions and adaptation over inaction and economic dominance.

@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+0ca2c51d-94cd-401e-b131-ef735b7a94a1,2025-04-28 09:51:44.094487+00:00,xai,grok-3-mini-beta-r=low,0,3215,217,Prioritize emission reductions due to strong agreement on climate urgency and need for action.
+7d395544-52a0-404b-8e3d-4ecaa4e6e9d3,2025-04-28 09:52:22.126003+00:00,xai,grok-3-mini-beta-r=low,0,3215,211,I prioritize emission cuts to address climate change effectively.
+de68675d-ad60-4ae0-9edf-f11fe96c4ddb,2025-04-28 09:52:59.008197+00:00,xai,grok-3-mini-beta-r=low,0,3215,219,I support policies for drastic emission cuts due to my strong agreement on climate urgency and action.
+dacd578b-ed9d-4a0b-8b08-0b88948a4dcc,2025-04-28 09:53:40.019925+00:00,xai,grok-3-mini-beta-r=low,0,3215,218,"I support aggressive emission reductions most due to climate urgency, followed by adaptation and innovation."
+34972062-ff66-498a-af68-aedd828c3c56,2025-04-28 09:54:20.789266+00:00,xai,grok-3-mini-beta-r=low,0,3215,218,I support aggressive emission cuts most due to my strong agreement on climate urgency and action.
+ceded43d-9f5a-4021-bf0d-d458b7136c2a,2025-04-28 10:17:57.957553+00:00,xai,grok-3-mini-beta-r=low,0,9189,220,"Prioritized emission cuts for urgent action, then adaptations, rejecting inaction and growth-over-climate."
+bb62ebbb-58ca-4671-8848-0b97f2834040,2025-04-28 10:18:31.432284+00:00,xai,grok-3-mini-beta-r=low,0,10669,214,"Prioritized emission reductions most, then adaptation, least for inaction."
+98764a8b-9ae3-427d-9bb4-fb7257be3f95,2025-04-28 10:19:09.562629+00:00,xai,grok-3-mini-beta-r=low,0,10199,215,I prioritized policies for aggressive emission reductions due to my strong climate concern.
+04038954-8d55-484a-b48c-75f107401878,2025-04-28 10:19:47.414712+00:00,xai,grok-3-mini-beta-r=low,0,10045,212,Prioritized emission cuts and adaptation over growth or inaction.
+d7b7640c-8414-4366-9927-5b9b4dd7b9ca,2025-04-28 10:20:24.950739+00:00,xai,grok-3-mini-beta-r=low,0,10724,214,Prioritized emission cuts for strong climate action based on prior agreements.

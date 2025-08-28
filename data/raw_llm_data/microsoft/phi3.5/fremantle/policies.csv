@@ -1,0 +1,21 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,"P1. Retain existing bridge, but replace the navigation spans and deteriorated components","P2. Retain existing bridge, but replace the navigation spans and deteriorated components and incorporate bridge widening","P3. Construct a new standard bridge next to the current bridge, leaving a section of the existing bridge as a heritage and recreation site","P4. Construct a new bridge that is a major entry statements for Fremantle, leaving a section of the existing bridge as a heritage recreation site",P5. Construct a new standard bridge and retain the existing bridge as a pedestrian/cyclist facility,P6. Construct a new two lane standard bridge and retain the existing bridge as a 2 lane bridge with improved pedestrian/cyclist facilities
+18f475b6-b6c1-4ca1-9ad3-d35b83fea14c,2025-03-26 00:56:55.153705+00:00,microsoft,phi3.5,0,0,0,1,4,2,3,6,5
+93fab79c-e4e5-4177-868d-d34a9aa1f2e0,2025-03-26 00:58:39.654602+00:00,microsoft,phi3.5,0,0,0,6,2,5,3,4,1
+e74a9302-629a-4f44-8941-9544020a75a9,2025-03-26 00:58:50.387026+00:00,microsoft,phi3.5,0,0,0,4,5,3,2,6,1
+94a4dd04-0224-4d8c-95d4-6bd5fbb3e4f5,2025-03-26 00:59:03.769631+00:00,microsoft,phi3.5,0,0,0,2,6,1,4,5,3
+38596080-97f1-4517-8f4f-0ba03136ab96,2025-03-26 00:59:24.515372+00:00,microsoft,phi3.5,0,0,0,5,6,4,3,2,1
+13e7b94c-63b7-4ddb-aa9e-73525bf317fc,2025-03-26 00:59:40.566756+00:00,microsoft,phi3.5,0,0,0,5,4,1,3,2,6
+07e4a0ad-810b-4eb0-9ea5-f203dccf70b1,2025-03-26 00:59:55.187004+00:00,microsoft,phi3.5,0,0,0,4,5,6,3,2,1
+f2746206-15ab-4602-b3e8-85c3dcb557c0,2025-03-26 01:01:08.392218+00:00,microsoft,phi3.5,0,0,0,1,3,4,2,5,6
+c25c306c-ec6c-4463-a222-cf74a024a5ae,2025-04-04 14:41:44.894339+00:00,microsoft,phi3.5,0,0,0,5,3,4,2,1,6
+9c01f5e2-1125-4024-8f5d-925964aa86b5,2025-04-04 14:41:57.472189+00:00,microsoft,phi3.5,0,0,0,2,4,6,5,3,1
+6cf78d7a-4fce-4301-ba10-aa68b638b778,2025-04-04 14:42:09.531896+00:00,microsoft,phi3.5,0,0,0,5,6,1,2,3,4
+5f29bd7d-a29d-4bec-a1a7-908f6d5b7b27,2025-04-04 14:42:31.402162+00:00,microsoft,phi3.5,0,0,0,2,1,3,5,4,6
+c967d53a-8668-420d-917e-1b2419963af3,2025-04-04 14:42:43.332925+00:00,microsoft,phi3.5,0,0,0,2,3,4,1,5,6
+fa2da8e3-12e8-4e84-8dd1-bfe2d140184f,2025-04-04 14:42:56.629753+00:00,microsoft,phi3.5,0,0,0,5,1,2,3,4,6
+0f157205-2b87-4816-8b14-9aa2cccb0635,2025-04-04 14:43:20.430491+00:00,microsoft,phi3.5,0,0,0,1,2,3,6,4,5
+86228eda-9749-43c3-8832-99b99a87386a,2025-04-04 14:43:44.043478+00:00,microsoft,phi3.5,0,0,0,2,6,4,5,3,1
+5eb9ad81-528b-46c6-adf7-ec1cb752d58a,2025-04-04 14:44:22.150864+00:00,microsoft,phi3.5,0,0,0,6,2,5,4,3,1
+d69b625a-1b51-47f6-abe4-44cd497f640c,2025-04-04 14:44:35.327144+00:00,microsoft,phi3.5,0,0,0,3,4,1,6,2,5
+6544440d-8114-450f-a724-9168bde4f0c5,2025-04-04 14:45:10.041256+00:00,microsoft,phi3.5,0,0,0,3,6,2,5,4,1
+f632b07c-c62b-4a74-b259-4dfb92ad2543,2025-04-04 14:45:22.710788+00:00,microsoft,phi3.5,0,0,0,2,4,3,5,6,1

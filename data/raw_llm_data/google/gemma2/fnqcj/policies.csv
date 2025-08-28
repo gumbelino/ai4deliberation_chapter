@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,P1. Upgrade the track to a bitumen road.,"P2. Upgrade the road, to a dirt road suitable for conventional vehicles.","P3. Stabilize specific trouble spots, such as steep slopes, on the road but leave it as a 4WD track.",P4. Maintain the road in its current condition as a 4WD track.,P5. Close the road and rehabilitate it.
+9dd48def-4cb1-47be-8b03-45cd28d109f3,2025-03-21 05:22:13.761047+00:00,google,gemma2,0,0,0,2,5,4,3,1
+fa540338-454f-4fd6-8f14-6f2cbefb3af6,2025-03-21 05:22:36.536752+00:00,google,gemma2,0,0,0,3,1,2,5,4
+b72f037e-fd32-4612-9fa5-5cbbf56f0509,2025-03-21 05:22:59.056353+00:00,google,gemma2,0,0,0,1,2,5,3,4
+dd86b667-bf6e-4fa9-8487-773b71f63a9d,2025-03-21 05:23:21.401469+00:00,google,gemma2,0,0,0,5,3,4,2,1
+0a1989cc-74fe-477e-aaec-1d792576d4b6,2025-03-21 05:23:43.770388+00:00,google,gemma2,0,0,0,4,3,2,5,1
+eb8e4f1a-8c4b-488f-a443-559830b9ff3d,2025-03-21 05:24:06.105019+00:00,google,gemma2,0,0,0,4,3,1,2,5
+f1737dbc-4fe0-4e75-98dc-2b49268f13e7,2025-03-21 05:24:28.276524+00:00,google,gemma2,0,0,0,1,4,3,2,5
+bbdbfb5c-b8be-40e1-a4af-0a7e174751d9,2025-03-21 05:24:50.504806+00:00,google,gemma2,0,0,0,2,4,3,1,5
+4413fca5-4c88-47f9-b380-29c26cd2e6da,2025-03-21 05:25:12.929280+00:00,google,gemma2,0,0,0,3,1,4,2,5
+0fa7b7e0-d9d8-4e11-893c-1e44ad30251a,2025-03-21 05:25:35.444702+00:00,google,gemma2,0,0,0,4,3,2,1,5

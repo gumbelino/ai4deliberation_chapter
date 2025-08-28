@@ -1,0 +1,22 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,"P1. Invest in innovation and the development of environmentally-friendly practices and industries (e.g. eco-tourism, sustainable agriculture). ",P2. Reduce funding for extractive and resource-intensive industries. ,"P3. No new coal mines, close all existing coal-fired power plants as soon as possible.","P4. Strengthen environmental protection regulations, such as regulation around mining and agriculture, to better protect the reef.",P5. Maintain current levels of environmental protection.,P6. Reduce current environmental regulations to boost local business.,"P7. Maintain current mixture of industries, land uses and practices (e.g. mining, refineries, agriculture and tourism)."
+23b6b467-1d75-4232-943f-f8cadc9777ef,2025-03-26 02:26:17.692590+00:00,microsoft,phi3.5,0,0,0,4,5,2,1,7,3,6
+cd3c7b94-d3d7-4e87-899a-171e628bf1f8,2025-03-26 02:26:30.242911+00:00,microsoft,phi3.5,0,0,0,5,1,7,3,4,6,2
+76c99d4a-6003-4c3b-a510-020cec273955,2025-03-26 02:32:52.853124+00:00,microsoft,phi3.5,0,0,0,5,6,7,2,4,1,3
+8612d236-4861-4d8c-9067-b5adf53e8a9d,2025-03-26 02:33:05.000829+00:00,microsoft,phi3.5,0,0,0,3,1,6,4,5,7,2
+d68b8a5d-ce2c-4bb9-b5c2-ef8b9f70697b,2025-03-26 02:33:18.249392+00:00,microsoft,phi3.5,0,0,0,2,7,5,1,6,4,3
+bc838980-cbcc-4ab6-9b4f-552c67c7480f,2025-03-26 02:33:59.403549+00:00,microsoft,phi3.5,0,0,0,4,2,1,7,6,3,5
+ba92dce7-e591-454e-ae1d-6e87592804f7,2025-03-26 02:34:53.575122+00:00,microsoft,phi3.5,0,0,0,6,5,7,1,2,4,3
+d8df7efd-465d-4425-b27a-b812b818e1e1,2025-03-26 02:35:07.311932+00:00,microsoft,phi3.5,0,0,0,4,2,3,5,7,6,1
+eb6b8f76-3b7f-4e81-953e-668b1a01d6da,2025-03-26 02:35:32.165376+00:00,microsoft,phi3.5,0,0,0,1,5,7,4,3,2,6
+066fbf4e-2587-4941-9ac7-27de1ae63b7e,2025-03-26 02:35:44.886658+00:00,microsoft,phi3.5,0,0,0,4,2,7,6,5,1,3
+4ecb80e9-5e83-42ae-9f49-0087840438a2,2025-03-26 02:36:09.810466+00:00,microsoft,phi3.5,0,0,0,6,2,5,1,7,3,4
+1d639f9f-1a64-4a67-9711-d47efffe07ef,2025-03-26 02:36:22.545636+00:00,microsoft,phi3.5,0,0,0,1,4,5,6,2,7,3
+1b22d3b6-7b58-454e-b5de-ee7ac81493b1,2025-03-26 02:40:14.295524+00:00,microsoft,phi3.5,0,0,0,3,4,1,2,5,7,6
+489d83ae-8ba4-4d43-bfb1-36ad4d66367c,2025-03-26 02:40:53.290274+00:00,microsoft,phi3.5,0,0,0,4,7,1,3,2,6,5
+35159214-73cf-4e67-b747-54448db8f9ee,2025-03-26 02:41:04.458723+00:00,microsoft,phi3.5,0,0,0,3,6,1,7,2,5,4
+de75884b-1e2e-4241-9d7c-29221a1cccbb,2025-04-04 15:29:28.267181+00:00,microsoft,phi3.5,0,0,0,4,6,5,2,7,1,3
+8ab59a39-bb75-4427-9ddc-a650479313fa,2025-04-04 15:30:11.743216+00:00,microsoft,phi3.5,0,0,0,5,7,1,2,4,6,3
+bfc552c8-9f06-44b2-b6e2-c3c5598c7846,2025-04-04 15:31:17.784868+00:00,microsoft,phi3.5,0,0,0,1,2,7,3,5,6,4
+9f2af9db-68b6-4a77-8fe4-4e290ca1c791,2025-04-04 15:31:30.295591+00:00,microsoft,phi3.5,0,0,0,4,2,7,6,5,1,3
+17fa5458-f312-4725-b38b-4207f726c7bd,2025-04-04 15:31:53.923131+00:00,microsoft,phi3.5,0,0,0,5,6,7,1,4,3,2
+3208dbad-0cba-44ff-8405-e9a5395e36dc,2025-04-04 15:40:35.185136+00:00,microsoft,phi3.5,0,0,0,7,5,2,6,4,3,1

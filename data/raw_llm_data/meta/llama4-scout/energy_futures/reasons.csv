@@ -1,0 +1,41 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+1bb9da58-c352-4c99-8981-bec31e4c82e8,2025-04-10 16:58:17.855601+00:00,meta,llama4-scout,0,4532,283,"Prioritized renewable energy sources, wary of coal and nuclear."
+b3c213df-a7ba-45b0-b4d5-6eac57745d36,2025-04-10 16:58:22.626277+00:00,meta,llama4-scout,0,4532,282,Prioritized renewable and low-carbon options over fossil fuels.
+bff241cf-4629-4cef-8e5a-345d4532d5aa,2025-04-10 16:58:27.840814+00:00,meta,llama4-scout,0,4532,285,"Prioritized renewable energy sources, with skepticism towards nuclear and coal."
+e71051ce-8fa5-45ac-a5e0-c194a957ad51,2025-04-10 16:58:32.622747+00:00,meta,llama4-scout,0,4532,284,"Prioritized renewable energy sources, wary of fossil fuels and nuclear."
+c0ca5d11-4729-4361-86e5-ecb98898400a,2025-04-10 16:58:37.188218+00:00,meta,llama4-scout,0,4532,291,"Prioritized renewable energy sources, downplayed fossil fuels, and cautiously ranked nuclear and carbon capture."
+8c2f250c-45a5-4bfd-aac2-d0cc6fbcd5cb,2025-04-10 16:58:42.094130+00:00,meta,llama4-scout,0,4532,288,"Prioritized renewable energy sources, with hydroelectric and solar high, and coal low."
+8869f1f0-55d1-466c-9d80-19f3a698e8a0,2025-04-10 16:58:46.801824+00:00,meta,llama4-scout,0,4532,287,"Prioritized renewable energy sources, with some consideration for established and cleaner fossil fuels."
+2e6c67ad-cec1-4e10-a3e6-a0c684ebb325,2025-04-10 16:58:51.520033+00:00,meta,llama4-scout,0,4532,284,"Prioritized renewable energy sources, skeptical of fossil fuels and nuclear."
+7a22f4e7-2354-4293-8278-1df0e3de9a45,2025-04-10 16:58:55.991031+00:00,meta,llama4-scout,0,4532,289,"Prioritized renewable energy sources, with solar and hydro top, and coal and nuclear lower."
+22cc7799-5931-46ea-a411-bdcbbb1b3d61,2025-04-10 16:59:00.734811+00:00,meta,llama4-scout,0,4532,283,"Prioritized renewable energy sources, wary of nuclear and coal."
+8aad0a9f-33fe-49eb-95aa-ec1f7be1ae76,2025-04-10 16:59:05.532738+00:00,meta,llama4-scout,0,4532,289,"Prioritized renewable energy sources, with cautious consideration for nuclear and fossil fuels with carbon capture."
+f01df4ac-ecf5-4b7d-9560-28d9244aca09,2025-04-10 16:59:10.073950+00:00,meta,llama4-scout,0,4532,286,"Prioritized renewable energy sources, with skepticism towards fossil fuels and nuclear."
+852706f1-e296-4fcc-b783-9bc2fe6a26ab,2025-04-10 16:59:14.622302+00:00,meta,llama4-scout,0,4532,284,"Prioritized renewable energy sources, downplayed fossil fuels and nuclear."
+469b08d2-ea08-426d-8d15-2bf712f73040,2025-04-10 16:59:19.148041+00:00,meta,llama4-scout,0,4532,284,"Prioritized renewable energy sources, downplayed fossil fuels and nuclear."
+6d01f1e5-41dc-4141-b101-b5ab5e4236c9,2025-04-10 16:59:23.870927+00:00,meta,llama4-scout,0,4532,288,"Prioritized renewable energy sources, with hydroelectric as most supported and coal as least."
+d875e238-a171-4a0a-aaba-88620788e990,2025-04-10 16:59:28.469727+00:00,meta,llama4-scout,0,4532,285,Prioritized renewable energy sources with consideration for CO2 reduction and sustainability.
+45fbfe36-2019-42e4-86b1-fe1a1cb602cf,2025-04-10 16:59:33.530097+00:00,meta,llama4-scout,0,4532,294,"Prioritized renewable energy sources, downplayed fossil fuels, and cautiously ranked nuclear and coal with CO2 burial."
+4b10e360-6b5f-44b6-9e36-ecce908f129f,2025-04-10 16:59:38.328158+00:00,meta,llama4-scout,0,4532,284,"Prioritized renewable energy sources, downplayed fossil fuels and nuclear."
+dfd4efd5-f989-47d7-a2d8-0dad98e890ea,2025-04-10 16:59:42.828944+00:00,meta,llama4-scout,0,4532,285,"Prioritized renewable energy sources, with cautious approach to nuclear and coal."
+d2981a9e-a30f-420b-94b9-e8878018564d,2025-04-10 16:59:47.419726+00:00,meta,llama4-scout,0,4532,287,"Prioritized renewable energy sources, with some consideration for low-carbon fossil fuel options."
+7e65a60b-2f82-4173-b57f-f1d47d89a1a0,2025-04-10 16:59:52.033651+00:00,meta,llama4-scout,0,4532,284,"Prioritized renewable energy sources, cautious on nuclear and fossil fuels."
+4fdd55a9-a501-4f41-b799-9eb83048deb5,2025-04-10 16:59:56.851452+00:00,meta,llama4-scout,0,4532,287,"Prioritized renewable energy sources, with some consideration for low-carbon fossil fuel options."
+30997981-6fc2-46b4-969b-74cd9469463c,2025-04-10 17:00:01.468495+00:00,meta,llama4-scout,0,4532,287,"Prioritized renewable energy sources, with skepticism towards nuclear and coal-based options."
+658b016b-642c-47db-a7e4-e0f539d956fc,2025-04-10 17:00:06.168720+00:00,meta,llama4-scout,0,4532,283,"Prioritized renewable energy sources, wary of coal and nuclear."
+3f1c958a-40c7-45f1-aae5-931c9b04798f,2025-04-10 17:00:10.946273+00:00,meta,llama4-scout,0,4532,287,"Prioritized renewable energy sources, downplayed fossil fuels, and ranked nuclear low."
+f2120f2f-df0a-46cc-85cf-e4b9ae3f04b8,2025-04-10 17:00:15.679687+00:00,meta,llama4-scout,0,4532,290,"Prioritized renewable over non-renewable, with some exceptions for cleaner fossil fuels and nuclear."
+7e4704fd-51d3-4643-a7fb-2de149825c36,2025-04-10 17:00:20.362241+00:00,meta,llama4-scout,0,4532,284,Prioritized renewable and cleaner energy sources over fossil fuels and nuclear.
+672c8c58-e22d-4d10-9346-1af8311aa72f,2025-04-10 17:00:25.105104+00:00,meta,llama4-scout,0,4532,287,"Prioritized renewable energy sources, with some consideration for low-carbon fossil fuel options."
+6d601e91-76f8-4b4b-b6e2-c7c3bc9ad221,2025-04-10 17:00:29.924523+00:00,meta,llama4-scout,0,4532,288,"Prioritized renewable energy sources, downplayed fossil fuels, and cautiously considered nuclear."
+79024f05-17d2-42ac-9c70-a998f3599381,2025-04-10 17:00:35.865555+00:00,meta,llama4-scout,0,4532,293,"Prioritized renewable energy sources, downplayed fossil fuels, and cautiously ranked nuclear lowest non-renewable."
+fb5b528a-647e-4a83-a117-23e13ae49236,2025-04-10 17:34:40.025152+00:00,meta,llama4-scout,0,4532,290,"Prioritized renewable energy sources, downplayed fossil fuels and nuclear due to environmental concerns and risk."
+619d29e7-25a3-42c1-9bea-08c1e6a75df8,2025-04-10 17:34:44.744382+00:00,meta,llama4-scout,0,4532,284,Prioritized renewable energy sources with cautious approach to nuclear and coal.
+dd35dbbd-97ee-480a-b3c0-2fed03bc21f3,2025-04-10 17:34:49.241089+00:00,meta,llama4-scout,0,4532,286,Prioritized renewable and low-carbon options with consideration for reliability and current technology.
+9f07cb35-8f7e-475e-abf6-8f07e710c6ca,2025-04-10 17:34:54.081748+00:00,meta,llama4-scout,0,4532,290,"Prioritized renewable energy sources, with hydroelectric and solar as top and least supported options respectively."
+063c05df-5268-4931-b170-f263d98ff9ad,2025-04-10 17:34:58.744177+00:00,meta,llama4-scout,0,4532,289,"Prioritized renewable energy sources, with solar and wind first, and phased out coal last."
+85c93b3e-7c01-43b8-aad5-3f95ab6bc589,2025-04-10 17:35:03.486321+00:00,meta,llama4-scout,0,4532,285,"Prioritized renewable energy sources, with cautious approach to nuclear and coal."
+b34bd206-fc04-498e-9423-c5fa21ad4548,2025-04-10 17:35:08.055669+00:00,meta,llama4-scout,0,4532,289,Prioritized renewable energy sources with cautious approach to non-renewable and high-risk options.
+321f6ed3-969a-45b5-b08e-9de280542b83,2025-04-10 17:35:12.908390+00:00,meta,llama4-scout,0,4532,292,"Prioritized renewable energy sources, downplayed fossil fuels, and cautiously considered nuclear and CO2 burial."
+1a77064a-2c4c-4730-a611-c6a2c633ac26,2025-04-10 17:35:17.663768+00:00,meta,llama4-scout,0,4532,287,"Prioritized renewable energy sources, with solar and CO2 burial as top options."
+f375c7fc-2054-4d85-b315-63c2dda02f9b,2025-04-10 17:35:22.193512+00:00,meta,llama4-scout,0,4532,286,"Prioritized renewable energy sources, with mixed views on fossil fuels and nuclear."

@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+ea3baaa9-ccb0-428b-822c-3c04391d3dce,2025-04-01 12:51:57.230824+00:00,openai,o1-mini,0,4877,3232,"Closing the road ranks highest for environmental protection, followed by limited upgrades and minimal maintenance"
+6029e007-ea66-4473-b318-9f5c2d35816a,2025-04-01 12:52:22.923311+00:00,openai,o1-mini,0,4877,2282,"Prefer closing and rehabilitating, then stabilizing, maintaining as 4WD, upgrading to dirt, and least supporting bitumen upgrade."
+f8b74794-7fdb-4459-a3f5-a83582e067a8,2025-04-03 14:13:24.171863+00:00,openai,o1-mini,0,4877,2281,"I prefer closing and rehabilitating, then stabilizing, maintaining as 4WD, upgrading to dirt, least support bitumen."
+6a37d12c-33ad-41e6-bc50-09add9d95d72,2025-04-03 14:13:43.509478+00:00,openai,o1-mini,0,4877,2852,"I prioritize closing and rehabilitating the road, then stabilization and maintaining current conditions, disfavoring upgrades"
+196cce1d-969c-4388-91b6-fdcaff5d0394,2025-04-03 14:14:06.656680+00:00,openai,o1-mini,0,4877,3363,"Support closing the road first, then stabilizing, upgrading to dirt, maintaining, least bitumen."

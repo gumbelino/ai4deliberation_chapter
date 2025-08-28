@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+b41595dd-6531-4bf3-bb7d-d1c20d499b94,2025-03-21 05:25:57.823997+00:00,google,gemma2,0,0,0,"Inclusive participation, limited government intervention, and equal opportunity over strong moral guidance."
+bb547ff3-fd7e-420c-b6ff-b482ff589476,2025-03-21 05:26:23.639985+00:00,google,gemma2,0,0,0,"Prefer inclusive government with minimal intervention, but wary of strong moral mandates."
+7fce1106-7660-43cb-bceb-62fdc3750974,2025-03-21 05:26:49.160381+00:00,google,gemma2,0,0,0,"Preference for minimal government intervention, individual freedom, and market-based solutions over social engineering."
+0de5851e-b8e5-47e2-8bd6-f682b60fee97,2025-03-21 05:27:14.936075+00:00,google,gemma2,0,0,0,Prefer limited government intervention and equal opportunity over strong moral dictates.
+81c71086-b71c-4e69-a0bd-a94be1469ada,2025-03-21 05:27:40.500709+00:00,google,gemma2,0,0,0,"Prefer limited government, existing system over moralistic rule and equal influence for all."
+8830c4f4-f5ed-493b-a712-c080e3ba3669,2025-03-21 05:28:05.882847+00:00,google,gemma2,0,0,0,Prefer balanced government with focus on economic markets and inclusivity over strong moral dictates or complete policy abolishment.
+08f79cd6-603d-454a-b01a-ba572d002464,2025-03-21 05:28:31.635995+00:00,google,gemma2,0,0,0,Preference for inclusive but minimally interfering government.
+f1e332ba-9221-479a-a376-3bb5718f797e,2025-03-21 05:28:56.539515+00:00,google,gemma2,0,0,0,Inclusive governance with market efficiency and minimal moral imposition.
+d8c482ad-2c03-4f71-a116-c04c7bde78f9,2025-03-21 05:29:21.854124+00:00,google,gemma2,0,0,0,"Minimal government intervention, individual freedom over moral enforcement, inclusivity in decision making."
+847810b3-d485-48a1-83b3-a0109dfd9ce1,2025-03-21 05:29:47.630843+00:00,google,gemma2,0,0,0,"Inclusive government, equal opportunity, limited intervention, existing system with minor tweaks."

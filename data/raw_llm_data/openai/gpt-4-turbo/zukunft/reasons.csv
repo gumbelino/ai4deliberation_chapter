@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+3eb74190-5cc4-4ba2-818f-2148b33139c3,2025-03-26 07:55:42.645015+00:00,openai,gpt-4-turbo,0,2668,152,"Prioritized destigmatization and access, opposed status quo and reduction of services."
+42858017-1537-4099-8cf7-263678d846b7,2025-03-26 07:55:49.774048+00:00,openai,gpt-4-turbo,0,2668,152,Increased funding and public awareness are prioritized; reduction in services is least favored.
+6407dfda-5ed3-4e48-afe9-ab6d42ea8bd9,2025-04-01 08:27:55.559167+00:00,openai,gpt-4-turbo,0,2668,150,"Prioritized socioeconomic initiatives and integrated clinics, least support for reducing services."
+9ac61d6c-2b8e-456c-a46c-12054c70fe8c,2025-04-01 08:28:03.785592+00:00,openai,gpt-4-turbo,0,2668,150,Increased funding and socioeconomic initiatives are prioritized to improve mental health access.
+5ba5c3fc-98a8-4ef6-ace3-4267e2232b65,2025-04-01 08:28:11.279470+00:00,openai,gpt-4-turbo,0,2666,150,Prioritized public awareness and integrated clinics; least support for reducing services.
+b603a417-355c-40cf-a11f-c2af7c83d33b,2025-04-01 08:28:19.630444+00:00,openai,gpt-4-turbo,0,2668,151,Increased funding and integrated services are prioritized; less support for private funding.
+cecfd4fb-9ad1-47e5-a51a-a9725f642c8d,2025-04-01 08:28:26.516951+00:00,openai,gpt-4-turbo,0,2668,151,Increased funding and awareness for mental health services are prioritized in my ratings.
+8eea8940-9084-45a9-9194-a6abbb240437,2025-04-01 08:28:33.023076+00:00,openai,gpt-4-turbo,0,2668,152,"Prioritized increasing public mental health services and awareness, least support for privatization."
+435663f2-9eae-4482-a48b-d8e8bb53ce54,2025-04-01 08:28:39.660935+00:00,openai,gpt-4-turbo,0,2668,151,"Prioritized integrated clinics and socioeconomic initiatives, opposed funding cuts and privatization."
+9eaac97d-7c2e-4143-9f45-12ab5021a8eb,2025-04-01 08:28:49.408626+00:00,openai,gpt-4-turbo,0,2668,153,"Prioritized destigmatization and increased access, opposed maintaining status quo and reducing services."
+4f3e1f93-f6e8-4a3d-8c8b-0a9b7f88082c,2025-04-01 08:28:59.871178+00:00,openai,gpt-4-turbo,0,2668,152,Prioritized public awareness and integrated services; least support for maintaining or reducing services.
+6790879a-621e-423c-bd59-df917557353e,2025-04-01 08:29:07.434310+00:00,openai,gpt-4-turbo,0,2668,153,"Prioritized increasing services and public awareness, least support for reducing services or status quo."
+a6e26b52-7f92-4c12-9dfc-f266a7bf7577,2025-04-03 12:08:14.398375+00:00,openai,gpt-4-turbo,0,2668,150,"Prioritized integrated services and socioeconomic improvements, least support for reducing services."
+be0aa37f-7f8e-4344-a7d3-909ebc116151,2025-04-03 12:08:28.135720+00:00,openai,gpt-4-turbo,0,2668,154,"Prioritized integrated services and public awareness, least support for reducing services and funding private clinics."
+5c339a76-08a0-49a0-9cbb-f3796f119970,2025-04-03 12:08:42.742316+00:00,openai,gpt-4-turbo,0,2668,152,"Prioritized socioeconomic aid and awareness, less support for private funding and service reduction."
+94c085fe-122e-4d00-8abc-397f1bd950ee,2025-04-03 12:08:53.364157+00:00,openai,gpt-4-turbo,0,2668,151,Increased funding and integrated services are prioritized; reducing services is least favored.
+59b3e799-1edd-41ec-91ef-222f067771cc,2025-04-03 12:09:04.167026+00:00,openai,gpt-4-turbo,0,2666,150,Increased funding and integrated services are prioritized to enhance mental health support.
+fe62e039-30f4-4fae-8ea4-d3293a21733d,2025-04-03 12:09:11.919051+00:00,openai,gpt-4-turbo,0,2668,152,"Prioritized socioeconomic initiatives and public awareness, least support for maintaining or reducing services."
+c4710ae5-3e6d-4d7f-868f-8aa0d3628d91,2025-04-03 12:09:21.500124+00:00,openai,gpt-4-turbo,0,2666,150,"Prioritized socioeconomic initiatives and integrated clinics, least support for reducing services."
+e5dae370-29db-4375-b673-70db22fef101,2025-04-03 12:09:43.685090+00:00,openai,gpt-4-turbo,0,2668,150,"Prioritized public awareness and socioeconomic initiatives, least support for reducing services."
+fa6f3ebf-cef7-46c7-b589-232a25d447b3,2025-04-03 12:09:51.073096+00:00,openai,gpt-4-turbo,0,2666,152,"Prioritized increasing and integrating services, less support for maintaining or reducing current levels."
+9dc1aa88-5268-4d07-8f1c-fd5a9aa974ff,2025-04-03 12:09:58.753846+00:00,openai,gpt-4-turbo,0,2668,150,"Prioritized public awareness and socioeconomic initiatives, least support for reducing services."
+141fcca5-be84-481c-9557-ed93869a24ee,2025-04-03 12:10:07.792503+00:00,openai,gpt-4-turbo,0,2668,150,"Prioritized socioeconomic initiatives and public awareness, least support for reducing services."
+093cf802-4aa4-4ac5-b77a-fd022a7cab90,2025-04-03 12:10:15.071809+00:00,openai,gpt-4-turbo,0,2668,151,Increased funding and integrated services are prioritized to improve access and reduce stigma.
+cc862942-1cc5-478c-bc3b-18bf455d790b,2025-04-03 12:10:25.268972+00:00,openai,gpt-4-turbo,0,2668,150,"Prioritized improving conditions and awareness, opposed reducing services and privatization."
+572a60b8-f93f-4dee-a1a5-f786ff111616,2025-04-03 12:10:32.964109+00:00,openai,gpt-4-turbo,0,2668,150,"Prioritized addressing disparities and increasing services, least support for reducing services."
+636e9ffa-55ed-44e7-b717-d3bfd5025c40,2025-04-03 12:10:40.988708+00:00,openai,gpt-4-turbo,0,2668,150,"Prioritized socioeconomic improvements and public awareness, least support for reducing services."
+3e5e0396-f6f0-49a8-a3aa-242c536e77ed,2025-04-03 12:10:49.820369+00:00,openai,gpt-4-turbo,0,2668,153,"Prioritized public awareness and increased funding for mental health, least support for reducing services."
+73ce80a5-c9bc-44c3-b326-11a86da92a4a,2025-04-03 12:10:58.927483+00:00,openai,gpt-4-turbo,0,2668,150,"Prioritized socioeconomic improvement and public awareness, least support for reducing services."
+9fc9b40b-37c7-418a-91dc-9d5310e3a772,2025-04-03 12:42:15.664432+00:00,openai,gpt-4-turbo,0,2668,153,Increased funding and awareness for mental health services are prioritized; reduction is least favored.

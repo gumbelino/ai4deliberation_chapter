@@ -1,0 +1,11 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+3b566285-e053-47c7-9768-7a1daf69bd3e,2025-04-08 15:02:32.127848+00:00,openai,gpt-4.5-preview,0,4199,280,"Support cautious, equitable genome editing; oppose total bans or unrestricted editing."
+1dc212f9-24d2-4e6c-bdda-64ac96ae9afc,2025-04-08 15:03:09.183795+00:00,openai,gpt-4.5-preview,0,4199,281,Support clinical genome editing with oversight; cautious about profit motives and broad uses.
+2de2e281-1201-4114-8316-bcf2756d23cc,2025-04-08 15:03:46.878131+00:00,openai,gpt-4.5-preview,0,4199,283,Support clinical non-heritable editing with oversight; cautious about heritable and profit uses.
+84ce1b56-853e-4d16-9dfb-6ef26053477a,2025-04-08 15:04:31.595132+00:00,openai,gpt-4.5-preview,0,4199,282,Support clinical genome editing with oversight; cautious about non-medical or unrestricted uses.
+ccfbe1fe-94ae-4f4c-8e8c-f218a66e2263,2025-04-08 15:05:11.319764+00:00,openai,gpt-4.5-preview,0,4199,285,"Support clinical non-heritable editing, cautious on heritable, oppose total bans or open use."
+1a97a408-4ebc-4949-8abb-e44f8e4f7cee,2025-04-10 08:17:29.408335+00:00,openai,gpt-4.5-preview,0,4199,281,"Support cautious, equitable genome editing; oppose bans or unrestricted use without oversight."
+1ec190b8-ea8a-46d0-9d50-945f353055dd,2025-04-10 08:17:47.465095+00:00,openai,gpt-4.5-preview,0,4199,282,"Support clinical genome editing with oversight, cautious about profit motives and heritable edits."
+c85656a6-7cdf-4d55-8e20-ca52d2a5e545,2025-04-10 08:18:07.267272+00:00,openai,gpt-4.5-preview,0,4199,280,Support clinical non-heritable editing cautiously; oppose unrestricted or total prohibition.
+fe1a5526-a9a4-4637-bc44-65ce4332f190,2025-04-10 08:18:23.033176+00:00,openai,gpt-4.5-preview,0,4199,284,"Support clinical genome editing with oversight; cautious about profit, heritable edits, and ethics."
+8f86cea0-6190-447a-b1cd-cec019d9a796,2025-04-10 08:18:43.738889+00:00,openai,gpt-4.5-preview,0,4199,284,"Support clinical non-heritable editing, cautious on heritable, oppose broad or total prohibition."

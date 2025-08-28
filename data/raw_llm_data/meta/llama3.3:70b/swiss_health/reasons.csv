@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+689e7cec-1849-4407-b7cc-b3ff79bc8a7c,2025-04-02 10:40:17.522451+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing accessibility and efficiency
+70eb1cbf-3dd1-4376-b316-cbe1fe3b3a49,2025-04-02 14:42:23.827806+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing accessibility and efficiency
+1a1d2943-fdb5-42c2-bede-19742d65e5c4,2025-04-02 14:42:35.993404+00:00,meta,llama3.3:70b,0,2816,157,Supported efficient and fair healthcare systems
+b58ca71a-5598-4990-bea4-70e930aff60b,2025-04-02 14:42:52.677003+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing accessibility and efficiency
+c5c2fb96-edd4-4842-9e39-77228284de2c,2025-04-02 14:43:07.942091+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing accessibility and efficiency
+8bc791be-f82c-41f2-95b4-7737a22268af,2025-04-02 14:43:16.658740+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing accessibility and efficiency
+13d9b312-de06-4b11-a1f9-3a3f1dd3c2d1,2025-04-02 14:43:37.144285+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing accessibility and efficiency
+574cebf0-4767-4a44-9731-d7b7bb786291,2025-04-02 14:43:51.658817+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing efficiency and fairness
+87766111-b90c-43fb-b478-4aa1bb03a653,2025-04-02 14:44:04.989119+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing efficiency and fairness
+805df47c-0475-4b4f-a8e5-ab5820721ea3,2025-04-02 14:44:14.845992+00:00,meta,llama3.3:70b,0,2816,158,Prioritizing universal access and efficiency
+c660813d-e5e3-46a2-aba7-9a5ac2588d59,2025-04-02 14:44:28.071621+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing access and efficiency
+7e8e7096-a8bf-4865-b873-385986ad0331,2025-04-02 14:44:49.365762+00:00,meta,llama3.3:70b,0,2816,157,Supported balanced regulation and efficiency.
+30c63c50-3840-4745-a38e-c3a44a7ee89f,2025-04-02 14:45:05.154759+00:00,meta,llama3.3:70b,0,2816,157,Efficiency and fairness prioritized
+6d9c349d-9498-403f-b770-790aef6ab458,2025-04-02 14:45:22.323661+00:00,meta,llama3.3:70b,0,2816,157,Supported policies increasing access and efficiency
+1604031d-1855-40b3-881b-c0648590b6f5,2025-04-02 14:45:35.407322+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing accessibility and efficiency
+7363435d-3745-48f6-9a70-5d4a915e542a,2025-04-02 14:45:45.082914+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing accessibility and efficiency
+5159a788-ac0a-4408-92e2-d1324483576d,2025-04-02 14:46:03.808424+00:00,meta,llama3.3:70b,0,2816,159,Supported policies that increase access and efficiency.
+10b707eb-fb06-4dfd-898c-f62d1f261fda,2025-04-02 14:46:15.362354+00:00,meta,llama3.3:70b,0,2816,157,Supported efficient and fair healthcare systems
+56fe9671-05a6-4e8a-a6d7-10dabadba425,2025-04-02 14:46:36.620127+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing efficiency and fairness
+30edd2c8-52e4-4c46-a8d3-aca3956a9331,2025-04-02 14:46:55.632368+00:00,meta,llama3.3:70b,0,2816,158,Prioritizing universal access and efficiency
+1338d323-d23b-438a-b54c-bce2bcc53e0d,2025-04-02 14:47:18.036802+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing efficiency and fairness
+dae84a9e-fb37-47f0-8931-28931776edfc,2025-04-02 14:47:31.815320+00:00,meta,llama3.3:70b,0,2816,155,Supported public healthcare systems
+add6433b-4761-47eb-868f-5d62a5f8767b,2025-04-02 14:47:48.234610+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing accessibility and efficiency
+93996782-7572-4723-9db9-7adb89cc75f4,2025-04-02 14:48:05.418144+00:00,meta,llama3.3:70b,0,2816,156,Supported universal public healthcare system
+cc1839c6-b1b2-4391-a86a-9133717db0e8,2025-04-02 14:48:14.520254+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing accessibility and efficiency
+4822cec0-89bd-4576-8da3-4397276a17e7,2025-04-02 14:48:30.540082+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing efficiency and fairness
+2f95f571-5e60-4fbd-a482-9f55f7d548df,2025-04-02 14:48:44.883473+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing accessibility and efficiency
+b019a309-c431-4d67-9e57-186eeeed2080,2025-04-02 14:48:55.616851+00:00,meta,llama3.3:70b,0,2816,158,Efficient healthcare through regulation and support
+e795203f-dae2-4351-b8e8-35721a260f80,2025-04-02 14:49:07.881798+00:00,meta,llama3.3:70b,0,2816,157,Prioritizing accessibility and efficiency
+ea985c12-b9ab-4c10-9eee-ff546b903331,2025-04-02 14:49:26.070326+00:00,meta,llama3.3:70b,0,2816,157,Supported efficient and fair healthcare systems

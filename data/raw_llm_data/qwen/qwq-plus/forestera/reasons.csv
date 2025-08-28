@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+303d4ca2-1fd1-41f1-91cd-51a9d05a2d99,2025-04-02 09:05:39.653045+00:00,qwen,qwq-plus,0,4794,3200,"Balances ecological restoration, community needs, and cautious, science-based approaches."
+9e7dd4a3-b251-45a9-9bfa-171320b4bdeb,2025-04-02 09:08:44.455085+00:00,qwen,qwq-plus,0,4796,4830,"Prioritizes ecological balance, community involvement, and sustainable practices over aggressive logging or inaction."
+49dc8d45-b28a-40df-9b5f-a2f15d894e8c,2025-04-02 09:10:24.493720+00:00,qwen,qwq-plus,0,4802,5205,prioritizes ecological restoration and community benefits while cautioning against profit-driven motives.
+de3316ba-c71e-4535-adf5-0cde04cbc978,2025-04-02 09:12:12.753930+00:00,qwen,qwq-plus,0,4798,3382,"Balances ecology, community needs, supports controlled burns, opposes unchecked logging or inaction."
+bd093f50-f019-4ebe-974b-330770282781,2025-04-02 15:39:17.023136+00:00,qwen,qwq-plus,0,4796,4947,Prioritizes ecological restoration and community values over economics and inaction.
+e5f89d5c-2825-4440-bd19-2506237df6af,2025-04-02 15:41:00.551589+00:00,qwen,qwq-plus,0,4802,8060,"Prioritize ecology, wildlife, and community safety over economics or non-intervention."
+32dc3f97-8ea1-42b2-9b94-44eaf8a73a85,2025-04-02 15:43:47.990778+00:00,qwen,qwq-plus,0,4806,5053,"Prioritizes balanced ecological/social values and fuel reduction, rejects no-management approach."
+2bf15f24-b377-4698-b7ae-96b1b51d27ae,2025-04-02 15:45:33.196475+00:00,qwen,qwq-plus,0,4802,3565,"Prioritize ecological/social balance, support adaptive management and community involvement, oppose no management."
+9b87eae1-6298-4e7f-801f-e90a6fb7136e,2025-04-02 15:46:48.085105+00:00,qwen,qwq-plus,0,4793,7494,"Balances ecology, community needs, and science; supports controlled burns and sustainable practices over unchecked logging or inaction."
+d0fb77df-fc79-4608-9853-53b4468913bf,2025-04-02 15:49:23.478474+00:00,qwen,qwq-plus,0,4808,4050,"Supports ecological restoration, community needs, and science while cautious on economic-driven thinning."
+9a85a5c6-c491-464b-b06e-0fba6d52997e,2025-04-02 15:50:48.440217+00:00,qwen,qwq-plus,0,4816,4986,"Balances ecology, community, economy; cautious on pure economic motives."
+5b78a9e4-ef0c-4a03-8d1b-13a3e20f05fd,2025-04-02 15:52:32.259098+00:00,qwen,qwq-plus,0,4806,5660,Prioritize ecological/social balance and controlled burns; cautious on economic-driven thinning.
+b7a459ba-7964-4b28-89df-4daa609b2341,2025-04-02 15:54:30.348940+00:00,qwen,qwq-plus,0,4798,5565,"Prioritize ecological-social balance, controlled burns, fuel reduction; oppose no management."
+efe66be5-a778-42a7-bbec-7fe951b48687,2025-04-02 15:56:25.580619+00:00,qwen,qwq-plus,0,4800,5540,"Prioritize ecological/social balance, restoration, and fire management; cautious on economic-driven thinning and inaction."
+fafdacde-f263-42fd-b016-b319d0b52c48,2025-04-03 08:07:46.858601+00:00,qwen,qwq-plus,0,4798,6416,"Prioritize ecological/social values, controlled burns, and community over non-intervention and economic thinning."
+58a190f8-5e3c-48e0-aa30-14ef046c9bbc,2025-04-03 08:10:00.526082+00:00,qwen,qwq-plus,0,4808,4402,"Prioritize ecological/social values, fuel reduction, wildlife protection; oppose unmanaged forests and purely economic thinning."
+f8d69474-eda2-4198-92e5-767efa915a85,2025-04-03 08:11:32.709582+00:00,qwen,qwq-plus,0,4810,4515,"Prioritizes ecological health, wildlife, community needs, and sustainable practices over purely economic or non-intervention approaches."
+11a567ba-0e0f-4c02-a28b-16c6c1fdf7a3,2025-04-03 08:13:07.422794+00:00,qwen,qwq-plus,0,4798,2322,Prioritizes ecological restoration and controlled fire while balancing community needs; opposes hands-off or purely economic approaches.
+e4e7c92b-ea79-48ca-b702-aff93575810c,2025-04-03 08:13:57.514935+00:00,qwen,qwq-plus,0,4800,5175,Prioritizes ecological restoration and community values over economic gains and non-intervention.
+585c6be7-ea37-4153-807b-f2c5c3063d5f,2025-04-03 08:15:44.542604+00:00,qwen,qwq-plus,0,4792,3138,"Balances ecological and economic goals, supports fuel reduction and wildlife, opposes inaction."
+5529b943-0761-4d48-8d24-20d7b937e5ed,2025-04-03 08:16:51.094978+00:00,qwen,qwq-plus,0,4788,4488,"Balanced ecological and community stewardship with science-driven, cautious interventions."
+951c9c82-ae27-48ed-800a-f1b08245fd90,2025-04-03 08:18:25.008275+00:00,qwen,qwq-plus,0,4810,4034,"Prioritize balanced ecological/social values, fuel reduction, and local needs; cautious on presettlement restoration; oppose purely economic or no action"
+b53a11e6-1c9a-41bc-bfde-c7b6b9ba7c1b,2025-04-03 08:19:48.788114+00:00,qwen,qwq-plus,0,4798,6149,"Prioritize fuel reduction, ecological restoration, and community needs over inaction and pure economic gain."
+86b1481d-de68-43e0-9d72-0c5c3bd8fab8,2025-04-03 08:21:56.679307+00:00,qwen,qwq-plus,0,4798,4758,"Prioritizes fuel reduction and ecological/social balance, supports wildlife, cautious on economic thinning and restoration, opposes inaction."
+63a50fa9-3020-44d9-b271-041459ce1cf7,2025-04-03 08:23:36.097885+00:00,qwen,qwq-plus,0,4814,5375,"Prioritizes ecological/social values, science-based restoration, cautious on economic logging, opposes no management."
+08a4d917-c866-4178-b0a3-d51953b1d002,2025-04-03 08:25:28.341937+00:00,qwen,qwq-plus,0,4804,5436,"Balances ecology/social values, prioritizes fuels reduction and restoration, opposes inaction."
+750b3bb9-9598-4bdc-9279-a9adc3de9c62,2025-04-03 15:02:43.303715+00:00,qwen,qwq-plus,0,4794,3360,Prioritizes wildlife protection and ecological restoration while balancing economic needs and opposing no management.
+13615ee5-4f8a-48ab-abab-27d3da27cd73,2025-04-03 15:03:54.123102+00:00,qwen,qwq-plus,0,4804,5509,"Balances ecology, community needs, fuel reduction, and restoration while cautioning excessive economic focus."
+80e99a43-4c61-47c3-857b-c72f506b9a3d,2025-04-03 15:05:48.915029+00:00,qwen,qwq-plus,0,4818,8777,"Balanced ecological, social values over economics; support active management like prescribed burns."
+321c6106-9505-42ba-be9e-4866867c5506,2025-04-03 15:08:49.552195+00:00,qwen,qwq-plus,0,4796,4424,"Prioritizes local economies, ecological balance, cautious restoration, and community engagement while avoiding extremes."

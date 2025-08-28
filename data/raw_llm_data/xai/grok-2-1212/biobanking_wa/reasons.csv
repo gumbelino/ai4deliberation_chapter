@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+16a0dec7-c0b6-4b39-9886-9ab6ac63feff,2025-04-08 11:31:22.125942+00:00,xai,grok-2-1212,0,5039,345,High privacy and strong regulation are prioritized for ethical biobanking practices.
+7fc82cb5-2ad7-4bd7-a888-e5867e0dee44,2025-04-08 11:31:29.995523+00:00,xai,grok-2-1212,0,5031,343,"Public funding with strong regulation ensures ethical use and privacy, balancing benefits and risks."
+7acfefff-390f-479b-8e86-d29d1f1f816d,2025-04-08 11:31:38.089932+00:00,xai,grok-2-1212,0,5041,349,"Public funding and strong regulation ensure ethical use and privacy, minimizing risks and maximizing benefits."
+e8aeeeb2-a225-427e-b123-1dd7556ed6fb,2025-04-08 11:31:46.794322+00:00,xai,grok-2-1212,0,5049,351,Public funding and strong regulation ensure ethical use and public trust in biobanks.
+b3c29286-adb6-4479-b3ee-107e12428299,2025-04-08 11:31:54.980909+00:00,xai,grok-2-1212,0,5045,347,Strong public oversight and privacy are crucial for ethical biobanking.
+27d32b35-b8dc-4095-8589-f4e355a2f149,2025-04-08 11:32:02.753468+00:00,xai,grok-2-1212,0,5041,349,High privacy and public funding with strong regulation are most supported for ethical and trust reasons.
+e4f30fda-07d3-4687-8845-a876b88a12e4,2025-04-08 11:32:10.822405+00:00,xai,grok-2-1212,0,5039,347,Prioritized public funding and strong regulation for privacy and ethical oversight in biobanks.
+c1870aed-49bb-4edc-94d3-919403e037eb,2025-04-08 11:32:18.508431+00:00,xai,grok-2-1212,0,5049,351,Strong public funding and regulation ensure ethical use and privacy in biobanking.
+54289a5c-6923-46c2-8fef-8227e2db1acf,2025-04-08 11:32:26.315221+00:00,xai,grok-2-1212,0,5032,343,High privacy and strong public regulation are prioritized for ethical biobanking.
+183a1378-d4d3-40bc-87b7-ec0815ba338f,2025-04-08 11:32:34.455451+00:00,xai,grok-2-1212,0,5033,344,Prioritized public funding and strong regulation for ethical biobanking and privacy protection.
+aed9c924-ccc5-44fd-900b-a80c6bb69d10,2025-04-08 11:32:41.574778+00:00,xai,grok-2-1212,0,5035,345,Prioritized strong regulation and public funding for ethical biobanking and privacy protection.
+9daa2641-2438-43e3-adb6-b16ad7103d2a,2025-04-08 11:32:50.121785+00:00,xai,grok-2-1212,0,5035,344,Public funding with strong regulation ensures ethical use and public trust in biobanks.
+18c6866a-88d5-4ac2-a336-d384a8fd0e35,2025-04-08 11:33:00.829855+00:00,xai,grok-2-1212,0,5065,358,High privacy and strong public regulation are prioritized for ethical biobanking.
+803b9c31-dd4d-4794-964d-2f0013db2044,2025-04-08 11:33:08.142964+00:00,xai,grok-2-1212,0,5024,339,High privacy and strong regulation are prioritized for ethical biobanking practices.
+4e7559d1-1fb4-47d6-b151-e01fca6b2458,2025-04-08 11:33:15.848356+00:00,xai,grok-2-1212,0,5053,352,High privacy and strong regulation are prioritized for ethical biobanking practices.
+9d2a878b-0ce6-48ed-ab57-044aa55282d1,2025-04-08 11:33:23.513105+00:00,xai,grok-2-1212,0,5043,349,High privacy and strong public regulation are most supported due to ethical and trust concerns.
+95f78560-ab74-45fd-bafb-89934d7c307a,2025-04-08 11:33:31.342199+00:00,xai,grok-2-1212,0,5055,356,High privacy and public funding with strong regulation are most supported for ethical and trust reasons.
+b5b03562-844f-432a-ba57-3681d9c6e8ea,2025-04-08 11:33:40.731928+00:00,xai,grok-2-1212,0,5023,338,Strong public funding and regulation ensure ethical use and privacy in biobanking.
+7f815b61-aca7-4c46-9b3c-e3658a5665ef,2025-04-08 11:33:48.299304+00:00,xai,grok-2-1212,0,5045,352,High privacy and public funding with strong regulation are most supported due to ethical and trust concerns.
+00628ca8-9fb6-4b54-b181-458ea5e2a50a,2025-04-08 11:33:56.601923+00:00,xai,grok-2-1212,0,5034,347,"Prioritized strong regulation, privacy, and public funding for ethical biobanking practices."
+dc926e42-b81f-44cb-b9ec-17e748202050,2025-04-08 11:34:05.107660+00:00,xai,grok-2-1212,0,5049,351,Public funding and strong regulation ensure ethical use and privacy protection in biobanks.
+07377fb7-8cb5-4394-ba29-c2572c221429,2025-04-08 11:34:13.604176+00:00,xai,grok-2-1212,0,5039,346,"Public funding and strong regulation ensure ethical use and privacy, prioritizing public health."
+6e7dbe47-7425-45f5-be49-37c8ea904251,2025-04-08 11:34:21.594816+00:00,xai,grok-2-1212,0,5035,343,Prioritized strong regulation and public funding for better oversight and privacy protection.
+bb7221f1-10f7-4f21-a414-8315822cbeac,2025-04-08 11:34:29.717560+00:00,xai,grok-2-1212,0,5033,341,"Prioritized privacy and strong regulation, balancing public and private funding."
+a34ff48e-665d-4fb9-8e78-7abec8e7a165,2025-04-08 11:34:38.189801+00:00,xai,grok-2-1212,0,5035,346,Prioritized strong regulation and public funding for biobanks to ensure privacy and ethical use.
+6ccdc9e3-de42-4bea-817f-e718b1a0835e,2025-04-08 11:34:46.879829+00:00,xai,grok-2-1212,0,5037,344,High privacy and strong regulation are prioritized for ethical biobanking practices.
+ce8c0239-68a2-4f8b-9a03-e6dfea507c77,2025-04-08 11:34:55.070173+00:00,xai,grok-2-1212,0,5035,343,High privacy and strong public regulation ensure ethical use and protect individual rights.
+c3309aa4-4fcb-4bbf-a4ce-19970a2e9acf,2025-04-08 11:35:02.961284+00:00,xai,grok-2-1212,0,5051,353,Prioritized privacy and public funding with strong regulation for ethical biobanking practices.
+ee386433-bfc7-4ae2-ace7-5d916b028ce1,2025-04-08 11:35:11.052111+00:00,xai,grok-2-1212,0,5043,346,High privacy and strong regulation ensure ethical use and protect individual rights.
+0ca56b0e-2123-4197-8bd7-6fd218611278,2025-04-08 11:35:18.833602+00:00,xai,grok-2-1212,0,5035,347,High privacy and public funding with strong regulation are most supported due to ethical and privacy concerns.

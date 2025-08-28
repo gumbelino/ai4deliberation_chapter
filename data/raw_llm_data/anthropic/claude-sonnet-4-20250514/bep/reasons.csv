@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+90ea9fe8-170f-49db-a6d4-fd79e0de381d,2025-05-29 15:40:01.308404+00:00,anthropic,claude-sonnet-4-20250514,0,4502,276,I prioritize local sustainable incentives and climate adaptation over deregulation or status quo
+27a8e20f-b4c7-4021-837d-71d7de13f950,2025-05-29 15:40:12.909170+00:00,anthropic,claude-sonnet-4-20250514,0,4502,277,I prioritize local sustainable incentives and moderate regulations while opposing deregulation and status quo
+8546c913-48cf-4086-8239-f28306bb5cc5,2025-05-29 15:40:24.708626+00:00,anthropic,claude-sonnet-4-20250514,0,4502,276,I prioritize local sustainable incentives and climate adaptation over deregulation or status quo
+580fa4e3-6978-4757-9b74-f06441a523be,2025-05-30 11:36:43.859274+00:00,anthropic,claude-sonnet-4-20250514,0,4502,277,I prioritize moderate sustainable regulations and local incentives over radical changes or deregulation.
+d071ad61-8b7b-416e-a146-4844e166d487,2025-05-30 11:36:55.977709+00:00,anthropic,claude-sonnet-4-20250514,0,4502,276,I prioritize local sustainable incentives and moderate regulations while supporting adaptation and technology solutions.

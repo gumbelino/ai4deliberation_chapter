@@ -1,0 +1,32 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+bd49ae7f-fa91-42ca-a7c6-5e7ac48fb64e,2025-04-14 16:07:55.727783+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,3844,"Focus on adaptation, response, vulnerable groups; climate change is real & needs action."
+65108ef2-0f40-42ea-b74e-0492ac483e19,2025-04-14 16:08:40.799987+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4052,"Urgent climate action needed: focus on adaptation, resilience, vulnerable groups."
+441311d3-3113-48f7-906c-1a48a036e3c2,2025-04-14 16:09:29.776273+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,3514,Strong CO2 cuts & adaptation are priorities; climate change is urgent.
+60dce0c1-0b65-4bc2-bd52-111ba687cd9d,2025-04-14 16:10:10.667753+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4768,"Climate change requires urgent adaptation, resilience building & moderate cuts."
+0edb3fca-f491-4c20-a103-1ff3a8ea1c36,2025-04-14 16:11:12.550598+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4065,"Strong belief in climate change requires adaptation, response, and significant CO2 cuts."
+f027325e-e681-43e4-9016-3f81220074e1,2025-04-14 16:12:00.924577+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,3162,"Urgent climate action (mitigation & adaptation) needed, support vulnerable, reject inaction."
+d7b265e6-34cb-419b-b206-1f5cd1d84076,2025-04-14 16:12:39.005846+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4226,"Urgent climate action needed: strong CO2 cuts, adaptation, resilience, societal support."
+e4a44aaa-fb51-4246-888b-2c100837e370,2025-04-14 16:13:28.917575+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4120,Support deep CO2 cuts & adaptation; climate change is urgent & human-caused.
+4fb31c3c-0843-4aab-8d54-826e1e7c3d44,2025-04-14 16:14:19.880456+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,3763,"Support climate science, adaptation, mitigation, CO2 cuts, vulnerable groups."
+33080a93-79f0-4dfe-afb2-a9ed453b7481,2025-04-14 16:15:13.013496+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4576,"Prioritize adaptation, resilience tech & moderate cuts; reject inaction/economy-first."
+ab182732-01e6-4eed-a4db-60fafc18ff7d,2025-04-14 19:25:13.772574+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,3844,"Focus on adaptation, response, vulnerable groups; climate change is real & needs action."
+799ee2f7-6b8e-4bef-a0d7-20635045ccf9,2025-04-14 19:25:51.523892+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4052,"Urgent climate action needed: focus on adaptation, resilience, vulnerable groups."
+dcf5dd93-a2c1-4d4d-9558-4e0c267f94e7,2025-04-14 19:26:35.421700+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,3514,Strong CO2 cuts & adaptation are priorities; climate change is urgent.
+3e702755-5dae-4f95-807e-def710938199,2025-04-14 19:27:15.076804+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4903,"Urgent climate action needed: adaptation, resilience tech, deep CO2 cuts."
+077e8ac4-e944-4f6f-a21a-a823680a2418,2025-04-14 19:28:08.301555+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4059,"Need adaptation, emission cuts, disaster response & support for climate."
+50af4f35-60e3-4024-9e2c-0a44b0db3f06,2025-04-14 19:28:46.527253+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,3222,"Urgent climate action (mitigation & adaptation) needed, support vulnerable, reject inaction."
+9c21f202-322f-4a6d-9aa5-b487be5d05c6,2025-04-14 19:29:19.192199+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4226,"Urgent climate action needed: strong CO2 cuts, adaptation, resilience, societal support."
+0de61be6-d44b-41f3-ac61-24a5106910c0,2025-04-14 19:30:04.449513+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4120,Support deep CO2 cuts & adaptation; climate change is urgent & human-caused.
+89c395f5-7c49-4ceb-b079-2f666dcf9958,2025-04-14 19:30:52.676514+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4394,"Prioritize deep CO2 cuts, tech, adaptation. Reject inaction & prioritizing economy."
+5a822d0a-9268-4261-8690-06fda7298093,2025-04-14 19:31:37.749437+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4576,"Prioritize adaptation, resilience tech & moderate cuts; reject inaction/economy-first."
+721c8679-77f1-4d1e-a3f0-4ab60a08145b,2025-04-15 07:13:05.622710+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,3136,"Urgent climate action, adaptation, equity, and science are key priorities."
+dce4dd5c-6a5b-43dd-8fb7-64e6f4699237,2025-04-17 13:32:45.467080+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4220,Prioritize deep CO2 cuts & adaptation; climate change is real & urgent.
+8c634f2e-6a20-4ed6-981b-31dfa9e001ba,2025-04-17 13:33:29.522531+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,3729,"Urgent climate action needed: adaptation, response, deep CO2 cuts prioritized."
+e877d444-7d0d-4921-a72f-88062221ab7c,2025-04-17 13:34:08.922814+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4793,Adaptation & resilience are key. Moderate cuts needed. Inaction is not an option.
+93dfa52c-f5e7-4fb6-ae4a-6f9fc931c5dd,2025-04-17 13:35:01.784907+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4105,"Urgent climate action needed: adaptation, mitigation, equity, holistic approach."
+8cfad017-2252-4cc9-a43e-5508de3d27f3,2025-04-17 13:35:41.795557+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,3625,"Strong climate action, adaptation, science, equity are key; reject inaction & skepticism."
+6e7bd0e6-4a03-4031-9ad5-4009644633f0,2025-04-17 13:36:18.355310+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,3720,Deep CO2 cuts & adaptation are vital; climate change is real & urgent.
+cf746109-494f-443d-89bc-228c845c60a2,2025-04-17 13:36:57.013763+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4239,Prioritize dramatic emission cuts & adaptation; reject inaction/status quo.
+1ba53704-dfb0-4487-a200-b8f10c3440d3,2025-04-17 13:37:38.336454+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4823,"Urgent need for adaptation, resilience, strong CO2 cuts, involving all society."
+a231191c-1542-4fe0-981c-88962f0f6832,2025-04-17 13:38:30.357034+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4384,"Urgent climate action needed: adaptation, emission cuts, support vulnerable."
+7dc16ded-9990-419a-88bc-e785a1c4d04b,2025-04-17 13:39:17.759309+00:00,google,gemini-2.5-pro-preview-03-25,0,3619,4201,"Prioritize adaptation, resilience, community action, moderate CO2 cuts."

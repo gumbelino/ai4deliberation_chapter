@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+70a2b7bc-45dd-45c4-b8d6-0e4364a036d5,2025-04-08 11:24:46.225725+00:00,xai,grok-2-1212,0,4432,317,Supported policies balance medical benefits with ethical oversight and non-profit access.
+16c84768-dc9c-4bd1-8afe-3d067e32245e,2025-04-08 11:24:53.369735+00:00,xai,grok-2-1212,0,4430,317,Supported policies balance clinical benefits with ethical oversight and non-profit access.
+73e0d5e9-ad3c-4b2a-b638-aa0066c684a8,2025-04-08 11:25:00.320929+00:00,xai,grok-2-1212,0,4432,321,"Prioritized clinical use with oversight, non-heritable preferred, opposed to unrestricted editing."
+48385e36-bd83-409b-9966-3e94cdea1894,2025-04-08 11:25:08.291235+00:00,xai,grok-2-1212,0,4432,317,Supported policies balance clinical benefits with ethical oversight and non-profit motives.
+a6a2cc06-ada5-4576-ad1f-a25c2a2101e7,2025-04-08 11:25:16.622363+00:00,xai,grok-2-1212,0,4432,319,Balanced approach with oversight and clinical focus is most supported; total prohibition least.
+5b94f6c7-9c37-4b98-a34d-11353498af00,2025-04-08 11:25:24.336362+00:00,xai,grok-2-1212,0,4432,321,"Prioritized non-heritable edits for clinical use, cautious about profit and heritability."
+b3acf846-bf34-48e1-9474-321e50391a10,2025-04-08 11:25:31.396515+00:00,xai,grok-2-1212,0,4432,320,"Prioritized clinical use with oversight, balanced safety and ethics, opposed unrestricted editing."
+b898f00e-b44e-44b6-9870-f21faebe95fc,2025-04-08 11:25:39.300501+00:00,xai,grok-2-1212,0,4432,322,"Prioritized clinical non-heritable editing with oversight, cautious about heritable and profit motives."
+ebcbe05e-86c9-4d2f-b330-5243d54ef069,2025-04-08 11:25:48.002341+00:00,xai,grok-2-1212,0,4432,317,Supported policies balance medical benefits with ethical oversight and non-profit considerations.
+1c0aeefb-af27-4a53-a6d5-59eb50abd9db,2025-04-08 11:25:56.143526+00:00,xai,grok-2-1212,0,4432,317,Supported clinical uses with oversight; opposed profit-driven and unrestricted editing.
+9c95ce29-13b8-4b29-801c-7911ef561fa9,2025-04-08 11:26:03.506592+00:00,xai,grok-2-1212,0,4432,321,"Balanced approach with oversight for clinical use, cautious about heritable edits and profit motives."
+cad75c6d-cb31-41ca-b671-6a18df3aeba6,2025-04-08 11:26:10.940491+00:00,xai,grok-2-1212,0,4432,322,"Prioritized non-heritable edits for safety and ethics, opposed profit-driven and unrestricted uses."
+ed2c15df-c79c-4d65-8f68-d23b2031448c,2025-04-08 11:26:17.954660+00:00,xai,grok-2-1212,0,4432,324,"Prioritized non-heritable editing for safety and ethics, cautious about heritable changes and profit motives."
+cbe45db0-ad61-422f-83ae-dc0e11b1c72f,2025-04-08 11:26:24.963944+00:00,xai,grok-2-1212,0,4430,323,"Prioritized non-heritable editing for safety and ethics, opposed profit-driven and heritable uses."
+59086754-aa37-41f8-a2a7-3e94d19fb55e,2025-04-08 11:26:32.698902+00:00,xai,grok-2-1212,0,4432,323,"Prioritize non-heritable edits for clinical use, ensure safety and ethics, limit profit motives."
+54de98b2-63b2-41b2-8a73-768d69d1cf8b,2025-04-08 11:26:40.177306+00:00,xai,grok-2-1212,0,4430,321,"Prioritize non-heritable edits and clinical use, with strong oversight and ethical considerations."
+76289f9f-78b1-4350-aefc-a04026927f07,2025-04-08 11:26:47.289157+00:00,xai,grok-2-1212,0,4432,320,"Prioritized non-heritable edits for clinical use, emphasizing safety and ethical oversight."
+e560d9df-66d0-4498-88b9-b9a8091bab51,2025-04-08 11:26:54.963994+00:00,xai,grok-2-1212,0,4430,320,"Prioritized clinical use with oversight, balancing safety and ethics while restricting profit motives."
+cd19772e-ba2a-4c19-83fb-992efb851bed,2025-04-08 11:27:03.300754+00:00,xai,grok-2-1212,0,4432,323,"Supported policies balance safety, ethics, and access, prioritizing non-heritable edits for clinical use."
+d1fb85c2-b650-48fb-8cc4-9167031e584d,2025-04-08 11:27:11.545979+00:00,xai,grok-2-1212,0,4432,320,"Prioritize non-heritable editing for safety and ethics, restrict heritable changes."
+dcf72a80-e0cd-4df6-9499-41a7c8941035,2025-04-08 11:27:19.395031+00:00,xai,grok-2-1212,0,4432,324,"Prioritize safety and ethics, limit to non-heritable edits for clinical use, avoid profit motives."
+83d37103-a2df-4ad2-a37f-c82583da206a,2025-04-08 11:27:26.523988+00:00,xai,grok-2-1212,0,4432,323,Prioritize non-heritable edits for medical use with oversight; oppose profit-driven and unrestricted edits.
+52cfaf4e-c7f7-47bc-b05f-2ffa9f6fab61,2025-04-08 11:27:34.039027+00:00,xai,grok-2-1212,0,4429,324,"Prioritized non-heritable edits for treatments, emphasized safety and oversight, cautious on heritable edits."
+147c6b1a-4cd9-4729-8cf9-3caf78d89bcd,2025-04-08 11:27:42.132475+00:00,xai,grok-2-1212,0,4432,325,"Prioritized safety, ethics, and non-heritable edits; cautious about heritable changes and broad permissions."
+3a72aa91-37b4-4d96-8623-40367de9e2f7,2025-04-08 11:27:51.341173+00:00,xai,grok-2-1212,0,4432,320,"Supported policies balance safety, ethics, and access, prioritizing clinical use with oversight."
+611275d5-443b-4b43-821e-a8aca135df6d,2025-04-08 11:27:58.924329+00:00,xai,grok-2-1212,0,4427,323,"Prioritized non-heritable editing and not-for-profit to balance safety, ethics, and access."
+dbc9f2ff-9a16-4bba-a87d-4373f83369e8,2025-04-08 11:28:07.860099+00:00,xai,grok-2-1212,0,4430,322,"Prioritize non-heritable edits for medical use with oversight, cautious about heritable changes."
+eee8b258-b53d-45c6-911e-296fb59f5a39,2025-04-08 11:28:16.433500+00:00,xai,grok-2-1212,0,4432,319,"Prioritize research and safety, cautious about heritable edits and profit motives."
+a25863f8-8dae-458a-88ae-ea895e828a47,2025-04-08 11:28:24.927512+00:00,xai,grok-2-1212,0,4432,322,"Prioritize non-heritable edits for clinical use, ensure oversight, and limit profit motives."
+178f5f9a-1aa8-45ea-99b1-8a3c13845b27,2025-04-08 11:28:32.799200+00:00,xai,grok-2-1212,0,4432,323,"Prioritized non-heritable editing for safety and ethics, opposed profit-driven and heritable uses."

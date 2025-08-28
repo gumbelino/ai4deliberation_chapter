@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+09bad3f6-1a2e-47be-8dc3-1cd3066916ce,2025-04-03 12:00:31.050663+00:00,google,gemma3:12b,0,0,0,"Prioritized resilience tech. Less keen on radical cuts, favour gradual adaptation. Economic growth is vital too."
+6b31fcf7-1040-45f1-819b-7cf627498422,2025-04-03 12:00:56.297977+00:00,google,gemma3:12b,0,0,0,"Prioritize resilience tech, maintain status, then moderate emissions cuts. Radical cuts are unrealistic."
+08dcfe19-b1fc-4b96-84e4-211a617d5d21,2025-04-03 12:01:20.356465+00:00,google,gemma3:12b,0,0,0,Radical reduction is best. Current is worst. Tech & community action are good. Economic growth is bad.
+a3b30f1b-af38-441f-a8b8-a8c45bb69946,2025-04-03 12:01:44.816033+00:00,google,gemma3:12b,0,0,0,Tech/resilience prioritized. Growth over climate is least favored. Moderate reductions are most supported.
+8d9948bb-60c9-4595-9afc-7b3a64d60c44,2025-04-03 12:02:08.871019+00:00,google,gemma3:12b,0,0,0,"Small actions and tech are best, economic growth is important, radical change is too much."
+d4565a03-73ae-437c-b87c-b78709735637,2025-04-03 12:02:32.847783+00:00,google,gemma3:12b,0,0,0,"Prioritize tech & resilience, oppose radical cuts & growth over climate, favor local action."
+015f887d-5383-47b3-8bff-75338e9af758,2025-04-03 12:02:57.218700+00:00,google,gemma3:12b,0,0,0,"Favored maintaining status quo, tech solutions, moderate reductions, over radical shifts or individual actions."
+a65502ca-c36e-466d-9103-dc4f94d56b38,2025-04-03 12:03:21.973137+00:00,google,gemma3:12b,0,0,0,"Moderate emission cuts and resilience tech are best, growth last; radical cuts too extreme, status quo insufficient."
+14470c87-6e4f-4b1d-9cb7-ea9ab7cc8fb8,2025-04-03 12:03:46.711322+00:00,google,gemma3:12b,0,0,0,Prioritized resilience and adaptation. Oppose radical emissions cuts and economic growth over climate action.
+3e28d41d-ad4e-449a-b473-46b25ce20ffa,2025-04-03 12:04:10.636835+00:00,google,gemma3:12b,0,0,0,Prioritize resilience tech. Radical reductions seem unrealistic. Gradual changes and adaptability are key.
+526d75f4-5d9d-4350-aab6-67c6cb0b660d,2025-04-03 14:18:33.449316+00:00,google,gemma3:12b,0,0,0,"Current policies are acceptable; radical changes seem unrealistic, adaptation is useful, small steps are preferable."
+bc7c8682-1b95-4a5d-879f-ca1eb7a85ad1,2025-04-03 14:18:58.945579+00:00,google,gemma3:12b,0,0,0,"Prioritize tech and resilience, reduce emissions moderately, avoid extreme change or inaction."
+47ec640f-b790-46a4-83e5-ae50324070e5,2025-04-03 14:19:22.542422+00:00,google,gemma3:12b,0,0,0,Prioritize resilience and adaptation. Radical emission cuts seem unrealistic; incremental changes are more viable.
+66d6b67e-55dc-4b71-ac45-2335781ab56b,2025-04-03 14:19:47.282435+00:00,google,gemma3:12b,0,0,0,"Moderate CO2 reduction and local adaptation seem most sensible, growth last."
+e59e0ff4-1d00-4003-a21f-e359cf2e1ff1,2025-04-03 14:20:11.256259+00:00,google,gemma3:12b,0,0,0,"Prioritized adaptation and measured emissions reductions, avoiding radical changes or economic trade-offs."
+7e46ec34-1f71-457b-b6c9-cbccae09e967,2025-04-03 14:20:34.983261+00:00,google,gemma3:12b,0,0,0,"Prioritized tech, adaptation, moderate emissions cuts. Growth & radical cuts seem least practical."
+4837e215-4d79-42af-9faf-2a5f27f88fa4,2025-04-03 14:20:59.229922+00:00,google,gemma3:12b,0,0,0,"Status quo preferred, adapting moderately, radical reduction too much, individual actions least desirable."
+311739c0-5738-4f00-8990-bd9032211a14,2025-04-03 14:21:23.806393+00:00,google,gemma3:12b,0,0,0,Prioritized adaptation and resilience. Growth focus is least preferred; radical emissions cuts are also low.
+3cd02d07-4f54-4619-8349-d0045c1919e0,2025-04-03 14:21:48.282120+00:00,google,gemma3:12b,0,0,0,"Prioritized adaptation over emission cuts, favoring systemic solutions over individual actions."
+746dad92-1100-449a-a5c4-486288358742,2025-04-03 14:22:12.061422+00:00,google,gemma3:12b,0,0,0,"Prioritize tech resilience, then spending, least support for emission cuts or status quo."
+366a82c3-ed83-4a4d-b27a-4bafece6a362,2025-04-03 14:22:35.926677+00:00,google,gemma3:12b,0,0,0,"Prioritized gradual change, adaptation, and current systems over rapid emission cuts."
+bfbce2c8-6a72-4d74-aa1b-ba7f1937f133,2025-04-03 14:22:59.509616+00:00,google,gemma3:12b,0,0,0,"I prioritize practical adaptation and tech, oppose prioritizing growth, reject radical emissions cuts."
+5bc86075-83ec-4b56-bc16-d2eb83ef0bd1,2025-04-03 14:23:23.099166+00:00,google,gemma3:12b,0,0,0,"Tech and resilience are key. Moderate CO2 reduction is needed, growth isn't priority."
+8cf1f372-dc8f-43c1-9bc9-b06820cf2ffc,2025-04-03 14:23:47.067489+00:00,google,gemma3:12b,0,0,0,"Radical cuts are unrealistic, growth first, tech solutions are best, gradual change is needed."
+52d3769f-8993-43a1-9770-86c230bbb9fe,2025-04-03 14:24:10.815844+00:00,google,gemma3:12b,0,0,0,Prioritized adaptation and resilience; less supportive of radical emission cuts or individual actions.
+1461c946-4ce4-40a9-a7bd-4b7d0aa0643e,2025-04-03 14:24:34.638720+00:00,google,gemma3:12b,0,0,0,"Tech resilience is key. Individual action is lower priority, economic growth is less important."
+98c57863-16d4-47e4-bb39-657ff3dcdd78,2025-04-03 14:24:58.583795+00:00,google,gemma3:12b,0,0,0,"Tech/resilience best, radical cuts too extreme, moderate cuts reasonable, current policy unhelpful."
+c7d731f0-4470-4c5a-8370-a88bfa82f6be,2025-04-03 14:25:22.625394+00:00,google,gemma3:12b,0,0,0,Prioritized adaptation. Radical emissions cuts seemed unrealistic given previous responses.
+da0065a0-1adb-4f1b-8a33-69139126043e,2025-04-03 14:25:46.008164+00:00,google,gemma3:12b,0,0,0,Resilience and adaptation are key. Moderate CO2 cuts preferred. Economic growth and existing policies are less favored.
+aa364e9a-1ca6-4329-ac66-4be8cc70c3cb,2025-04-03 14:26:10.648897+00:00,google,gemma3:12b,0,0,0,"Prioritize adaptation, tech, gradual emissions cuts; less on individual actions or radical cuts."
+d34d8ac5-5214-4ea2-a4eb-cb5519cd7dfd,2025-04-03 14:26:34.653256+00:00,google,gemma3:12b,0,0,0,Moderate action preferred. Resilience & local adaptation are key. Economic growth prioritized.
+8b4a39ed-364e-4af2-bf0c-d4655a7c9a82,2025-04-03 14:26:58.265214+00:00,google,gemma3:12b,0,0,0,"Balanced approach favored, prioritizing adaptation & gradual emissions reduction over radical changes or economic focus."

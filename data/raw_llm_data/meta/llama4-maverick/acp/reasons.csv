@@ -1,0 +1,36 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+2c16eefb-6476-426a-b59e-6d0c013b8ae1,2025-04-10 16:34:09.521298+00:00,meta,llama4-maverick,0,4892,279,I support inclusive government and oppose morally rigid or discriminatory policies.
+b22698cb-a840-4eb9-9d59-c3207e6510f3,2025-04-10 16:34:14.483741+00:00,meta,llama4-maverick,0,4892,282,I support inclusive government with diverse representation and oppose strong leader or minimal intervention approaches.
+86e75aec-e074-4d8e-93a8-38b29f855fb4,2025-04-10 16:34:20.555464+00:00,meta,llama4-maverick,0,4892,284,"Ranked policies based on previous ratings, favoring inclusive govt and opposing strict moral legislation."
+39f43f8e-e657-4e61-9226-12a01afc67c5,2025-04-10 16:34:25.735867+00:00,meta,llama4-maverick,0,4894,278,I support inclusive government and oppose morally rigid or minimalist governance.
+8288fa25-b1de-4854-966f-1b7464da780c,2025-04-10 16:34:32.108815+00:00,meta,llama4-maverick,0,4894,281,I support inclusive government with diverse representation and oppose extreme or rigid ideologies.
+8630f88a-d1aa-460d-bdc1-3cc014f81b03,2025-04-10 16:34:38.173320+00:00,meta,llama4-maverick,0,4892,279,I support inclusive government with all social groups involved in policy making.
+76b4bfe9-f9b2-4aeb-bb34-5f5ae1a000ee,2025-04-10 16:34:43.276311+00:00,meta,llama4-maverick,0,4894,279,I support inclusive government with all social groups involved in policy making.
+78843ad2-6a9d-4347-874d-31081a90237d,2025-04-10 16:34:51.316446+00:00,meta,llama4-maverick,0,4892,279,I support a government that ensures market efficiency and involves diverse groups.
+49ce0713-5c2d-4de8-a192-e7142cbeb79b,2025-04-10 16:34:56.230973+00:00,meta,llama4-maverick,0,4892,280,"Ranked policies based on previous consideration ratings, favoring inclusive govt."
+d598c7ad-dc94-4c16-a371-51dd21969f1c,2025-04-10 16:35:02.658414+00:00,meta,llama4-maverick,0,4892,277,I prefer inclusive government with representation for all social groups.
+fad4ec4f-06f3-4c28-b6dd-7ac9cf389033,2025-04-10 16:35:09.846037+00:00,meta,llama4-maverick,0,4892,277,Ranked policies based on previous democratic and social values ratings.
+7e64dc78-30bc-4d70-9f76-e0981f637938,2025-04-10 16:35:14.556875+00:00,meta,llama4-maverick,0,4892,281,I support a government that ensures equal influence for all Australians and free markets.
+e2da7c59-fcb8-4338-a1ae-e9a653e4101e,2025-04-10 16:35:20.915437+00:00,meta,llama4-maverick,0,4892,281,I support inclusive government and oppose strict moral legislation and minority privilege abolition.
+b53556f3-61d7-4b37-bb9a-75cc99cff627,2025-04-10 16:35:25.940727+00:00,meta,llama4-maverick,0,4892,283,"Ranked policies based on previous ratings, favoring inclusive govt and opposing special benefits."
+869492ad-789f-455a-9d0f-08fd54fa4cf0,2025-04-10 16:35:30.855155+00:00,meta,llama4-maverick,0,4894,278,I support inclusive government and oppose extremes and rigid ideologies.
+8f2e6873-da86-4a8e-86ef-43101dd3e56c,2025-04-10 16:35:36.610146+00:00,meta,llama4-maverick,0,4892,280,I ranked policies based on my perceived alignment with democratic values and fairness.
+917700f1-853c-4e0c-b005-a9f478b8bd0a,2025-04-10 16:35:41.653293+00:00,meta,llama4-maverick,0,4892,276,I prefer inclusive government with minority representation over others.
+8054013f-888a-4c2c-86bd-d5f484e87473,2025-04-10 16:35:46.844999+00:00,meta,llama4-maverick,0,4894,284,I support inclusive government and ranked options based on their alignment with democratic and egalitarian principles.
+82ca3037-fa29-44cf-a14f-e91d3febffb4,2025-04-10 16:35:52.010908+00:00,meta,llama4-maverick,0,4894,281,"I support inclusive government and limited intervention, opposing special benefits and moral legislation."
+5ffeb704-eb7c-4ecf-bcf7-56e52c95ae48,2025-04-10 16:35:58.068285+00:00,meta,llama4-maverick,0,4892,283,"I support inclusive government and limited intervention, opposing strict moral legislation and special minority benefits."
+8856b654-b106-4f6a-a5e2-bb1757952038,2025-04-10 16:36:02.805360+00:00,meta,llama4-maverick,0,4894,274,I support inclusive government with minority representation.
+88d7c4d8-7afd-4d07-8ab1-4fad70a93a8b,2025-04-10 16:36:08.034844+00:00,meta,llama4-maverick,0,4892,279,I support inclusive government and oppose market-driven and morally rigid governance.
+2ece5fe7-7a1e-4a4b-a41a-67eaa8441c5e,2025-04-10 16:36:12.446665+00:00,meta,llama4-maverick,0,4894,277,I support inclusive government with representation for all social groups.
+4ec4260d-af39-4a0b-9bd1-d20ea5bb1c74,2025-04-10 16:36:17.046428+00:00,meta,llama4-maverick,0,4892,278,I support inclusive government and oppose minimalist and morally rigid ones.
+ed1156c3-03fa-4232-82b9-ee461e3a49c2,2025-04-10 16:36:21.951889+00:00,meta,llama4-maverick,0,4889,279,I support inclusive govt with minority representation and moderate market role.
+053d5a34-1cd8-430f-9ac0-fc9fe8f95cc5,2025-04-10 16:36:28.086015+00:00,meta,llama4-maverick,0,4892,284,"I ranked policies based on my previous ratings, favoring inclusive govt and limited intervention."
+a20ace8a-8ae0-44f4-a9e9-ce7d5ba9d4c3,2025-04-10 16:36:34.167242+00:00,meta,llama4-maverick,0,4892,278,I support inclusive government with diverse representation and moderate market intervention.
+a43d41ff-e8ad-4e12-8cd5-b0010f16889e,2025-04-10 16:36:39.044210+00:00,meta,llama4-maverick,0,4892,278,I prefer a government that ensures equal influence and free markets.
+bc91aa87-6d28-48b7-9fbd-6c25b608ff79,2025-04-10 16:36:43.869387+00:00,meta,llama4-maverick,0,4892,280,I prefer a government that ensures economic markets work well with minimal intervention.
+9cc0b56a-0868-4330-8a4c-3f109e12da48,2025-04-10 16:36:48.781464+00:00,meta,llama4-maverick,0,4892,286,"I ranked policies based on my previous ratings, favoring inclusive govt and rejecting strict moral governance."
+fa83675a-1b82-44d5-a293-ea963f4ca5c3,2025-04-10 17:25:24.689049+00:00,meta,llama4-maverick,0,4892,282,"I ranked policies based on my previous ratings, favoring inclusive and representative government."
+a3f3c1cc-081a-4fd0-852b-49bccaf0532b,2025-04-10 17:25:29.358594+00:00,meta,llama4-maverick,0,4892,280,I support inclusive government and oppose rigid moral legislation and minimal intervention government.
+f97d5b36-4675-49d4-9efe-ecddae00b9a2,2025-04-10 17:25:35.452532+00:00,meta,llama4-maverick,0,4892,283,"I ranked policies based on my previous ratings, favoring inclusive and principled governance."
+1e53ca31-3fd4-463d-877c-f1f2a7a3924d,2025-04-10 17:25:41.374814+00:00,meta,llama4-maverick,0,4892,277,Ranked policies based on perceived democratic values and minority representation.
+b4f5e562-aa9e-4def-9af8-1d6d74607cc3,2025-04-10 17:25:46.771756+00:00,meta,llama4-maverick,0,4894,277,I support inclusive government with representation for all social groups.

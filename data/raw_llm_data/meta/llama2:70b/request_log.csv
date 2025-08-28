@@ -1,0 +1,387 @@
+cuid,date,provider,model,temperature,survey,type,prompt,response,input_tokens,output_tokens
+65f22103-e955-44e9-9037-bd3f903a6db0,2025-04-03 07:30:10.759264+00:00,meta,meta-llama/Llama-2-70b-hf,0,bep,considerations,"## Instructions:
+- Rate each of the 43 [Considerations] below from 1 to 7, where 1 is strongly disagree and 7 is strongly agree.
+- In your response, return an ordered list of 43 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 43 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. I think it is safe to say climate change is here.
+2. Agricultural subsidies should promote sustainable, pesticide and antibiotic-free production.
+3. I don't trust what scientists say about climate change.
+4. There's not much point in me doing anything to make agriculture more sustainable. No-one else is going to.
+5. “Actions on the food system in Switzerland will lead to increased imports and shift of the pollution abroad”
+6. The main focus of planning for adaptation should be to prepare the food system for extreme weather events, such as drought and flooding. 
+7. The Swiss food system is particularly vulnerable to climate change, and it is in our interest to help find an effective global solution.
+8. I don't trust what I hear about climate change from government.
+9. Sustainable agriculture increases prices and harms consumer freedom. The production should be adapted to what people demand.
+10. Eating sustainably is too expensive, and only wealthy people can afford it
+11. I believe that the difference we can have as an individual, in Switzerland, is so minimal that our actions are worthless.
+12. It is important to plan for migration by people displaced by malnutrition and famine.
+13. The Swiss food system depends on imports from other countries, and it is in our interest to help find an effective global solution.
+14. Agriculture is already very sustainable. Swiss farmers are on the right track
+15. There is not enough information to definitively establish if the link between the agri-food system and climate change is real.
+16. We should develop short distribution channels and support local production instead of supporting big agrifood corporations
+17. Planning for food system adaptation needs a holistic approach, considering a whole range of issues, instead of focussing on individual issues. 
+18. It is NOT necessary to engage with the community when deciding what are the most important issues for planning for food system changes.
+19. I'm not going to do anything to address the impacts of the agri-food system because it is not a major issue.
+20. We need actions to protect inhabitants and the biodiversity from harmful pesticide.
+21. Climate warming will ultimately benefit food production globally as plants better growth in higher temperature
+22. We need to focus on adaptation actions that are concerned with the economic future of the country.
+23. The community should be involved in discussions about food system adaptation.
+24. Some communities are more affected than others by the global agri-food system, but this is not a priority issue.
+25. We should focus on protecting human systems rather than environmental ecosystems.
+26. I don't know what to do. I'm very concerned and would like to do something, but I don't have a realistic shortlist of things that would really make a difference.
+27. The negative effects of the climate change on local commerce should be taken into account.
+28. Strong regulation of food production will eventually damage our economic relationship with other countries
+29. There is not enough information to definitively say that climate change is real.
+30. Banning pesticides might help the local biodiversity but decreases our food production capacity and autonomy
+31. As long as we use animals in agriculture, it cannot be sustainable
+32. “Food accessibility (price) and security (availability) is NOT COMPATIBLE with a sustainable food system”
+33. It is important to support smal land local farming as they have the fewest resources to deal with impacts of climate change. 
+34. Climate variation is normal, so why should this be a problem?
+35. “Intensive food production can go along with the protection of the environment and health”
+36. There is no urgent need to prepare for an increase in illness and death caused by intensive use of pesticides/antibiotics
+37. Climate change will not be a problem because there will be technological solutions available.
+38. If Switzerland reduces greenhouse gases of its food system it won't make a difference.
+39. It's difficult to trust what comes out in the media on the issue of climate change.
+40. I am happy to pay a higher price for local or organic food products
+41. We need to deal with the water pollution issue through measures such as reducing fertilizer and pesticide use.
+42. Products that use environmentally harmful ingredients, such as palm oil, should be taxed in the same way as tobacco products.
+43. “Farmers already suffer enough from strict rules and paperwork. Family farmers should have more liberties”","## Instructions:
+- Rate each of the 43 [Considerations] below from 1 to 7, where 1 is strongly disagree and 7 is strongly agree.
+- In your response, return an ordered list of 43 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 43 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. I think it is safe to say climate change is here.
+2. Agricultural subsidies should promote sustainable, pesticide and antibiotic-free production.
+3. I don't trust what scientists say about climate change.
+4. There's not much point in me doing anything to make agriculture more sustainable. No-one else is going to.
+5. “Actions on the food system in Switzerland will lead to increased imports and shift of the pollution abroad”
+6. The main focus of planning for adaptation should be to prepare the food system for extreme weather events, such as drought and flooding. 
+7. The Swiss food system is particularly vulnerable to climate change, and it is in our interest to help find an effective global solution.
+8. I don't trust what I hear about climate change from government.
+9. Sustainable agriculture increases prices and harms consumer freedom. The production should be adapted to what people demand.
+10. Eating sustainably is too expensive, and only wealthy people can afford it
+11. I believe that the difference we can have as an individual, in Switzerland, is so minimal that our actions are worthless.
+12. It is important to plan for migration by people displaced by malnutrition and famine.
+13. The Swiss food system depends on imports from other countries, and it is in our interest to help find an effective global solution.
+14. Agriculture is already very sustainable. Swiss farmers are on the right track
+15. There is not enough information to definitively establish if the link between the agri-food system and climate change is real.
+16. We should develop short distribution channels and support local production instead of supporting big agrifood corporations
+17. Planning for food system adaptation needs a holistic approach, considering a whole range of issues, instead of focussing on individual issues. 
+18. It is NOT necessary to engage with the community when deciding what are the most important issues for planning for food system changes.
+19. I'm not going to do anything to address the impacts of the agri-food system because it is not a major issue.
+20. We need actions to protect inhabitants and the biodiversity from harmful pesticide.
+21. Climate warming will ultimately benefit food production globally as plants better growth in higher temperature
+22. We need to focus on adaptation actions that are concerned with the economic future of the country.
+23. The community should be involved in discussions about food system adaptation.
+24. Some communities are more affected than others by the global agri-food system, but this is not a priority issue.
+25. We should focus on protecting human systems rather than environmental ecosystems.
+26. I don't know what to do. I'm very concerned and would like to do something, but I don't have a realistic shortlist of things that would really make a difference.
+27. The negative effects of the climate change on local commerce should be taken into account.
+28. Strong regulation of food production will eventually damage our economic relationship with other countries
+29. There is not enough information to definitively say that climate change is real.
+30. Banning pesticides might help the local biodiversity but decreases our food production capacity and autonomy
+31. As long as we use animals in agriculture, it cannot be sustainable
+32. “Food accessibility (price) and security (availability) is NOT COMPATIBLE with a sustainable food system”
+33. It is important to support smal land local farming as they have the fewest resources to deal with impacts of climate change. 
+34. Climate variation is normal, so why should this be a problem?
+35. “Intensive food production can go along with the protection of the environment and health”
+36. There is no urgent need to prepare for an increase in illness and death caused by intensive use of pesticides/antibiotics
+37. Climate change will not be a problem because there will be technological solutions available.
+38. If Switzerland reduces greenhouse gases of its food system it won't make a difference.
+39. It's difficult to trust what comes out in the media on the issue of climate change.
+40. I am happy to pay a higher price for local or organic food products
+41. We need to deal with the water pollution issue through measures such as reducing fertilizer and pesticide use.
+42. Products that use environmentally harmful ingredients, such as palm oil, should be taxed in the same way as tobacco products.
+43. “Farmers already suffer enough from strict rules and paperwork. Family farmers should have more liberties”<|im_end|>
+<|im_start|>user
+## Instructions:
+- Rate each of the 43 [Considerations] below from 1 to 7, where 1 is strongly disagree and 7 is strongly agree.
+- In your response, return an ordered list of 43 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 43 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. I think it is safe to say climate change is here.
+2. Agricultural subsidies should promote sustainable, pesticide and antibiotic-free production.
+3. I don't trust what scientists say about climate change.
+4. There's not much point in me doing anything to make agriculture more sustainable. No-one else is going to.
+5. “Actions on the food system in Switzerland will lead to increased imports and shift of the pollution abroad”
+6. The main focus of planning for adaptation should be to prepare the food system for extreme weather events, such as drought and flooding. 
+7. The Swiss food system is particularly vulnerable to climate change, and it is in our interest to help find an effective global solution.
+8. I don't trust what I hear about climate change from government.
+9. Sustainable agriculture increases prices and harms consumer freedom. The production should be adapted to what people demand.
+10. Eating sustainably is too expensive, and only wealthy people can afford it
+11. I believe that the difference we can have as an individual, in Switzerland, is so minimal that our actions are worthless.
+12. It is important to plan for migration by people displaced by malnutrition and famine.
+13. The Swiss food system depends on imports from other countries, and it is in our interest to help find an effective global solution.
+14. Agriculture is already very sustainable. Swiss farmers are on the right track
+15. There is not enough information to definitively establish if the link between the agri-food system and climate change is real.
+16. We should develop short distribution channels and support local production instead of supporting big agrifood corporations
+17. Planning for food system adaptation needs a holistic approach, considering a whole range of issues, instead of focussing on individual issues. 
+18. It is NOT necessary to engage with the community when deciding what are the most important issues for planning for food system changes.
+19. I'm not going to do anything to address the impacts of the agri-food system because it is not a major issue.
+20. We need actions to protect inhabitants and the biodiversity from harmful pesticide.
+21. Climate warming will ultimately benefit food production globally as plants better growth in higher temperature
+22. We need to focus on adaptation actions that are concerned with the economic future of the country.
+23. The community should be involved in discussions about food system adaptation.
+24. Some communities are more affected than others by the global agri-food system, but this is not a priority issue.
+25. We should focus on protecting human systems rather than environmental ecosystems.
+26. I don't know what to do. I'm very concerned and would like to do something, but I don't have a realistic shortlist of things that would really make a difference.
+27. The negative effects of the climate change on local commerce should be taken into account.
+28. Strong regulation of food production will eventually damage our economic relationship with other countries
+29. There is not enough information to definitively say that climate change is real.
+30. Banning pesticides might help the local biodiversity but decreases our food production capacity and autonomy
+31. As long as we use animals in agriculture, it cannot be sustainable
+32. “Food accessibility (price) and security (availability) is NOT COMPATIBLE with a sustainable food system”
+33. It is important to support smal land local farming as they have the fewest resources to deal with impacts of climate change. 
+34. Climate variation is normal, so why should this be a problem?
+35. “Intensive food production can go along with the protection of the environment and health”
+36. There is no urgent need to prepare for an increase in illness and death caused by intensive use of pesticides/antibiotics
+37. Climate change will not be a problem because there will be technological solutions available.
+38. If Switzerland reduces greenhouse gases of its food system it won't make a difference.
+39. It's difficult to trust what comes out in the media on the issue of climate change.
+40. I am happy to pay a higher price for local or organic food products
+41. We need to deal with the water pollution issue through measures such as reducing fertilizer and pesticide use.
+42. Products that use environmentally harmful ingredients, such as palm oil, should be taxed in the same way as tobacco products.
+43. “Farmers already suffer enough from strict rules and paperwork. Family farmers should have more liberties”<|im_end|>
+<|im_start|>user
+## Instructions:
+- Rate each of the 43 [Considerations] below from 1 to 7, where 1 is strongly disagree and 7 is strongly agree.
+- In your response, return an ordered list of 43 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 43 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. I think it is safe to say climate change is here.
+2. Agricultural subsidies should promote sustainable, pesticide and antibiotic-free production.
+3. I don't trust what scientists say about climate change.
+4. There's not much point in me doing anything to make agriculture more sustainable. No-one else is going to.
+5. “Actions on the food system in Switzerland will lead to increased imports and shift of the pollution abroad”
+6. The main focus of planning for adaptation should be to prepare the food system for extreme weather events, such as drought and flooding. 
+7. The Swiss food system is particularly vulnerable to climate change, and it is in our interest to help find an effective global solution.
+8. I don't trust what I hear about climate change from government.
+9. Sustainable agriculture increases prices and harms consumer freedom. The production should be adapted to what people demand.
+10. Eating sustainably is too expensive, and only wealthy people can afford it
+11",1248,2849
+51c4e0dd-90f4-418a-beb2-55e68876617c,2025-04-03 07:32:32.888286+00:00,meta,meta-llama/Llama-2-70b-hf,0,bep,considerations,"## Instructions:
+- Rate each of the 43 [Considerations] below from 1 to 7, where 1 is strongly disagree and 7 is strongly agree.
+- In your response, return an ordered list of 43 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 43 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. I think it is safe to say climate change is here.
+2. Agricultural subsidies should promote sustainable, pesticide and antibiotic-free production.
+3. I don't trust what scientists say about climate change.
+4. There's not much point in me doing anything to make agriculture more sustainable. No-one else is going to.
+5. “Actions on the food system in Switzerland will lead to increased imports and shift of the pollution abroad”
+6. The main focus of planning for adaptation should be to prepare the food system for extreme weather events, such as drought and flooding. 
+7. The Swiss food system is particularly vulnerable to climate change, and it is in our interest to help find an effective global solution.
+8. I don't trust what I hear about climate change from government.
+9. Sustainable agriculture increases prices and harms consumer freedom. The production should be adapted to what people demand.
+10. Eating sustainably is too expensive, and only wealthy people can afford it
+11. I believe that the difference we can have as an individual, in Switzerland, is so minimal that our actions are worthless.
+12. It is important to plan for migration by people displaced by malnutrition and famine.
+13. The Swiss food system depends on imports from other countries, and it is in our interest to help find an effective global solution.
+14. Agriculture is already very sustainable. Swiss farmers are on the right track
+15. There is not enough information to definitively establish if the link between the agri-food system and climate change is real.
+16. We should develop short distribution channels and support local production instead of supporting big agrifood corporations
+17. Planning for food system adaptation needs a holistic approach, considering a whole range of issues, instead of focussing on individual issues. 
+18. It is NOT necessary to engage with the community when deciding what are the most important issues for planning for food system changes.
+19. I'm not going to do anything to address the impacts of the agri-food system because it is not a major issue.
+20. We need actions to protect inhabitants and the biodiversity from harmful pesticide.
+21. Climate warming will ultimately benefit food production globally as plants better growth in higher temperature
+22. We need to focus on adaptation actions that are concerned with the economic future of the country.
+23. The community should be involved in discussions about food system adaptation.
+24. Some communities are more affected than others by the global agri-food system, but this is not a priority issue.
+25. We should focus on protecting human systems rather than environmental ecosystems.
+26. I don't know what to do. I'm very concerned and would like to do something, but I don't have a realistic shortlist of things that would really make a difference.
+27. The negative effects of the climate change on local commerce should be taken into account.
+28. Strong regulation of food production will eventually damage our economic relationship with other countries
+29. There is not enough information to definitively say that climate change is real.
+30. Banning pesticides might help the local biodiversity but decreases our food production capacity and autonomy
+31. As long as we use animals in agriculture, it cannot be sustainable
+32. “Food accessibility (price) and security (availability) is NOT COMPATIBLE with a sustainable food system”
+33. It is important to support smal land local farming as they have the fewest resources to deal with impacts of climate change. 
+34. Climate variation is normal, so why should this be a problem?
+35. “Intensive food production can go along with the protection of the environment and health”
+36. There is no urgent need to prepare for an increase in illness and death caused by intensive use of pesticides/antibiotics
+37. Climate change will not be a problem because there will be technological solutions available.
+38. If Switzerland reduces greenhouse gases of its food system it won't make a difference.
+39. It's difficult to trust what comes out in the media on the issue of climate change.
+40. I am happy to pay a higher price for local or organic food products
+41. We need to deal with the water pollution issue through measures such as reducing fertilizer and pesticide use.
+42. Products that use environmentally harmful ingredients, such as palm oil, should be taxed in the same way as tobacco products.
+43. “Farmers already suffer enough from strict rules and paperwork. Family farmers should have more liberties”","## Instructions:
+- Rate each of the 43 [Considerations] below from 1 to 7, where 1 is strongly disagree and 7 is strongly agree.
+- In your response, return an ordered list of 43 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 43 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. I think it is safe to say climate change is here.
+2. Agricultural subsidies should promote sustainable, pesticide and antibiotic-free production.
+3. I don't trust what scientists say about climate change.
+4. There's not much point in me doing anything to make agriculture more sustainable. No-one else is going to.
+5. “Actions on the food system in Switzerland will lead to increased imports and shift of the pollution abroad”
+6. The main focus of planning for adaptation should be to prepare the food system for extreme weather events, such as drought and flooding. 
+7. The Swiss food system is particularly vulnerable to climate change, and it is in our interest to help find an effective global solution.
+8. I don't trust what I hear about climate change from government.
+9. Sustainable agriculture increases prices and harms consumer freedom. The production should be adapted to what people demand.
+10. Eating sustainably is too expensive, and only wealthy people can afford it
+11. I believe that the difference we can have as an individual, in Switzerland, is so minimal that our actions are worthless.
+12. It is important to plan for migration by people displaced by malnutrition and famine.
+13. The Swiss food system depends on imports from other countries, and it is in our interest to help find an effective global solution.
+14. Agriculture is already very sustainable. Swiss farmers are on the right track
+15. There is not enough information to definitively establish if the link between the agri-food system and climate change is real.
+16. We should develop short distribution channels and support local production instead of supporting big agrifood corporations
+17. Planning for food system adaptation needs a holistic approach, considering a whole range of issues, instead of focussing on individual issues. 
+18. It is NOT necessary to engage with the community when deciding what are the most important issues for planning for food system changes.
+19. I'm not going to do anything to address the impacts of the agri-food system because it is not a major issue.
+20. We need actions to protect inhabitants and the biodiversity from harmful pesticide.
+21. Climate warming will ultimately benefit food production globally as plants better growth in higher temperature
+22. We need to focus on adaptation actions that are concerned with the economic future of the country.
+23. The community should be involved in discussions about food system adaptation.
+24. Some communities are more affected than others by the global agri-food system, but this is not a priority issue.
+25. We should focus on protecting human systems rather than environmental ecosystems.
+26. I don't know what to do. I'm very concerned and would like to do something, but I don't have a realistic shortlist of things that would really make a difference.
+27. The negative effects of the climate change on local commerce should be taken into account.
+28. Strong regulation of food production will eventually damage our economic relationship with other countries
+29. There is not enough information to definitively say that climate change is real.
+30. Banning pesticides might help the local biodiversity but decreases our food production capacity and autonomy
+31. As long as we use animals in agriculture, it cannot be sustainable
+32. “Food accessibility (price) and security (availability) is NOT COMPATIBLE with a sustainable food system”
+33. It is important to support smal land local farming as they have the fewest resources to deal with impacts of climate change. 
+34. Climate variation is normal, so why should this be a problem?
+35. “Intensive food production can go along with the protection of the environment and health”
+36. There is no urgent need to prepare for an increase in illness and death caused by intensive use of pesticides/antibiotics
+37. Climate change will not be a problem because there will be technological solutions available.
+38. If Switzerland reduces greenhouse gases of its food system it won't make a difference.
+39. It's difficult to trust what comes out in the media on the issue of climate change.
+40. I am happy to pay a higher price for local or organic food products
+41. We need to deal with the water pollution issue through measures such as reducing fertilizer and pesticide use.
+42. Products that use environmentally harmful ingredients, such as palm oil, should be taxed in the same way as tobacco products.
+43. “Farmers already suffer enough from strict rules and paperwork. Family farmers should have more liberties”<|im_end|>
+<|im_start|>user
+## Instructions:
+- Rate each of the 43 [Considerations] below from 1 to 7, where 1 is strongly disagree and 7 is strongly agree.
+- In your response, return an ordered list of 43 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 43 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. I think it is safe to say climate change is here.
+2. Agricultural subsidies should promote sustainable, pesticide and antibiotic-free production.
+3. I don't trust what scientists say about climate change.
+4. There's not much point in me doing anything to make agriculture more sustainable. No-one else is going to.
+5. “Actions on the food system in Switzerland will lead to increased imports and shift of the pollution abroad”
+6. The main focus of planning for adaptation should be to prepare the food system for extreme weather events, such as drought and flooding. 
+7. The Swiss food system is particularly vulnerable to climate change, and it is in our interest to help find an effective global solution.
+8. I don't trust what I hear about climate change from government.
+9. Sustainable agriculture increases prices and harms consumer freedom. The production should be adapted to what people demand.
+10. Eating sustainably is too expensive, and only wealthy people can afford it
+11. I believe that the difference we can have as an individual, in Switzerland, is so minimal that our actions are worthless.
+12. It is important to plan for migration by people displaced by malnutrition and famine.
+13. The Swiss food system depends on imports from other countries, and it is in our interest to help find an effective global solution.
+14. Agriculture is already very sustainable. Swiss farmers are on the right track
+15. There is not enough information to definitively establish if the link between the agri-food system and climate change is real.
+16. We should develop short distribution channels and support local production instead of supporting big agrifood corporations
+17. Planning for food system adaptation needs a holistic approach, considering a whole range of issues, instead of focussing on individual issues. 
+18. It is NOT necessary to engage with the community when deciding what are the most important issues for planning for food system changes.
+19. I'm not going to do anything to address the impacts of the agri-food system because it is not a major issue.
+20. We need actions to protect inhabitants and the biodiversity from harmful pesticide.
+21. Climate warming will ultimately benefit food production globally as plants better growth in higher temperature
+22. We need to focus on adaptation actions that are concerned with the economic future of the country.
+23. The community should be involved in discussions about food system adaptation.
+24. Some communities are more affected than others by the global agri-food system, but this is not a priority issue.
+25. We should focus on protecting human systems rather than environmental ecosystems.
+26. I don't know what to do. I'm very concerned and would like to do something, but I don't have a realistic shortlist of things that would really make a difference.
+27. The negative effects of the climate change on local commerce should be taken into account.
+28. Strong regulation of food production will eventually damage our economic relationship with other countries
+29. There is not enough information to definitively say that climate change is real.
+30. Banning pesticides might help the local biodiversity but decreases our food production capacity and autonomy
+31. As long as we use animals in agriculture, it cannot be sustainable
+32. “Food accessibility (price) and security (availability) is NOT COMPATIBLE with a sustainable food system”
+33. It is important to support smal land local farming as they have the fewest resources to deal with impacts of climate change. 
+34. Climate variation is normal, so why should this be a problem?
+35. “Intensive food production can go along with the protection of the environment and health”
+36. There is no urgent need to prepare for an increase in illness and death caused by intensive use of pesticides/antibiotics
+37. Climate change will not be a problem because there will be technological solutions available.
+38. If Switzerland reduces greenhouse gases of its food system it won't make a difference.
+39. It's difficult to trust what comes out in the media on the issue of climate change.
+40. I am happy to pay a higher price for local or organic food products
+41. We need to deal with the water pollution issue through measures such as reducing fertilizer and pesticide use.
+42. Products that use environmentally harmful ingredients, such as palm oil, should be taxed in the same way as tobacco products.
+43. “Farmers already suffer enough from strict rules and paperwork. Family farmers should have more liberties”<|im_end|>
+<|im_start|>user
+## Instructions:
+- Rate each of the 43 [Considerations] below from 1 to 7, where 1 is strongly disagree and 7 is strongly agree.
+- In your response, return an ordered list of 43 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 43 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. I think it is safe to say climate change is here.
+2. Agricultural subsidies should promote sustainable, pesticide and antibiotic-free production.
+3. I don't trust what scientists say about climate change.
+4. There's not much point in me doing anything to make agriculture more sustainable. No-one else is going to.
+5. “Actions on the food system in Switzerland will lead to increased imports and shift of the pollution abroad”
+6. The main focus of planning for adaptation should be to prepare the food system for extreme weather events, such as drought and flooding. 
+7. The Swiss food system is particularly vulnerable to climate change, and it is in our interest to help find an effective global solution.
+8. I don't trust what I hear about climate change from government.
+9. Sustainable agriculture increases prices and harms consumer freedom. The production should be adapted to what people demand.
+10. Eating sustainably is too expensive, and only wealthy people can afford it
+11",1248,2849

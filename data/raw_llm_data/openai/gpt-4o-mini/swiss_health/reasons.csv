@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+7127a7ad-687b-4891-bf5e-6379a4312de0,2025-03-21 21:02:04.958652+00:00,openai,gpt-4o-mini,0,2720,165,I prioritize universal access and government support over personal responsibility and minimal changes.
+9d65ab38-c63d-4f95-b05c-f1578788eddc,2025-03-21 21:02:10.366348+00:00,openai,gpt-4o-mini,0,2720,165,I prioritize universal access and government support over personal responsibility and minimal changes.
+d6562233-6ce6-4d20-8a34-2256bdc4fe1f,2025-03-21 21:02:16.508540+00:00,openai,gpt-4o-mini,0,2720,166,I prioritize universal access and efficiency over deregulation and maintaining the status quo.
+abdfdcf9-bd1e-4371-9741-8d240309d400,2025-03-21 21:02:22.209340+00:00,openai,gpt-4o-mini,0,2720,167,I prioritize universal access and financial support over deregulation and maintaining the status quo.
+919a29c2-0984-40fd-a1f4-247ef0a5d55a,2025-03-21 21:02:28.282238+00:00,openai,gpt-4o-mini,0,2720,168,I prioritize universal access and support for those in need over deregulation and personal responsibility.
+dc055245-0cfa-44dd-8e69-e0c665a30a4c,2025-03-21 21:02:34.018980+00:00,openai,gpt-4o-mini,0,2720,165,I prioritize universal access and financial support over personal responsibility and deregulation.
+480beffe-8b94-4651-8c60-f0ba47b91e44,2025-03-21 21:02:42.308164+00:00,openai,gpt-4o-mini,0,2720,164,I prioritize universal access and financial support over competition and personal responsibility.
+06e61c76-bf1e-485d-ae70-1fdeec8cf03c,2025-03-21 21:02:47.843718+00:00,openai,gpt-4o-mini,0,2720,166,"I prioritize universal access, support for low-income individuals, and efficiency improvements."
+1e324f76-4b5d-4d26-aca3-d348e0a7b90f,2025-03-21 21:02:53.780098+00:00,openai,gpt-4o-mini,0,2720,166,I prioritize universal access and support over deregulation and maintaining the status quo.
+af726cfd-0a57-4d01-9280-bfcf6461b37c,2025-03-21 21:02:59.922411+00:00,openai,gpt-4o-mini,0,2720,164,I prioritize universal access and support over personal responsibility and minimal changes.
+a830db58-d33e-46d1-9081-757a8879d630,2025-03-21 21:03:05.554368+00:00,openai,gpt-4o-mini,0,2720,165,I prioritize universal access and financial support over deregulation and personal responsibility.
+20e30b45-2960-4314-8349-986acf3d5557,2025-03-21 21:03:11.229869+00:00,openai,gpt-4o-mini,0,2720,167,I prioritize universal access and financial support over deregulation and maintaining the status quo.
+b9a51f53-e9a0-4dd1-9200-290a6ee51e14,2025-03-21 21:03:17.434964+00:00,openai,gpt-4o-mini,0,2720,167,I prioritize universal access and support for those in need over maintaining the current system.
+631c9977-2041-42f9-b1eb-47d8c78f967e,2025-03-21 21:03:22.962025+00:00,openai,gpt-4o-mini,0,2720,166,I prioritize universal access and support over competition and minimal changes to the system.
+562d45ea-f3f2-4aa1-a55f-8a57f64a82a0,2025-03-21 21:03:29.929711+00:00,openai,gpt-4o-mini,0,2720,165,I prioritize universal access and financial support over deregulation and personal responsibility.
+28b1f1a9-18f7-4446-bd3d-a5578cf07c17,2025-03-21 21:03:37.917022+00:00,openai,gpt-4o-mini,0,2720,166,I prioritize universal access and support over deregulation and maintaining the status quo.
+2b3b5be4-3489-4eeb-ad4f-96c1d28c98c2,2025-03-21 21:03:43.076311+00:00,openai,gpt-4o-mini,0,2720,166,"I prioritize universal access and efficiency, while opposing less regulation and no changes."
+1cacc045-4840-4523-b096-7bc0d15a1174,2025-03-21 21:03:49.180638+00:00,openai,gpt-4o-mini,0,2720,165,I prioritize universal access and government support over deregulation and personal responsibility.
+2f80cd39-a4b0-4002-aa93-efc450014ff2,2025-03-21 21:03:55.481434+00:00,openai,gpt-4o-mini,0,2720,166,I prioritize universal access and income-based systems over deregulation and minimal changes.
+991a2ebb-fe6b-4b70-96a9-fccecd3149bc,2025-03-21 21:04:01.433592+00:00,openai,gpt-4o-mini,0,2720,168,I prioritize universal access and support for those in need over deregulation and personal responsibility.
+6e649d1d-f4ab-458e-9813-c1b0ecfff130,2025-03-28 07:02:46.275052+00:00,openai,gpt-4o-mini,0,2720,166,I prioritize government control and support for access over deregulation and personal responsibility.
+1ff4d64d-1059-45a0-98a3-5d9079aaead9,2025-03-28 07:02:52.046417+00:00,openai,gpt-4o-mini,0,2720,164,I prioritize universal access and efficiency over personal responsibility and minimal regulation.
+4979b8ca-017f-4fc8-8403-9718d5f1baa3,2025-03-28 07:02:58.214734+00:00,openai,gpt-4o-mini,0,2720,164,I prioritize universal access and support over deregulation and personal responsibility.
+484ebc1b-ff72-4e8c-bd24-0374ad330e76,2025-03-28 07:03:04.140529+00:00,openai,gpt-4o-mini,0,2720,168,I prioritize universal access and support for those in need over personal responsibility and minimal changes.
+de469631-b5a6-4333-94f3-b911dada1e3b,2025-03-28 07:03:09.487678+00:00,openai,gpt-4o-mini,0,2720,165,I prioritize universal access and financial support over inefficiencies and deregulation.
+e8b37217-cc10-4dd2-9f1d-91f3c6d8e9ce,2025-03-28 07:03:15.512458+00:00,openai,gpt-4o-mini,0,2720,165,I prioritize universal access and financial support over personal responsibility and deregulation.
+cb4f2c34-91ec-4c07-be52-22949e5619d5,2025-03-28 07:03:20.734670+00:00,openai,gpt-4o-mini,0,2720,166,I prioritize universal access and efficiency over deregulation and maintaining the status quo.
+ce135801-5fec-44d9-ba8a-3ef6f62acc1e,2025-03-28 07:03:26.177092+00:00,openai,gpt-4o-mini,0,2720,164,I prioritize universal access and efficiency over personal responsibility and minimal regulation.
+8a018534-e715-4f7e-b460-165a0577ee15,2025-03-28 07:03:31.674444+00:00,openai,gpt-4o-mini,0,2720,166,"I prioritize universal access and efficiency, while opposing less regulation and personal responsibility."
+74cf561f-c05a-44d6-a349-ebc9a5665a3b,2025-03-28 07:03:37.286330+00:00,openai,gpt-4o-mini,0,2720,166,I prioritize universal access and efficiency over deregulation and maintaining the status quo.
+23ec4f2a-e7e7-48ff-b370-ca46f4fc01c9,2025-03-28 07:03:41.630352+00:00,openai,gpt-4o-mini,0,2720,165,I prioritize universal access and government support over deregulation and personal responsibility.
+6d99ea6b-dce1-45b6-a4f6-c05714382bd8,2025-03-28 07:03:46.877194+00:00,openai,gpt-4o-mini,0,2720,167,"I support universal healthcare and financial support, while opposing less regulation and mandatory insurance."

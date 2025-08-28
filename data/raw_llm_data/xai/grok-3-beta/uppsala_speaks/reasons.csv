@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+c50c0c1a-7721-49dd-9805-2ce6da6480cd,2025-04-11 09:29:48.047928+00:00,xai,grok-3-beta,0,3472,257,Prioritized addressing root causes over punitive measures.
+05b5b9e3-079f-4602-9081-4e7c4493ba6f,2025-04-11 09:29:55.039624+00:00,xai,grok-3-beta,0,3472,259,Prioritized aid and source solutions over bans and deportation.
+6151b1c1-2403-460f-8387-c21878f8d77b,2025-04-11 09:30:02.336382+00:00,xai,grok-3-beta,0,3472,260,Prioritized addressing root causes and enforcing laws over punitive measures.
+8c5c1f5c-0c7d-4e00-8c0c-c8b52717392e,2025-04-11 09:30:09.583028+00:00,xai,grok-3-beta,0,3474,262,Prioritized source country aid and law enforcement over bans or direct aid.
+775f186b-2493-4edf-a4c7-93597242750a,2025-04-11 09:30:15.060433+00:00,xai,grok-3-beta,0,3472,260,Prioritize source country aid and accommodation over bans and deportation.
+8c84607c-a98f-4f8b-bb60-79ca5212dba6,2025-04-11 09:30:19.798833+00:00,xai,grok-3-beta,0,3469,261,Prioritized source country aid and law enforcement over bans or deportation.
+9475f398-a0a5-4d7c-9d9e-5b9617ef2194,2025-04-11 09:30:24.631223+00:00,xai,grok-3-beta,0,3472,258,Prioritized aid and source solutions over punitive measures.
+91144c6c-2bc9-4990-8c5b-e3d94bf53a7c,2025-04-11 09:30:36.109547+00:00,xai,grok-3-beta,0,3472,260,Prioritized aid in source countries and support over strict measures.
+36899775-4f17-471e-8cd5-5fafaa70c83b,2025-04-11 09:30:45.781880+00:00,xai,grok-3-beta,0,3472,261,Prioritized aid in source countries and accommodation over bans and deportation.
+73a3362e-1cdc-4e4f-bffc-2be22b9d920f,2025-04-11 09:31:00.380507+00:00,xai,grok-3-beta,0,3472,261,Prioritized source country aid and law enforcement over bans and deportation.
+b8d5ae4e-1d14-45a8-bc84-d65c8b0d95d2,2025-04-14 08:01:11.513692+00:00,xai,grok-3-beta,0,3472,259,Prioritized source country aid over local bans or deportation.
+254f1b69-2bf2-44c1-b455-eaabe874276c,2025-04-14 08:01:18.606948+00:00,xai,grok-3-beta,0,3472,261,Prioritized aid in source countries and accommodation over bans and deportation.
+85c3c601-5978-434d-8b00-22a094e5a26f,2025-04-14 08:01:23.118812+00:00,xai,grok-3-beta,0,3472,260,Prioritized source country aid and accommodation over bans and deportation.
+8031d64c-91cd-4aad-84fc-ed473a87c5af,2025-04-14 08:01:27.641760+00:00,xai,grok-3-beta,0,3474,263,Prioritized source country aid and law enforcement over bans and aid in Sweden.
+b97089eb-dd56-4dda-9af5-c4b627df48b2,2025-04-14 08:01:32.203301+00:00,xai,grok-3-beta,0,3472,261,Prioritized source country aid and accommodation over strict bans or deportation.
+bf8d5e40-7de7-4be9-bb7d-79ef54bd1579,2025-04-14 08:01:36.708972+00:00,xai,grok-3-beta,0,3469,261,Prioritized source country aid and law enforcement over bans or deportation.
+96697329-a5e6-49b4-91ca-f7727fcb6599,2025-04-14 08:01:41.042157+00:00,xai,grok-3-beta,0,3472,259,Prioritized aid and source solutions over bans and deportation.
+2948752c-a231-4835-80cb-e601f301b0d3,2025-04-14 08:01:45.676049+00:00,xai,grok-3-beta,0,3472,260,Prioritized aid in source countries and support over strict measures.
+e10b6396-be99-42e0-8d85-b99f11a79ef4,2025-04-14 08:01:50.243295+00:00,xai,grok-3-beta,0,3472,261,Prioritized aid in source countries and accommodation over bans and deportation.
+bb2eb46d-fbff-4483-b7db-ec453c83d2c1,2025-04-14 08:01:54.906600+00:00,xai,grok-3-beta,0,3472,260,Prioritized source country aid and accommodation over bans and deportation.
+bfbe0958-620d-4d43-8765-35197c61da6a,2025-04-14 08:01:59.705291+00:00,xai,grok-3-beta,0,3472,261,Prioritized source country aid and law enforcement over bans and deportation.
+05282179-c961-4435-a8d2-49c36dc25045,2025-04-14 08:02:04.131709+00:00,xai,grok-3-beta,0,3472,261,Prioritized source country aid and law enforcement over bans or deportation.
+dbc83364-63e1-464b-994a-f2218320625f,2025-04-14 08:02:08.675942+00:00,xai,grok-3-beta,0,3472,260,Prioritized addressing root causes and enforcing laws over punitive measures.
+36acb9b5-57c3-43ca-a1ff-ef0f94391cc5,2025-04-14 08:02:13.529551+00:00,xai,grok-3-beta,0,3472,260,Prioritized source country aid and law enforcement over punitive measures.
+78566cf9-cbbc-4771-b24c-df9636bb212c,2025-04-14 08:02:18.254448+00:00,xai,grok-3-beta,0,3472,261,Prioritized aid in source countries and accommodation over bans and deportation.
+87154c4c-3d22-4bb5-980a-2bb4e68b5596,2025-04-14 08:02:22.615722+00:00,xai,grok-3-beta,0,3474,260,Prioritized addressing root causes over punitive measures or temporary aid.
+6537e626-cb49-4233-b6c6-c7a4328354f6,2025-04-14 08:02:27.129984+00:00,xai,grok-3-beta,0,3472,260,Prioritized aid and source solutions over strict enforcement or bans.
+db3bb4b3-a949-4129-b005-4d9339dd0f03,2025-04-14 08:02:38.714053+00:00,xai,grok-3-beta,0,3472,260,Prioritized source country aid and accommodation over bans and deportation.
+f538a237-6654-484e-8ace-e36b0fa5f505,2025-04-14 08:02:43.149178+00:00,xai,grok-3-beta,0,3472,259,Prioritized aid and source country solutions over punitive measures.
+a3323761-10d1-4e5c-8a3a-eb5e795641d6,2025-04-14 08:02:47.567119+00:00,xai,grok-3-beta,0,3474,263,Prioritized source country aid and accommodation over strict measures like bans or deportation.

@@ -1,0 +1,31 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+252c3863-ba10-4422-b68e-36ce43a5f2fe,2025-03-27 16:37:36.745746+00:00,qwen,qwen-turbo,0,4573,291,"Favor stabilization and maintenance but oppose permanent upgrades or closure, preferring 4WD track stability."
+68c79ae5-23df-47fd-a577-f166e5c18c80,2025-03-27 16:37:42.093289+00:00,qwen,qwen-turbo,0,4577,294,"Support stabilization and maintenance as is, upgrade to dirt road, oppose bitumen, close rehabilitation last."
+34697eee-0cd3-43a2-bd83-6467746ddad6,2025-03-27 19:06:57.116197+00:00,qwen,qwen-turbo,0,4573,288,Prioritize long-term perspectives; support moderate upgrades for access and minimal environmental impact.
+6f460100-57ca-4ae9-a4b3-b0bfca6a2f11,2025-03-27 19:07:02.244101+00:00,qwen,qwen-turbo,0,4575,291,Support stabilization and maintenance as 4WD tracks while favoring closure and rehabilitation over upgrades.
+01caba41-424a-4e50-8978-7bc46b69484a,2025-03-27 19:07:07.495181+00:00,qwen,qwen-turbo,0,4577,290,"Prioritize environment, long-term views, and local concerns while opposing extensive development."
+00014037-387c-4b41-bbae-6305a96f5536,2025-03-27 19:07:12.672167+00:00,qwen,qwen-turbo,0,4579,294,"Support moderate upgrades, prioritize environment, and local concerns while avoiding full bituminization and closure."
+fc7193d1-e609-4e07-bcff-e036883ed3b0,2025-03-27 19:07:17.889230+00:00,qwen,qwen-turbo,0,4579,297,Prioritize stabilization and maintenance;反对升级为柏油路; close rehabilitation needed; limited conventional vehicle upgrade.
+4b1f03b7-3b78-4c23-b4d3-c8e2cc16102b,2025-03-27 19:07:23.217202+00:00,qwen,qwen-turbo,0,4571,288,"Prioritize environmental protection, balanced development, and community needs while ensuring long-term sustainability."
+12097580-606f-4ef2-8c4e-2401fb60e15a,2025-03-27 19:07:28.319220+00:00,qwen,qwen-turbo,0,4561,278,Prioritize sustainable development; maintenance balances access and environmental concerns.
+ca777b5c-6424-480d-b38d-aa64299058df,2025-03-27 19:07:33.658484+00:00,qwen,qwen-turbo,0,4583,286,Support rehabilitation but open to upgrades with precautions.
+d2e64073-950d-44e4-a074-fe48177b03df,2025-03-27 19:07:38.778544+00:00,qwen,qwen-turbo,0,4577,287,Support moderate upgrades for accessibility and minimal environmental impact while maintaining protection.
+b1a124e7-c0f0-4268-b864-fe69e2f09a6d,2025-03-27 19:07:44.075459+00:00,qwen,qwen-turbo,0,4579,287,Support rehabilitation and minimal intervention; prioritize environmental protection over development.
+2a8b5947-bee4-4198-8c1d-1feaaac079ba,2025-03-27 19:07:49.121565+00:00,qwen,qwen-turbo,0,4575,289,"Support moderate upgrades, prioritize environment, and反对继续开发以保护自然环境。"
+16b897cd-4b86-4d8e-84bc-f72a60b75b9e,2025-03-27 19:07:54.549052+00:00,qwen,qwen-turbo,0,4575,287,"Supports moderate development, prioritizes environment, and favors controlled upgrades."
+cb906a9d-9566-4c64-be62-1e69efef6d17,2025-03-27 19:07:59.783955+00:00,qwen,qwen-turbo,0,4573,289,"Prioritize environment, maintenance, and community needs while opposing major upgrades and new developments."
+b9ad6750-9907-4947-8103-4589f424abd7,2025-03-27 19:08:05.097829+00:00,qwen,qwen-turbo,0,4571,288,Support rehabilitation but also values tourism; concerns about environmental impact; unsure about sealing road.
+81fa1b71-5e1f-4084-9834-2fc1e87be603,2025-03-27 19:08:10.323494+00:00,qwen,qwen-turbo,0,4575,304,"Support rehabilitation and maintenance; oppose升级翻译为英文后为 ""Upgrade"", the policies that involve upgrading roads are ranked lower as they may harm the environment."
+9547ed28-ceba-4651-8c85-c4377066ae0e,2025-03-27 19:08:15.643031+00:00,qwen,qwen-turbo,0,4569,287,Support moderate road improvements; prioritize environment; unsure about bitumen; want community input.
+ec8a3cf2-91d6-42ec-8c73-c69d22443244,2025-03-27 19:08:21.184303+00:00,qwen,qwen-turbo,0,4579,291,"Prioritize environment, long-term views, and local concerns while opposing extensive development."
+a509c196-2c6a-46f2-bdd9-6d559885d58f,2025-03-27 19:08:26.321886+00:00,qwen,qwen-turbo,0,4569,288,Support moderate road upgrades; prioritize environmental protection; unsure about bitumen; local concerns matter.
+47e4371b-cda3-4a99-868e-73e2a40fc319,2025-03-27 19:08:31.616896+00:00,qwen,qwen-turbo,0,4571,286,"Prioritize environmental protection, moderate road upgrades, and consider long-term impacts."
+92db87ad-811b-4c4f-9eb5-9ac237c96492,2025-03-27 19:08:37.765074+00:00,qwen,qwen-turbo,0,4571,289,"Prioritize environment, rehabilitation, and controlled access while opposing extensive development and displacement of locals."
+234798ce-d864-488e-b72e-4c0d36d65d23,2025-03-27 19:08:42.913085+00:00,qwen,qwen-turbo,0,4569,286,"Conservation priority,反对开发，注重长期影响，支持修复和保护。"
+38542148-88a8-4ddb-a4f8-16d0f0bd089b,2025-03-27 19:08:49.034377+00:00,qwen,qwen-turbo,0,4571,280,Prioritize protection; limited vehicle access;反对
+292f1a7b-fef1-4157-95da-56a941b7e0fc,2025-03-27 19:09:00.382340+00:00,qwen,qwen-turbo,0,4571,289,"Prioritize environmental protection, rehabilitation, and sustainable access while considering local needs and future impacts."
+12b8ac39-0e7f-470d-92fd-25fd4b643a44,2025-03-27 19:09:05.516839+00:00,qwen,qwen-turbo,0,4577,298,"Support upgrading to a dirt road, maintain current condition, stabilize trouble spots, bitumen upgrade least preferred; close least."
+b8242af1-9126-4e91-9a1c-756eff3805ac,2025-03-27 19:09:11.558187+00:00,qwen,qwen-turbo,0,4575,290,"Support rehabilitation, oppose upgrading; prioritize environment, local concerns; unsure about economic impacts."
+fbf47a0b-30a4-4ac9-a902-a1a97bd53d0d,2025-03-27 19:09:16.684490+00:00,qwen,qwen-turbo,0,4571,299,"Support upgrading to a dirt road, maintaining current condition, stabilizing trouble spots, closing/rehabilitating last;反对升级为沥青路。"
+16ae0b4b-8323-422d-aa40-0c21abbaa4dc,2025-03-27 19:09:22.061853+00:00,qwen,qwen-turbo,0,4577,292,"Support moderate improvements, prioritize environment, favor controlled access, oppose full upgrade to bitumen."
+bb987cb4-301a-41d2-ba6f-dd660b009d97,2025-03-27 19:09:27.571757+00:00,qwen,qwen-turbo,0,4569,275,"Prioritize environment,反对"

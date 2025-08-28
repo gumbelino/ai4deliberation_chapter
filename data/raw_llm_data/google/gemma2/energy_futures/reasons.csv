@@ -1,0 +1,10 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+da917a6b-4f07-48ff-9d61-5315554b60e2,2025-03-21 07:47:03.299387+00:00,google,gemma2,0,0,0,"Prioritize renewables, utilize existing hydro and biomass, cautiously consider natural gas and nuclear."
+e2db5355-5210-4954-a5df-f4e1e008d712,2025-03-21 07:47:52.728714+00:00,google,gemma2,0,0,0,"Favor renewable energy with biomass and geothermal, caution on coal and nuclear prioritization."
+dc73107d-7330-4d96-bcf7-b3b414a8ef4e,2025-03-21 07:48:17.508370+00:00,google,gemma2,0,0,0,Prioritizing renewables and sustainable sources over fossil fuels with carbon capture as a last resort.
+ddb438f0-b836-4640-8fc6-22e619518ae6,2025-03-21 07:48:42.873429+00:00,google,gemma2,0,0,0,"Prioritizing renewables, some with storage potential, over fossil fuels and risky tech."
+7899eb69-0ec9-4627-b722-8808ddb4a55a,2025-03-21 07:49:08.391530+00:00,google,gemma2,0,0,0,Favor renewables and low-carbon alternatives over fossil fuels with caveats on nuclear and hydro scale.
+9ecacdcc-d6b9-4019-9249-042fe7e7d14a,2025-03-21 07:49:33.992332+00:00,google,gemma2,0,0,0,Prioritize renewables and low-impact energy sources while minimizing fossil fuel reliance.
+06d7e797-c1ec-4e95-9a3a-71f00a97d816,2025-03-21 07:49:59.317870+00:00,google,gemma2,0,0,0,Favor renewables and nuclear over fossil fuels with carbon capture as a last resort.
+096aed8c-19a0-4cd2-b106-6b9fdfcbf86c,2025-03-21 07:50:24.508055+00:00,google,gemma2,0,0,0,Prioritizing renewables with established technologies like hydro and solar while cautiously considering nuclear and geothermal.
+5c544ed5-973f-4cda-b188-1c9fb7ea947c,2025-03-21 07:50:49.829996+00:00,google,gemma2,0,0,0,Prioritize renewables and safe alternatives over fossil fuels with nuclear as a potential last resort.

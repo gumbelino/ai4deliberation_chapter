@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+5aae892a-140a-4e6e-86ac-c8c1bd2edfa3,2025-04-14 14:50:46.032784+00:00,google,gemini-2.5-pro-preview-03-25,0,5266,6859,"Emphasize participation, equality, accountability; reject status quo/moralism."
+c65115af-4c4b-48b7-ab10-c383158c0b60,2025-04-14 14:52:08.762379+00:00,google,gemini-2.5-pro-preview-03-25,0,5268,5681,"Strong belief in inclusive democracy, equality, accountability; critical of current system."
+2b0d91c3-aa9f-4abd-88b9-3359943473de,2025-04-14 14:53:17.164682+00:00,google,gemini-2.5-pro-preview-03-25,0,5276,3675,"Favor inclusive democracy, citizen power, equality, open debate over current system."
+bf46a369-314e-4ffc-9acd-d442eb3a008d,2025-04-14 14:54:13.807439+00:00,google,gemini-2.5-pro-preview-03-25,0,5280,4805,"Favor inclusive, accountable democracy with broad representation; reject current/market/moral focus."
+984db154-55a8-4da0-a0c0-8633af107235,2025-04-14 14:55:08.539408+00:00,google,gemini-2.5-pro-preview-03-25,0,5278,5404,"Ratings favor inclusive democracy, equality, accountability, and representation for all."
+c4e811b2-c0c4-427c-8cb7-352cb8f43417,2025-04-14 14:56:10.154521+00:00,google,gemini-2.5-pro-preview-03-25,0,5274,6725,"Value inclusive democracy, equality, accountability; critical of status quo & influence."
+53bc8360-d471-4777-b8e9-d9bda1303c33,2025-04-14 14:57:33.418671+00:00,google,gemini-2.5-pro-preview-03-25,0,5272,5625,Favor inclusive democracy & equality; critical of party politics & inequality.
+541f529d-25ba-46f0-a024-a41c92257e6c,2025-04-14 14:58:41.638553+00:00,google,gemini-2.5-pro-preview-03-25,0,5268,8069,Favor inclusive democracy & accountability; concerned by inequality & lack of citizen power.
+6ac239e6-974e-477f-adcb-29bb2588fde5,2025-04-14 15:00:21.104871+00:00,google,gemini-2.5-pro-preview-03-25,0,5268,6426,"Favor inclusive democracy, equality, citizen power; critical of status quo."
+d619d727-6e9e-47c9-91df-642b14d118db,2025-04-14 15:01:41.156443+00:00,google,gemini-2.5-pro-preview-03-25,0,5266,9298,"Prioritize equality, citizen voice, fixing issues; reject minimal gov/moral laws."
+11aaeb8a-0be4-43d5-a79e-834786328799,2025-04-14 18:15:23.855515+00:00,google,gemini-2.5-pro-preview-03-25,0,5266,6857,"Emphasize participation, equality, accountability; reject status quo/moralism."
+d2802ed1-eb00-4e17-82c9-94ed7a8118de,2025-04-14 18:16:36.791513+00:00,google,gemini-2.5-pro-preview-03-25,0,5268,5681,"Strong belief in inclusive democracy, equality, accountability; critical of current system."
+c2219364-1e72-41c3-a179-8112146a943b,2025-04-14 18:17:38.173413+00:00,google,gemini-2.5-pro-preview-03-25,0,5276,3977,"Favor inclusive democracy, citizen power, equality, open debate over current system."
+1c94268c-bbcb-48d6-a82a-4cff8e2d0be2,2025-04-14 18:18:23.482518+00:00,google,gemini-2.5-pro-preview-03-25,0,5280,4786,"Prioritize inclusive democracy, accountability, fairness; critical of status quo & extremes."
+d00e3edc-ae2e-4a53-96f5-66a0644c8559,2025-04-14 18:19:13.209742+00:00,google,gemini-2.5-pro-preview-03-25,0,5278,5292,"Favor inclusive democracy, accountability, equality; critical of current system."
+807d03de-6b5c-4151-a788-4b4bb5934ad1,2025-04-14 18:20:09.303608+00:00,google,gemini-2.5-pro-preview-03-25,0,5274,6514,"Value inclusive democracy, equality, accountability; critical of current system."
+14f2ab51-5b0f-4cdf-a690-98167da19a47,2025-04-14 18:21:19.299684+00:00,google,gemini-2.5-pro-preview-03-25,0,5272,5625,Favor inclusive democracy & equality; critical of party politics & inequality.
+0f7c74e0-6604-4a8b-affb-6148bbbbf9b3,2025-04-14 18:22:28.475844+00:00,google,gemini-2.5-pro-preview-03-25,0,5268,5906,"Value inclusive democracy, accountability, equality; critical of current flaws."
+fa49d111-6519-48eb-a7d7-2fdf23b8f1b2,2025-04-14 18:23:35.773849+00:00,google,gemini-2.5-pro-preview-03-25,0,5268,6307,"Favor inclusive democracy, equality, citizen input; critical of current system."
+4c0d5d49-aec6-4cf0-ae29-91c682e7568f,2025-04-14 18:24:42.694217+00:00,google,gemini-2.5-pro-preview-03-25,0,5266,9300,"Ratings favor inclusive democracy, equality, and critique current power structures."
+41b1c6d9-dcaf-47f2-a9ad-9cfd8bca4ed1,2025-04-15 07:05:25.133017+00:00,google,gemini-2.5-pro-preview-03-25,0,5260,6029,"Favor participation, equality, reform. Skeptical of status quo & imposed morality."
+465d9789-6c69-48e4-bb58-dd2ae7b92c72,2025-04-15 08:21:10.547283+00:00,google,gemini-2.5-pro-preview-03-25,0,5276,8957,"Seek inclusive democracy & equality; critical of current system, market focus, moral laws."
+5f582c80-9603-445b-bc5c-cebd8ce3d610,2025-04-15 08:22:51.291071+00:00,google,gemini-2.5-pro-preview-03-25,0,5258,5755,"Emphasize equality, inclusion, accountability, and robust public debate."
+04abfcd0-ee02-4b2f-8f71-11d61073c834,2025-04-15 08:23:59.042737+00:00,google,gemini-2.5-pro-preview-03-25,0,5272,6277,"Ratings favor inclusive democracy, equality, accountability, and free expression."
+e01e28ab-9a33-47ea-9718-1d4db4a29af7,2025-04-15 08:25:12.484261+00:00,google,gemini-2.5-pro-preview-03-25,0,5260,4684,"Value inclusive democracy, equality, free press, citizen voice; critical of current system."
+710d3fa0-141b-42db-b2b2-6e1dd6a5eb10,2025-04-15 08:26:05.926538+00:00,google,gemini-2.5-pro-preview-03-25,0,5266,5907,"Strong belief in inclusive democracy, accountability, and equal representation."
+c53ebfbf-2244-4fda-bbec-f3e6db1837a8,2025-04-15 08:27:13.981336+00:00,google,gemini-2.5-pro-preview-03-25,0,5268,5656,"Seek fair representation, accountability, less elite influence, reject moral laws."
+46453acd-f3b0-4ea1-8d10-94b81cc4522f,2025-04-15 08:28:22.486017+00:00,google,gemini-2.5-pro-preview-03-25,0,5268,6309,"Strong belief in inclusive democracy, equality, and citizen influence."
+4508d756-4aaa-4d60-b2c8-57df279b9359,2025-04-15 08:29:34.947910+00:00,google,gemini-2.5-pro-preview-03-25,0,5268,8060,Favor inclusive representation & fixing flaws. Least support for imposed morals & status quo.
+5b3f6053-143d-4cc9-b802-f1ff35afb299,2025-04-15 08:31:13.848505+00:00,google,gemini-2.5-pro-preview-03-25,0,5270,7266,"Favor inclusive democracy, equality, citizen power; critical of status quo & elite influence."
+918a0bf1-2d3e-48ec-9d44-bafe7fb1bb4c,2025-04-15 08:32:42.939764+00:00,google,gemini-2.5-pro-preview-03-25,0,5268,6675,Favor inclusive democracy & equality; critical of money's influence & status quo.
+677c4ac8-6829-4a97-aaa3-c8f0106bdb28,2025-04-15 08:34:07.755261+00:00,google,gemini-2.5-pro-preview-03-25,0,5266,4662,"Ratings favour inclusive participation, accountability, less party/corporate power."

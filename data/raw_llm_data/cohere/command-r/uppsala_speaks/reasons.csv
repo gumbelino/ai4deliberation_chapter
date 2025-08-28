@@ -1,0 +1,13 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+3bf2177f-a277-41bc-b9aa-ef33a19c6c7c,2025-03-24 21:42:18.948763+00:00,cohere,command-r,0,3976.0,303.0,The best policy in my view is to address the root causes of begging by focusing on the problems in the beggars' home countries.
+da25588e-ea4e-40ca-93f2-27be892884be,2025-03-24 21:42:24.020280+00:00,cohere,command-r,0,3976.0,294.0,"My ratings reflect a balanced, humane approach that prioritizes local action and source country responsibility."
+fc6c73b5-fe06-4b3e-8173-543ea60d23b2,2025-03-24 21:42:28.854607+00:00,cohere,command-r,0,3976.0,297.0,"My ratings reflect a balanced, enforcement-focused approach that prioritises local concerns and long-term solutions."
+554cacbf-2c17-43bd-a9aa-388bcce3f9ce,2025-03-24 22:06:16.052166+00:00,cohere,command-r,0,3976.0,295.0,"The order reflects a balance between compassion and practical solutions, with a focus on tackling root causes."
+fdd08a74-fde7-4b2b-b4f1-bfe38296988b,2025-03-24 22:06:20.903763+00:00,cohere,command-r,0,3976.0,295.0,"My ratings reflect a balanced approach: addressing root causes, helping beggars, and enforcing laws."
+6f030d55-daa9-4b9a-8de9-3c8fd39739dc,2025-03-24 22:06:25.796708+00:00,cohere,command-r,0,3976.0,297.0,"My ratings reflect a balanced, enforcement-focused approach that prioritises local concerns and long-term solutions."
+ad2156b8-22d3-4135-a364-5ef6cc8078ed,2025-03-24 22:06:30.599950+00:00,cohere,command-r,0,3976.0,300.0,"My ratings reflect a balanced, pragmatic approach, prioritizing local needs, enforcement, and source country solutions over immigration and settlement."
+7c253a54-02f0-4cb6-8a72-4e38af4b9d70,2025-03-24 22:06:35.364169+00:00,cohere,command-r,0,3976.0,294.0,"My ratings reflect a focus on preventing begging at the source, followed by enforcement and deportation."
+7b5b523b-8566-4a9b-97fb-aa1df425efc3,2025-03-24 22:06:40.272742+00:00,cohere,command-r,0,3976.0,302.0,"Tough laws, focus on source issues, and local enforcement are best. Accommodate, then deter, and finally deport."
+1d5e1d54-6562-48c1-aa1c-079299614454,2025-03-24 22:06:50.477367+00:00,cohere,command-r,0,3976.0,291.0,My ratings reflect a focus on reducing begging at the source and enforcing laws.
+68dc368d-e05f-41c1-95e3-478f2020476c,2025-03-24 22:06:55.141068+00:00,cohere,command-r,0,3976.0,292.0,My ratings reflect a balanced approach: managing begging locally and supporting the vulnerable globally.
+7ed3cef2-1817-4416-bd84-dea88cf50730,2025-03-24 22:06:59.811624+00:00,cohere,command-r,0,3976.0,294.0,"The harshest policies were rated lowest; softer, more humanitarian approaches received the highest ratings."

@@ -1,0 +1,33 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+f442ef54-4701-4728-964d-fe450c051afe,2025-03-21 21:04:07.633561+00:00,openai,gpt-4o-mini,0,4849,300,"I prioritize high privacy and strong regulation for biobanks, valuing public oversight and ethics."
+d81e4842-d562-4125-af53-90f3b4b4f9b1,2025-03-21 21:04:18.119785+00:00,openai,gpt-4o-mini,0,4849,297,I prioritized strong regulation and public funding for ethical biobanking and privacy protection.
+db77e13b-30cb-4510-9063-2b4bd327e088,2025-03-21 21:04:25.524815+00:00,openai,gpt-4o-mini,0,4846,297,I prioritized strong regulation and public funding for ethical biobanking and privacy protection.
+133b1ce1-f7f6-4ea7-ba96-b1ae9143a013,2025-03-21 21:04:32.529072+00:00,openai,gpt-4o-mini,0,4849,298,I prioritize high privacy and strong regulation for biobanks while opposing minimal oversight options.
+1910ca8d-8519-4ae9-a1af-84134dd94b2d,2025-03-21 21:04:39.660904+00:00,openai,gpt-4o-mini,0,4849,296,I prioritize strong regulation and privacy in biobanking while supporting public funding.
+cc882120-da88-4e8f-a9c9-bf3ef463e5d8,2025-03-21 21:04:46.011947+00:00,openai,gpt-4o-mini,0,4849,300,"I prioritize high privacy and strong regulation for biobanks, valuing individual rights and oversight."
+bc857eda-5d7e-475e-aae8-81921253b340,2025-03-21 21:04:53.691578+00:00,openai,gpt-4o-mini,0,4849,296,"I prioritize strong regulation and privacy, favoring public funding over minimal oversight."
+453e5a59-8835-4ff3-a400-b0eb62572bf3,2025-03-21 21:05:00.041073+00:00,openai,gpt-4o-mini,0,4849,299,I prioritize strong regulation and public funding for biobanks to ensure privacy and ethical use.
+2e444c4f-c5ce-45c1-abf6-e9e836d48a55,2025-03-21 21:05:07.620167+00:00,openai,gpt-4o-mini,0,4849,299,I prioritize strong regulation and public funding for biobanks to ensure privacy and ethical use.
+550440a1-bd11-4e89-8d60-181f68d9d6e5,2025-03-21 21:05:15.298747+00:00,openai,gpt-4o-mini,0,4849,297,"I prioritize strong regulation and privacy, favoring public funding over minimal government input."
+013435fe-c5ca-41d2-b7fd-e1730a27dd7d,2025-03-21 21:05:23.483955+00:00,openai,gpt-4o-mini,0,4849,299,"I prioritize strong regulation and privacy in biobanking, favoring public funding and oversight."
+79e40d12-a069-41da-90a0-7357270d730b,2025-03-21 21:05:31.681608+00:00,openai,gpt-4o-mini,0,4849,298,I prioritize high privacy and strong regulation for biobanks while opposing minimal oversight options.
+b4082b02-6c86-4b12-970d-8c1bb621881a,2025-03-21 21:05:40.081118+00:00,openai,gpt-4o-mini,0,4849,299,I prioritize strong regulation and public funding for biobanks to ensure privacy and ethical use.
+0c612440-301d-4578-bab2-ce5b20d7e7c6,2025-03-21 21:05:48.096446+00:00,openai,gpt-4o-mini,0,4849,299,I prioritize strong regulation and public funding for biobanks while valuing privacy and oversight.
+91a081e2-e416-4969-ba45-9457011fbe5f,2025-03-21 21:05:55.022552+00:00,openai,gpt-4o-mini,0,4849,297,I prioritize public funding and strong regulation for ethical biobanking and privacy protection.
+0812e2fb-a57b-441d-a22c-7ca89290d17e,2025-03-21 21:06:03.015610+00:00,openai,gpt-4o-mini,0,4849,299,I prioritize strong regulation and public funding for biobanks while valuing privacy and oversight.
+1a69bb7b-f3e4-436b-9b5c-322cb7849876,2025-03-21 21:06:12.538862+00:00,openai,gpt-4o-mini,0,4849,299,"I prioritize strong regulation and privacy in biobanking, favoring public funding and oversight."
+131560d2-39a8-4d97-9c93-a72d8d842f68,2025-03-21 21:06:50.979021+00:00,openai,gpt-4o-mini,0,4849,299,I prioritize strong regulation and public funding for biobanks to ensure privacy and ethical use.
+09024f54-a7fb-4cca-8acb-398932f6a00f,2025-03-21 21:06:59.112889+00:00,openai,gpt-4o-mini,0,4849,295,I prioritize strong privacy and government oversight over funding sources and regulation levels.
+51a4639c-5f40-469b-8cfc-aeee9d687959,2025-03-21 21:07:06.773271+00:00,openai,gpt-4o-mini,0,4849,297,"I prioritize strong regulation and privacy, valuing public funding over minimal oversight options."
+bbd7f63d-6822-4435-9402-139b8eff0f45,2025-03-28 07:03:53.427259+00:00,openai,gpt-4o-mini,0,4849,300,"I prioritize strong regulation and privacy in biobanking, favoring public funding and cautious approaches."
+4785f56e-516d-4f74-a340-8e3f08db6048,2025-03-28 07:04:01.732541+00:00,openai,gpt-4o-mini,0,4849,300,"I prioritize high privacy and strong regulation for biobanks, valuing individual rights and oversight."
+081cbb2a-5860-4668-8c10-d8cf319dc5dd,2025-03-28 07:04:11.727788+00:00,openai,gpt-4o-mini,0,4849,300,"I prioritize strong regulation and privacy in biobanking, favoring public funding and cautious approaches."
+d304d097-dc5a-46e3-8e65-7bd532f8473b,2025-03-28 07:04:19.463047+00:00,openai,gpt-4o-mini,0,4849,298,I prioritize strong regulation and public funding for biobanks to ensure privacy and oversight.
+b215311d-4b8f-4bb3-8eba-823c2ea070c0,2025-03-28 07:04:26.461698+00:00,openai,gpt-4o-mini,0,4849,299,I prioritize strong regulation and public funding for biobanks while valuing privacy and oversight.
+c9870914-33e1-404d-84f4-46b0c7f757b7,2025-03-28 07:04:33.961972+00:00,openai,gpt-4o-mini,0,4849,300,"I prioritize strong regulation and privacy in biobanking, valuing public oversight and ethical use."
+b5757e9f-412a-4f8b-a164-a80039bddef2,2025-03-28 07:04:42.726742+00:00,openai,gpt-4o-mini,0,4849,300,"I prioritize high privacy and strong regulation for biobanks, valuing public oversight and ethics."
+573769df-e256-42db-b799-7379ee50ec4a,2025-03-28 07:04:50.041189+00:00,openai,gpt-4o-mini,0,4846,298,I prioritize strong regulation and public funding for biobanks while valuing individual privacy.
+8365cab9-c9d8-41de-8887-2471e7caa6e1,2025-03-28 07:04:58.456987+00:00,openai,gpt-4o-mini,0,4849,299,I prioritized strong regulation and public funding for biobanks to ensure privacy and ethical use.
+14eaaeaf-2e41-4c79-9ede-8965df257435,2025-03-28 07:05:05.564207+00:00,openai,gpt-4o-mini,0,4846,296,I prioritize high privacy and strong regulation over minimal government input and private funding.
+64c0a4fb-534c-44b2-88d7-788e2aee1a46,2025-03-28 07:05:12.454139+00:00,openai,gpt-4o-mini,0,4849,297,"I prioritize strong regulation and privacy, favoring public funding over minimal oversight options."
+f444637d-26e9-4eec-9685-9d612e04e693,2025-03-28 07:05:24.058328+00:00,openai,gpt-4o-mini,0,4849,299,"I prioritized strong regulation and privacy, favoring public funding and oversight for biobanks."

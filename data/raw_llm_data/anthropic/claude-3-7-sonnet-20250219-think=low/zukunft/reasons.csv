@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+9cdd09a9-8cc0-40a3-9db9-a64048fd0fa7,2025-05-22 13:38:04.500238+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,4899,1659,"More funding for accessible services, addressing socioeconomic factors, and integrated care approaches."
+66c96e95-4fc7-4c65-b4a3-186db39d56aa,2025-05-22 14:06:57.268989+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,4803,1611,Prioritize social determinants and holistic care over simply adding services or maintaining status quo.
+2cc02d21-3628-41ff-8194-83e24724c130,2025-05-22 14:07:23.706165+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,4330,1301,Prioritize destigmatization while supporting holistic care and addressing social determinants of health.
+511a62bc-e293-4b02-ad4e-ac7905179fe9,2025-05-22 14:07:46.548800+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,4982,1817,Prioritized expanding holistic services and addressing social determinants over private options.
+c66c7249-7b9b-4f69-a28e-1b88d256a4ef,2025-05-22 14:08:14.706499+00:00,anthropic,claude-3-7-sonnet-20250219-think=low,0,4520,1434,Prioritize awareness and integrated care with increased public funding over privatization or reduction.

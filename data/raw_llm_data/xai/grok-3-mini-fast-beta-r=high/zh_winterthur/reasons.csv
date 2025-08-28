@@ -1,0 +1,6 @@
+cuid,created_at,provider,model,temperature,input_tokens,output_tokens,reason
+d1f0dba4-a709-4ba8-b6b1-e1abf742a889,2025-05-21 12:07:03.494036+00:00,xai,grok-3-mini-fast-beta-r=high,0,11833,199,"Based on my support for sustainability, I prioritize incentives and research over radical changes or deregulation."
+b2b48946-d458-4dd0-aca2-af049c32130e,2025-05-21 12:07:33.973966+00:00,xai,grok-3-mini-fast-beta-r=high,0,10563,194,"I prioritize sustainable incentives and moderate regulations, disliking deregulation."
+32bf2439-d093-4918-a068-8f54b8327c1e,2025-05-21 12:08:01.442652+00:00,xai,grok-3-mini-fast-beta-r=high,0,10770,195,Prioritized sustainable incentives and moderate regulations over radical or deregulatory approaches.
+f8ea65c6-4c0c-43f8-9784-05d112112edb,2025-05-21 12:08:28.737532+00:00,xai,grok-3-mini-fast-beta-r=high,0,11339,201,"Ranked policies favoring sustainable incentives and moderate regulations over radical, status quo, or deregulatory approaches."
+63a7b9e8-10f7-4024-85cd-8ea968bba600,2025-05-21 12:08:52.624020+00:00,xai,grok-3-mini-fast-beta-r=high,0,11013,194,Supported sustainable policies with incentives and moderate regulations based on environmental priorities.

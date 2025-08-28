@@ -1,0 +1,1616 @@
+cuid,date,provider,model,temperature,survey,type,prompt,response,input_tokens,output_tokens
+0c7d6362-6a66-4c9e-ad54-d6377cfe269e,2025-03-27 17:06:36.645611+00:00,qwen,qwen1.5-110b-chat,0,bep,considerations,"## Instructions:
+- Rate each of the 43 [Considerations] below from 1 to 7, where 1 is strongly disagree and 7 is strongly agree.
+- In your response, return an ordered list of 43 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 43 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. I think it is safe to say climate change is here.
+2. Agricultural subsidies should promote sustainable, pesticide and antibiotic-free production.
+3. I don't trust what scientists say about climate change.
+4. There's not much point in me doing anything to make agriculture more sustainable. No-one else is going to.
+5. “Actions on the food system in Switzerland will lead to increased imports and shift of the pollution abroad”
+6. The main focus of planning for adaptation should be to prepare the food system for extreme weather events, such as drought and flooding. 
+7. The Swiss food system is particularly vulnerable to climate change, and it is in our interest to help find an effective global solution.
+8. I don't trust what I hear about climate change from government.
+9. Sustainable agriculture increases prices and harms consumer freedom. The production should be adapted to what people demand.
+10. Eating sustainably is too expensive, and only wealthy people can afford it
+11. I believe that the difference we can have as an individual, in Switzerland, is so minimal that our actions are worthless.
+12. It is important to plan for migration by people displaced by malnutrition and famine.
+13. The Swiss food system depends on imports from other countries, and it is in our interest to help find an effective global solution.
+14. Agriculture is already very sustainable. Swiss farmers are on the right track
+15. There is not enough information to definitively establish if the link between the agri-food system and climate change is real.
+16. We should develop short distribution channels and support local production instead of supporting big agrifood corporations
+17. Planning for food system adaptation needs a holistic approach, considering a whole range of issues, instead of focussing on individual issues. 
+18. It is NOT necessary to engage with the community when deciding what are the most important issues for planning for food system changes.
+19. I'm not going to do anything to address the impacts of the agri-food system because it is not a major issue.
+20. We need actions to protect inhabitants and the biodiversity from harmful pesticide.
+21. Climate warming will ultimately benefit food production globally as plants better growth in higher temperature
+22. We need to focus on adaptation actions that are concerned with the economic future of the country.
+23. The community should be involved in discussions about food system adaptation.
+24. Some communities are more affected than others by the global agri-food system, but this is not a priority issue.
+25. We should focus on protecting human systems rather than environmental ecosystems.
+26. I don't know what to do. I'm very concerned and would like to do something, but I don't have a realistic shortlist of things that would really make a difference.
+27. The negative effects of the climate change on local commerce should be taken into account.
+28. Strong regulation of food production will eventually damage our economic relationship with other countries
+29. There is not enough information to definitively say that climate change is real.
+30. Banning pesticides might help the local biodiversity but decreases our food production capacity and autonomy
+31. As long as we use animals in agriculture, it cannot be sustainable
+32. “Food accessibility (price) and security (availability) is NOT COMPATIBLE with a sustainable food system”
+33. It is important to support smal land local farming as they have the fewest resources to deal with impacts of climate change. 
+34. Climate variation is normal, so why should this be a problem?
+35. “Intensive food production can go along with the protection of the environment and health”
+36. There is no urgent need to prepare for an increase in illness and death caused by intensive use of pesticides/antibiotics
+37. Climate change will not be a problem because there will be technological solutions available.
+38. If Switzerland reduces greenhouse gases of its food system it won't make a difference.
+39. It's difficult to trust what comes out in the media on the issue of climate change.
+40. I am happy to pay a higher price for local or organic food products
+41. We need to deal with the water pollution issue through measures such as reducing fertilizer and pesticide use.
+42. Products that use environmentally harmful ingredients, such as palm oil, should be taxed in the same way as tobacco products.
+43. “Farmers already suffer enough from strict rules and paperwork. Family farmers should have more liberties”","1. 6
+2. 7
+3. 2
+4. 3
+5. 4
+6. 7
+7. 6
+8. 2
+9. 3
+10. 4
+11. 2
+12. 6
+13. 6
+14. 4
+15. 2
+16. 7
+17. 7
+18. 1
+19. 2
+20. 6
+21. 2
+22. 5
+23. 7
+24. 3
+25. 2
+26. 5
+27. 6
+28. 3
+29. 2
+30. 4
+31. 3
+32. 2
+33. 6
+34. 2
+35. 4
+36. 2
+37. 3
+38. 2
+39. 3
+40. 6
+41. 7
+42. 6
+43. 3",1057,248
+0c7d6362-6a66-4c9e-ad54-d6377cfe269e,2025-03-27 17:06:36.645611+00:00,qwen,qwen1.5-110b-chat,0,bep,policies,"## Instructions:
+- Based on your previous ratings, rank the 7 [Policies] listed below from 1 to 7, where 1 represents the option you support the most and 7 the option you support the least.
+- In your response, return an ordered list of 7 ranks as integers, one rank per line following the format in the [Example output].
+- Your response must have exactly 7 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 4
+2. 1
+3. 3
+4. 2
+
+## [Policies]:
+1. Policies that involve a radical sustainable food regulation (e.g., banning all pesticides, banning the importation of food related product that employ non-sustanable approaches, exclusively incentivising organic agriculture)
+2. Preparing for climate risk for food production through the development of new approaches and technologies that enhance resilience to the impacts of climate variability or change.
+3. Adaptation policies and expenditure. Planning controls and emergency response programs.
+4. Policies that involve a moderate sustainable regulations (e.g., banning certain types of pesticides, incentivising organic agriculture)
+5. Leave the policy settings as they are.
+6. Policies that create incentives for local producers to produce sustainable food (e.g., subsidies or tax breaks for local farmers who produce organic products)
+7. Policies that emphasise fewer regulations (e.g., policies that promote free trade agreements by reducing food regulation)","1. 4
+2. 1
+3. 6
+4. 3
+5. 7
+6. 2
+7. 5",1616,34
+0c7d6362-6a66-4c9e-ad54-d6377cfe269e,2025-03-27 17:06:36.645611+00:00,qwen,qwen1.5-110b-chat,0,bep,reasons,"## Instructions:
+- In a single line, explain your ratings above within 100 characters or less.
+- Do not include any additional formatting, such as bullets or special characters.
+- Do not include more than one space in a row.
+","Ranked policies based on support for sustainable agriculture, climate resilience, and local incentives, with preference for moderate regulations and disfavoring free trade over sustainability.",1709,30
+915b2fb0-e71b-4da9-9f38-02771558ebd9,2025-03-27 17:56:25.126952+00:00,qwen,qwen1.5-110b-chat,0,uppsala_speaks,considerations,"## Instructions:
+- Rate each of the 42 [Considerations] below from 1 to 7, where 1 is strongly disagree and 7 is strongly agree.
+- In your response, return an ordered list of 42 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 42 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. Street scene in Uppsala has changed for the worse since the beggars have come.
+2. Sweden can not take responsibility for all the poor people in the world.
+3. Many beggars are victims.
+4. Beggars should not bring their children to Sweden but leave them at home so they can attend school.
+5. EU migrants coming to Uppsala due to rumors of more support and shelter for the homeless.
+6. The beggars trying to cheat me out of money by playing sick and poor even though they are not.
+7. If we begin to help those who come here to beg for it will soon be even more.
+8. We need to focus on giving them help in their homeland.
+9. Before we assist foreign beggars, we must take care of our own Swedish homeless.
+10. The beggars have it good here in Sweden and would rather live here. 
+11. Home countries Romania and Bulgaria have a responsibility to improve the situation of their minority population.
+12. Beggars can get away with things that you and I would not get away with.
+13. The migrant beggars are eating way the Swedish welfare state
+14. They should look for jobs instead of begging.
+15. Beggars have the same values as us and therefore we have an obligation to help them with school, work, housing and food.
+16. Politicians in Uppsala take no responsibility for the beggars.
+17. We should take in more refugees in Sweden.
+18. I have no responsibility for helping the begging Roma in Sweden.
+19. It is our establishment which invites them to beg and take part of our social safety net.
+20. The EU is responsible to handle the situation involving EU citizens crossing borders to beg.
+21. The EU is powerless against Romania's shameless treatment of the Roma minority.
+22. It's good to give money to the beggars
+23. We must improve the beggars conditions when they are in Sweden.
+24. The emergence of ""parallel societies"" and ""slums"" in Uppsala, is not acceptable.
+25. The municipality is responsible for helping the begging EU citizens in Sweden.
+26. Allowing street begging in some EU countries, including Sweden, does not facilitate Romania's efforts to achieve social inclusion and enhancing employability
+27. Begging EU Citizens really want to go back to their country and not live in Sweden.
+28. It is not OK to break Swedish law just because the offenders are poor.
+29. Our tax money should go to the Swedes not to foreign beggars.
+30. Begging on the streets of Uppsala is organized with connections to the criminal mafia.
+31. I feel guilty that I have it good when I see a beggar.
+32. Why don't we just treat the beggars the same as we do refugees? They are in the same situation.
+33. Begging is caused by poverty and discrimination of minority groups in certain EU countries.
+34. We can not help so much that we are sending the wrong signals.
+35. I feel helpless when I see a beggar.
+36. Beggars are victims of poverty in their home countries.
+37.  Romania is failing to take responsibility for the Roma population.
+38. Tourism in Sweden is damaged when the image of a clean and safe country no longer proves correct.
+39. We should try the beggars to find other ways to help themselves.
+40. There are too many beggars on the streets of Uppsala.
+41. There is no ultimate responsibility for begging EU citizens.
+42. The Swedish state is responsible for helping the begging Roma in Sweden.","1. 4
+2. 5
+3. 6
+4. 2
+5. 3
+6. 4
+7. 3
+8. 5
+9. 6
+10. 3
+11. 5
+12. 4
+13. 3
+14. 5
+15. 4
+16. 3
+17. 4
+18. 2
+19. 4
+20. 5
+21. 5
+22. 3
+23. 4
+24. 6
+25. 5
+26. 4
+27. 3
+28. 6
+29. 4
+30. 5
+31. 4
+32. 4
+33. 5
+34. 5
+35. 4
+36. 6
+37. 5
+38. 4
+39. 5
+40. 4
+41. 3
+42. 5",898,242
+915b2fb0-e71b-4da9-9f38-02771558ebd9,2025-03-27 17:56:25.126952+00:00,qwen,qwen1.5-110b-chat,0,uppsala_speaks,policies,"## Instructions:
+- Based on your previous ratings, rank the 7 [Policies] listed below from 1 to 7, where 1 represents the option you support the most and 7 the option you support the least.
+- In your response, return an ordered list of 7 ranks as integers, one rank per line following the format in the [Example output].
+- Your response must have exactly 7 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 4
+2. 1
+3. 3
+4. 2
+
+## [Policies]:
+1. Forbid giving money to beggars
+2. Provide accommodation for beggars (more)
+3. Ban Illegal Settlements
+4. Enforce existing laws without special consideration for beggars
+5. Ban Begging within Sweden
+6. Focus resources on addressing the the problem in source countries such as Romania
+7. Deport any immigrants found begging on the streets who have stayed in Sweden longer than three months","1. 6
+2. 2
+3. 4
+4. 1
+5. 7
+6. 3
+7. 5",1363,34
+915b2fb0-e71b-4da9-9f38-02771558ebd9,2025-03-27 17:56:25.126952+00:00,qwen,qwen1.5-110b-chat,0,uppsala_speaks,reasons,"## Instructions:
+- In a single line, explain your ratings above within 100 characters or less.
+- Do not include any additional formatting, such as bullets or special characters.
+- Do not include more than one space in a row.
+","Ranked policies based on supporting a balanced approach to addressing the乞讨 issue, prioritizing assistance and addressing root causes over punitive measures.",1456,26
+2e43931d-0139-4214-84d2-86c9cf938fd8,2025-03-27 17:56:40.956121+00:00,qwen,qwen1.5-110b-chat,0,uppsala_speaks,considerations,"## Instructions:
+- Rate each of the 42 [Considerations] below from 1 to 7, where 1 is strongly disagree and 7 is strongly agree.
+- In your response, return an ordered list of 42 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 42 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. I feel helpless when I see a beggar.
+2. We should take in more refugees in Sweden.
+3. EU migrants coming to Uppsala due to rumors of more support and shelter for the homeless.
+4. We need to focus on giving them help in their homeland.
+5. Many beggars are victims.
+6. I have no responsibility for helping the begging Roma in Sweden.
+7. Begging on the streets of Uppsala is organized with connections to the criminal mafia.
+8. Our tax money should go to the Swedes not to foreign beggars.
+9. Home countries Romania and Bulgaria have a responsibility to improve the situation of their minority population.
+10. If we begin to help those who come here to beg for it will soon be even more.
+11. The EU is powerless against Romania's shameless treatment of the Roma minority.
+12. Allowing street begging in some EU countries, including Sweden, does not facilitate Romania's efforts to achieve social inclusion and enhancing employability
+13. The migrant beggars are eating way the Swedish welfare state
+14. Beggars should not bring their children to Sweden but leave them at home so they can attend school.
+15. It is not OK to break Swedish law just because the offenders are poor.
+16. The municipality is responsible for helping the begging EU citizens in Sweden.
+17. Why don't we just treat the beggars the same as we do refugees? They are in the same situation.
+18. Before we assist foreign beggars, we must take care of our own Swedish homeless.
+19. It is our establishment which invites them to beg and take part of our social safety net.
+20. They should look for jobs instead of begging.
+21. The Swedish state is responsible for helping the begging Roma in Sweden.
+22. The beggars have it good here in Sweden and would rather live here. 
+23. Street scene in Uppsala has changed for the worse since the beggars have come.
+24. Tourism in Sweden is damaged when the image of a clean and safe country no longer proves correct.
+25. Politicians in Uppsala take no responsibility for the beggars.
+26. Begging EU Citizens really want to go back to their country and not live in Sweden.
+27. Beggars have the same values as us and therefore we have an obligation to help them with school, work, housing and food.
+28.  Romania is failing to take responsibility for the Roma population.
+29. Sweden can not take responsibility for all the poor people in the world.
+30. Beggars are victims of poverty in their home countries.
+31. There is no ultimate responsibility for begging EU citizens.
+32. We can not help so much that we are sending the wrong signals.
+33. We should try the beggars to find other ways to help themselves.
+34. I feel guilty that I have it good when I see a beggar.
+35. The emergence of ""parallel societies"" and ""slums"" in Uppsala, is not acceptable.
+36. There are too many beggars on the streets of Uppsala.
+37. Begging is caused by poverty and discrimination of minority groups in certain EU countries.
+38. The beggars trying to cheat me out of money by playing sick and poor even though they are not.
+39. The EU is responsible to handle the situation involving EU citizens crossing borders to beg.
+40. We must improve the beggars conditions when they are in Sweden.
+41. It's good to give money to the beggars
+42. Beggars can get away with things that you and I would not get away with.","1. 4
+2. 5
+3. 3
+4. 6
+5. 5
+6. 2
+7. 4
+8. 3
+9. 5
+10. 3
+11. 4
+12. 5
+13. 3
+14. 2
+15. 6
+16. 3
+17. 4
+18. 5
+19. 4
+20. 4
+21. 3
+22. 3
+23. 4
+24. 4
+25. 2
+26. 3
+27. 4
+28. 5
+29. 6
+30. 5
+31. 2
+32. 4
+33. 5
+34. 4
+35. 5
+36. 4
+37. 5
+38. 3
+39. 5
+40. 5
+41. 3
+42. 4",898,242
+2595c84b-05d7-40f7-bc3a-9158a88cb4ac,2025-03-27 17:56:59.958757+00:00,qwen,qwen1.5-110b-chat,0,fnqcj,considerations,"## Instructions:
+- Rate each of the 42 [Considerations] below from 1 to 12, where 1 is strongly disagree and 12 is strongly agree.
+- In your response, return an ordered list of 42 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 42 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. Native animals in the Daintree need protection because they have a right to life which cannot be traded against economic considerations.
+2. I think that both short and long term perspectives are needed in deciding what should be done with the Bloomfield Track, but I don't know which one is more important.
+3. If we don't take steps to protect the Daintree Rainforest future generations will miss out on the opportunity to experience the area as we do now.
+4. The most important use of the Bloomfield Track is for tourism.
+5. The Bloomfield Track may not have been the best idea, but I guess there is probably little point in closing it now that it has been built.
+6. I would be worse off if more of the Daintree rainforest is protected.
+7. I'm concerned that I will be made worse off by any decision about the Bloomfield Track.
+8. If future generations could have their say about the Bloomfield track, they would be less concerned about the environmental impacts than many people make out.
+9. Erosion from the Bloomfield Track is permanently damaging the coral reefs that fringe the beaches below
+10. Any decision about the Bloomfield Track will greatly affect people like me.
+11. I don't like how development is creeping further and further North into the Daintree and beyond because of its effect on the environment.
+12. The future of the Bloomfield Track should be determined by everyone and not just by those who live in the Bloomfield area.
+13. The protection of plants and animals in the Daintree is OK so long as it doesn't affect me.
+14. I'm not sure if the future of the Bloomfield Track should be determined by locals, outsiders or both.
+15. I don't know how, but I think that there must be some way in which everybody benefits from protecting the rainforest near the Bloomfield Track.
+16. Erosion from the Bloomfield Track does not cause siltation or damage to the fringing inshore reefs between Cape Tribulation and Cooktown
+17. The fate of the Bloomfield Track is of no concern to me.
+18. In deciding on what to do with the Bloomfield Track I don't know whether it's more important to meet the needs of the community or the environment.
+19. Using cars on the Bloomfield Track is bad for the rainforest.
+20. Laying bitumen on the Bloomfield Track would be beneficial for the environment
+21. The more that it is possible for the average North Queensland resident can access the Bloomfield Track the better
+22. I don't know if improving the Bloomfield Track would lead to a rapid acceleration of development in the area to the detriment of the environment.
+23. There is no reason to believe that the Daintree Rainforest is under threat.
+24. I don't really know who benefits most from the protection of Rainforest in the Daintree.
+25. The Wujal Wujal Community is better off now that the Bloomfield Track has been built.
+26. Whilst impacts on locals in the Bloomfield area are a concern, it is the broader community that should carry more weight when deciding what to do with the Bloomfield Track.
+27. The coral reefs along the foreshore below the Bloomfield Track are not badly affected by the road.
+28. Conservation in the Daintree area is worthwhile at whatever cost.
+29. A long term perspective on the Bloomfield Track is essential.
+30. Let's fix the problems in the Daintree just for now. The future will take care of itself.
+31. The Bloomfield Track issue is important for Queensland.
+32. The Bloomfield Track is important because it allows quick access to remote areas of the North.
+33. The road is just the 'thin edge of the wedge'. This may not happen for a long time, but it will happen.
+34. Economic development associated with the Bloomfield Track will provide more opportunities for future generations in North Queensland.
+35. Everyone in Queensland is better off for having a road like the Bloomfield Track.
+36. When it comes to the Bloomfield Track, it's not important to worry about what the future will hold
+37. When it comes to the Bloomfield track, people living in Cairns are in no position to judge what the interests of the local residents of Bloomfield are.
+38. I have no idea what the people in the Bloomfield area think about the Bloomfield Track.
+39. If the Bloomfield Track is sealed (bitumenized) there will not be a rapid increase in environmentally damaging development in the Daintree area in the future It may even benefit the environment there.
+40. No development should be permitted in World Heritage areas such as the Daintree.
+41. We don't need to worry too much about environmental damage in the Daintree region because future generations will be better able to deal with these problems than we are.
+42. I don't know what the people of Bloomfield think about the Bloomfield Track.","1. 10
+2. 6
+3. 11
+4. 3
+5. 7
+6. 1
+7. 2
+8. 4
+9. 9
+10. 8
+11. 11
+12. 10
+13. 2
+14. 5
+15. 8
+16. 1
+17. 1
+18. 5
+19. 9
+20. 1
+21. 7
+22. 6
+23. 1
+24. 5
+25. 7
+26. 8
+27. 1
+28. 10
+29. 11
+30. 1
+31. 9
+32. 8
+33. 7
+34. 4
+35. 6
+36. 1
+37. 2
+38. 3
+39. 1
+40. 12
+41. 1
+42. 3",1186,249
+2595c84b-05d7-40f7-bc3a-9158a88cb4ac,2025-03-27 17:56:59.958757+00:00,qwen,qwen1.5-110b-chat,0,fnqcj,policies,"## Instructions:
+- Based on your previous ratings, rank the 5 [Policies] listed below from 1 to 5, where 1 represents the option you support the most and 5 the option you support the least.
+- In your response, return an ordered list of 5 ranks as integers, one rank per line following the format in the [Example output].
+- Your response must have exactly 5 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 4
+2. 1
+3. 3
+4. 2
+
+## [Policies]:
+1. Maintain the road in its current condition as a 4WD track.
+2. Upgrade the road, to a dirt road suitable for conventional vehicles.
+3. Close the road and rehabilitate it.
+4. Stabilize specific trouble spots, such as steep slopes, on the road but leave it as a 4WD track.
+5. Upgrade the track to a bitumen road.","1. 3
+2. 4
+3. 5
+4. 1
+5. 2",1653,24
+2595c84b-05d7-40f7-bc3a-9158a88cb4ac,2025-03-27 17:56:59.958757+00:00,qwen,qwen1.5-110b-chat,0,fnqcj,reasons,"## Instructions:
+- In a single line, explain your ratings above within 100 characters or less.
+- Do not include any additional formatting, such as bullets or special characters.
+- Do not include more than one space in a row.
+","Ranked policies based on ecological preservation, local impact, and sustainable access, prioritizing minimal intervention and conservation over extensive development.",1736,24
+835257d2-b395-49ee-9d0c-428b3e85e107,2025-03-27 17:57:16.536241+00:00,qwen,qwen1.5-110b-chat,0,fnqcj,considerations,"## Instructions:
+- Rate each of the 42 [Considerations] below from 1 to 12, where 1 is strongly disagree and 12 is strongly agree.
+- In your response, return an ordered list of 42 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 42 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. Whilst impacts on locals in the Bloomfield area are a concern, it is the broader community that should carry more weight when deciding what to do with the Bloomfield Track.
+2. A long term perspective on the Bloomfield Track is essential.
+3. I don't know what the people of Bloomfield think about the Bloomfield Track.
+4. The more that it is possible for the average North Queensland resident can access the Bloomfield Track the better
+5. Conservation in the Daintree area is worthwhile at whatever cost.
+6. I think that both short and long term perspectives are needed in deciding what should be done with the Bloomfield Track, but I don't know which one is more important.
+7. I would be worse off if more of the Daintree rainforest is protected.
+8. Let's fix the problems in the Daintree just for now. The future will take care of itself.
+9. I don't like how development is creeping further and further North into the Daintree and beyond because of its effect on the environment.
+10. I'm concerned that I will be made worse off by any decision about the Bloomfield Track.
+11. If future generations could have their say about the Bloomfield track, they would be less concerned about the environmental impacts than many people make out.
+12. The coral reefs along the foreshore below the Bloomfield Track are not badly affected by the road.
+13. Erosion from the Bloomfield Track does not cause siltation or damage to the fringing inshore reefs between Cape Tribulation and Cooktown
+14. Native animals in the Daintree need protection because they have a right to life which cannot be traded against economic considerations.
+15. The fate of the Bloomfield Track is of no concern to me.
+16. I don't know how, but I think that there must be some way in which everybody benefits from protecting the rainforest near the Bloomfield Track.
+17. The Wujal Wujal Community is better off now that the Bloomfield Track has been built.
+18. The Bloomfield Track issue is important for Queensland.
+19. No development should be permitted in World Heritage areas such as the Daintree.
+20. When it comes to the Bloomfield Track, it's not important to worry about what the future will hold
+21. Everyone in Queensland is better off for having a road like the Bloomfield Track.
+22. Laying bitumen on the Bloomfield Track would be beneficial for the environment
+23. We don't need to worry too much about environmental damage in the Daintree region because future generations will be better able to deal with these problems than we are.
+24. If we don't take steps to protect the Daintree Rainforest future generations will miss out on the opportunity to experience the area as we do now.
+25. The protection of plants and animals in the Daintree is OK so long as it doesn't affect me.
+26. The Bloomfield Track is important because it allows quick access to remote areas of the North.
+27. If the Bloomfield Track is sealed (bitumenized) there will not be a rapid increase in environmentally damaging development in the Daintree area in the future It may even benefit the environment there.
+28. In deciding on what to do with the Bloomfield Track I don't know whether it's more important to meet the needs of the community or the environment.
+29. I'm not sure if the future of the Bloomfield Track should be determined by locals, outsiders or both.
+30. When it comes to the Bloomfield track, people living in Cairns are in no position to judge what the interests of the local residents of Bloomfield are.
+31. There is no reason to believe that the Daintree Rainforest is under threat.
+32. I don't know if improving the Bloomfield Track would lead to a rapid acceleration of development in the area to the detriment of the environment.
+33. Economic development associated with the Bloomfield Track will provide more opportunities for future generations in North Queensland.
+34. I don't really know who benefits most from the protection of Rainforest in the Daintree.
+35. The road is just the 'thin edge of the wedge'. This may not happen for a long time, but it will happen.
+36. The most important use of the Bloomfield Track is for tourism.
+37. Erosion from the Bloomfield Track is permanently damaging the coral reefs that fringe the beaches below
+38. I have no idea what the people in the Bloomfield area think about the Bloomfield Track.
+39. The future of the Bloomfield Track should be determined by everyone and not just by those who live in the Bloomfield area.
+40. Using cars on the Bloomfield Track is bad for the rainforest.
+41. The Bloomfield Track may not have been the best idea, but I guess there is probably little point in closing it now that it has been built.
+42. Any decision about the Bloomfield Track will greatly affect people like me.","1. 7
+2. 9
+3. 3
+4. 8
+5. 10
+6. 5
+7. 2
+8. 4
+9. 11
+10. 2
+11. 3
+12. 5
+13. 4
+14. 10
+15. 1
+16. 7
+17. 6
+18. 9
+19. 11
+20. 2
+21. 7
+22. 2
+23. 3
+24. 11
+25. 2
+26. 8
+27. 4
+28. 5
+29. 6
+30. 7
+31. 2
+32. 5
+33. 8
+34. 3
+35. 10
+36. 9
+37. 11
+38. 3
+39. 9
+40. 8
+41. 6
+42. 10",1186,250
+ef2b770e-3d75-468c-9075-aa77a51fb11e,2025-03-27 17:57:58.628559+00:00,qwen,qwen1.5-110b-chat,0,forestera,considerations,"## Instructions:
+- Rate each of the 45 [Considerations] below from 1 to 11, where 1 is strongly disagree and 11 is strongly agree.
+- In your response, return an ordered list of 45 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 45 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. Humans are a part of the environment. We need to learn how to live sustainably with that environment as much as possible. 
+2. Federal land management procedures are so complex that they prevent timely action to address ecological crises on public lands.
+3. Prescribed burning is needed to restore fire-adapted ecosystems.
+4. Large trees must be removed in order to create openings for wildlife habitat. 
+5. Federal agencies need to restore public trust through transparency in project intent, development and implementation.
+6. Needless red tape and lawsuits delay effective implementation of forest health projects on public lands.
+7. We have to move forward with large-scale restoration-based fuel reduction and learn as we go.
+8. Forest restoration projects should be done in all areas of the forest including roadless and wilderness areas.
+9. If an action is determined to be necessary to control a wildfire, save lives and/or property, and ensure that fire crews can do their jobs safely and efficiently, then it is appropriate to act even if it results in the take of an endangered species.
+10. Fire is a natural and vital component of most western forest ecosystems.
+11. Science is the most important component informing all management decisions — more so than social, cultural and economic considerations.
+12. Forests must contribute to the economic stability of forest-dependent communities.  There are many job opportunities and value-added products that come out of the forest such as wood for art, vigas for building homes, wildlife for food, herbs for medicine, and grass for livestock.
+13. The government is advancing timber sales in the name of ecological restoration.
+14. Stakeholders in forest management should work together to define management objectives more by experiments and adaptive management. 
+15. Old Growth protection is necessary in order to preserve and protect the viability of species dependent upon Old Growth ecosystems.
+16. Prescribed burns are a flawed idea, especially when there are other practices available for restoration.
+17. Traditional, sustainable forestry that benefits local economies and maintains rural livelihoods is much better than large scale corporate forestry.
+18. We need to allow forest managers to determine how to improve forest health to minimize fire damage and loss.
+19. The increased density of forests in the West has not damaged ecosystems.
+20. Using citizen participation in forest management is very important for basing decisions on different ideas and cultural values along with science. 
+21. Forest lands should be brought back to their state before human intervention began.
+22. A diameter cap should be placed on all thinning projects to ensure large trees are not cut.
+23. Natural resources must be developed for the benefit of the plain American citizen.
+24. Returning forests to presettlement conditions ignores the need for wildlife that are adapted to current forest conditions by mandating drastic thinning virtually overnight. 
+25. We need active forest management on our public lands, through thinning and prescribed burns to reduce the unnatural buildup of fuels.
+26. Federal forest management policy should make it easier for loggers to thin out backcountry forests by easing regulatory restrictions and making it harder for interest groups to stop or delay that work.
+27. We need to experiment with a range of treatments that could meet restoration goals. 
+28. Without public participation there will be conflict, whereas participation leads to cooperation.
+29. Environmental organizations have moved the management of our forests to where it is being done by emotion and not by science.
+30. All fuels treatment projects on public lands should comply with existing environmental laws even if compliance slows implementation.
+31. Forest health means jobs.
+32. Aggressive fire suppression has caused the majority of the problems regarding  fires. 
+33. People should take what is needed from forests, but in a context of stewardship and sustainable use and interaction with nature. 
+34. We need to clean up the bureaucratic maze that stops our professional foresters from being able to do the work that they are trained to do.
+35. Small scale thinning projects should give the communities involved pride in taking part in a sustainable forest management plan, and it also allows the traditional communities to realize a boost to their fragile economies.
+36. To make thinning projects cost effective, private logging companies must be able to log larger trees.
+37. Land managers should return public forest land to natural conditions and fire cycles that are specific to each forest-type.
+38. Thinning efforts should focus entirely on the small trees that make up the vast majority of the fire risk in the forest. 
+39. We should not manipulate nature by restoring forest conditions.
+40. Forest management involves restoring ecosystem function and processes that maintain ecosystems over the long run. 
+41. Fire risk reduction projects should clearly focus on the wildland-urban interface, avoiding treatments in roadless areas.
+42. Demonizing fire is a mistake: we must accept risks of fire damage to property and implement controlled burning.
+43. Forest health needs restoring after decades of government mismanagement.
+44. The main issue in forest management is to protect loss of life and property due to catastrophic wildfire. 
+45. We need to be cautious: the solution is there, but we still have a lot to learn. If we just jump in, we're going to make mistakes.","1. 11
+2. 7
+3. 9
+4. 4
+5. 8
+6. 6
+7. 10
+8. 7
+9. 8
+10. 11
+11. 9
+12. 10
+13. 5
+14. 10
+15. 9
+16. 3
+17. 8
+18. 10
+19. 4
+20. 9
+21. 5
+22. 7
+23. 6
+24. 5
+25. 10
+26. 8
+27. 10
+28. 9
+29. 4
+30. 9
+31. 8
+32. 10
+33. 11
+34. 10
+35. 9
+36. 5
+37. 10
+38. 8
+39. 4
+40. 11
+41. 7
+42. 10
+43. 9
+44. 10
+45. 11",1205,276
+ef2b770e-3d75-468c-9075-aa77a51fb11e,2025-03-27 17:57:58.628559+00:00,qwen,qwen1.5-110b-chat,0,forestera,policies,"## Instructions:
+- Based on your previous ratings, rank the 7 [Policies] listed below from 1 to 7, where 1 represents the option you support the most and 7 the option you support the least.
+- In your response, return an ordered list of 7 ranks as integers, one rank per line following the format in the [Example output].
+- Your response must have exactly 7 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 4
+2. 1
+3. 3
+4. 2
+
+## [Policies]:
+1. Management that favors aggressive reduction of hazardous fuels
+2. Management that favors thinning treatments to realize economic gain.
+3. No fire or fuels management. Leaving the forests as they stand without active management.
+4. Management that prioritizes the location and level of treatments favoring both ecological and social values (i.e. wildlife, watersheds, community protection, special cultural places).
+5. Management that favors treatments to restore structure, function and composition of the forest to presettlement conditions, and allowing the introduction of fire as a natural disturbance.
+6. Management that favors the protection of wildlife and wildlife habitat.
+7. Management that favors local-based harvesting for fuel and timber needs.","1. 4
+2. 5
+3. 1
+4. 6
+5. 2
+6. 7
+7. 3",1758,34
+ef2b770e-3d75-468c-9075-aa77a51fb11e,2025-03-27 17:57:58.628559+00:00,qwen,qwen1.5-110b-chat,0,forestera,reasons,"## Instructions:
+- In a single line, explain your ratings above within 100 characters or less.
+- Do not include any additional formatting, such as bullets or special characters.
+- Do not include more than one space in a row.
+","Ranked based on support for holistic, ecologically sound practices that integrate community safety, economic benefits, and conservation, while acknowledging the importance of natural disturbance regimes like fire.",1851,33
+daffc607-9706-48d0-a532-d39f64a243e2,2025-03-27 17:58:59.111420+00:00,qwen,qwen1.5-110b-chat,0,ds_bellinzona,considerations,"## Instructions:
+- Rate each of the 32 [Considerations] below from 1 to 7, where 1 is strongly disagree and 7 is strongly agree.
+- In your response, return an ordered list of 32 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 32 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. It is difficult to trust scientists' reports on climate change.
+2. I don't know what to do. I am very worried and would like to do something, but I don't have a realistic set of actions that would truly make a difference.
+3. There is no urgent need to prepare for an increase in illnesses and deaths caused by high temperatures.
+4. Authorities should receive additional funding to strengthen measures against emergencies and weather-related disasters such as floods.
+5. Rising insurance costs are a serious problem related to climate change.
+6. It is necessary to have strong on-the-ground disaster response capabilities to deal with extreme weather conditions.
+7. Climate change is primarily caused by human activity.
+8. Switzerland is particularly vulnerable to climate change, and it is in our interest to contribute to an effective global solution.
+9. It is difficult to trust what the media report about climate change.
+10. Some countries or regions of the world will be more affected by climate change than others, but this is not our top priority.
+11. It is important to focus on adaptation measures that take into account the country's economic future.
+12. Planning climate change response measures requires a global approach that considers a wide range of interventions rather than specific individual actions.
+13. It is NOT necessary to involve society in deciding which key issues are important for climate change adaptation planning.
+14. We need to take into account the negative effects of climate change on local businesses.
+15. Even if Switzerland were to reduce all its CO₂ emissions, global warming would continue.
+16. It is difficult to trust government reports on climate change.
+17. I believe that the impact we can achieve as individuals in Switzerland is so small that our actions are useless.
+18. The urban heat island effect must be tackled with measures such as planting trees.
+19. There is not enough information to conclusively say that climate change is real.
+20. It is important to prepare for the migration of people displaced by the effects of climate change.
+21. It is important to support vulnerable groups (the elderly, children, people with disabilities, low-income individuals) as they have fewer resources to deal with the impacts of climate change.
+22. It doesn't make much sense for me to do anything to solve the problem. No one else is doing anything.
+23. I'm not going to do anything about climate change because it's not an important issue.
+24. The planning of measures to tackle climate change should focus primarily on extreme weather events such as droughts and floods.
+25. Authorities have the resources they need to effectively adapt to climate change.
+26. Society should be included in the discussion on climate change adaptation.
+27. It is certain to say that climate change exists.
+28. We should focus on protecting human systems rather than protecting ecosystems.
+29. The melting of Alpine glaciers is not a real problem for our daily lives.
+30. Climate change is natural; there is no need to worry.
+31. Doing something to reduce emissions seems a bit hopeless to me, but I just want to feel like I'm doing my best.
+32. Health systems must prepare for both the physical health impacts of climate change (e.g., heat stroke) and the mental health impacts (e.g., farmers losing their crops).","1. 4
+2. 5
+3. 2
+4. 6
+5. 5
+6. 6
+7. 6
+8. 5
+9. 3
+10. 2
+11. 5
+12. 6
+13. 1
+14. 5
+15. 3
+16. 4
+17. 2
+18. 6
+19. 2
+20. 6
+21. 6
+22. 2
+23. 1
+24. 5
+25. 4
+26. 6
+27. 6
+28. 3
+29. 2
+30. 2
+31. 4
+32. 6",804,182
+daffc607-9706-48d0-a532-d39f64a243e2,2025-03-27 17:58:59.111420+00:00,qwen,qwen1.5-110b-chat,0,ds_bellinzona,policies,"## Instructions:
+- Based on your previous ratings, rank the 7 [Policies] listed below from 1 to 7, where 1 represents the option you support the most and 7 the option you support the least.
+- In your response, return an ordered list of 7 ranks as integers, one rank per line following the format in the [Example output].
+- Your response must have exactly 7 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 4
+2. 1
+3. 3
+4. 2
+
+## [Policies]:
+1. Leave the policy settings as they are.
+2. Policies that emphasise economic growth over climate change adaptation or mitigation.
+3. Adaptation policies that target individual, small business or community-based actions (e.g., support the installation of alternative energy generators, insulation, water use efficiency)
+4. ""Policies that involve a radical reduction in CO₂ emissions (e.g., reducing emissions by 50% to 100% over the next 10 years).""
+5. ""Policies that involve a moderate reduction in CO₂ emissions (e.g., reducing emissions by 25% to 50% over the next 10 years).""
+6. Adaptation policies and expenditure. Planning controls and emergency response programs.
+7. Preparing for climate risk through the development of new approaches and technologies that enhance resilience to the impacts of climate variability or change.","1. 4
+2. 7
+3. 1
+4. 3
+5. 2
+6. 5
+7. 6",1304,34
+94e6f5c3-73d5-49af-b245-11e916071e22,2025-03-27 17:59:11.455831+00:00,qwen,qwen1.5-110b-chat,0,ds_bellinzona,considerations,"## Instructions:
+- Rate each of the 32 [Considerations] below from 1 to 7, where 1 is strongly disagree and 7 is strongly agree.
+- In your response, return an ordered list of 32 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 32 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. The urban heat island effect must be tackled with measures such as planting trees.
+2. The planning of measures to tackle climate change should focus primarily on extreme weather events such as droughts and floods.
+3. Climate change is primarily caused by human activity.
+4. Planning climate change response measures requires a global approach that considers a wide range of interventions rather than specific individual actions.
+5. Rising insurance costs are a serious problem related to climate change.
+6. Some countries or regions of the world will be more affected by climate change than others, but this is not our top priority.
+7. It is difficult to trust government reports on climate change.
+8. It is important to prepare for the migration of people displaced by the effects of climate change.
+9. Society should be included in the discussion on climate change adaptation.
+10. Authorities have the resources they need to effectively adapt to climate change.
+11. It is difficult to trust scientists' reports on climate change.
+12. It is certain to say that climate change exists.
+13. There is no urgent need to prepare for an increase in illnesses and deaths caused by high temperatures.
+14. It is important to support vulnerable groups (the elderly, children, people with disabilities, low-income individuals) as they have fewer resources to deal with the impacts of climate change.
+15. There is not enough information to conclusively say that climate change is real.
+16. Authorities should receive additional funding to strengthen measures against emergencies and weather-related disasters such as floods.
+17. It is necessary to have strong on-the-ground disaster response capabilities to deal with extreme weather conditions.
+18. It is NOT necessary to involve society in deciding which key issues are important for climate change adaptation planning.
+19. I'm not going to do anything about climate change because it's not an important issue.
+20. Even if Switzerland were to reduce all its CO₂ emissions, global warming would continue.
+21. Health systems must prepare for both the physical health impacts of climate change (e.g., heat stroke) and the mental health impacts (e.g., farmers losing their crops).
+22. It is difficult to trust what the media report about climate change.
+23. It is important to focus on adaptation measures that take into account the country's economic future.
+24. Climate change is natural; there is no need to worry.
+25. It doesn't make much sense for me to do anything to solve the problem. No one else is doing anything.
+26. I believe that the impact we can achieve as individuals in Switzerland is so small that our actions are useless.
+27. The melting of Alpine glaciers is not a real problem for our daily lives.
+28. We need to take into account the negative effects of climate change on local businesses.
+29. Doing something to reduce emissions seems a bit hopeless to me, but I just want to feel like I'm doing my best.
+30. Switzerland is particularly vulnerable to climate change, and it is in our interest to contribute to an effective global solution.
+31. We should focus on protecting human systems rather than protecting ecosystems.
+32. I don't know what to do. I am very worried and would like to do something, but I don't have a realistic set of actions that would truly make a difference.","1. 6
+2. 5
+3. 7
+4. 6
+5. 6
+6. 2
+7. 3
+8. 6
+9. 5
+10. 4
+11. 3
+12. 7
+13. 1
+14. 7
+15. 1
+16. 6
+17. 6
+18. 1
+19. 1
+20. 4
+21. 7
+22. 3
+23. 6
+24. 1
+25. 1
+26. 2
+27. 2
+28. 5
+29. 4
+30. 6
+31. 2
+32. 5",804,182
+94e6f5c3-73d5-49af-b245-11e916071e22,2025-03-27 17:59:11.455831+00:00,qwen,qwen1.5-110b-chat,0,ds_bellinzona,policies,"## Instructions:
+- Based on your previous ratings, rank the 7 [Policies] listed below from 1 to 7, where 1 represents the option you support the most and 7 the option you support the least.
+- In your response, return an ordered list of 7 ranks as integers, one rank per line following the format in the [Example output].
+- Your response must have exactly 7 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 4
+2. 1
+3. 3
+4. 2
+
+## [Policies]:
+1. Adaptation policies that target individual, small business or community-based actions (e.g., support the installation of alternative energy generators, insulation, water use efficiency)
+2. ""Policies that involve a radical reduction in CO₂ emissions (e.g., reducing emissions by 50% to 100% over the next 10 years).""
+3. Adaptation policies and expenditure. Planning controls and emergency response programs.
+4. ""Policies that involve a moderate reduction in CO₂ emissions (e.g., reducing emissions by 25% to 50% over the next 10 years).""
+5. Preparing for climate risk through the development of new approaches and technologies that enhance resilience to the impacts of climate variability or change.
+6. Policies that emphasise economic growth over climate change adaptation or mitigation.
+7. Leave the policy settings as they are.","1. 2
+2. 1
+3. 4
+4. 3
+5. 5
+6. 7
+7. 6",1304,34
+d1ec60c6-473e-4f10-bc1a-e5fb512c83b7,2025-03-27 17:59:22.794104+00:00,qwen,qwen1.5-110b-chat,0,ds_bellinzona,considerations,"## Instructions:
+- Rate each of the 32 [Considerations] below from 1 to 7, where 1 is strongly disagree and 7 is strongly agree.
+- In your response, return an ordered list of 32 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 32 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. Planning climate change response measures requires a global approach that considers a wide range of interventions rather than specific individual actions.
+2. Authorities have the resources they need to effectively adapt to climate change.
+3. It is important to support vulnerable groups (the elderly, children, people with disabilities, low-income individuals) as they have fewer resources to deal with the impacts of climate change.
+4. It is important to prepare for the migration of people displaced by the effects of climate change.
+5. Climate change is primarily caused by human activity.
+6. Authorities should receive additional funding to strengthen measures against emergencies and weather-related disasters such as floods.
+7. There is not enough information to conclusively say that climate change is real.
+8. Even if Switzerland were to reduce all its CO₂ emissions, global warming would continue.
+9. Society should be included in the discussion on climate change adaptation.
+10. It doesn't make much sense for me to do anything to solve the problem. No one else is doing anything.
+11. The melting of Alpine glaciers is not a real problem for our daily lives.
+12. It is certain to say that climate change exists.
+13. The planning of measures to tackle climate change should focus primarily on extreme weather events such as droughts and floods.
+14. It is important to focus on adaptation measures that take into account the country's economic future.
+15. Some countries or regions of the world will be more affected by climate change than others, but this is not our top priority.
+16. We should focus on protecting human systems rather than protecting ecosystems.
+17. I don't know what to do. I am very worried and would like to do something, but I don't have a realistic set of actions that would truly make a difference.
+18. Doing something to reduce emissions seems a bit hopeless to me, but I just want to feel like I'm doing my best.
+19. It is difficult to trust scientists' reports on climate change.
+20. Switzerland is particularly vulnerable to climate change, and it is in our interest to contribute to an effective global solution.
+21. There is no urgent need to prepare for an increase in illnesses and deaths caused by high temperatures.
+22. Health systems must prepare for both the physical health impacts of climate change (e.g., heat stroke) and the mental health impacts (e.g., farmers losing their crops).
+23. I believe that the impact we can achieve as individuals in Switzerland is so small that our actions are useless.
+24. It is necessary to have strong on-the-ground disaster response capabilities to deal with extreme weather conditions.
+25. We need to take into account the negative effects of climate change on local businesses.
+26. I'm not going to do anything about climate change because it's not an important issue.
+27. Climate change is natural; there is no need to worry.
+28. It is difficult to trust government reports on climate change.
+29. Rising insurance costs are a serious problem related to climate change.
+30. It is difficult to trust what the media report about climate change.
+31. The urban heat island effect must be tackled with measures such as planting trees.
+32. It is NOT necessary to involve society in deciding which key issues are important for climate change adaptation planning.","1. 6
+2. 4
+3. 7
+4. 6
+5. 7
+6. 6
+7. 1
+8. 4
+9. 6
+10. 2
+11. 2
+12. 6
+13. 5
+14. 6
+15. 3
+16. 2
+17. 4
+18. 3
+19. 3
+20. 6
+21. 2
+22. 6
+23. 2
+24. 6
+25. 5
+26. 1
+27. 2
+28. 3
+29. 5
+30. 3
+31. 6
+32. 1",804,182
+46abea7c-fc99-455d-9cbb-886b4d76f6ea,2025-03-27 17:59:58.300636+00:00,qwen,qwen1.5-110b-chat,0,zukunft,considerations,"## Instructions:
+- Rate each of the 20 [Considerations] below from 1 to 7, where 1 is strongly disagree and 7 is strongly agree.
+- In your response, return an ordered list of 20 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 20 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. People should take responsibility for actively addressing their own biases and prejudices against individuals with mental health disorders.
+2. It is good that basic health insurance does not fully cover mental health care since only a few people need it.
+3. Individuals should take responsibility for their own mental well-being.
+4. Minors under the age of 16 should be legally prohibited from using social media.
+5. Social media platforms should be required to have parental controls.
+6. More government funding is needed to improve mental health services and their accessibility, especially for marginalized people subject to socioeconomic disparities.
+7. Mental health issues require less urgency and fewer resources compared to physical health conditions.
+8. Mental health can be understood in different ways. A comprehensive definition of mental health should take into account social issues such as poverty, inequality, and discrimination.
+9. Focusing on prevention strategies (e.g., government media campaigns) is essential to reducing the impact of stigma associated with mental health conditions.
+10. To prevent people with mental health issues from feeling lonely or isolated, we should talk more about these topics in schools and workplaces to increase public understanding and sensitivity.
+11. Being poor, living far from urban centers, or being a victim of racism are examples of factors that can influence a person's willingness to seek help for mental health problems.
+12. Improving working or study conditions does not impact people's mental health in any way.
+13. Private mental health services are better than public ones, so Switzerland's mental health system should be entirely privatized.
+14. Social media contribute to mental health issues through cyberbullying, social comparison, and unrealistic portrayals of life.
+15. People with mental disorders should not be allowed to work with children.
+16. Schools should play a crucial role in creating a supportive environment, both online and offline, to mitigate the negative impact of social media on mental health.
+17. Personal solutions (such as joining a yoga club) are more effective than government intervention in addressing mental health issues (such as having social workers or psychologists in schools).
+18. Personal cultural or religious beliefs and preferences should guide the choice of treatment methods, including therapy and medication.
+19. Mental health problems are solely medical in nature and not a social issue.
+20. Investing in mental health services in schools and workplaces (for example, having social workers in facilities) is essential to prevent negative mental health outcomes.","1. 6
+2. 1
+3. 5
+4. 2
+5. 4
+6. 7
+7. 2
+8. 6
+9. 5
+10. 6
+11. 5
+12. 1
+13. 2
+14. 5
+15. 1
+16. 5
+17. 3
+18. 4
+19. 1
+20. 6",617,110
+46abea7c-fc99-455d-9cbb-886b4d76f6ea,2025-03-27 17:59:58.300636+00:00,qwen,qwen1.5-110b-chat,0,zukunft,policies,"## Instructions:
+- Based on your previous ratings, rank the 7 [Policies] listed below from 1 to 7, where 1 represents the option you support the most and 7 the option you support the least.
+- In your response, return an ordered list of 7 ranks as integers, one rank per line following the format in the [Example output].
+- Your response must have exactly 7 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 4
+2. 1
+3. 3
+4. 2
+
+## [Policies]:
+1. Initiatives focused on improving the socioeconomic conditions of disadvantaged people should be implemented to address mental health disparities.
+2. There are too many mental health services in Switzerland, and they should be reduced.
+3. There should be more integrated mental health clinics that provide a range of services, such as sports or artistic activities in addition to therapy and medication
+4. There are enough mental health services in Switzerland, and funding should remain as it is.
+5. There are not enough mental health services in Switzerland, so their funding should be increased.
+6. There should be more public awareness campaigns that empower people to seek mental health support and destigmatize help-seeking behaviors.
+7. Private mental health clinics should receive more government funding to allow more people to access them.","1. 5
+2. 7
+3. 1
+4. 4
+5. 2
+6. 3
+7. 6",1018,34
+6a573e09-c654-4a6d-aef6-c9df4a152023,2025-03-27 18:00:11.914508+00:00,qwen,qwen1.5-110b-chat,0,zukunft,considerations,"## Instructions:
+- Rate each of the 20 [Considerations] below from 1 to 7, where 1 is strongly disagree and 7 is strongly agree.
+- In your response, return an ordered list of 20 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 20 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. People with mental disorders should not be allowed to work with children.
+2. Personal solutions (such as joining a yoga club) are more effective than government intervention in addressing mental health issues (such as having social workers or psychologists in schools).
+3. Mental health problems are solely medical in nature and not a social issue.
+4. Investing in mental health services in schools and workplaces (for example, having social workers in facilities) is essential to prevent negative mental health outcomes.
+5. Schools should play a crucial role in creating a supportive environment, both online and offline, to mitigate the negative impact of social media on mental health.
+6. Improving working or study conditions does not impact people's mental health in any way.
+7. It is good that basic health insurance does not fully cover mental health care since only a few people need it.
+8. Mental health issues require less urgency and fewer resources compared to physical health conditions.
+9. Personal cultural or religious beliefs and preferences should guide the choice of treatment methods, including therapy and medication.
+10. Social media contribute to mental health issues through cyberbullying, social comparison, and unrealistic portrayals of life.
+11. More government funding is needed to improve mental health services and their accessibility, especially for marginalized people subject to socioeconomic disparities.
+12. To prevent people with mental health issues from feeling lonely or isolated, we should talk more about these topics in schools and workplaces to increase public understanding and sensitivity.
+13. Focusing on prevention strategies (e.g., government media campaigns) is essential to reducing the impact of stigma associated with mental health conditions.
+14. Individuals should take responsibility for their own mental well-being.
+15. Mental health can be understood in different ways. A comprehensive definition of mental health should take into account social issues such as poverty, inequality, and discrimination.
+16. People should take responsibility for actively addressing their own biases and prejudices against individuals with mental health disorders.
+17. Minors under the age of 16 should be legally prohibited from using social media.
+18. Social media platforms should be required to have parental controls.
+19. Private mental health services are better than public ones, so Switzerland's mental health system should be entirely privatized.
+20. Being poor, living far from urban centers, or being a victim of racism are examples of factors that can influence a person's willingness to seek help for mental health problems.","1. 2
+2. 4
+3. 2
+4. 6
+5. 5
+6. 1
+7. 1
+8. 2
+9. 4
+10. 5
+11. 6
+12. 6
+13. 5
+14. 4
+15. 6
+16. 5
+17. 2
+18. 4
+19. 1
+20. 6",617,110
+6a573e09-c654-4a6d-aef6-c9df4a152023,2025-03-27 18:00:11.914508+00:00,qwen,qwen1.5-110b-chat,0,zukunft,policies,"## Instructions:
+- Based on your previous ratings, rank the 7 [Policies] listed below from 1 to 7, where 1 represents the option you support the most and 7 the option you support the least.
+- In your response, return an ordered list of 7 ranks as integers, one rank per line following the format in the [Example output].
+- Your response must have exactly 7 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 4
+2. 1
+3. 3
+4. 2
+
+## [Policies]:
+1. Private mental health clinics should receive more government funding to allow more people to access them.
+2. There are too many mental health services in Switzerland, and they should be reduced.
+3. Initiatives focused on improving the socioeconomic conditions of disadvantaged people should be implemented to address mental health disparities.
+4. There should be more integrated mental health clinics that provide a range of services, such as sports or artistic activities in addition to therapy and medication
+5. There should be more public awareness campaigns that empower people to seek mental health support and destigmatize help-seeking behaviors.
+6. There are not enough mental health services in Switzerland, so their funding should be increased.
+7. There are enough mental health services in Switzerland, and funding should remain as it is.","1. 6
+2. 7
+3. 1
+4. 3
+5. 2
+6. 4
+7. 5",1018,34
+3ba64004-0934-4e87-a9e6-feef1ece8a0d,2025-03-27 18:00:23.884776+00:00,qwen,qwen1.5-110b-chat,0,bep,considerations,"## Instructions:
+- Rate each of the 43 [Considerations] below from 1 to 7, where 1 is strongly disagree and 7 is strongly agree.
+- In your response, return an ordered list of 43 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 43 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. Some communities are more affected than others by the global agri-food system, but this is not a priority issue.
+2. The Swiss food system is particularly vulnerable to climate change, and it is in our interest to help find an effective global solution.
+3. It is NOT necessary to engage with the community when deciding what are the most important issues for planning for food system changes.
+4. It's difficult to trust what comes out in the media on the issue of climate change.
+5. I'm not going to do anything to address the impacts of the agri-food system because it is not a major issue.
+6. We need to focus on adaptation actions that are concerned with the economic future of the country.
+7. I am happy to pay a higher price for local or organic food products
+8. The negative effects of the climate change on local commerce should be taken into account.
+9. Agriculture is already very sustainable. Swiss farmers are on the right track
+10. Strong regulation of food production will eventually damage our economic relationship with other countries
+11. It is important to plan for migration by people displaced by malnutrition and famine.
+12. I think it is safe to say climate change is here.
+13. Sustainable agriculture increases prices and harms consumer freedom. The production should be adapted to what people demand.
+14. The main focus of planning for adaptation should be to prepare the food system for extreme weather events, such as drought and flooding. 
+15. Eating sustainably is too expensive, and only wealthy people can afford it
+16. Climate change will not be a problem because there will be technological solutions available.
+17. “Food accessibility (price) and security (availability) is NOT COMPATIBLE with a sustainable food system”
+18. Agricultural subsidies should promote sustainable, pesticide and antibiotic-free production.
+19. We need to deal with the water pollution issue through measures such as reducing fertilizer and pesticide use.
+20. Climate warming will ultimately benefit food production globally as plants better growth in higher temperature
+21. I don't trust what I hear about climate change from government.
+22. I believe that the difference we can have as an individual, in Switzerland, is so minimal that our actions are worthless.
+23. Climate variation is normal, so why should this be a problem?
+24. I don't trust what scientists say about climate change.
+25. Products that use environmentally harmful ingredients, such as palm oil, should be taxed in the same way as tobacco products.
+26. Planning for food system adaptation needs a holistic approach, considering a whole range of issues, instead of focussing on individual issues. 
+27. If Switzerland reduces greenhouse gases of its food system it won't make a difference.
+28. We need actions to protect inhabitants and the biodiversity from harmful pesticide.
+29. As long as we use animals in agriculture, it cannot be sustainable
+30. Banning pesticides might help the local biodiversity but decreases our food production capacity and autonomy
+31. We should develop short distribution channels and support local production instead of supporting big agrifood corporations
+32. “Actions on the food system in Switzerland will lead to increased imports and shift of the pollution abroad”
+33. There is no urgent need to prepare for an increase in illness and death caused by intensive use of pesticides/antibiotics
+34. “Intensive food production can go along with the protection of the environment and health”
+35. There is not enough information to definitively establish if the link between the agri-food system and climate change is real.
+36. We should focus on protecting human systems rather than environmental ecosystems.
+37. “Farmers already suffer enough from strict rules and paperwork. Family farmers should have more liberties”
+38. There is not enough information to definitively say that climate change is real.
+39. There's not much point in me doing anything to make agriculture more sustainable. No-one else is going to.
+40. The community should be involved in discussions about food system adaptation.
+41. The Swiss food system depends on imports from other countries, and it is in our interest to help find an effective global solution.
+42. It is important to support smal land local farming as they have the fewest resources to deal with impacts of climate change. 
+43. I don't know what to do. I'm very concerned and would like to do something, but I don't have a realistic shortlist of things that would really make a difference.","1. 2
+2. 6
+3. 1
+4. 5
+5. 1
+6. 5
+7. 4
+8. 6
+9. 3
+10. 2
+11. 5
+12. 6
+13. 1
+14. 6
+15. 2
+16. 2
+17. 1
+18. 6
+19. 6
+20. 2
+21. 3
+22. 2
+23. 1
+24. 1
+25. 5
+26. 6
+27. 2
+28. 5
+29. 3
+30. 2
+31. 5
+32. 2
+33. 1
+34. 2
+35. 1
+36. 2
+37. 2
+38. 1
+39. 1
+40. 6
+41. 6
+42. 6
+43. 4",1057,248
+3ba64004-0934-4e87-a9e6-feef1ece8a0d,2025-03-27 18:00:23.884776+00:00,qwen,qwen1.5-110b-chat,0,bep,policies,"## Instructions:
+- Based on your previous ratings, rank the 7 [Policies] listed below from 1 to 7, where 1 represents the option you support the most and 7 the option you support the least.
+- In your response, return an ordered list of 7 ranks as integers, one rank per line following the format in the [Example output].
+- Your response must have exactly 7 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 4
+2. 1
+3. 3
+4. 2
+
+## [Policies]:
+1. Policies that emphasise fewer regulations (e.g., policies that promote free trade agreements by reducing food regulation)
+2. Policies that involve a radical sustainable food regulation (e.g., banning all pesticides, banning the importation of food related product that employ non-sustanable approaches, exclusively incentivising organic agriculture)
+3. Leave the policy settings as they are.
+4. Policies that involve a moderate sustainable regulations (e.g., banning certain types of pesticides, incentivising organic agriculture)
+5. Policies that create incentives for local producers to produce sustainable food (e.g., subsidies or tax breaks for local farmers who produce organic products)
+6. Preparing for climate risk for food production through the development of new approaches and technologies that enhance resilience to the impacts of climate variability or change.
+7. Adaptation policies and expenditure. Planning controls and emergency response programs.","1. 4
+2. 5
+3. 2
+4. 6
+5. 1
+6. 3
+7. 7",1616,34
+fff9b7cc-4b66-4a3a-a2cb-bd0d9bc60e95,2025-03-27 18:00:59.619433+00:00,qwen,qwen1.5-110b-chat,0,valsamoggia,considerations,"## Instructions:
+- Rate each of the 36 [Considerations] below from 1 to 11, where 1 is strongly disagree and 11 is strongly agree.
+- Using the Q Methodology, rate the statements following a Fixed Quasi-Normal Distribution between 1 and 11.
+- In your response, return an ordered list of 36 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 36 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. through the fusion we will be able to exploit the potentials of the territory to improve the building-, commercial- handcraft- and agricoltural development.
+2. the fusion is an innovative process that will make as an example to follow for italy and the rest of europe.
+3. through the fusion we will be able to derogare il patto di stabilita' and therefore unblock some founds. The latter can be invested in the municipalities that are more in need 
+4. the fusion seem to me another way to change everything to change nothing
+5. the needs of the citizens are too different acros the municipalities. It will be too difficult for The amalgameted municipality to answer to everybody.
+6. the fusion is necessary to lower the taxes
+7. if the fusion will not be done, the single municipalities will not be capable of maintaining the current quality of the services.
+8. in this fusion there is no project, no vision and nos trategy. Things should be done in a very different way.
+9. the fusion will bring the resources to make the intervention that our territory needs, like the bycicle paths or the public transport between the municipalities or the high school.
+10. the union is a failure and a cost, because it absorbed just a very small part of the services and the money
+11. it is not necessary to be big to be good. The small municipalities can be better managed of the bigger and do more things. It is a matter of good administration.
+12. the amalgamation will benefit the emplyees and the citizens. The emplyees will increase their competences through more trainings. Therefore the citizens will benefit of more specialized professionals.
+13. there are not enoughf elements do decide in favor or against the fusion
+14. the fusion will change our relationship with the administration. The fusionwill move away the administration and the power from the local territory and centralizing it somwhere else
+15. the fusion is not the only solution to the issues of our territory but it is the more concrete
+16. the fusion is a decision that has already been taken and they are trying to imposing it top down. They are trying to sell the product ""amalgamated municipality""
+17. the consequence of the fusion is that either we will pay more than before or they will cut the services
+18. the fusion is too risky because is a oneway process
+19. the shift from the union to the fusion is a step to big which brings too many uncertainties. If things are done more gradually the change will be hurtless because people will be already used to it.
+20. the fusion is the right answer to the limit of the union
+21. the new municipality will be politically more powerful in front of other municipalities like Bologna metropolitan. In this way our interests will be protected outside our municiplity.
+22. if the administration chose for the fusion it means that it is the right choice. This choice should be taken by the experts not the citizens
+23. I would not like that the money of my taxes would be used in the municiplities next to mine
+24. it is not possible to say yes or not to the amalgamation without knowing how it will be, how much will it cost and how it will be done.
+25. with or without the amalgamation, the important thing that is at the practical level, nothing will change. For example the offices should stay where they are.
+26. the fusion is a samll step to complete a path of amalgamation that started 20 years ago. The amalgamated municipality it is a realty in facts. How much do we have to wait still?
+27. the choice of the fusion is due to the wish of certain political parties to maintain the political dominance
+28. with the amalgamation there will be a deficit of democracy because the municipalities will be only consultive. The citizens will have no power
+29. in this days of crisis and changes at the european level, the amalgamation is necessary and opportune.
+30. the fusion is a leap in the unknown
+31. the amalgsmation will offer the possibility of save money by cutting the political costs and the burocracy costs and making the administration more efficient.
+32. the fusion benefits the bigger mnicipalities at the detriment of the smalles also with respect to the external fundings.
+33. we are misusing the fusion. The needs of the territory are not being respected and the valsmaoggia is being used as a labrat
+34. the amalgamation will erease the local diversities
+35. it is not yet clear how are they are going to amalgamate the contracts of the municipal clerks across the territory. things like these should be decided before the amalgamtion.
+36. it is not worth to make the amalgamation in this time of reorganization with the metropolitan bologna","1. 5
+2. 7
+3. 6
+4. 3
+5. 4
+6. 8
+7. 7
+8. 2
+9. 6
+10. 2
+11. 5
+12. 6
+13. 3
+14. 4
+15. 6
+16. 2
+17. 5
+18. 4
+19. 7
+20. 5
+21. 6
+22. 2
+23. 3
+24. 5
+25. 3
+26. 6
+27. 2
+28. 4
+29. 6
+30. 2
+31. 7
+32. 3
+33. 2
+34. 3
+35. 4
+36. 3",1185,206
+fff9b7cc-4b66-4a3a-a2cb-bd0d9bc60e95,2025-03-27 18:00:59.619433+00:00,qwen,qwen1.5-110b-chat,0,valsamoggia,policies,"## Instructions:
+- Based on your previous ratings, rank the 4 [Policies] listed below from 1 to 4, where 1 represents the option you support the most and 4 the option you support the least.
+- In your response, return an ordered list of 4 ranks as integers, one rank per line following the format in the [Example output].
+- Your response must have exactly 4 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 4
+2. 1
+3. 3
+4. 2
+
+## [Policies]:
+1. Increase the power unione
+2. Leave things things as they are
+3. Go ahead with the amalgamation as proposed
+4. Postpone the amalgamation","1. 4
+2. 2
+3. 1
+4. 3",1565,19
+a0e4c9bc-1fdc-4850-ad06-72ab7b62a5b6,2025-03-27 18:01:10.986682+00:00,qwen,qwen1.5-110b-chat,0,valsamoggia,considerations,"## Instructions:
+- Rate each of the 36 [Considerations] below from 1 to 11, where 1 is strongly disagree and 11 is strongly agree.
+- Using the Q Methodology, rate the statements following a Fixed Quasi-Normal Distribution between 1 and 11.
+- In your response, return an ordered list of 36 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 36 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. the consequence of the fusion is that either we will pay more than before or they will cut the services
+2. the fusion is too risky because is a oneway process
+3. with or without the amalgamation, the important thing that is at the practical level, nothing will change. For example the offices should stay where they are.
+4. if the fusion will not be done, the single municipalities will not be capable of maintaining the current quality of the services.
+5. it is not necessary to be big to be good. The small municipalities can be better managed of the bigger and do more things. It is a matter of good administration.
+6. the fusion is not the only solution to the issues of our territory but it is the more concrete
+7. the shift from the union to the fusion is a step to big which brings too many uncertainties. If things are done more gradually the change will be hurtless because people will be already used to it.
+8. the needs of the citizens are too different acros the municipalities. It will be too difficult for The amalgameted municipality to answer to everybody.
+9. the fusion is a decision that has already been taken and they are trying to imposing it top down. They are trying to sell the product ""amalgamated municipality""
+10. it is not possible to say yes or not to the amalgamation without knowing how it will be, how much will it cost and how it will be done.
+11. through the fusion we will be able to derogare il patto di stabilita' and therefore unblock some founds. The latter can be invested in the municipalities that are more in need 
+12. the amalgamation will erease the local diversities
+13. the fusion is a samll step to complete a path of amalgamation that started 20 years ago. The amalgamated municipality it is a realty in facts. How much do we have to wait still?
+14. I would not like that the money of my taxes would be used in the municiplities next to mine
+15. the fusion benefits the bigger mnicipalities at the detriment of the smalles also with respect to the external fundings.
+16. the amalgsmation will offer the possibility of save money by cutting the political costs and the burocracy costs and making the administration more efficient.
+17. the new municipality will be politically more powerful in front of other municipalities like Bologna metropolitan. In this way our interests will be protected outside our municiplity.
+18. the fusion will bring the resources to make the intervention that our territory needs, like the bycicle paths or the public transport between the municipalities or the high school.
+19. with the amalgamation there will be a deficit of democracy because the municipalities will be only consultive. The citizens will have no power
+20. the fusion is a leap in the unknown
+21. it is not worth to make the amalgamation in this time of reorganization with the metropolitan bologna
+22. in this fusion there is no project, no vision and nos trategy. Things should be done in a very different way.
+23. the amalgamation will benefit the emplyees and the citizens. The emplyees will increase their competences through more trainings. Therefore the citizens will benefit of more specialized professionals.
+24. the choice of the fusion is due to the wish of certain political parties to maintain the political dominance
+25. the fusion is necessary to lower the taxes
+26. the fusion seem to me another way to change everything to change nothing
+27. the union is a failure and a cost, because it absorbed just a very small part of the services and the money
+28. in this days of crisis and changes at the european level, the amalgamation is necessary and opportune.
+29. if the administration chose for the fusion it means that it is the right choice. This choice should be taken by the experts not the citizens
+30. the fusion is an innovative process that will make as an example to follow for italy and the rest of europe.
+31. the fusion is the right answer to the limit of the union
+32. through the fusion we will be able to exploit the potentials of the territory to improve the building-, commercial- handcraft- and agricoltural development.
+33. we are misusing the fusion. The needs of the territory are not being respected and the valsmaoggia is being used as a labrat
+34. it is not yet clear how are they are going to amalgamate the contracts of the municipal clerks across the territory. things like these should be decided before the amalgamtion.
+35. there are not enoughf elements do decide in favor or against the fusion
+36. the fusion will change our relationship with the administration. The fusionwill move away the administration and the power from the local territory and centralizing it somwhere else","1. 5
+2. 4
+3. 7
+4. 8
+5. 6
+6. 9
+7. 5
+8. 3
+9. 4
+10. 7
+11. 8
+12. 3
+13. 6
+14. 4
+15. 3
+16. 9
+17. 7
+18. 8
+19. 3
+20. 4
+21. 5
+22. 3
+23. 7
+24. 4
+25. 6
+26. 4
+27. 3
+28. 7
+29. 5
+30. 6
+31. 8
+32. 7
+33. 3
+34. 5
+35. 4
+36. 3",1185,206
+a0e4c9bc-1fdc-4850-ad06-72ab7b62a5b6,2025-03-27 18:01:10.986682+00:00,qwen,qwen1.5-110b-chat,0,valsamoggia,policies,"## Instructions:
+- Based on your previous ratings, rank the 4 [Policies] listed below from 1 to 4, where 1 represents the option you support the most and 4 the option you support the least.
+- In your response, return an ordered list of 4 ranks as integers, one rank per line following the format in the [Example output].
+- Your response must have exactly 4 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 4
+2. 1
+3. 3
+4. 2
+
+## [Policies]:
+1. Leave things things as they are
+2. Increase the power unione
+3. Go ahead with the amalgamation as proposed
+4. Postpone the amalgamation","1. 4
+2. 3
+3. 2
+4. 1",1565,19
+9d9eb5e4-38fa-409c-bf43-74a7384c77e7,2025-03-27 18:01:58.146750+00:00,qwen,qwen1.5-110b-chat,0,biobanking_wa,considerations,"## Instructions:
+- Rate each of the 49 [Considerations] below from 1 to 11, where 1 is strongly disagree and 11 is strongly agree.
+- In your response, return an ordered list of 49 ratings as integers, one rating per line following the format in the [Example output].
+- Your response must have exactly 49 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 1
+2. 4
+3. 6
+4. 3
+
+## [Considerations]:
+1. There must be special consideration of the views of Aboriginal people towards healthcare and genetic research.
+2. The priorities for health should be to reduce inequalities and the burden of disease.
+3. People should be told if commercial companies could get access to their samples and information.
+4. People should always be able to withdraw their sample from research at any time.
+5. Information about people's genes and the traits they inherit from their parents is more private than their medical records.
+6. People who provide samples for research should get special access to the treatments that result from this research.
+7. The public will be more protected if biobanks are government-funded not privately funded.
+8. The confidentiality of personal medical information is critical in any circumstance where research is being conducted.
+9. I do not mind if my sample is connected to my name and medical information.
+10. Permission from the indigenous community must be sought if samples are collected from indigenous peoples.
+11. People should be paid for providing their samples to a biobank.
+12. I do not mind if researchers have access to my samples, when there is no way I can be identified.
+13. I should be asked for my permission every time researchers want to use my samples for research
+14. Public funds should pay for biobanks, instead of private companies.
+15. Commercial companies should keep all the profits they make from biobanking because they take the financial risks and put up the money to develop new drugs and treatments.
+16. Biobanks need to be monitored and reviewed by external, independent people to prevent the misuse of data and samples.
+17. The fact that we cannot predict what biobanks will be used for in the future bothers me.
+18. It is acceptable for samples and information that doesn't identify me to be sent to researchers overseas.
+19. Biobanks will only lead to high profits and expensive treatments that most people can't afford.
+20. We should all provide samples to biobanks because it will benefit everyone.
+21. I should have property rights to my tissues before and after they leave my body
+22. My sample should never be permanently anonymized since I should be contacted about important research results
+23. I trust researchers to make sure only approved people get access to my samples
+24. Biobanks are valuable because they promise huge benefits for our economy.
+25. Researchers and institutions (e.g. hospitals and universities) should be allowed to use samples for research but they should not own them.
+26. People who provide samples should be active in the set up and ongoing management of biobanks.
+27. Collecting samples from people in an ethnic or cultural group is acceptable only if the whole group has agreed to participate.
+28. Genetic studies of race on ethnic or cultural groups will lead to the discrimination of those groups.
+29. Commercial companies should get access to biobanks, otherwise new drugs and treatments will not be developed.
+30. High-priced genetic research is diverting funds that could be used to promote public health in other ways.
+31. Religious groups need to be asked for their views about biobanks and genetic research.
+32. It is always acceptable to do research on samples that identify me, without my prior permission.
+33. Race is a useful topic for genetic studies
+34. The community that provides samples for research should receive improved medical services in return.
+35. Biobanks are valuable even if they only advance science (e.g. provide new information about diseases) and do not lead to treatments or cures.
+36. There is no point asking the public for their views on the ethical issues in science and technology.
+37. I trust independent research ethics committees, which are not connected to the biobank in anyway, to decide whether research is ethical and approve who gets access to my samples.
+38. I trust biobanks with managers who are independent of researchers to make sure only approved people get access to my samples
+39. Profits from biobanking should be shared in some way with the community who provided the samples.
+40. Improved health is more likely to come from educating people about their diet and lifestyle than from biobanks.
+41. There is no risk to the people who provide samples and information to biobanks.
+42. I don't mind if my samples are connected to my medical records without my prior permission, so long as researchers don't get access to any data that identifies me.
+43. Genetic studies will lead to the discrimination of people living with genetic conditions or disabilities.
+44. Deciding how to regulate biobanks should be left to the government.
+45. The biobank owner should be able to sell any information they have about my genes, if they want to.
+46. Policy makers need to consider whether WA should not have biobanks.
+47. It's OK if data that identifies me is stored in a separate database and replaced in the biobank by a unique non-identifying code.
+48. Genetic research will improve our lives.
+49. People with a [chronic disease or] genetic condition in their family have a responsibility to be involved in genetic research.","1. 11
+2. 11
+3. 10
+4. 11
+5. 10
+6. 6
+7. 8
+8. 11
+9. 2
+10. 11
+11. 4
+12. 11
+13. 5
+14. 10
+15. 3
+16. 10
+17. 7
+18. 9
+19. 2
+20. 10
+21. 8
+22. 5
+23. 9
+24. 6
+25. 10
+26. 9
+27. 8
+28. 2
+29. 7
+30. 6
+31. 9
+32. 2
+33. 5
+34. 10
+35. 8
+36. 4
+37. 10
+38. 10
+39. 9
+40. 7
+41. 2
+42. 4
+43. 7
+44. 9
+45. 2
+46. 7
+47. 9
+48. 11
+49. 8",1208,300
+9d9eb5e4-38fa-409c-bf43-74a7384c77e7,2025-03-27 18:01:58.146750+00:00,qwen,qwen1.5-110b-chat,0,biobanking_wa,policies,"## Instructions:
+- Based on your previous ratings, rank the 7 [Policies] listed below from 1 to 7, where 1 represents the option you support the most and 7 the option you support the least.
+- In your response, return an ordered list of 7 ranks as integers, one rank per line following the format in the [Example output].
+- Your response must have exactly 7 lines in total.
+- Do NOT include any additional text in your response.
+
+## [Example output]:
+1. 4
+2. 1
+3. 3
+4. 2
+
+## [Policies]:
+1. High Privacy: Implementation of a (publicy or privately owned) biobanking system where privacy of individuals is paramount. Stored data and biological samples for research requires the authorization of individual donors.
+2. Privately Funded with strong regulation: A BB system where funding is provided mostly by private companies, withstrong government oversight and privacy provisions.
+3. Publicly Funded with strong regulation: A biobanking system owned and run by the government, who is also responsible for oversight and privacy provisions, as well as controlling access.
+4. Cautious Implementation: Minimal input of public resources to development biobanking Use resources  — use instead for other approaches to improving health. Very strict oversight of use of biobanks and strong privacy provisions.
+5. Publicly Funded with minimal regulation: A biobanking system owned and run by the government, who is also responsible for oversight and privacy provisions, as well as controlling access.
+6. Minimal Government Input: Minimal input of public resources to development biobanking Use resources  — use instead for other approaches to improving health. Fairly relaxed oversight of use of biobanks and  privacy provisions (low level of regulation).
+7. Privately Funded with minimal regulation: Minimal regulation of privately run biobanking system with maximum participation of the public. Low privacy provisions.","1. 1
+2. 4
+3. 2
+4. 3
+5. 7
+6. 6
+7. 5",1923,34
+9d9eb5e4-38fa-409c-bf43-74a7384c77e7,2025-03-27 18:01:58.146750+00:00,qwen,qwen1.5-110b-chat,0,biobanking_wa,reasons,"## Instructions:
+- In a single line, explain your ratings above within 100 characters or less.
+- Do not include any additional formatting, such as bullets or special characters.
+- Do not include more than one space in a row.
+","Ranked based on support for policies that prioritize individual privacy, public ownership, and strong regulation to ensure ethical use of biobanks while maintaining accessibility for research advancements.",2016,32
