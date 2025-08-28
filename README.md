@@ -41,11 +41,3 @@ We recommend using [RStudio](https://posit.co/download/rstudio-desktop/) for run
 
 - Processed data for analysis is included in the `data/` directory.  
 - Full raw LLM interaction data (requests and responses) can be found in `data/raw_llm_data/`.  
-
----
-
-## Citation  
-
-If you use this repository in your work, please cite the authors:  
-
-**Francesco Veri, Gustavo Umbelino** – *Benchmarking AI’s Deliberative Reasoning: Evaluating LLMs Against Human Collective Wisdom*  
