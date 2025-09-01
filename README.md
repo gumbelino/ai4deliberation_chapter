@@ -9,7 +9,8 @@ This repository contains the code and data for the project *Benchmarking AI’s 
 
 ## Repository Structure  
 
-- **`analysis.Rmd`** – Main analysis file (R Markdown).  
+- **`analysis.Rmd`** – Main analysis file (R Markdown).
+- **`analysis.html`** – Main analysis output file.
 - **`01_select_llm_data.R`** – Script to select the LLM data used in the analysis.  
 - **`02_check_consistency.R`** – Script to generate internal consistency data using Cronbach's alpha.  
 - **`data/`** – All project data.  
