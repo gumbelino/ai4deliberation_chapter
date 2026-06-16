@@ -56,7 +56,8 @@ We recommend using [RStudio](https://posit.co/download/rstudio-desktop/) for run
 
 - Processed data for analysis is included in the `data/` directory.  
 - Full raw LLM interaction data (requests and responses) can be found in `data/raw_llm_data/`.  
-  - Each subdirectory contains a `request_log.csv` with all raw requests.  
+  - Each subdirectory contains a `request_log.csv` with all raw requests.
+- For an alternative version of the human dataset, see [Niemeyer et al. (2024)](https://www.doi.org/10.1017/S0003055423000023).
 
 ---
 
